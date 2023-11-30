@@ -54,7 +54,6 @@ def check_config_file() -> None:
 
     required_data = {}
 
-    # TODO: The complexity of this part is more than requierd; could be shortened possibly.
     for key, value in file_data.items():
         if key in default_data:
             required_data[key] = value
