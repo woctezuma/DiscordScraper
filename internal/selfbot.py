@@ -36,6 +36,7 @@ async def on_ready():
 
     config = get_account_settings()
     guild_id = config["guild_id"]
+    pfp_format = config["pfp_format"]
 
     guild = client.get_guild(int(guild_id))
     members = await scrape(config, guild)
@@ -51,7 +52,7 @@ async def on_ready():
             await create_member_file(member)
         if (
             config["download_pfp"]
-            and not Path(get_pfp_fname(member, config["pfp_format"])).exists()
+            and not Path(get_pfp_fname(member, pfp_format)).exists()
         ):
             await download_pfp(member)
 
