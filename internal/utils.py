@@ -44,13 +44,13 @@ def check_config_file() -> None:
     """
     if not Path(
         "config.json",
-    ).is_file():  # Create a config file with default values if it doesn't exist
-        json.dump(default_data, open("config.json", "w"), indent=2)
+    ).is_file():
+        with Path("config.json").open("w") as f:
+            json.dump(default_data, f, indent=2)
         return
 
-    # Validating the JSON file, adding keys if they don"t exist in it
-    with open("config.json") as file:
-        file_data = json.loads(file.read())
+    with Path("config.json").open() as f:
+        file_data = json.load(f)
 
     required_data = {}
 
@@ -63,7 +63,8 @@ def check_config_file() -> None:
         if default_key not in required_data:
             required_data[default_key] = default_value
 
-    json.dump(required_data, open("config.json", "w"), indent=2)
+    with Path("config.json").open("w") as f:
+        json.dump(required_data, f, indent=2)
 
 
 class Logger:
@@ -89,8 +90,9 @@ class Logger:
 
 
 @cache
-def get_account_settings():
-    return json.load(open("config.json"))
+def get_account_settings() -> dict:
+    with Path("config.json").open() as f:
+        return json.load(f)
 
 
 @cache
