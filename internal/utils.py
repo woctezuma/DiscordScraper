@@ -134,12 +134,11 @@ def get_pfp_fname(member, pfp_format=".png"):
 
 
 @cache
-async def download_pfp(member: Member):
+async def download_pfp(member: Member, pfp_format=".png"):
     if member.bot or member.avatar is None:
         return
     try:
-        data = get_account_settings()
-        await member.avatar.save(get_pfp_fname(member, data["pfp_format"]))
+        await member.avatar.save(get_pfp_fname(member, pfp_format))
     except Exception as e:
         print(
             f'[bold red][Error] Failed to save the profile picture of the account "{member}": {e} [/]',

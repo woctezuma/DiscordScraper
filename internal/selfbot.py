@@ -54,7 +54,7 @@ async def on_ready():
             config["download_pfp"]
             and not Path(get_pfp_fname(member, pfp_format)).exists()
         ):
-            await download_pfp(member)
+            await download_pfp(member, pfp_format)
 
     logger.success("Finished scraping members profiles and data.\n")
     logger.scraper('Don"t forget to star the repo and follow Sxvxgee on github!')
