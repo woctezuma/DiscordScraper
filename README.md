@@ -3,12 +3,12 @@
 This repository contains Python code to scrape all the users in a specific server's channel.
 
 > [!Caution]
-> Using selfbots is against Discord's TOS, **use this project at your own risk**.
+> Using selfbots is against Discord's Terms of Service, **use this project at your own risk**!
 
 ## Features
 
-- Scrape nickname, handle, bio, picture for every user, then save the results to a `txt` file.
-- Specify which guild (server) and which channel to scrape from in a JSON config file.
+- Scrape nickname, handle, bio, picture for every user, then save the results to a `TXT` file.
+- Specify which guild (server) and which channel to scrape from in a `JSON` config file.
 
 ## Installation
 
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 - Rename `config.json.example` to `config.json` and edit the required settings.
 > [!Note]
-> Input `channel_id` if you wish to scrape members from a particular channel; else leave 0
+> Input `channel_id` if you wish to scrape members from a particular channel. Otherwise, leave it to `0`.
 
 ## Usage
 
