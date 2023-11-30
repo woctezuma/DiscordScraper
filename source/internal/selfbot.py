@@ -3,6 +3,8 @@ import random
 from rich.progress import track
 from discord import Client, Guild
 from internal.utils import get_account_settings, create_guild_directory, create_member_file, download_pfp, Logger
+from pathlib import Path
+from internal.utils import get_bio_fname, get_pfp_fname
 
 client = Client(chunk_guilds_at_startup = False)
 logger = Logger()
@@ -29,9 +31,9 @@ async def on_ready():
   create_guild_directory(guild)
 
   for member in track(members, description="[bold white][Scraper] Scraping profiles...[/]", refresh_per_second=100000):
-    if config["download_bio"]:
+    if config["download_bio"] and not Path(get_bio_fname(member)).exists():
       await create_member_file(member)
-    if config["download_pfp"]:
+    if config["download_pfp"] and not Path(get_pfp_fname(member, config['pfp_format'])).exists():
       await download_pfp(member)
 
   logger.success("Finished scraping members profiles and data.\n")

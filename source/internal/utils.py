@@ -98,6 +98,9 @@ def create_guild_directory(guild: Guild):
 def clean_string(string_to_clean: str) -> str:
   return "".join([char for char in string_to_clean if char in string.printable])
 
+def get_bio_fname(member):
+  return f"DataScraped/{member.guild.name}/{member.id}.txt"
+
 @cache
 async def create_member_file(member: Member):
   if member.bot:
@@ -107,10 +110,13 @@ async def create_member_file(member: Member):
     username = clean_string(member.display_name)
     profile = await member.guild.fetch_member_profile(member.id)
     bio = clean_string(profile.bio) if profile.bio else "User doesn't have a bio."
-    with open(f"DataScraped/{member.guild.name}/{member.id}.txt", "w+") as file:
+    with open(get_bio_fname(member), "w+") as file:
       file.write(f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n\n\nScraped by Discord-Scraper: https://github.com/Sxvxgee/Discord-Scraper/ \nFollow Sxvxge: https://github.com/Sxvxgee/")
   except Exception as e:
     print(f"[bold red][Error] Failed to write the data of the account \"{member}\": {e} [/]")
+
+def get_pfp_fname(member, pfp_format=".png"):
+  return f"DataScraped/{member.guild.name}/{member.id}.{pfp_format}"
 
 @cache
 async def download_pfp(member: Member):
@@ -118,6 +124,6 @@ async def download_pfp(member: Member):
     return
   try:
     data = get_account_settings()
-    await member.avatar.save(f"DataScraped/{member.guild.name}/{member.id}.{data['pfp_format']}")
+    await member.avatar.save(get_pfp_fname(member, data['pfp_format']))
   except Exception as e:
     print(f"[bold red][Error] Failed to save the profile picture of the account \"{member}\": {e} [/]")
