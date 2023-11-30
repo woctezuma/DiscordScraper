@@ -33,14 +33,13 @@ default_data = {
 
 
 @cache
-def show_header():
+def show_header() -> None:
     print(f"{header}{info}")
 
 
 @cache
-def check_config_file():
-    """
-    Creates a config file if it doesn"t exist.
+def check_config_file() -> None:
+    """Creates a config file if it doesn"t exist.
     If it does, validates the config to required config.
     """
     if not Path(
@@ -68,20 +67,20 @@ def check_config_file():
 
 
 class Logger:
-    def __init__(self) -> None:
+    def __init__(self: "Logger") -> None:
         ...
 
-    def scraper(self, text: str) -> None:
+    def scraper(self: "Logger", text: str) -> None:
         print(f"[bold white][Scraper] {text} [/]")
 
-    def success(self, text: str) -> None:
+    def success(self: "Logger", text: str) -> None:
         print(f"[bold green][Success] {text} [/]")
 
-    def error(self, text: str) -> None:
+    def error(self: "Logger", text: str) -> None:
         print(f"[bold red][Error] {text} [/]")
 
     def custom(
-        self,
+        self: "Logger",
         text: str,
         header: str | None = None,
         color: str = "white",
@@ -95,7 +94,7 @@ def get_account_settings():
 
 
 @cache
-def create_guild_directory(guild: Guild):
+def create_guild_directory(guild: Guild) -> None:
     if get_account_settings()["purge_old_data"]:
         shutil.rmtree(f"data/{guild.id}", ignore_errors=True)
     Path(f"DataScraped/{guild.name}").mkdir(parents=True, exist_ok=True)
@@ -106,12 +105,12 @@ def clean_string(string_to_clean: str) -> str:
     return "".join([char for char in string_to_clean if char in string.printable])
 
 
-def get_bio_fname(member):
+def get_bio_fname(member: Member) -> str:
     return f"DataScraped/{member.guild.name}/{member.id}.txt"
 
 
 @cache
-async def create_member_file(member: Member):
+async def create_member_file(member: Member) -> None:
     if member.bot:
         return
 
@@ -128,12 +127,12 @@ async def create_member_file(member: Member):
         )
 
 
-def get_pfp_fname(member, pfp_format=".png"):
+def get_pfp_fname(member: Member, pfp_format: str = ".png") -> str:
     return f"DataScraped/{member.guild.name}/{member.id}.{pfp_format}"
 
 
 @cache
-async def download_pfp(member: Member, pfp_format=".png"):
+async def download_pfp(member: Member, pfp_format: str = ".png") -> None:
     if member.bot or member.avatar is None:
         return
     try:

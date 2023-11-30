@@ -18,7 +18,7 @@ client = Client(chunk_guilds_at_startup=False)
 logger = Logger()
 
 
-async def scrape(conf, guild: Guild):
+async def scrape(conf: dict, guild: Guild) -> list:
     logger.scraper("Starting...")
     members = await guild.fetch_members(
         [random.choice(guild.channels)]
@@ -31,7 +31,7 @@ async def scrape(conf, guild: Guild):
 
 
 @client.event
-async def on_ready():
+async def on_ready() -> None:
     logger.scraper(f"Logged in as {client.user}")
 
     config = get_account_settings()
