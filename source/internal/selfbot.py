@@ -29,7 +29,8 @@ async def on_ready():
   create_guild_directory(guild)
 
   for member in track(members, description="[bold white][Scraper] Scraping profiles...[/]", refresh_per_second=100000):
-    await create_member_file(member)
+    if config["download_bio"]:
+      await create_member_file(member)
     if config["download_pfp"]:
       await download_pfp(member)
 
