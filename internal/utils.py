@@ -4,7 +4,7 @@ import string
 from functools import cache
 from pathlib import Path
 
-from discord import Guild, Member  # type: ignore
+from discord import Guild, Member
 from rich import print
 
 header = """[bold white]
