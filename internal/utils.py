@@ -1,8 +1,8 @@
 import json
-import os
 import shutil
 import string
 from functools import cache
+from pathlib import Path
 
 from discord import Guild, Member  # type: ignore
 from rich import print
@@ -43,9 +43,9 @@ def check_config_file():
     Creates a config file if it doesn"t exist.
     If it does, validates the config to required config.
     """
-    if not os.path.isfile(
+    if not Path(
         "config.json",
-    ):  # Create a config file with default values if it doesn't exist
+    ).is_file():  # Create a config file with default values if it doesn't exist
         json.dump(default_data, open("config.json", "w"), indent=2)
         return
 
@@ -98,7 +98,7 @@ def get_account_settings():
 def create_guild_directory(guild: Guild):
     if get_account_settings()["purge_old_data"]:
         shutil.rmtree(f"data/{guild.id}", ignore_errors=True)
-    os.makedirs(f"DataScraped/{guild.name}", exist_ok=True)
+    Path(f"DataScraped/{guild.name}").mkdir(parents=True, exist_ok=True)
 
 
 @cache
@@ -119,10 +119,9 @@ async def create_member_file(member: Member):
         username = clean_string(member.display_name)
         profile = await member.guild.fetch_member_profile(member.id)
         bio = clean_string(profile.bio) if profile.bio else "User doesn't have a bio."
-        with open(get_bio_fname(member), "w+") as file:
-            file.write(
-                f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n\n\nScraped by Discord-Scraper: https://github.com/Sxvxgee/Discord-Scraper/ \nFollow Sxvxge: https://github.com/Sxvxgee/",
-            )
+        Path(get_bio_fname(member)).write_text(
+            f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n\n\nScraped by Discord-Scraper: https://github.com/Sxvxgee/Discord-Scraper/ \nFollow Sxvxge: https://github.com/Sxvxgee/",
+        )
     except Exception as e:
         print(
             f'[bold red][Error] Failed to write the data of the account "{member}": {e} [/]',
