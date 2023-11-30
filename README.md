@@ -1,4 +1,4 @@
-# <p align=center> Discord Guild Members Scraper
+# <p align=center> Discord Scraper of Guild Members
 
 This repository contains Python code to scrape all the users in a specific server's channel.
 
@@ -7,8 +7,8 @@ This repository contains Python code to scrape all the users in a specific serve
 
 ## Features
 
-- Scrape nickname, handle, bio, picture for every user, then save the results to a `TXT` file.
 - Specify which guild (server) and which channel to scrape from in a `JSON` config file.
+- Scrape nickname, handle, bio, picture for every user, then save the results to a `TXT` file.
 
 ## Installation
 
