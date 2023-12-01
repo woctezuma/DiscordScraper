@@ -50,7 +50,6 @@ async def on_ready() -> None:
     for member in track(
         members,
         description="[bold white][Scraper] Scraping profiles...[/]",
-        refresh_per_second=100000,
     ):
         if config["download_bio"] and not Path(get_bio_fname(member)).exists():
             await create_member_file(member)
