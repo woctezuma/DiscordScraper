@@ -92,11 +92,43 @@ def get_account_settings() -> dict:
         return json.load(f)
 
 
+def get_guild_folder_name(guild: Guild) -> str:
+    return f"DataScraped/{guild.name}"
+
+
+def get_members_dict(members: list[Member]) -> dict:
+    d = {}
+
+    for e in members:
+        d[e.id] = {
+            "id": e.id,
+            "name": e.name,
+            "nick": e.nick,
+            "created_at": e.created_at,
+            "joined_at": e.joined_at,
+            "global_name": e.global_name,
+            "display_name": e.display_name,
+            "bot": e.bot,
+            "spammer": e.public_flags.spammer,
+        }
+
+    return d
+
+
+def get_guild_members_fname(guild: Guild) -> str:
+    return f"{get_guild_folder_name(guild)}/members.json"
+
+
+def save_members_dict(members: list[Member], fname: str) -> None:
+    with Path(fname).open("w") as f:
+        json.dump(get_members_dict(members), f)
+
+
 @cache
 def create_guild_directory(guild: Guild) -> None:
     if get_account_settings()["purge_old_data"]:
         shutil.rmtree(f"data/{guild.id}", ignore_errors=True)
-    Path(f"DataScraped/{guild.name}").mkdir(parents=True, exist_ok=True)
+    Path(get_guild_folder_name(guild)).mkdir(parents=True, exist_ok=True)
 
 
 @cache

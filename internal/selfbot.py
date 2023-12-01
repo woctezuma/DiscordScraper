@@ -11,7 +11,9 @@ from internal.utils import (
     download_pfp,
     get_account_settings,
     get_bio_fname,
+    get_guild_members_fname,
     get_pfp_fname,
+    save_members_dict,
 )
 
 client = Client(chunk_guilds_at_startup=False)
@@ -42,6 +44,8 @@ async def on_ready() -> None:
     members = await scrape(config, guild)
 
     create_guild_directory(guild)
+
+    save_members_dict(members, get_guild_members_fname(guild))
 
     for member in track(
         members,
