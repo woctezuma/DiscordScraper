@@ -57,4 +57,3 @@ async def on_ready() -> None:
             await download_pfp(member, pfp_format)
 
     logger.success("Finished scraping members profiles and data.\n")
-    logger.scraper('Don"t forget to star the repo and follow Sxvxgee on github!')

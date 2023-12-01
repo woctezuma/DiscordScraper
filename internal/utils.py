@@ -17,8 +17,6 @@ header = """[bold white]
 [/]"""
 info = """[bold black]
 🏴 Made by Sxvxge.
-[bold yellow]🚀 Star the repo: https://github.com/Sxvxgee/Discord-Scraper
-[bold green]✅ Follow me: https://github.com/Sxvxgee/
 [/]"""
 
 default_data = {
@@ -120,7 +118,7 @@ async def create_member_file(member: Member) -> None:
         profile = await member.guild.fetch_member_profile(member.id)
         bio = clean_string(profile.bio) if profile.bio else "User doesn't have a bio."
         Path(get_bio_fname(member)).write_text(
-            f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n\n\nScraped by Discord-Scraper: https://github.com/Sxvxgee/Discord-Scraper/ \nFollow Sxvxge: https://github.com/Sxvxgee/",
+            f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n",
         )
     except Exception as e:
         print(
