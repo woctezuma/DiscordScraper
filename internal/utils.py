@@ -145,20 +145,15 @@ async def create_member_file(member: Member) -> None:
     if member.bot:
         return
 
-    try:
-        username = clean_string(member.display_name)
-        profile = await member.guild.fetch_member_profile(
-            member.id,
-            with_mutual_friends=False,
-        )
-        bio = clean_string(profile.bio) if profile.bio else "User doesn't have a bio."
-        Path(get_bio_fname(member)).write_text(
-            f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n",
-        )
-    except Exception as e:
-        print(
-            f'[bold red][Error] Failed to write the data of the account "{member}": {e} [/]',
-        )
+    username = clean_string(member.display_name)
+    profile = await member.guild.fetch_member_profile(
+        member.id,
+        with_mutual_friends=False,
+    )
+    bio = clean_string(profile.bio) if profile.bio else "User doesn't have a bio."
+    Path(get_bio_fname(member)).write_text(
+        f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n",
+    )
 
 
 def get_pfp_fname(member: Member, pfp_format: str = ".png") -> str:
@@ -169,9 +164,4 @@ def get_pfp_fname(member: Member, pfp_format: str = ".png") -> str:
 async def download_pfp(member: Member, pfp_format: str = ".png") -> None:
     if member.bot or member.avatar is None:
         return
-    try:
-        await member.avatar.save(get_pfp_fname(member, pfp_format))
-    except Exception as e:
-        print(
-            f'[bold red][Error] Failed to save the profile picture of the account "{member}": {e} [/]',
-        )
+    await member.avatar.save(get_pfp_fname(member, pfp_format))
