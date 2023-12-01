@@ -1,6 +1,7 @@
 import json
 import shutil
 import string
+from collections.abc import Iterator
 from functools import cache
 from pathlib import Path
 
@@ -28,6 +29,13 @@ default_data = {
     "download_pfp": True,
     "channel_id": 0,
 }
+
+
+def chunks(lst: list, n: int) -> Iterator[list]:
+    """Yield successive n-sized chunks from l."""
+    # Reference: https://stackoverflow.com/a/312464
+    for i in range(0, len(lst), n):
+        yield lst[i : i + n]
 
 
 @cache
