@@ -25,7 +25,7 @@ pip install -r requirements.txt
 > Input `channel_id` if you wish to scrape members from a particular channel. Otherwise, leave it to `0`.
 
 > [!Important]
-> For profile pictures, the image format is always `PNG`, no matter the file extension which you ask for via the JSON config.
+> For pictures, the image format is always `PNG`, no matter the file extension which you ask for via the JSON config.
 
 ## Usage
 
