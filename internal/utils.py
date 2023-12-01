@@ -120,8 +120,8 @@ def get_guild_members_fname(guild: Guild) -> str:
 
 
 def save_members_dict(members: list[Member], fname: str) -> None:
-    with Path(fname).open("w") as f:
-        json.dump(get_members_dict(members), f)
+    with Path(fname).open("w", encoding="utf8") as f:
+        json.dump(get_members_dict(members), f, indent=2, sort_keys=True)
 
 
 @cache
