@@ -115,7 +115,10 @@ async def create_member_file(member: Member) -> None:
 
     try:
         username = clean_string(member.display_name)
-        profile = await member.guild.fetch_member_profile(member.id)
+        profile = await member.guild.fetch_member_profile(
+            member.id,
+            with_mutual_friends=False,
+        )
         bio = clean_string(profile.bio) if profile.bio else "User doesn't have a bio."
         Path(get_bio_fname(member)).write_text(
             f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n",
