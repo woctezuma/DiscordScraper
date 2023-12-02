@@ -2,7 +2,7 @@ import random
 from pathlib import Path
 
 from discord import Client, Guild
-from discord.errors import HTTPException
+from discord.errors import HTTPException, InvalidData
 from rich.progress import track
 
 from internal.utils import (
@@ -42,11 +42,16 @@ async def on_ready() -> None:
     pfp_format = config["pfp_format"]
 
     guild = client.get_guild(int(guild_id))
-    members = await scrape(config, guild)
+    try:
+        members = await scrape(config, guild)
+    except InvalidData:
+        logger.scraper("The list of members could not be scraped from the guild.")
+        members = []
 
     create_guild_directory(guild)
 
-    save_members_dict(members, get_guild_members_fname(guild))
+    if members:
+        save_members_dict(members, get_guild_members_fname(guild))
 
     for member in track(
         members,
