@@ -1,4 +1,3 @@
-import asyncio
 import random
 from pathlib import Path
 
@@ -7,7 +6,6 @@ from rich.progress import track
 
 from internal.utils import (
     Logger,
-    chunks,
     create_guild_directory,
     create_member_file,
     download_pfp,
@@ -52,18 +50,16 @@ async def on_ready() -> None:
 
     save_members_dict(members, get_guild_members_fname(guild))
 
-    for chunk in track(
-        chunks(members, CHUNK_SIZE),
+    for member in track(
+        members,
         description="[bold white][Scraper] Scraping profiles...[/]",
     ):
-        await asyncio.sleep(COOLDOWN_BETWEEN_CHUNKS_IN_SECONDS)
-        for member in chunk:
-            if config["download_bio"] and not Path(get_bio_fname(member)).exists():
-                await create_member_file(member)
-            if (
-                config["download_pfp"]
-                and not Path(get_pfp_fname(member, pfp_format)).exists()
-            ):
-                await download_pfp(member, pfp_format)
+        if config["download_bio"] and not Path(get_bio_fname(member)).exists():
+            await create_member_file(member)
+        if (
+            config["download_pfp"]
+            and not Path(get_pfp_fname(member, pfp_format)).exists()
+        ):
+            await download_pfp(member, pfp_format)
 
     logger.success("Finished scraping members profiles and data.\n")
