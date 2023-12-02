@@ -1,9 +1,9 @@
 import random
 import time
 from pathlib import Path
-from urllib.error import HTTPError
 
 from discord import Client, Guild
+from discord.errors import HTTPException
 from rich.progress import track
 
 from internal.utils import (
@@ -59,7 +59,7 @@ async def on_ready() -> None:
             time.sleep(1)
             try:
                 await create_member_file(member)
-            except HTTPError:
+            except HTTPException:
                 break
         if (
             config["download_pfp"]
