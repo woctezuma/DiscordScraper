@@ -1,4 +1,5 @@
 import random
+import time
 from pathlib import Path
 
 from discord import Client, Guild
@@ -16,8 +17,7 @@ from internal.utils import (
     save_members_dict,
 )
 
-CHUNK_SIZE = 10
-COOLDOWN_BETWEEN_CHUNKS_IN_SECONDS = 10
+COOLDOWN_IN_SECONDS = 1
 
 client = Client(chunk_guilds_at_startup=False)
 logger = Logger()
@@ -55,6 +55,7 @@ async def on_ready() -> None:
         description="[bold white][Scraper] Scraping profiles...[/]",
     ):
         if config["download_bio"] and not Path(get_bio_fname(member)).exists():
+            time.sleep(1)
             await create_member_file(member)
         if (
             config["download_pfp"]
