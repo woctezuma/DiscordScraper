@@ -1,5 +1,4 @@
 import random
-import time
 from pathlib import Path
 
 from discord import Client, Guild
@@ -17,8 +16,6 @@ from internal.utils import (
     get_pfp_fname,
     save_members_dict,
 )
-
-COOLDOWN_IN_SECONDS = 1
 
 client = Client(chunk_guilds_at_startup=False)
 logger = Logger()
@@ -56,7 +53,6 @@ async def on_ready() -> None:
         description="[bold white][Scraper] Scraping profiles...[/]",
     ):
         if config["download_bio"] and not Path(get_bio_fname(member)).exists():
-            time.sleep(1)
             try:
                 await create_member_file(member)
             except HTTPException:
