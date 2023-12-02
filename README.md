@@ -19,6 +19,12 @@ This repository contains Python code to scrape metadata of all the members in a 
 pip install -r requirements.txt
 ```
 
+> [!Tip]
+> You may want to download some packages from [a third-party website][python-libs].
+> Typically:
+> - `frozenlist‑1.3.0‑py3‑none‑any.whl`
+> - `multidict‑6.0.2‑py3‑none‑any.whl`
+
 - Rename `config.json.example` to `config.json` and edit the required settings.
 
 > [!Note]
@@ -46,4 +52,5 @@ python main.py
 <!-- Definitions -->
 
 [python-download]: <https://www.python.org/downloads/>
+[python-libs]: <https://www.lfd.uci.edu/~gohlke/pythonlibs/>
 [discord-api-docs]: <https://github.com/discord/discord-api-docs/issues/3095>
