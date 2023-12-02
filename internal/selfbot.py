@@ -1,6 +1,7 @@
 import random
 import time
 from pathlib import Path
+from urllib.error import HTTPError
 
 from discord import Client, Guild
 from rich.progress import track
@@ -56,7 +57,10 @@ async def on_ready() -> None:
     ):
         if config["download_bio"] and not Path(get_bio_fname(member)).exists():
             time.sleep(1)
-            await create_member_file(member)
+            try:
+                await create_member_file(member)
+            except HTTPError:
+                break
         if (
             config["download_pfp"]
             and not Path(get_pfp_fname(member, pfp_format)).exists()
