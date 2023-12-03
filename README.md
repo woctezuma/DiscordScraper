@@ -41,6 +41,9 @@ pip install -r requirements.txt
 python main.py 
 ```
 
+> [!Warning]
+> About 300 bios can be downloaded before reaching the rate-limit and getting error `429 Too Many Requests` for an hour.
+
 > [!Caution]
 > Using selfbots is against Discord's Terms of Service, **use this project at your own risk**!
 
