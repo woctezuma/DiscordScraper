@@ -47,6 +47,15 @@ python main.py
 > [!Caution]
 > Using selfbots is against Discord's Terms of Service, **use this project at your own risk**!
 
+- To display a list of spammers identified by Discord, run the following script:
+
+```bash
+python display_spammers.py 
+```
+
+> [!Tip]
+> If this is your sole objective, set `download_bio` and `download_pfp` to `false` to speed the process. 
+
 ## Screenshots
 
 <img src='assets/console.png' style="width: 90%">
