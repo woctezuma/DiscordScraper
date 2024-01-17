@@ -8,6 +8,13 @@ from pathlib import Path
 from discord import Guild, Member
 from rich import print
 
+PATTERN_START = "\nBio: "
+PATTERN_END = "\nDiscriminator: #"
+DUMMY_BIO = "User doesn't have a bio."
+
+OUTPUT_FOLDER_NAME = "DataScraped"
+MEMBER_LIST_FNAME = "members.json"
+
 header = """[bold white]
 ██████╗ ██╗███████╗ ██████╗ ██████╗ ██████╗ ██████╗     ███████╗ ██████╗██████╗  █████╗ ██████╗ ███████╗██████╗
 ██╔══██╗██║██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔══██╗    ██╔════╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
@@ -101,7 +108,7 @@ def get_account_settings() -> dict:
 
 
 def get_guild_folder_name(guild: Guild) -> str:
-    return f"DataScraped/{guild.name}"
+    return f"{OUTPUT_FOLDER_NAME}/{guild.name}"
 
 
 def get_members_dict(members: list[Member]) -> dict:
@@ -124,7 +131,7 @@ def get_members_dict(members: list[Member]) -> dict:
 
 
 def get_guild_members_fname(guild: Guild) -> str:
-    return f"{get_guild_folder_name(guild)}/members.json"
+    return f"{get_guild_folder_name(guild)}/{MEMBER_LIST_FNAME}"
 
 
 def save_members_dict(members: list[Member], fname: str) -> None:
@@ -145,7 +152,7 @@ def clean_string(string_to_clean: str) -> str:
 
 
 def get_bio_fname(member: Member) -> str:
-    return f"DataScraped/{member.guild.name}/{member.id}.txt"
+    return f"{OUTPUT_FOLDER_NAME}/{member.guild.name}/{member.id}.txt"
 
 
 @cache
@@ -158,14 +165,14 @@ async def create_member_file(member: Member) -> None:
         member.id,
         with_mutual_friends=False,
     )
-    bio = clean_string(profile.bio) if profile.bio else "User doesn't have a bio."
+    bio = clean_string(profile.bio) if profile.bio else DUMMY_BIO
     Path(get_bio_fname(member)).write_text(
-        f"Username: {username}\nAccount ID: {member.id}\nBio: {bio}\nDiscriminator: #{member.discriminator}\n",
+        f"Username: {username}\nAccount ID: {member.id}{PATTERN_START}{bio}{PATTERN_END}{member.discriminator}\n",
     )
 
 
 def get_pfp_fname(member: Member, pfp_format: str = ".png") -> str:
-    return f"DataScraped/{member.guild.name}/{member.id}.{pfp_format}"
+    return f"{OUTPUT_FOLDER_NAME}/{member.guild.name}/{member.id}.{pfp_format}"
 
 
 @cache
