@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from internal.utils import DUMMY_BIO, PATTERN_END, PATTERN_START
+from internal.constants import DUMMY_BIO, PATTERN_END, PATTERN_START
 
 
 def extract_bio(text: str) -> str:

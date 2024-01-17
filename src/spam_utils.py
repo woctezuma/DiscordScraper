@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-from internal.utils import MEMBER_LIST_FNAME, OUTPUT_FOLDER_NAME
+from internal.constants import MEMBER_LIST_FNAME, OUTPUT_FOLDER_NAME
 
 
 def display_spammers() -> dict:
