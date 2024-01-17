@@ -54,7 +54,7 @@ python display_spammers.py
 ```
 
 > [!Tip]
-> If this is your sole objective, set `download_bio` and `download_pfp` to `false` to speed the process. 
+> If this is your sole objective, set `download_bio` and `download_pfp` to `false` to speed the process up.
 
 ## Screenshots
 
