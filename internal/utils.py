@@ -105,6 +105,8 @@ def get_members_dict(members: list[Member]) -> dict:
             "joined_at": e.joined_at.timestamp(),
             "global_name": e.global_name,
             "display_name": e.display_name,
+            "avatar": e.avatar.key if e.avatar else None,
+            "avatar_url": e.avatar.url.split("?")[0] if e.avatar else None,
             "bot": e.bot,
             "spammer": e.public_flags.spammer,
         }
