@@ -28,6 +28,9 @@ pip install -r requirements.txt
 - Rename `config.json.example` to `config.json` and edit the required settings.
 
 > [!Note]
+> The `token` is the value of [`Authorization`][discord-token] as found in the `Headers` of your browser requests.
+
+> [!Note]
 > Input `channel_id` if you wish to scrape members from a particular channel. Otherwise, leave it to `0`.
 
 > [!Important]
@@ -65,4 +68,5 @@ python display_spammers.py
 
 [python-download]: <https://www.python.org/downloads/>
 [python-libs]: <https://www.lfd.uci.edu/~gohlke/pythonlibs/>
+[discord-token]: <https://developer.mozilla.org/docs/Web/HTTP/Headers/Authorization>
 [discord-api-docs]: <https://github.com/discord/discord-api-docs/issues/3095>
