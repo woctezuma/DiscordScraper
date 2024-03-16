@@ -1,14 +1,8 @@
-import json
-from pathlib import Path
-
-from internal.constants import MEMBER_LIST_FNAME, OUTPUT_FOLDER_NAME
+from src.member_utils import load_member_dictionaries
 
 
 def display_spammers() -> dict:
-    d = {}
-    for fname in Path(OUTPUT_FOLDER_NAME).glob(f"*/{MEMBER_LIST_FNAME}"):
-        with Path(fname).open() as f:
-            d.update(json.load(f))
+    d = load_member_dictionaries()
 
     # Check if there is any spammer
     for k, v in d.items():
