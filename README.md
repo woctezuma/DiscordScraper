@@ -59,6 +59,15 @@ python display_spammers.py
 > [!Tip]
 > If this is your sole objective, set `download_bio` and `download_pfp` to `false` to speed the process up.
 
+- To export a list of avatar URLs, run the following script:
+
+```bash
+python export_avatar_urls.py
+```
+
+> [!Tip]
+> This allows to rely on another tool, e.g. [`img2dataset`][github-img2dataset], to download the avatar images.
+
 ## Screenshots
 
 <img src='assets/console.png' style="width: 90%">
@@ -68,5 +77,6 @@ python display_spammers.py
 
 [python-download]: <https://www.python.org/downloads/>
 [python-libs]: <https://www.lfd.uci.edu/~gohlke/pythonlibs/>
+[github-img2dataset]: <https://github.com/rom1504/img2dataset>
 [discord-token]: <https://developer.mozilla.org/docs/Web/HTTP/Headers/Authorization>
 [discord-api-docs]: <https://github.com/discord/discord-api-docs/issues/3095>
