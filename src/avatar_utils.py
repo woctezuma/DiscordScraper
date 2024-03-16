@@ -17,7 +17,7 @@ def export_avatar_urls_to_txt(output_fname: str = "") -> None:
     filtered_urls = [url for url in urls if url]
 
     with Path(output_fname).open("w") as f:
-        f.writelines(filtered_urls)
+        f.write("\n".join(filtered_urls))
 
 
 if __name__ == "__main__":
