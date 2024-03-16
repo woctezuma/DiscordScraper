@@ -14,7 +14,7 @@ def export_avatar_urls_to_txt(output_fname: str = "") -> None:
         output_fname = f"{OUTPUT_FOLDER_NAME}/{AVATAR_URL_LIST_FNAME}"
 
     urls = load_avatar_urls()
-    filtered_urls = [url for url in urls if url]
+    filtered_urls = sorted([url for url in urls if url])
 
     with Path(output_fname).open("w") as f:
         f.write("\n".join(filtered_urls))
