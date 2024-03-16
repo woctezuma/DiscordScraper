@@ -4,6 +4,7 @@ DUMMY_BIO = "User doesn't have a bio."
 
 OUTPUT_FOLDER_NAME = "DataScraped"
 MEMBER_LIST_FNAME = "members.json"
+AVATAR_URL_LIST_FNAME = "avatars.txt"
 
 header = """[bold white]
 ██████╗ ██╗███████╗ ██████╗ ██████╗ ██████╗ ██████╗     ███████╗ ██████╗██████╗  █████╗ ██████╗ ███████╗██████╗
