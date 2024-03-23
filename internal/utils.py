@@ -99,6 +99,7 @@ def get_members_dict(members: list[Member]) -> dict:
 
     for e in members:
         public_flags = [f.name for f in e.public_flags.all()]
+        private_flags = [f for f in e.flags.VALID_FLAGS if getattr(e.flags, f)]
 
         d[e.id] = {
             "id": e.id,
@@ -115,6 +116,7 @@ def get_members_dict(members: list[Member]) -> dict:
             "bot": e.bot,
             "spammer": e.public_flags.spammer,
             "public_flags": sorted(public_flags),
+            "private_flags": sorted(private_flags),
         }
 
     return d
