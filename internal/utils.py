@@ -64,8 +64,7 @@ def check_config_file() -> None:
 
 
 class Logger:
-    def __init__(self: "Logger") -> None:
-        ...
+    def __init__(self: "Logger") -> None: ...
 
     def scraper(self: "Logger", text: str) -> None:
         print(f"[bold white][Scraper] {text} [/]")
@@ -99,6 +98,8 @@ def get_members_dict(members: list[Member]) -> dict:
     d = {}
 
     for e in members:
+        public_flags = [f.name for f in e.public_flags.all()]
+
         d[e.id] = {
             "id": e.id,
             "name": e.name,
@@ -113,6 +114,7 @@ def get_members_dict(members: list[Member]) -> dict:
             "roles": [f.name for f in e.roles if f.name != DUMMY_ROLE],
             "bot": e.bot,
             "spammer": e.public_flags.spammer,
+            "public_flags": sorted(public_flags),
         }
 
     return d
