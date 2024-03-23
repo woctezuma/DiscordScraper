@@ -19,6 +19,8 @@ from internal.constants import (
     info,
 )
 
+DUMMY_ROLE = "@everyone"
+
 
 def chunks(lst: list, n: int) -> Iterator[list]:
     """Yield successive n-sized chunks from l."""
@@ -107,6 +109,7 @@ def get_members_dict(members: list[Member]) -> dict:
             "display_name": e.display_name,
             "avatar": e.avatar.key if e.avatar else None,
             "avatar_url": e.avatar.url.split("?")[0] if e.avatar else None,
+            "top_role": e.top_role.name if e.top_role.name != DUMMY_ROLE else None,
             "bot": e.bot,
             "spammer": e.public_flags.spammer,
         }
