@@ -110,6 +110,7 @@ def get_members_dict(members: list[Member]) -> dict:
             "avatar": e.avatar.key if e.avatar else None,
             "avatar_url": e.avatar.url.split("?")[0] if e.avatar else None,
             "top_role": e.top_role.name if e.top_role.name != DUMMY_ROLE else None,
+            "roles": [f.name for f in e.roles if f.name != DUMMY_ROLE],
             "bot": e.bot,
             "spammer": e.public_flags.spammer,
         }
