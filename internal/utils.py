@@ -160,7 +160,7 @@ async def create_member_file(member: Member) -> None:
     bio = clean_string(profile.bio) if profile.bio else DUMMY_BIO
     pronouns = profile.metadata.pronouns
     connections = " / ".join(sorted([c.type.name for c in profile.connections]))
-    banner_url = profile.banner.url
+    banner_url = profile.banner.url if profile.banner else None
     metadata = (
         f"\nPronouns:{pronouns}\nConnections: {connections}\nBanner: {banner_url}"
     )
