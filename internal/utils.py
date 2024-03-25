@@ -1,6 +1,7 @@
 import json
 import shutil
 import string
+from collections import namedtuple
 from collections.abc import Iterator
 from functools import cache
 from pathlib import Path
@@ -21,6 +22,7 @@ from internal.constants import (
 
 DUMMY_ROLE = "@everyone"
 
+DummyMember = namedtuple("DummyMember", ["id", "guild", "bot", "avatar"])
 
 def chunks(lst: list, n: int) -> Iterator[list]:
     """Yield successive n-sized chunks from l."""
