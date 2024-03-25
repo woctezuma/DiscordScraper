@@ -138,7 +138,7 @@ def get_guild_members_fname(guild: Guild) -> str:
 def load_member_ids_from_disk(fname: str = MEMBER_ID_FNAME) -> list[int]:
     try:
         with Path(fname).open() as f:
-            member_ids = [int(i) for i in f.readlines()]
+            member_ids = [int(i) for i in f]
     except FileNotFoundError:
         member_ids = []
     return member_ids
