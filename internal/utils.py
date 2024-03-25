@@ -158,8 +158,14 @@ async def create_member_file(member: Member) -> None:
         with_mutual_friends=False,
     )
     bio = clean_string(profile.bio) if profile.bio else DUMMY_BIO
+    pronouns = profile.metadata.pronouns
+    connections = " / ".join(sorted([c.type.name for c in profile.connections]))
+    banner_url = profile.banner.url
+    metadata = (
+        f"\nPronouns:{pronouns}\nConnections: {connections}\nBanner: {banner_url}"
+    )
     Path(get_bio_fname(member)).write_text(
-        f"Username: {username}\nAccount ID: {member.id}{PATTERN_START}{bio}{PATTERN_END}{member.discriminator}\n",
+        f"Username: {username}\nAccount ID: {member.id}{metadata}{PATTERN_START}{bio}{PATTERN_END}{member.discriminator}\n",
     )
 
 
