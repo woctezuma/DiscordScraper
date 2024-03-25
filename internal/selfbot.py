@@ -59,9 +59,7 @@ async def on_ready() -> None:
 
     if member_ids:
         logger.scraper("Focusing on member IDs found on the local disk.")
-        members = [
-            DummyMember(i, guild, False, None) for i in member_ids
-        ]
+        members = [DummyMember(i, guild) for i in member_ids]
 
     for member in track(
         members,

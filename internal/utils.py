@@ -27,8 +27,8 @@ MEMBER_ID_FNAME = "ids.txt"
 class DummyMember(NamedTuple):
     id: int
     guild: Guild
-    bot: bool
-    avatar: Asset | None
+    bot: bool = False
+    avatar: Asset | None = None
 
 
 def chunks(lst: list, n: int) -> Iterator[list]:
