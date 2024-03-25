@@ -6,6 +6,7 @@ from discord.errors import HTTPException, InvalidData
 from rich.progress import track
 
 from internal.utils import (
+    DummyMember,
     Logger,
     create_guild_directory,
     create_member_file,
@@ -14,6 +15,7 @@ from internal.utils import (
     get_bio_fname,
     get_guild_members_fname,
     get_pfp_fname,
+    load_member_ids_from_disk,
     save_members_dict,
 )
 
@@ -52,6 +54,14 @@ async def on_ready() -> None:
 
     if members:
         save_members_dict(members, get_guild_members_fname(guild))
+
+    member_ids = load_member_ids_from_disk()
+
+    if member_ids:
+        logger.scraper("Focusing on member IDs found on the local disk.")
+        members = [
+            DummyMember(i, guild, False, None) for i in member_ids
+        ]
 
     for member in track(
         members,
