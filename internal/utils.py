@@ -1,12 +1,12 @@
 import json
 import shutil
 import string
-from collections import namedtuple
 from collections.abc import Iterator
 from functools import cache
 from pathlib import Path
+from typing import NamedTuple
 
-from discord import Guild, Member
+from discord import Asset, Guild, Member
 from rich import print
 
 from internal.constants import (
@@ -23,7 +23,13 @@ from internal.constants import (
 DUMMY_ROLE = "@everyone"
 MEMBER_ID_FNAME = "ids.txt"
 
-DummyMember = namedtuple("DummyMember", ["id", "guild", "bot", "avatar"])
+
+class DummyMember(NamedTuple):
+    id: int
+    guild: Guild
+    bot: bool
+    avatar: Asset | None
+
 
 def chunks(lst: list, n: int) -> Iterator[list]:
     """Yield successive n-sized chunks from l."""
@@ -136,6 +142,7 @@ def load_member_ids_from_disk(fname: str = MEMBER_ID_FNAME) -> list[int]:
     except FileNotFoundError:
         member_ids = []
     return member_ids
+
 
 def save_members_dict(members: list[Member], fname: str) -> None:
     with Path(fname).open("w", encoding="utf8") as f:
