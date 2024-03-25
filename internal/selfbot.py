@@ -10,11 +10,9 @@ from internal.utils import (
     Logger,
     create_guild_directory,
     create_member_file,
-    download_pfp,
     get_account_settings,
     get_bio_fname,
     get_guild_members_fname,
-    get_pfp_fname,
     load_member_ids_from_disk,
     save_members_dict,
 )
@@ -41,7 +39,6 @@ async def on_ready() -> None:
 
     config = get_account_settings()
     guild_id = config["guild_id"]
-    pfp_format = config["pfp_format"]
 
     guild = client.get_guild(int(guild_id))
     try:
@@ -70,11 +67,6 @@ async def on_ready() -> None:
                 await create_member_file(member)
             except HTTPException:
                 break
-        if (
-            config["download_pfp"]
-            and not Path(get_pfp_fname(member, pfp_format)).exists()
-        ):
-            await download_pfp(member, pfp_format)
 
     logger.success("Finished scraping members profiles and data.\n")
     await client.close()

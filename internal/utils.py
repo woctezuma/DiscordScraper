@@ -184,14 +184,3 @@ async def create_member_file(member: Member) -> None:
     Path(get_bio_fname(member)).write_text(
         f"Account ID: {member.id}{metadata}{PATTERN_START}{bio}{PATTERN_END}\n",
     )
-
-
-def get_pfp_fname(member: Member, pfp_format: str = ".png") -> str:
-    return f"{OUTPUT_FOLDER_NAME}/{member.guild.name}/{member.id}.{pfp_format}"
-
-
-@cache
-async def download_pfp(member: Member, pfp_format: str = ".png") -> None:
-    if member.bot or member.avatar is None:
-        return
-    await member.avatar.save(get_pfp_fname(member, pfp_format))
