@@ -21,6 +21,7 @@ from internal.constants import (
 )
 
 DUMMY_ROLE = "@everyone"
+MEMBER_ID_FNAME = "ids.txt"
 
 DummyMember = namedtuple("DummyMember", ["id", "guild", "bot", "avatar"])
 
@@ -127,6 +128,14 @@ def get_members_dict(members: list[Member]) -> dict:
 def get_guild_members_fname(guild: Guild) -> str:
     return f"{get_guild_folder_name(guild)}/{MEMBER_LIST_FNAME}"
 
+
+def load_member_ids_from_disk(fname: str = MEMBER_ID_FNAME) -> list[int]:
+    try:
+        with Path(fname).open() as f:
+            member_ids = [int(i) for i in f.readlines()]
+    except FileNotFoundError:
+        member_ids = []
+    return member_ids
 
 def save_members_dict(members: list[Member], fname: str) -> None:
     with Path(fname).open("w", encoding="utf8") as f:
