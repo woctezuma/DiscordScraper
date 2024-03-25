@@ -165,7 +165,7 @@ async def create_member_file(member: Member) -> None:
         f"\nPronouns:{pronouns}\nConnections: {connections}\nBanner: {banner_url}"
     )
     Path(get_bio_fname(member)).write_text(
-        f"Username: {username}\nAccount ID: {member.id}{metadata}{PATTERN_START}{bio}{PATTERN_END}{member.discriminator}\n",
+        f"Username: {username}\nAccount ID: {member.id}{metadata}{PATTERN_START}{bio}{PATTERN_END}\n",
     )
 
 
