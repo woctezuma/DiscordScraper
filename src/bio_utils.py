@@ -3,11 +3,11 @@ from pathlib import Path
 from internal.constants import DUMMY_BIO, PATTERN_END, PATTERN_START
 
 
-def extract_bio(text: str) -> str:
+def extract_bio(text: str) -> str | None:
     bio_start = text.find(PATTERN_START) + len(PATTERN_START)
     bio_end = text.find(PATTERN_END)
 
-    bio = text[bio_start:bio_end].strip()
+    bio: str | None = text[bio_start:bio_end].strip()
 
     if bio == DUMMY_BIO:
         bio = None
