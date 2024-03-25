@@ -10,7 +10,7 @@ def load_avatar_urls() -> list[None | str]:
 
 
 def export_avatar_urls_to_txt(output_fname: str = "") -> None:
-    if len(output_fname) == 0:
+    if not output_fname:
         output_fname = f"{OUTPUT_FOLDER_NAME}/{AVATAR_URL_LIST_FNAME}"
 
     urls = load_avatar_urls()
