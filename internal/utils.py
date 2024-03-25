@@ -152,7 +152,6 @@ async def create_member_file(member: Member) -> None:
     if member.bot:
         return
 
-    username = clean_string(member.display_name)
     profile = await member.guild.fetch_member_profile(
         member.id,
         with_mutual_friends=False,
@@ -165,7 +164,7 @@ async def create_member_file(member: Member) -> None:
         f"\nPronouns:{pronouns}\nConnections: {connections}\nBanner: {banner_url}"
     )
     Path(get_bio_fname(member)).write_text(
-        f"Username: {username}\nAccount ID: {member.id}{metadata}{PATTERN_START}{bio}{PATTERN_END}\n",
+        f"Account ID: {member.id}{metadata}{PATTERN_START}{bio}{PATTERN_END}\n",
     )
 
 
