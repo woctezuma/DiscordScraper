@@ -6,7 +6,7 @@ from src.member_utils import load_member_dictionaries
 
 def load_avatar_urls() -> list[None | str]:
     d = load_member_dictionaries()
-    return [v["avatar_url"] for v in d.values()]
+    return [v["avatar"] for v in d.values()]
 
 
 def export_avatar_urls_to_txt(output_fname: str = "") -> None:
