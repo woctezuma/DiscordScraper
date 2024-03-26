@@ -120,6 +120,7 @@ def get_members_dict(members: list[Member]) -> dict:
             "nick": e.nick,
             "created_at": e.created_at.timestamp(),
             "joined_at": e.joined_at.timestamp(),
+            "premium_since": e.premium_since.timestamp() if e.premium_since else None,
             "global_name": e.global_name,
             "display_name": e.display_name,
             "avatar": strip_parameters(e.avatar.url) if e.avatar else None,
