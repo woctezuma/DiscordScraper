@@ -135,7 +135,6 @@ def get_members_dict(members: list[Member]) -> dict:
             else None,
             "top_role": e.top_role.name if e.top_role.name != DUMMY_ROLE else None,
             "roles": [f.name for f in e.roles if f.name != DUMMY_ROLE],
-            "bot": e.bot,
             "spammer": e.public_flags.spammer,
             "public_flags": sorted(public_flags),
             "private_flags": sorted(private_flags),
