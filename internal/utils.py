@@ -111,7 +111,9 @@ def get_members_dict(members: list[Member]) -> dict:
     d = {}
 
     for e in members:
-        public_flags = [f.name for f in e.public_flags.all()]
+        public_flags = [
+            f for f in e.public_flags.VALID_FLAGS if getattr(e.public_flags, f)
+        ]
         private_flags = [f for f in e.flags.VALID_FLAGS if getattr(e.flags, f)]
 
         d[e.id] = {
