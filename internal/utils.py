@@ -103,6 +103,10 @@ def get_guild_folder_name(guild: Guild) -> str:
     return f"{OUTPUT_FOLDER_NAME}/{guild.name}"
 
 
+def strip_parameters(url: str) -> str:
+    return url.split("?")[0]
+
+
 def get_members_dict(members: list[Member]) -> dict:
     d = {}
 
@@ -118,7 +122,7 @@ def get_members_dict(members: list[Member]) -> dict:
             "joined_at": e.joined_at.timestamp(),
             "global_name": e.global_name,
             "display_name": e.display_name,
-            "avatar": e.avatar.url.split("?")[0] if e.avatar else None,
+            "avatar": strip_parameters(e.avatar.url) if e.avatar else None,
             "top_role": e.top_role.name if e.top_role.name != DUMMY_ROLE else None,
             "roles": [f.name for f in e.roles if f.name != DUMMY_ROLE],
             "bot": e.bot,
