@@ -10,11 +10,8 @@ from discord import Asset, Guild, Member, MemberFlags, PublicUserFlags
 from rich import print
 
 from internal.constants import (
-    DUMMY_BIO,
     MEMBER_LIST_FNAME,
     OUTPUT_FOLDER_NAME,
-    PATTERN_END,
-    PATTERN_START,
     default_data,
     header,
     info,
@@ -195,13 +192,23 @@ async def create_member_file(member: Member) -> None:
         member.id,
         with_mutual_friends=False,
     )
-    bio = clean_string(profile.bio) if profile.bio else DUMMY_BIO
-    pronouns = profile.metadata.pronouns
-    connections = " / ".join(sorted([c.type.name for c in profile.connections]))
-    banner_url = profile.banner.url if profile.banner else None
-    metadata = (
-        f"\nPronouns:{pronouns}\nConnections: {connections}\nBanner: {banner_url}"
-    )
-    Path(get_bio_fname(member)).write_text(
-        f"Account ID: {member.id}{metadata}{PATTERN_START}{bio}{PATTERN_END}\n",
-    )
+
+    profile_summary = {
+        "id": member.id,
+        "pronouns": profile.metadata.pronouns,
+        "guild_pronouns": profile.guild_metadata.pronouns,
+        "bio": clean_string(profile.bio),
+        "guild_bio": clean_string(profile.guild_bio),
+        "display_bio": clean_string(profile.display_bio),
+        "banner": profile.banner.url if profile.banner else None,
+        "guild_banner": profile.guild_banner.url if profile.guild_banner else None,
+        "display_banner": profile.display_banner.url
+        if profile.display_banner
+        else None,
+        "badges": sorted([c.id for c in profile.badges]),
+        "connections": {c.type.name: c.name for c in profile.connections},
+        "legacy_username": profile.legacy_username,
+    }
+
+    with Path(get_bio_fname(member)).open("w", encoding="utf8") as f:
+        json.dump(profile_summary, f, indent=2, sort_keys=True)
