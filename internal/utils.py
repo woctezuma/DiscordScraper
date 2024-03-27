@@ -170,8 +170,12 @@ def create_guild_directory(guild: Guild) -> None:
 
 
 @cache
-def clean_string(string_to_clean: str) -> str:
-    return "".join([char for char in string_to_clean if char in string.printable])
+def clean_string(string_to_clean: str) -> str | None:
+    return (
+        "".join([char for char in string_to_clean if char in string.printable])
+        if string_to_clean
+        else None
+    )
 
 
 def get_bio_fname(member: Member) -> str:
