@@ -21,7 +21,7 @@ info = """[bold black]
 default_data = {
     "token": "",
     "guild_id": 0,
-    "purge_old_data": True,
+    "purge_old_data": False,
     "download_bio": True,
     "channel_id": 0,
 }
