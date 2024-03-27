@@ -108,16 +108,13 @@ def strip_parameters(url: str) -> str:
 
 
 def list_flag_names(flags: PublicUserFlags | MemberFlags) -> list[str]:
-    return [f for f in flags.VALID_FLAGS if getattr(flags, f)]
+    return sorted([f for f in flags.VALID_FLAGS if getattr(flags, f)])
 
 
 def get_members_dict(members: list[Member]) -> dict:
     d = {}
 
     for e in members:
-        public_flags = list_flag_names(e.public_flags)
-        private_flags = list_flag_names(e.flags)
-
         d[e.id] = {
             "id": e.id,
             "name": e.name,
@@ -140,8 +137,8 @@ def get_members_dict(members: list[Member]) -> dict:
             "top_role": e.top_role.name if e.top_role.name != DUMMY_ROLE else None,
             "roles": [f.name for f in e.roles if f.name != DUMMY_ROLE],
             "spammer": e.public_flags.spammer,
-            "public_flags": sorted(public_flags),
-            "private_flags": sorted(private_flags),
+            "public_flags": list_flag_names(e.public_flags),
+            "private_flags": list_flag_names(e.flags),
         }
 
     return d
