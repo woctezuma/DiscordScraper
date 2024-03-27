@@ -17,6 +17,7 @@ from internal.constants import (
     header,
     info,
 )
+from src.environment_utils import find_config_in_environment
 
 DUMMY_ROLE = "@everyone"
 MEMBER_ID_FNAME = "ids.txt"
@@ -94,7 +95,9 @@ class Logger:
 @cache
 def get_account_settings() -> dict:
     with Path("config.json").open() as f:
-        return json.load(f)
+        config = json.load(f)
+    config |= find_config_in_environment()
+    return config
 
 
 def get_guild_folder_name(guild: Guild) -> str:
