@@ -179,7 +179,11 @@ def clean_string(string_to_clean: str) -> str | None:
 
 
 def get_bio_fname(member: Member) -> str:
-    return f"{OUTPUT_FOLDER_NAME}/{member.guild.name}/{member.id}.txt"
+    num_digits = 2
+    prefix = str(int(member.id))[:num_digits]
+    folder_name = f"{OUTPUT_FOLDER_NAME}/{prefix}"
+    Path(folder_name).mkdir(exist_ok=True, parents=True)
+    return f"{folder_name}/{member.id}.json"
 
 
 @cache
