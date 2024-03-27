@@ -70,7 +70,6 @@ async def on_ready() -> None:
                 await create_member_file(member)
             except HTTPException:
                 print(f"Error encountered for member ID = {member.id}.")
-                break
 
             counter += 1
 
