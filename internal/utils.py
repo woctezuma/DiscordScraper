@@ -6,7 +6,7 @@ from functools import cache
 from pathlib import Path
 from typing import NamedTuple
 
-from discord import Asset, Guild, Member
+from discord import Asset, Guild, Member, MemberFlags, PublicUserFlags
 from rich import print
 
 from internal.constants import (
@@ -107,14 +107,16 @@ def strip_parameters(url: str) -> str:
     return url.split("?")[0]
 
 
+def list_flag_names(flags: PublicUserFlags | MemberFlags) -> list[str]:
+    return [f for f in flags.VALID_FLAGS if getattr(flags, f)]
+
+
 def get_members_dict(members: list[Member]) -> dict:
     d = {}
 
     for e in members:
-        public_flags = [
-            f for f in e.public_flags.VALID_FLAGS if getattr(e.public_flags, f)
-        ]
-        private_flags = [f for f in e.flags.VALID_FLAGS if getattr(e.flags, f)]
+        public_flags = list_flag_names(e.public_flags)
+        private_flags = list_flag_names(e.flags)
 
         d[e.id] = {
             "id": e.id,
