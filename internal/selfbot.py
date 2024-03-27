@@ -68,11 +68,13 @@ async def on_ready() -> None:
             try:
                 await create_member_file(member)
             except HTTPException:
+                print(f"Error encountered for member ID = {member.id}.")
                 break
 
             counter += 1
 
             if counter >= config["max_num_requests"]:
+                print(f"Stop after {counter} requests were made.")
                 break
 
     logger.success("Finished scraping members profiles and data.\n")
