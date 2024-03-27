@@ -1,6 +1,6 @@
 import os
 
-TARGET_PREFIX = "GITHUB_"
+TARGET_PREFIX = "ACTION_"
 
 
 def get_environment() -> dict:
