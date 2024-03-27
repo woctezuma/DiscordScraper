@@ -21,9 +21,7 @@ info = """[bold black]
 default_data = {
     "token": "",
     "guild_id": 0,
-    "pfp_format": "png",
     "purge_old_data": True,
     "download_bio": True,
-    "download_pfp": True,
     "channel_id": 0,
 }
