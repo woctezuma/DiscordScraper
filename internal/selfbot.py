@@ -60,6 +60,7 @@ async def on_ready() -> None:
 
     counter = 0
 
+    random.shuffle(members)
     for member in track(
         members,
         description="[bold white][Scraper] Scraping profiles...[/]",
