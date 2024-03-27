@@ -10,6 +10,7 @@ from discord import Asset, Guild, Member, MemberFlags, PublicUserFlags
 from rich import print
 
 from internal.constants import (
+    MEMBER_FOLDER_NAME,
     MEMBER_LIST_FNAME,
     OUTPUT_FOLDER_NAME,
     default_data,
@@ -178,7 +179,7 @@ def clean_string(string_to_clean: str) -> str | None:
 def get_bio_fname(member: Member) -> str:
     num_digits = 2
     prefix = str(int(member.id))[:num_digits]
-    folder_name = f"{OUTPUT_FOLDER_NAME}/{prefix}"
+    folder_name = f"{MEMBER_FOLDER_NAME}/{prefix}"
     Path(folder_name).mkdir(exist_ok=True, parents=True)
     return f"{folder_name}/{member.id}.json"
 
