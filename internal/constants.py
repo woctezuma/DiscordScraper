@@ -22,6 +22,7 @@ info = """[bold black]
 default_data = {
     "token": "",
     "guild_id": 0,
+    "max_num_requests": 50,
     "purge_old_data": False,
     "download_bio": True,
     "channel_id": 0,

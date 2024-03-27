@@ -58,6 +58,8 @@ async def on_ready() -> None:
         logger.scraper("Focusing on member IDs found on the local disk.")
         members = [DummyMember(i, guild) for i in member_ids]
 
+    counter = 0
+
     for member in track(
         members,
         description="[bold white][Scraper] Scraping profiles...[/]",
@@ -66,6 +68,11 @@ async def on_ready() -> None:
             try:
                 await create_member_file(member)
             except HTTPException:
+                break
+
+            counter += 1
+
+            if counter >= config["max_num_requests"]:
                 break
 
     logger.success("Finished scraping members profiles and data.\n")
