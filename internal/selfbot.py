@@ -10,6 +10,7 @@ from internal.utils import (
     Logger,
     create_guild_directory,
     create_member_file,
+    filter_out_known_ids,
     get_account_settings,
     get_bio_fname,
     get_guild_members_fname,
@@ -57,6 +58,8 @@ async def on_ready() -> None:
     if member_ids:
         logger.scraper("Focusing on member IDs found on the local disk.")
         members = [DummyMember(i, guild) for i in member_ids]
+
+    members = filter_out_known_ids(members)
 
     counter = 0
 

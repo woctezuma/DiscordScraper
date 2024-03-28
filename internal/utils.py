@@ -30,6 +30,13 @@ class DummyMember(NamedTuple):
     avatar: Asset | None = None
 
 
+def filter_out_known_ids(members: list[Member]) -> list[Member]:
+    known_member_ids = frozenset(
+        [int(s.stem) for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")],
+    )
+    return [e for e in members if e.id not in known_member_ids]
+
+
 def chunks(lst: list, n: int) -> Iterator[list]:
     """Yield successive n-sized chunks from l."""
     # Reference: https://stackoverflow.com/a/312464
