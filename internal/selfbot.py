@@ -53,10 +53,11 @@ async def on_ready() -> None:
     if members:
         save_members_dict(members, get_guild_members_fname(guild))
 
-    member_ids = load_member_ids_from_disk()
+    member_ids = set(load_member_ids_from_disk())
 
     if member_ids:
         logger.scraper("Focusing on member IDs found on the local disk.")
+        member_ids.update([e.id for e in members])
         members = [DummyMember(i, guild) for i in member_ids]
 
     members = filter_out_known_ids(members)
