@@ -3,3 +3,6 @@
 __pycache__
 config.json
 DataScraped/*/members.json
+DataScraped/avatars.txt
+DataScraped/banners.txt
+DataScraped/profiles.json
