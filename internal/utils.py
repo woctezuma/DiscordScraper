@@ -111,8 +111,8 @@ def get_guild_folder_name(guild: Guild) -> str:
     return f"{OUTPUT_FOLDER_NAME}/{guild.name}"
 
 
-def strip_parameters(url: str) -> str:
-    return url.split("?")[0]
+def strip_parameters(url: str | None) -> str | None:
+    return url.split("?")[0] if url else url
 
 
 def list_flag_names(flags: PublicUserFlags | MemberFlags) -> list[str]:
