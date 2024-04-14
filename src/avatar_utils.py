@@ -2,11 +2,12 @@ from pathlib import Path
 
 from internal.constants import AVATAR_URL_LIST_FNAME, OUTPUT_FOLDER_NAME
 from src.member_utils import load_member_dictionaries
+from src.utils import get_unique_dict_values
 
 
 def load_avatar_urls() -> list[None | str]:
     d = load_member_dictionaries()
-    return [v["avatar"] for v in d.values()]
+    return get_unique_dict_values(d, "avatar")
 
 
 def export_avatar_urls_to_txt(output_fname: str = "") -> None:
