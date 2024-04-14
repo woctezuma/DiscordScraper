@@ -6,6 +6,7 @@ OUTPUT_FOLDER_NAME = "DataScraped"
 MEMBER_FOLDER_NAME = f"{OUTPUT_FOLDER_NAME}/profiles"
 MEMBER_LIST_FNAME = "members.json"
 AVATAR_URL_LIST_FNAME = "avatars.txt"
+BANNER_URL_LIST_FNAME = "banners.txt"
 
 header = """[bold white]
 ██████╗ ██╗███████╗ ██████╗ ██████╗ ██████╗ ██████╗     ███████╗ ██████╗██████╗  █████╗ ██████╗ ███████╗██████╗
