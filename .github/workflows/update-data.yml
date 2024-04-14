@@ -1,0 +1,38 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/20 * * * *'
+
+jobs:
+  scheduled:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        ref: "data"
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Git Config
+      run: |
+        git config user.name woctezuma && git config user.email woctezuma@users.noreply.github.com
+
+    - name: Run Updater
+      run: |
+        ./update.sh
+      env:
+        ACTION_GUILD_ID: ${{ secrets.ACTION_GUILD_ID }}
+        ACTION_TOKEN: ${{ secrets.ACTION_TOKEN }}
