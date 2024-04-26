@@ -20,7 +20,8 @@ from internal.constants import (
 from src.environment_utils import find_config_in_environment
 
 DUMMY_ROLE = "@everyone"
-MEMBER_ID_FNAME = "ids.txt"
+DATA_FOLDER_NAME = "data/"
+MEMBER_ID_FNAME = f"{DATA_FOLDER_NAME}ids.txt"
 
 
 class DummyMember(NamedTuple):
