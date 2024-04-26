@@ -22,6 +22,7 @@ from src.environment_utils import find_config_in_environment
 DUMMY_ROLE = "@everyone"
 DATA_FOLDER_NAME = "data/"
 MEMBER_ID_FNAME = f"{DATA_FOLDER_NAME}ids.txt"
+SKIPPED_MEMBER_ID_FNAME = f"{DATA_FOLDER_NAME}ids_skipped.txt"
 
 
 class DummyMember(NamedTuple):
@@ -170,6 +171,10 @@ def load_member_ids_from_disk(fname: str = MEMBER_ID_FNAME) -> list[int]:
     except FileNotFoundError:
         member_ids = []
     return member_ids
+
+
+def load_skipped_member_ids_from_disk() -> list[int]:
+    return load_member_ids_from_disk(SKIPPED_MEMBER_ID_FNAME)
 
 
 def save_members_dict(members: list[Member], fname: str) -> None:
