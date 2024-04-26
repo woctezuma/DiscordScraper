@@ -30,11 +30,17 @@ class DummyMember(NamedTuple):
     avatar: Asset | None = None
 
 
+def filter_out_specific_ids(
+    members: list[Member],
+    specific_ids: list[int],
+) -> list[Member]:
+    skipped_member_ids = frozenset(specific_ids)
+    return [e for e in members if e.id not in skipped_member_ids]
+
+
 def filter_out_known_ids(members: list[Member]) -> list[Member]:
-    known_member_ids = frozenset(
-        [int(s.stem) for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")],
-    )
-    return [e for e in members if e.id not in known_member_ids]
+    known_member_ids = [int(s.stem) for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")]
+    return filter_out_specific_ids(members, known_member_ids)
 
 
 def chunks(lst: list, n: int) -> Iterator[list]:
