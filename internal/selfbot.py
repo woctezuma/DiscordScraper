@@ -10,11 +10,11 @@ from internal.utils import (
     Logger,
     create_guild_directory,
     create_member_file,
-    filter_out_known_ids,
     filter_out_specific_ids,
     get_account_settings,
     get_bio_fname,
     get_guild_members_fname,
+    load_known_ids,
     load_member_ids_from_disk,
     load_skipped_member_ids_from_disk,
     save_members_dict,
@@ -62,8 +62,10 @@ async def on_ready() -> None:
         member_ids.update([e.id for e in members])
         members = [DummyMember(i, guild) for i in member_ids]
 
-    members = filter_out_known_ids(members)
-    members = filter_out_specific_ids(members, set(load_skipped_member_ids_from_disk()))
+    members = filter_out_specific_ids(
+        members,
+        set(load_skipped_member_ids_from_disk()).union(load_known_ids()),
+    )
 
     counter = 0
 
