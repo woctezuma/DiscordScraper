@@ -34,7 +34,7 @@ class DummyMember(NamedTuple):
 
 def filter_out_specific_ids(
     members: list[Member],
-    specific_ids: list[int],
+    specific_ids: set[int],
 ) -> list[Member]:
     skipped_member_ids = frozenset(specific_ids)
     return [e for e in members if e.id not in skipped_member_ids]
@@ -46,7 +46,7 @@ def load_known_ids() -> list[int]:
 
 def filter_out_known_ids(members: list[Member]) -> list[Member]:
     known_member_ids = load_known_ids()
-    return filter_out_specific_ids(members, known_member_ids)
+    return filter_out_specific_ids(members, set(known_member_ids))
 
 
 def chunks(lst: list, n: int) -> Iterator[list]:

@@ -63,7 +63,7 @@ async def on_ready() -> None:
         members = [DummyMember(i, guild) for i in member_ids]
 
     members = filter_out_known_ids(members)
-    members = filter_out_specific_ids(members, load_skipped_member_ids_from_disk())
+    members = filter_out_specific_ids(members, set(load_skipped_member_ids_from_disk()))
 
     counter = 0
 
