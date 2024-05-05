@@ -49,8 +49,12 @@ def load_ids_from_aggregate() -> list[int]:
     return [e.id for e in aggregate]
 
 
+def list_individual_profiles() -> list:
+    return list(Path(MEMBER_FOLDER_NAME).glob("*/*.json"))
+
+
 def load_ids_from_individual_profiles() -> list[str]:
-    return [s.stem for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")]
+    return [s.stem for s in list_individual_profiles()]
 
 
 def load_known_ids() -> frozenset[int]:

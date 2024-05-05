@@ -3,9 +3,9 @@ from pathlib import Path
 
 from internal.constants import (
     AGGREGATED_PROFILES_FNAME,
-    MEMBER_FOLDER_NAME,
     OUTPUT_FOLDER_NAME,
 )
+from internal.utils import list_individual_profiles
 
 
 def load_aggregate_from_disk(output_fname: str = AGGREGATED_PROFILES_FNAME) -> dict:
@@ -32,7 +32,7 @@ def save_aggregate_to_disk(
 
 def aggregate_profiles(output_fname: str = "") -> dict:
     d = {}
-    for fname in Path(MEMBER_FOLDER_NAME).glob("*/*.json"):
+    for fname in list_individual_profiles():
         with Path(fname).open() as f:
             data = json.load(f)
             d[data["id"]] = data
