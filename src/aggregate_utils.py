@@ -8,6 +8,17 @@ from internal.constants import (
 )
 
 
+def load_aggregate_from_disk(output_fname: str = AGGREGATED_PROFILES_FNAME) -> dict:
+    try:
+        with Path(f"{OUTPUT_FOLDER_NAME}/{output_fname}").open(
+            encoding="utf8",
+        ) as f:
+            aggregate = json.load(f)
+    except FileNotFoundError:
+        aggregate = {}
+    return aggregate
+
+
 def save_aggregate_to_disk(
     aggregate: dict,
     output_fname: str = AGGREGATED_PROFILES_FNAME,
