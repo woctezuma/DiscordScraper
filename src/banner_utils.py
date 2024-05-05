@@ -6,14 +6,16 @@ from internal.constants import (
     OUTPUT_FOLDER_NAME,
 )
 
-from src.aggregate_utils import aggregate_profiles
+from src.aggregate_utils import aggregate_profiles, load_aggregate_from_disk
 from src.utils import get_unique_dict_values
 
 
 def load_banner_urls(
     output_fname_for_aggregated_profiles: str = "",
 ) -> list[None | str]:
-    d = aggregate_profiles(output_fname_for_aggregated_profiles)
+    d = load_aggregate_from_disk()
+    if not d:
+        d = aggregate_profiles(output_fname_for_aggregated_profiles)
     return get_unique_dict_values(d, "banner")
 
 
