@@ -1,5 +1,4 @@
 import random
-from pathlib import Path
 
 from discord import Client, Guild
 from discord.errors import HTTPException, InvalidData
@@ -12,7 +11,6 @@ from internal.utils import (
     create_member_file,
     filter_out_specific_ids,
     get_account_settings,
-    get_bio_fname,
     get_guild_members_fname,
     load_known_ids,
     load_member_ids_from_disk,
@@ -74,7 +72,7 @@ async def on_ready() -> None:
         members,
         description="[bold white][Scraper] Scraping profiles...[/]",
     ):
-        if config["download_bio"] and not Path(get_bio_fname(member)).exists():
+        if config["download_bio"]:
             try:
                 await create_member_file(member)
             except HTTPException:
