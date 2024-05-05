@@ -211,9 +211,9 @@ def get_bio_fname(member: Member) -> str:
 
 
 @cache
-async def create_member_file(member: Member) -> None:
+async def create_member_file(member: Member) -> dict:
     if member.bot:
-        return
+        return {}
 
     profile = await member.guild.fetch_member_profile(
         member.id,
@@ -239,3 +239,5 @@ async def create_member_file(member: Member) -> None:
 
     with Path(get_bio_fname(member)).open("w", encoding="utf8") as f:
         json.dump(profile_summary, f, indent=2, sort_keys=True)
+
+    return profile_summary
