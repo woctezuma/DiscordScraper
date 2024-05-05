@@ -48,8 +48,14 @@ def load_known_ids_from_aggregate(aggregate: dict) -> frozenset[int]:
     return build_known_ids([e.id for e in aggregate])
 
 
+def load_ids_from_individual_profiles() -> list[str]:
+    return [s.stem for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")]
+
+
 def load_known_ids() -> frozenset[int]:
-    return build_known_ids([s.stem for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")])
+    return build_known_ids(
+        load_ids_from_individual_profiles(),
+    )
 
 
 def filter_out_known_ids(members: list[Member]) -> list[Member]:
