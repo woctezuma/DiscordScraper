@@ -40,8 +40,16 @@ def filter_out_specific_ids(
     return [e for e in members if e.id not in skipped_member_ids]
 
 
+def build_known_ids(lst: list) -> frozenset[int]:
+    return frozenset(int(i) for i in lst)
+
+
+def load_known_ids_from_aggregate(aggregate: dict) -> frozenset[int]:
+    return build_known_ids([e.id for e in aggregate])
+
+
 def load_known_ids() -> frozenset[int]:
-    return frozenset([int(s.stem) for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")])
+    return build_known_ids([s.stem for s in Path(MEMBER_FOLDER_NAME).glob("*/*.json")])
 
 
 def filter_out_known_ids(members: list[Member]) -> list[Member]:
