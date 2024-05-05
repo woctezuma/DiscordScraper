@@ -1,7 +1,6 @@
 import json
 import shutil
 import string
-from collections.abc import Iterator
 from functools import cache
 from pathlib import Path
 from typing import NamedTuple
@@ -58,18 +57,6 @@ def load_known_ids() -> frozenset[int]:
     return build_known_ids(
         load_ids_from_aggregate() + load_ids_from_individual_profiles(),
     )
-
-
-def filter_out_known_ids(members: list[Member]) -> list[Member]:
-    known_member_ids = load_known_ids()
-    return filter_out_specific_ids(members, set(known_member_ids))
-
-
-def chunks(lst: list, n: int) -> Iterator[list]:
-    """Yield successive n-sized chunks from l."""
-    # Reference: https://stackoverflow.com/a/312464
-    for i in range(0, len(lst), n):
-        yield lst[i : i + n]
 
 
 @cache

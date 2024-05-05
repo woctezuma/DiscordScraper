@@ -1,7 +1,3 @@
-PATTERN_START = "\nBio: "
-PATTERN_END = "\nDiscriminator: #"
-DUMMY_BIO = "User doesn't have a bio."
-
 OUTPUT_FOLDER_NAME = "DataScraped"
 MEMBER_FOLDER_NAME = f"{OUTPUT_FOLDER_NAME}/profiles"
 MEMBER_LIST_FNAME = "members.json"
