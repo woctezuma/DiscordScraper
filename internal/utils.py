@@ -8,6 +8,7 @@ from typing import NamedTuple
 
 from discord import Asset, Guild, Member, MemberFlags, PublicUserFlags
 from rich import print
+from src.environment_utils import find_config_in_environment
 
 from internal.constants import (
     MEMBER_FOLDER_NAME,
@@ -17,7 +18,6 @@ from internal.constants import (
     header,
     info,
 )
-from src.environment_utils import find_config_in_environment
 
 DUMMY_ROLE = "@everyone"
 DATA_FOLDER_NAME = "data/"
