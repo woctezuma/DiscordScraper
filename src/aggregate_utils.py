@@ -4,6 +4,14 @@ from pathlib import Path
 from internal.constants import MEMBER_FOLDER_NAME, OUTPUT_FOLDER_NAME
 
 
+def save_aggregate_to_disk(aggregate: dict, output_fname: str) -> None:
+    with Path(f"{OUTPUT_FOLDER_NAME}/{output_fname}").open(
+        "w",
+        encoding="utf8",
+    ) as f:
+        json.dump(aggregate, f, indent=2)
+
+
 def aggregate_profiles(output_fname: str = "") -> dict:
     d = {}
     for fname in Path(MEMBER_FOLDER_NAME).glob("*/*.json"):
@@ -12,10 +20,6 @@ def aggregate_profiles(output_fname: str = "") -> dict:
             d[data["id"]] = data
 
     if output_fname:
-        with Path(f"{OUTPUT_FOLDER_NAME}/{output_fname}").open(
-            "w",
-            encoding="utf8",
-        ) as f:
-            json.dump(d, f, indent=2)
+        save_aggregate_to_disk(d, output_fname)
 
     return d
