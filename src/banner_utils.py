@@ -1,6 +1,11 @@
 from pathlib import Path
 
-from internal.constants import BANNER_URL_LIST_FNAME, OUTPUT_FOLDER_NAME
+from internal.constants import (
+    AGGREGATED_PROFILES_FNAME,
+    BANNER_URL_LIST_FNAME,
+    OUTPUT_FOLDER_NAME,
+)
+
 from src.aggregate_utils import aggregate_profiles
 from src.utils import get_unique_dict_values
 
@@ -27,4 +32,6 @@ def export_banner_urls_to_txt(
 
 
 if __name__ == "__main__":
-    export_banner_urls_to_txt(output_fname_for_aggregated_profiles="profiles.json")
+    export_banner_urls_to_txt(
+        output_fname_for_aggregated_profiles=AGGREGATED_PROFILES_FNAME,
+    )

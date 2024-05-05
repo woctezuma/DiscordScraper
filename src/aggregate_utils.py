@@ -1,10 +1,17 @@
 import json
 from pathlib import Path
 
-from internal.constants import MEMBER_FOLDER_NAME, OUTPUT_FOLDER_NAME
+from internal.constants import (
+    AGGREGATED_PROFILES_FNAME,
+    MEMBER_FOLDER_NAME,
+    OUTPUT_FOLDER_NAME,
+)
 
 
-def save_aggregate_to_disk(aggregate: dict, output_fname: str) -> None:
+def save_aggregate_to_disk(
+    aggregate: dict,
+    output_fname: str = AGGREGATED_PROFILES_FNAME,
+) -> None:
     with Path(f"{OUTPUT_FOLDER_NAME}/{output_fname}").open(
         "w",
         encoding="utf8",
