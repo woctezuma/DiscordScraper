@@ -8,6 +8,7 @@ from typing import NamedTuple
 
 from discord import Asset, Guild, Member, MemberFlags, PublicUserFlags
 from rich import print
+from src.aggregate_utils import load_aggregate_from_disk
 from src.environment_utils import find_config_in_environment
 
 from internal.constants import (
@@ -44,8 +45,9 @@ def build_known_ids(lst: list) -> frozenset[int]:
     return frozenset(int(i) for i in lst)
 
 
-def load_known_ids_from_aggregate(aggregate: dict) -> frozenset[int]:
-    return build_known_ids([e.id for e in aggregate])
+def load_ids_from_aggregate() -> list[int]:
+    aggregate = load_aggregate_from_disk()
+    return [e.id for e in aggregate]
 
 
 def load_ids_from_individual_profiles() -> list[str]:
