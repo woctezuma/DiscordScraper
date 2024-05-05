@@ -56,7 +56,7 @@ def load_ids_from_individual_profiles() -> list[str]:
 
 def load_known_ids() -> frozenset[int]:
     return build_known_ids(
-        load_ids_from_individual_profiles(),
+        load_ids_from_aggregate() + load_ids_from_individual_profiles(),
     )
 
 
