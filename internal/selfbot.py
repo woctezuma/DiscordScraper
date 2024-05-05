@@ -3,6 +3,7 @@ import random
 from discord import Client, Guild
 from discord.errors import HTTPException, InvalidData
 from rich.progress import track
+from src.aggregate_utils import load_aggregate_from_disk, save_aggregate_to_disk
 
 from internal.utils import (
     DummyMember,
@@ -66,6 +67,8 @@ async def on_ready() -> None:
     )
 
     counter = 0
+    data = load_aggregate_from_disk()
+    save_individual_profile_to_disk = False
 
     random.shuffle(members)
     for member in track(
@@ -74,7 +77,12 @@ async def on_ready() -> None:
     ):
         if config["download_bio"]:
             try:
-                await create_member_file(member)
+                member_profile = await create_member_file(
+                    member,
+                    save_to_disk=save_individual_profile_to_disk,
+                )
+                if member_profile:
+                    data[str(member.id)] = member_profile
             except HTTPException:
                 print(f"Error encountered for member ID = {member.id}.")
 
@@ -83,6 +91,8 @@ async def on_ready() -> None:
             if counter >= config["max_num_requests"]:
                 print(f"Stop after {counter} requests were made.")
                 break
+
+    save_aggregate_to_disk(data)
 
     logger.success("Finished scraping members profiles and data.\n")
     await client.close()
