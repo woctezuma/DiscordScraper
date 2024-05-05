@@ -211,7 +211,7 @@ def get_bio_fname(member: Member) -> str:
 
 
 @cache
-async def create_member_file(member: Member) -> dict:
+async def create_member_file(member: Member, *, save_to_disk: bool = True) -> dict:
     if member.bot:
         return {}
 
@@ -237,7 +237,8 @@ async def create_member_file(member: Member) -> dict:
         "legacy_username": profile.legacy_username,
     }
 
-    with Path(get_bio_fname(member)).open("w", encoding="utf8") as f:
-        json.dump(profile_summary, f, indent=2, sort_keys=True)
+    if save_to_disk:
+        with Path(get_bio_fname(member)).open("w", encoding="utf8") as f:
+            json.dump(profile_summary, f, indent=2, sort_keys=True)
 
     return profile_summary
