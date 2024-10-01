@@ -24,6 +24,8 @@ def export_member_ids_to_txt(output_fname: str = "") -> None:
 
     member_ids = sorted(parse_member_ids(), key=int)
 
+    Path(output_fname).parent.mkdir(parents=True, exist_ok=True)
+
     with Path(output_fname).open("w", encoding="utf-8") as f:
         f.write("\n".join(member_ids))
 
