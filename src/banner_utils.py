@@ -6,7 +6,8 @@ from internal.constants import (
     OUTPUT_FOLDER_NAME,
 )
 
-from src.aggregate_utils import aggregate_profiles, load_aggregate_from_disk
+from src.aggregate_utils import aggregate_profiles
+from src.load_aggregate_from_disk import load_aggregate_from_disk
 from src.utils import get_unique_dict_values
 
 

@@ -3,7 +3,8 @@ import random
 from discord import Client, Guild
 from discord.errors import HTTPException, InvalidData
 from rich.progress import track
-from src.aggregate_utils import load_aggregate_from_disk, save_aggregate_to_disk
+from src.aggregate_utils import save_aggregate_to_disk
+from src.load_aggregate_from_disk import load_aggregate_from_disk
 
 from internal.utils import (
     DummyMember,
