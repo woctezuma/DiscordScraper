@@ -83,11 +83,9 @@ def check_config_file() -> None:
     with Path("config.json").open(encoding="utf-8") as f:
         file_data = json.load(f)
 
-    required_data = {}
-
-    for key, value in file_data.items():
-        if key in default_data:
-            required_data[key] = value
+    required_data = {
+        key: value for key, value in file_data.items() if key in default_data
+    }
 
     for default_key, default_value in default_data.items():
         if default_key not in required_data:
