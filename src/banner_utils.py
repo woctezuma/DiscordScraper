@@ -28,7 +28,7 @@ def export_banner_urls_to_txt(
     urls = load_banner_urls(output_fname_for_aggregated_profiles)
     filtered_urls = sorted([url for url in urls if url])
 
-    with Path(output_fname).open("w") as f:
+    with Path(output_fname).open("w", encoding="utf-8") as f:
         f.write("\n".join(filtered_urls))
 
 

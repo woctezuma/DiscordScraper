@@ -33,7 +33,7 @@ def save_aggregate_to_disk(
 def aggregate_profiles(output_fname: str = "") -> dict:
     d = {}
     for fname in list_individual_profiles():
-        with Path(fname).open() as f:
+        with Path(fname).open(encoding="utf-8") as f:
             data = json.load(f)
             d[data["id"]] = data
 

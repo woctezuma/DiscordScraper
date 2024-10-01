@@ -76,11 +76,11 @@ def check_config_file() -> None:
     if not Path(
         "config.json",
     ).is_file():
-        with Path("config.json").open("w") as f:
+        with Path("config.json").open("w", encoding="utf-8") as f:
             json.dump(default_data, f, indent=2)
         return
 
-    with Path("config.json").open() as f:
+    with Path("config.json").open(encoding="utf-8") as f:
         file_data = json.load(f)
 
     required_data = {}
@@ -93,7 +93,7 @@ def check_config_file() -> None:
         if default_key not in required_data:
             required_data[default_key] = default_value
 
-    with Path("config.json").open("w") as f:
+    with Path("config.json").open("w", encoding="utf-8") as f:
         json.dump(required_data, f, indent=2)
 
 
@@ -120,7 +120,7 @@ class Logger:
 
 @cache
 def get_account_settings() -> dict:
-    with Path("config.json").open() as f:
+    with Path("config.json").open(encoding="utf-8") as f:
         config = json.load(f)
     config |= find_config_in_environment()
     return config
@@ -177,7 +177,7 @@ def get_guild_members_fname(guild: Guild) -> str:
 
 def load_member_ids_from_disk(fname: str = MEMBER_ID_FNAME) -> list[int]:
     try:
-        with Path(fname).open() as f:
+        with Path(fname).open(encoding="utf-8") as f:
             member_ids = [int(i) for i in f]
     except FileNotFoundError:
         member_ids = []

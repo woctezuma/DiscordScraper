@@ -8,7 +8,7 @@ from internal.utils import MEMBER_ID_FNAME
 def load_member_dictionaries() -> dict:
     d = {}
     for fname in Path(OUTPUT_FOLDER_NAME).glob(f"*/{MEMBER_LIST_FNAME}"):
-        with Path(fname).open() as f:
+        with Path(fname).open(encoding="utf-8") as f:
             d.update(json.load(f))
     return d
 
@@ -24,7 +24,7 @@ def export_member_ids_to_txt(output_fname: str = "") -> None:
 
     member_ids = sorted(parse_member_ids(), key=int)
 
-    with Path(output_fname).open("w") as f:
+    with Path(output_fname).open("w", encoding="utf-8") as f:
         f.write("\n".join(member_ids))
 
 
