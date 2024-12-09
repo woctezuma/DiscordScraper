@@ -12,7 +12,7 @@ repos:
       --exit-non-zero-on-fix,
       --target-version, "py313",
       --select, "ALL",
-      --ignore, "ASYNC101,D,E501,INP001,S311,T201"
+      --ignore, "ASYNC230,D,E501,INP001,S311,T201,CPY001,C901,PLR1702"
       ]
     - id: ruff-format
 
