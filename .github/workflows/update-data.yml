@@ -36,3 +36,4 @@ jobs:
       env:
         ACTION_GUILD_ID: ${{ secrets.ACTION_GUILD_ID }}
         ACTION_TOKEN: ${{ secrets.ACTION_TOKEN }}
+        ACTION_WEBHOOK_ID: ${{ secrets.ACTION_WEBHOOK_ID }}
