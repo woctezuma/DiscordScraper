@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import NamedTuple
 
 from discord import Asset, Guild, Member, MemberFlags, PublicUserFlags
-from rich import print
+from rich import print as pprint
 from src.environment_utils import find_config_in_environment
 from src.load_aggregate_from_disk import load_aggregate_from_disk
 
@@ -65,7 +65,7 @@ def load_known_ids() -> frozenset[int]:
 
 @cache
 def show_header() -> None:
-    print(f"{header}{info}")
+    pprint(f"{header}{info}")
 
 
 @cache
@@ -98,22 +98,25 @@ def check_config_file() -> None:
 class Logger:
     def __init__(self: "Logger") -> None: ...
 
-    def scraper(self: "Logger", text: str) -> None:
-        print(f"[bold white][Scraper] {text} [/]")
+    @staticmethod
+    def scraper(text: str) -> None:
+        pprint(f"[bold white][Scraper] {text} [/]")
 
-    def success(self: "Logger", text: str) -> None:
-        print(f"[bold green][Success] {text} [/]")
+    @staticmethod
+    def success(text: str) -> None:
+        pprint(f"[bold green][Success] {text} [/]")
 
-    def error(self: "Logger", text: str) -> None:
-        print(f"[bold red][Error] {text} [/]")
+    @staticmethod
+    def error(text: str) -> None:
+        pprint(f"[bold red][Error] {text} [/]")
 
+    @staticmethod
     def custom(
-        self: "Logger",
         text: str,
         header: str | None = None,
         color: str = "white",
     ) -> None:
-        print(f"[bold {color}][{header}] {text} [/]")
+        pprint(f"[bold {color}][{header}] {text} [/]")
 
 
 @cache
