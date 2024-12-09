@@ -4,6 +4,7 @@ MEMBER_LIST_FNAME = "members.json"
 AGGREGATED_PROFILES_FNAME = "profiles.json"
 AVATAR_URL_LIST_FNAME = "avatars.txt"
 BANNER_URL_LIST_FNAME = "banners.txt"
+MONITORED_CONTENT_FNAME = "monitored_content.json"
 
 header = """[bold white]
 ██████╗ ██╗███████╗ ██████╗ ██████╗ ██████╗ ██████╗     ███████╗ ██████╗██████╗  █████╗ ██████╗ ███████╗██████╗
