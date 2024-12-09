@@ -241,7 +241,10 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
         if profile.display_banner
         else None,
         "badges": sorted([c.id for c in profile.badges]),
-        "connections": {c.type.name: c.name for c in profile.connections},
+        "connections": {
+            c.type.name: {"id": c.id, "name": c.name, "url": c.url}
+            for c in profile.connections
+        },
         "legacy_username": profile.legacy_username,
     }
 
