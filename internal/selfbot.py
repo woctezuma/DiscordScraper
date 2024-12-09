@@ -4,6 +4,8 @@ from discord import Client, Guild
 from discord.errors import HTTPException, InvalidData
 from rich.progress import track
 from src.aggregate_utils import save_aggregate_to_disk
+from src.discord_utils import post_message_to_discord
+from src.inspect_utils import find_trigger_warning
 from src.load_aggregate_from_disk import load_aggregate_from_disk
 
 from internal.utils import (
@@ -84,6 +86,14 @@ async def on_ready() -> None:
                 )
                 if member_profile:
                     data[str(member.id)] = member_profile
+
+                    if config["webhook_id"]:
+                        trigger_warning = find_trigger_warning(member_profile)
+                        if trigger_warning:
+                            post_message_to_discord(
+                                trigger_warning,
+                                config["webhook_id"],
+                            )
             except HTTPException:
                 print(f"Error encountered for member ID = {member.id}.")
 
