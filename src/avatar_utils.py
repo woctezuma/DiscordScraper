@@ -1,7 +1,6 @@
 from pathlib import Path
 
 from internal.constants import AVATAR_URL_LIST_FNAME, OUTPUT_FOLDER_NAME
-
 from src.member_utils import load_member_dictionaries
 from src.utils import get_unique_dict_values
 

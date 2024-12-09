@@ -3,10 +3,6 @@ import random
 from discord import Client, Guild
 from discord.errors import HTTPException, InvalidData
 from rich.progress import track
-from src.aggregate_utils import save_aggregate_to_disk
-from src.discord_utils import post_message_to_discord
-from src.inspect_utils import find_trigger_warning
-from src.load_aggregate_from_disk import load_aggregate_from_disk
 
 from internal.utils import (
     DummyMember,
@@ -21,6 +17,10 @@ from internal.utils import (
     load_skipped_member_ids_from_disk,
     save_members_dict,
 )
+from src.aggregate_utils import save_aggregate_to_disk
+from src.discord_utils import post_message_to_discord
+from src.inspect_utils import find_trigger_warning
+from src.load_aggregate_from_disk import load_aggregate_from_disk
 
 client = Client(chunk_guilds_at_startup=False)
 logger = Logger()
