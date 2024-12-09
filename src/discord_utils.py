@@ -9,7 +9,7 @@ def get_webhook_url(webhook_id: str) -> str:
 
 
 def post_message_to_discord(message: str, webhook_id: str) -> requests.Response | None:
-    if webhook_id is None or len(message) == 0:
+    if webhook_id is None or not message:
         response = None
     else:
         json_data = {"content": message}
