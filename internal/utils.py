@@ -46,7 +46,7 @@ def build_known_ids(lst: list) -> frozenset[int]:
 
 def load_ids_from_aggregate() -> list[int]:
     aggregate = load_aggregate_from_disk()
-    return [e.id for e in aggregate]
+    return [e["id"] for e in aggregate.values()]
 
 
 def list_individual_profiles() -> list:
