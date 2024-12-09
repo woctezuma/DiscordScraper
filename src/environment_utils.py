@@ -4,7 +4,7 @@ TARGET_PREFIX = "ACTION_"
 
 
 def get_environment() -> dict:
-    return os.environ
+    return os.environ.copy()
 
 
 def filter_dict_by_key(d: dict, prefix: str) -> dict:
