@@ -1,6 +1,7 @@
 {
   "token": "",
   "guild_id": 0000,
+  "webhook_id": "",
   "max_num_requests": 50,
   "purge_old_data": false,
   "download_bio": true,

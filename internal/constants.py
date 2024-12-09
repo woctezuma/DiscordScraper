@@ -21,6 +21,7 @@ info = """[bold black]
 default_data = {
     "token": "",
     "guild_id": 0,
+    "webhook_id": "",
     "max_num_requests": 50,
     "purge_old_data": False,
     "download_bio": True,
