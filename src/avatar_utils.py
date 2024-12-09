@@ -6,7 +6,7 @@ from src.member_utils import load_member_dictionaries
 from src.utils import get_unique_dict_values
 
 
-def load_avatar_urls() -> list[None | str]:
+def load_avatar_urls() -> list[str | None]:
     d = load_member_dictionaries()
     return get_unique_dict_values(d, "avatar")
 

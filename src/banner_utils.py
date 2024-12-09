@@ -13,7 +13,7 @@ from src.utils import get_unique_dict_values
 
 def load_banner_urls(
     output_fname_for_aggregated_profiles: str = "",
-) -> list[None | str]:
+) -> list[str | None]:
     d = load_aggregate_from_disk()
     if not d:
         d = aggregate_profiles(output_fname_for_aggregated_profiles)
