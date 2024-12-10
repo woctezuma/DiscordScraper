@@ -230,10 +230,10 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
 
     profile_summary = {
         "id": member.id,
-        "name": clean_string(member.name),
-        "nick": clean_string(member.nick),
-        "display_name": clean_string(member.display_name),
-        "global_name": clean_string(member.global_name),
+        "name": clean_string(profile.name),
+        "nick": clean_string(profile.nick),
+        "display_name": clean_string(profile.display_name),
+        "global_name": clean_string(profile.global_name),
         "pronouns": profile.metadata.pronouns,
         "guild_pronouns": profile.guild_metadata.pronouns,
         "bio": clean_string(profile.bio),
