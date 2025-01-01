@@ -1784,5 +1784,38 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1030887014398165094": {
+    "id": 1030887014398165094,
+    "name": "youngskiczu",
+    "nick": null,
+    "display_name": "SKICZU",
+    "global_name": "SKICZU",
+    "pronouns": "\"\ud835\udd6d\ud835\udd97\ud835\udd94'\ud835\udd98 \ud835\udd8c\ud835\udd94\ud835\udd89\"",
+    "guild_pronouns": null,
+    "bio": "> twitch.tv/youngskiczu\n> spotify: KOKE\n> https://bio.link/youngskiczu\n> LEAN LOVER \n\nMUZYKA: https://bio.link/koke2115\nPodbije wiat.  Music artist & Streamer",
+    "guild_bio": null,
+    "display_bio": "> twitch.tv/youngskiczu\n> spotify: KOKE\n> https://bio.link/youngskiczu\n> LEAN LOVER \n\nMUZYKA: https://bio.link/koke2115\nPodbije wiat.  Music artist & Streamer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199336703710",
+        "name": "Young Skiczu",
+        "url": "https://steamcommunity.com/profiles/76561199336703710"
+      },
+      "twitch": {
+        "id": "879456714",
+        "name": "youngskiczu",
+        "url": "https://www.twitch.tv/youngskiczu"
+      }
+    },
+    "legacy_username": "beka z cb#8529"
   }
 }
