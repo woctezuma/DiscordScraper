@@ -975,5 +975,65 @@
     ],
     "connections": {},
     "legacy_username": "Miggsy007#5154"
+  },
+  "312178270487445504": {
+    "id": 312178270487445504,
+    "name": "hace_07",
+    "nick": null,
+    "display_name": "bonbon",
+    "global_name": "bonbon",
+    "pronouns": "boncha",
+    "guild_pronouns": null,
+    "bio": " ",
+    "guild_bio": null,
+    "display_bio": " ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6013461795379510",
+        "name": "hx.ceknor",
+        "url": "https://www.instagram.com/hx.ceknor"
+      },
+      "steam": {
+        "id": "76561199086776689",
+        "name": "bonbon20",
+        "url": "https://steamcommunity.com/profiles/76561199086776689"
+      }
+    },
+    "legacy_username": "\u01dd\u0254\u0250\u0265#4085"
+  },
+  "516668956690350091": {
+    "id": 516668956690350091,
+    "name": "ertothegamma",
+    "nick": null,
+    "display_name": "Dermitio",
+    "global_name": "Dermitio",
+    "pronouns": "Creator of realities / taker of souls.",
+    "guild_pronouns": null,
+    "bio": "you should read this !\nhttps://www.reddit.com/user/dermitio/comments/1hi3n30/hi_i_am_dermitio\n\n19. no matter how older or younger I act like.",
+    "guild_bio": null,
+    "display_bio": "you should read this !\nhttps://www.reddit.com/user/dermitio/comments/1hi3n30/hi_i_am_dermitio\n\n19. no matter how older or younger I act like.",
+    "banner": "https://cdn.discordapp.com/banners/516668956690350091/2df06776720bdb592f6d0c596f958926.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/516668956690350091/2df06776720bdb592f6d0c596f958926.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198310179483",
+        "name": "Dermitio",
+        "url": "https://steamcommunity.com/profiles/76561198310179483"
+      }
+    },
+    "legacy_username": "erto [gamma radiated]#5943"
   }
 }
