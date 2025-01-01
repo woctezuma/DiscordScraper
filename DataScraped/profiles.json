@@ -525,5 +525,67 @@
       }
     },
     "legacy_username": "\ub4f1\ub300#4891"
+  },
+  "711918917345607822": {
+    "id": 711918917345607822,
+    "name": "redmechanic",
+    "nick": null,
+    "display_name": "Fantastic C4",
+    "global_name": "Fantastic C4",
+    "pronouns": "nick/her",
+    "guild_pronouns": null,
+    "bio": "My pros: Ill help u with stuff u dont understand. My drawbacks: I will call u a dumbass in 50 different languages while doing it",
+    "guild_bio": null,
+    "display_bio": "My pros: Ill help u with stuff u dont understand. My drawbacks: I will call u a dumbass in 50 different languages while doing it",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199059287269",
+        "name": "Lavamaster99",
+        "url": "https://steamcommunity.com/profiles/76561199059287269"
+      }
+    },
+    "legacy_username": "\u0280\u1d07\u1d05\u1d0d\u1d07\u1d04\u029c\u1d00\u0274\u026a\u1d04#5325"
+  },
+  "1182313482260066409": {
+    "id": 1182313482260066409,
+    "name": "mystic_02556",
+    "nick": null,
+    "display_name": "Mystic",
+    "global_name": "Mystic",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1304732345164890132": {
+    "id": 1304732345164890132,
+    "name": "sorkar56to",
+    "nick": null,
+    "display_name": "sorkar56to",
+    "global_name": "sorkar56to",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
