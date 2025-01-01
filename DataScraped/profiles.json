@@ -1453,5 +1453,53 @@
       }
     },
     "legacy_username": "KoolMoh#3434"
+  },
+  "572659347696517135": {
+    "id": 572659347696517135,
+    "name": "widowmaker1986",
+    "nick": null,
+    "display_name": "WidowMaker",
+    "global_name": "WidowMaker",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<:Widowmaker:1103201225345859594>",
+    "guild_bio": null,
+    "display_bio": "<:Widowmaker:1103201225345859594>",
+    "banner": "https://cdn.discordapp.com/banners/572659347696517135/a_0299315cfccd6deef449af5f8c9b1d61.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/572659347696517135/a_0299315cfccd6deef449af5f8c9b1d61.gif?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "WidowMaker#13433",
+        "name": "WidowMaker#13433",
+        "url": null
+      },
+      "epic_games": {
+        "id": "8a267a4fdd264b4b97d1df711b07cbbf",
+        "name": "WidowMaker3586",
+        "url": null
+      },
+      "facebook": {
+        "id": "1635148773345280",
+        "name": "Matthew Disbrow",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198002288729",
+        "name": "WidowMakerFG",
+        "url": "https://steamcommunity.com/profiles/76561198002288729"
+      },
+      "twitch": {
+        "id": "178131212",
+        "name": "widowmaker3486",
+        "url": "https://www.twitch.tv/widowmaker3486"
+      }
+    },
+    "legacy_username": "WidowMaker#7897"
   }
 }
