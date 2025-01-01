@@ -1697,5 +1697,46 @@
       }
     },
     "legacy_username": null
+  },
+  "151445436262121472": {
+    "id": 151445436262121472,
+    "name": "linkon18",
+    "nick": null,
+    "display_name": "Linkon18",
+    "global_name": "Linkon18",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Linkon18#5947"
+  },
+  "1324131607149547584": {
+    "id": 1324131607149547584,
+    "name": "kazzukaam",
+    "nick": null,
+    "display_name": "Kazzukaam",
+    "global_name": "Kazzukaam",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
