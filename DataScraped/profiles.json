@@ -1114,5 +1114,25 @@
       }
     },
     "legacy_username": null
+  },
+  "994637864048541717": {
+    "id": 994637864048541717,
+    "name": "bacsipho004",
+    "nick": null,
+    "display_name": "Bc S Ph",
+    "global_name": "Bc S Ph",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "B\u00e1c S\u0129 - Ph\u1edf#6938"
   }
 }
