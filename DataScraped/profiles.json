@@ -1396,5 +1396,25 @@
       }
     },
     "legacy_username": null
+  },
+  "749683988242759710": {
+    "id": 749683988242759710,
+    "name": "the_lonely_biscuit",
+    "nick": null,
+    "display_name": "2Biscuits4U",
+    "global_name": "2Biscuits4U",
+    "pronouns": "DEUS/VULT",
+    "guild_pronouns": null,
+    "bio": "Hey kids, wanna see a dead body?",
+    "guild_bio": null,
+    "display_bio": "Hey kids, wanna see a dead body?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "The_Lonely_Biscuit#5459"
   }
 }
