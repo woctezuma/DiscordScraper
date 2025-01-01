@@ -461,5 +461,69 @@
     ],
     "connections": {},
     "legacy_username": "Stoney#8976"
+  },
+  "1083199054017744926": {
+    "id": 1083199054017744926,
+    "name": "rsjunior2.0",
+    "nick": null,
+    "display_name": "METHOMATICS",
+    "global_name": "METHOMATICS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3077685323136560",
+        "name": "Mason1256919",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Mason1256919"
+      }
+    },
+    "legacy_username": null
+  },
+  "718811718570213446": {
+    "id": 718811718570213446,
+    "name": "han__seon",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\uc720\ud55c\uc120",
+    "guild_pronouns": null,
+    "bio": "\n\nE-mail: hanseon0303@gmail.com",
+    "guild_bio": null,
+    "display_bio": "\n\nE-mail: hanseon0303@gmail.com",
+    "banner": "https://cdn.discordapp.com/banners/718811718570213446/bc446dadd68df2e4d9ee81a1ba9be4a2.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/718811718570213446/bc446dadd68df2e4d9ee81a1ba9be4a2.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "ae3e5a9944f64c82a5d5b89f344d0fc5",
+        "name": "\ub4f1\ub300\uc785\ub2c8\ub2f9",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "DCdU2aVgQZEmlgHNcKWYLGB3O63MJBkhMh5HNvvj1RbveRLrM1A5BsuiPdsA25Z325c1JUqCK5CAHw",
+        "name": "\ub2a5\uc9c0\uac00\ucd9c\ud568",
+        "url": null
+      },
+      "riot_games": {
+        "id": "DCdU2aVgQZEmlgHNcKWYLGB3O63MJBkhMh5HNvvj1RbveRLrM1A5BsuiPdsA25Z325c1JUqCK5CAHw",
+        "name": "\ub4f1\ub300\uc785\ub2c8\ub2f9#7777",
+        "url": null
+      }
+    },
+    "legacy_username": "\ub4f1\ub300#4891"
   }
 }
