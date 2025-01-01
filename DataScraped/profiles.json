@@ -1817,5 +1817,50 @@
       }
     },
     "legacy_username": "beka z cb#8529"
+  },
+  "498206991701770240": {
+    "id": 498206991701770240,
+    "name": "youkaii",
+    "nick": null,
+    "display_name": "youkaii",
+    "global_name": "youkaii",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "not even once",
+    "guild_bio": null,
+    "display_bio": "not even once",
+    "banner": "https://cdn.discordapp.com/banners/498206991701770240/a_ba203120a0ea0c9057eba7ea62d0f205.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/498206991701770240/a_ba203120a0ea0c9057eba7ea62d0f205.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31zrr5ntmwuj4imfpk2v7c2rpr3q",
+        "name": "karolina",
+        "url": "https://open.spotify.com/user/31zrr5ntmwuj4imfpk2v7c2rpr3q"
+      },
+      "steam": {
+        "id": "76561199111056428",
+        "name": "youkaii777",
+        "url": "https://steamcommunity.com/profiles/76561199111056428"
+      },
+      "twitch": {
+        "id": "570124207",
+        "name": "youkaii777",
+        "url": "https://www.twitch.tv/youkaii777"
+      },
+      "youtube": {
+        "id": "UCm482UPY0Ug64i6vCM4-IQA",
+        "name": "youkaii",
+        "url": "https://www.youtube.com/channel/UCm482UPY0Ug64i6vCM4-IQA"
+      }
+    },
+    "legacy_username": "youkaii#2045"
   }
 }
