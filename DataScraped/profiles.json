@@ -812,5 +812,25 @@
       }
     },
     "legacy_username": "Reckless#5637"
+  },
+  "1075558046123708506": {
+    "id": 1075558046123708506,
+    "name": "tc5r",
+    "nick": null,
+    "display_name": "V1RUS",
+    "global_name": "V1RUS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "VIRUS#0274"
   }
 }
