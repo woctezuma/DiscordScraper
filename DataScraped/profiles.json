@@ -1350,5 +1350,51 @@
       }
     },
     "legacy_username": "mrringles#6621"
+  },
+  "1224897912237195314": {
+    "id": 1224897912237195314,
+    "name": "catdewhisky",
+    "nick": null,
+    "display_name": "Cat",
+    "global_name": "Cat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "2456caed4b2c48f5b43ac413d5bd69ba",
+        "name": "catdewhisky",
+        "url": null
+      },
+      "playstation": {
+        "id": "1312426323778694957",
+        "name": "catdewhisky",
+        "url": null
+      },
+      "spotify": {
+        "id": "f96gpjj0bcgot0q4516dc999i",
+        "name": "Cat",
+        "url": "https://open.spotify.com/user/f96gpjj0bcgot0q4516dc999i"
+      },
+      "steam": {
+        "id": "76561198801575019",
+        "name": "catdewhisky",
+        "url": "https://steamcommunity.com/profiles/76561198801575019"
+      },
+      "twitch": {
+        "id": "274259243",
+        "name": "catdewhisky",
+        "url": "https://www.twitch.tv/catdewhisky"
+      }
+    },
+    "legacy_username": null
   }
 }
