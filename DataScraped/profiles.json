@@ -1281,5 +1281,23 @@
       }
     },
     "legacy_username": "dezzie#2204"
+  },
+  "1324082883564011591": {
+    "id": 1324082883564011591,
+    "name": "douglas009714",
+    "nick": null,
+    "display_name": "Douglas",
+    "global_name": "Douglas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
