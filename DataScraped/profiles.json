@@ -1299,5 +1299,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1200099164571316297": {
+    "id": 1200099164571316297,
+    "name": "unqni",
+    "nick": null,
+    "display_name": "unqni",
+    "global_name": "unqni",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "831278368846381129": {
+    "id": 831278368846381129,
+    "name": "mrringles",
+    "nick": null,
+    "display_name": "mrringles",
+    "global_name": "mrringles",
+    "pronouns": "Best",
+    "guild_pronouns": null,
+    "bio": "  \n \nkill all gamers \nFemcel Hunter  ",
+    "guild_bio": null,
+    "display_bio": "  \n \nkill all gamers \nFemcel Hunter  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198147749942",
+        "name": "Ringles",
+        "url": "https://steamcommunity.com/profiles/76561198147749942"
+      },
+      "twitch": {
+        "id": "897267812",
+        "name": "catgirllover1056",
+        "url": "https://www.twitch.tv/catgirllover1056"
+      }
+    },
+    "legacy_username": "mrringles#6621"
   }
 }
