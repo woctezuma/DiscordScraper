@@ -850,5 +850,130 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "697886340473290764": {
+    "id": 697886340473290764,
+    "name": "pinster43",
+    "nick": null,
+    "display_name": "Pinster",
+    "global_name": "Pinster",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Desenvolvedor de Games:\nCompre agora meu jogo de mistrio e investigao!\nhttps://store.steampowered.com/app/3017570/Mary",
+    "guild_bio": null,
+    "display_bio": "Desenvolvedor de Games:\nCompre agora meu jogo de mistrio e investigao!\nhttps://store.steampowered.com/app/3017570/Mary",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6512013292237138",
+        "name": "pinstergames",
+        "url": "https://www.instagram.com/pinstergames"
+      },
+      "steam": {
+        "id": "76561198800599210",
+        "name": "Pinster43",
+        "url": "https://steamcommunity.com/profiles/76561198800599210"
+      }
+    },
+    "legacy_username": "PinsteR#8673"
+  },
+  "1199300175840149565": {
+    "id": 1199300175840149565,
+    "name": ".3.7.4.",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Success is a journey, not a destination",
+    "guild_pronouns": null,
+    "bio": ">  _**Ive been through the pain, now its time for the pleasure.**_",
+    "guild_bio": null,
+    "display_bio": ">  _**Ive been through the pain, now its time for the pleasure.**_",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:myqs6yznbgqmhbqbhreykdmf",
+        "name": "374ramsee.bsky.social",
+        "url": null
+      },
+      "riot_games": {
+        "id": "7A3P5tmlnd2JTA2VbVzoGowg6Ulf2lP-atWBZoh_bL10ga26kQVkrE0rmzvA78N8VBpCQBsM1BaScw",
+        "name": "374 RAMSEY#7777",
+        "url": null
+      }
+    },
+    "legacy_username": null
+  },
+  "745251919903064155": {
+    "id": 745251919903064155,
+    "name": "radiabyte",
+    "nick": null,
+    "display_name": "Radiabyte",
+    "global_name": "Radiabyte",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Radiabyte#4309"
+  },
+  "1202896892170866718": {
+    "id": 1202896892170866718,
+    "name": "godamoungmen1",
+    "nick": null,
+    "display_name": "KingofKings",
+    "global_name": "KingofKings",
+    "pronouns": "re/turned",
+    "guild_pronouns": null,
+    "bio": "If you have a problem with me fuck off i dont give a shit your opinions dont matter to me\n\nalso if you red this you wasted your time",
+    "guild_bio": null,
+    "display_bio": "If you have a problem with me fuck off i dont give a shit your opinions dont matter to me\n\nalso if you red this you wasted your time",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1020610667365027870": {
+    "id": 1020610667365027870,
+    "name": "miggsy007",
+    "nick": null,
+    "display_name": "Miggsy007",
+    "global_name": "Miggsy007",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Miggsy007#5154"
   }
 }
