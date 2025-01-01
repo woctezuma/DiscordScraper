@@ -1738,5 +1738,31 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "852663078112985089": {
+    "id": 852663078112985089,
+    "name": "herbesdeprovence",
+    "nick": null,
+    "display_name": "herbesdeprovence",
+    "global_name": "herbesdeprovence",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198082023389",
+        "name": "herbesdeprovence",
+        "url": "https://steamcommunity.com/profiles/76561198082023389"
+      }
+    },
+    "legacy_username": null
   }
 }
