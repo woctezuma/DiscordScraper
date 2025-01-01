@@ -1134,5 +1134,152 @@
     ],
     "connections": {},
     "legacy_username": "B\u00e1c S\u0129 - Ph\u1edf#6938"
+  },
+  "588301459594936321": {
+    "id": 588301459594936321,
+    "name": "morichh",
+    "nick": null,
+    "display_name": "idwknw",
+    "global_name": "idwknw",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "inst: scceis.s\ntg: idkwhtiwant",
+    "guild_bio": null,
+    "display_bio": "inst: scceis.s\ntg: idkwhtiwant",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "6f4c879a42df4e0aacbd885175f41ce1",
+        "name": "SS.Morich",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "y3GyO6Gqi1JBRNAZTLTziMKWTFTo7rhPvfmHK1YBEbGe-fztesJG5qi-WOz8jgjO6WCJVwGvaT4q9g",
+        "name": "Morich",
+        "url": null
+      },
+      "riot_games": {
+        "id": "y3GyO6Gqi1JBRNAZTLTziMKWTFTo7rhPvfmHK1YBEbGe-fztesJG5qi-WOz8jgjO6WCJVwGvaT4q9g",
+        "name": "Morich#RU1",
+        "url": null
+      },
+      "twitch": {
+        "id": "444649709",
+        "name": "tochno_ne_morich",
+        "url": "https://www.twitch.tv/tochno_ne_morich"
+      },
+      "xbox": {
+        "id": "3072501420011853",
+        "name": "MORIXHH",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MORIXHH"
+      }
+    },
+    "legacy_username": null
+  },
+  "800444102210617396": {
+    "id": 800444102210617396,
+    "name": "williamurg",
+    "nick": null,
+    "display_name": "williamurg#0952",
+    "global_name": "williamurg#0952",
+    "pronouns": "Die katze spielt nie klavier",
+    "guild_pronouns": null,
+    "bio": "If you EVER feel like an outsider or that theres something wrong with you its society thats the blame\n\n-someone from the psychology department\n\nOh i nearly forgot, take this , safe journey",
+    "guild_bio": null,
+    "display_bio": "If you EVER feel like an outsider or that theres something wrong with you its society thats the blame\n\n-someone from the psychology department\n\nOh i nearly forgot, take this , safe journey",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "RY4XOoHxteRdpyymQiWD-7zqLjaOyDn-Spk68KMiLS9CCwxnBMpT4o4vDKi9RcYExmutHWFcZZnzgQ",
+        "name": "",
+        "url": null
+      },
+      "reddit": {
+        "id": "9vq5yabp",
+        "name": "williamurg",
+        "url": "https://www.reddit.com/u/williamurg"
+      },
+      "riot_games": {
+        "id": "RY4XOoHxteRdpyymQiWD-7zqLjaOyDn-Spk68KMiLS9CCwxnBMpT4o4vDKi9RcYExmutHWFcZZnzgQ",
+        "name": "williamurg#0951",
+        "url": null
+      },
+      "spotify": {
+        "id": "314frjiitsolmq2oot5pnd5z5rpu",
+        "name": "williamurg",
+        "url": "https://open.spotify.com/user/314frjiitsolmq2oot5pnd5z5rpu"
+      },
+      "twitch": {
+        "id": "666841086",
+        "name": "williamurg",
+        "url": "https://www.twitch.tv/williamurg"
+      },
+      "twitter": {
+        "id": "1398249114534559748",
+        "name": "Williamurg1",
+        "url": "https://twitter.com/Williamurg1"
+      },
+      "youtube": {
+        "id": "UCQQD5l3wR5fL8cfjb00OVKw",
+        "name": "williamurg",
+        "url": "https://www.youtube.com/channel/UCQQD5l3wR5fL8cfjb00OVKw"
+      }
+    },
+    "legacy_username": "williamurg#0952"
+  },
+  "444907444313915394": {
+    "id": 444907444313915394,
+    "name": "dezzie_rel",
+    "nick": null,
+    "display_name": "azis",
+    "global_name": "azis",
+    "pronouns": "pi/wo",
+    "guild_pronouns": null,
+    "bio": "<:python:758369032495300629> Python Programmer\n<:G2:1123245416532680754> fan\n<a:violet_flame:770597877164670976> Algorithms",
+    "guild_bio": null,
+    "display_bio": "<:python:758369032495300629> Python Programmer\n<:G2:1123245416532680754> fan\n<a:violet_flame:770597877164670976> Algorithms",
+    "banner": "https://cdn.discordapp.com/banners/444907444313915394/a_f681233e42399da0c75c2b9f4933cb02.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/444907444313915394/a_f681233e42399da0c75c2b9f4933cb02.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "lBLk4Kg_EUqMADwONjf1QyME0l6QNlkCQtdPZRuQtyEHGprc4gRLGTM6mkHlluka8otE7heLaEiliw",
+        "name": "LostBlade#40213",
+        "url": null
+      },
+      "riot_games": {
+        "id": "lBLk4Kg_EUqMADwONjf1QyME0l6QNlkCQtdPZRuQtyEHGprc4gRLGTM6mkHlluka8otE7heLaEiliw",
+        "name": "LostBlade#40213",
+        "url": null
+      },
+      "spotify": {
+        "id": "31jtobbvah3wrtj5rgyq43gzlxt4",
+        "name": "azis",
+        "url": "https://open.spotify.com/user/31jtobbvah3wrtj5rgyq43gzlxt4"
+      },
+      "twitch": {
+        "id": "1135655978",
+        "name": "azismh",
+        "url": "https://www.twitch.tv/azismh"
+      }
+    },
+    "legacy_username": "dezzie#2204"
   }
 }
