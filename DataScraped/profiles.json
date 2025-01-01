@@ -832,5 +832,23 @@
     ],
     "connections": {},
     "legacy_username": "VIRUS#0274"
+  },
+  "1299337771370025063": {
+    "id": 1299337771370025063,
+    "name": "vima_68478",
+    "nick": null,
+    "display_name": "VIMA",
+    "global_name": "VIMA",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
