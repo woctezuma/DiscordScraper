@@ -587,5 +587,81 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "544554503018643478": {
+    "id": 544554503018643478,
+    "name": "somenightguy",
+    "nick": null,
+    "display_name": "Night",
+    "global_name": "Night",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hello there.",
+    "guild_bio": null,
+    "display_bio": "Hello there.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "1524437046349213697",
+        "name": "Moha_NightBro",
+        "url": "https://twitter.com/Moha_NightBro"
+      },
+      "youtube": {
+        "id": "UCgNV0WY1MJ8xJL7QphgxkjA",
+        "name": "SomeNightGuy",
+        "url": "https://www.youtube.com/channel/UCgNV0WY1MJ8xJL7QphgxkjA"
+      }
+    },
+    "legacy_username": "SomeNightGuy#3725"
+  },
+  "235858805240365057": {
+    "id": 235858805240365057,
+    "name": "meri.nari",
+    "nick": null,
+    "display_name": "Nari",
+    "global_name": "Nari",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "68717427",
+        "name": "zerja89",
+        "url": "https://www.twitch.tv/zerja89"
+      }
+    },
+    "legacy_username": "Meri | Razru#4002"
+  },
+  "1283179602872635526": {
+    "id": 1283179602872635526,
+    "name": "akrem_67144",
+    "nick": null,
+    "display_name": "Akrem",
+    "global_name": "Akrem",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
