@@ -1668,5 +1668,34 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "796832289592967218": {
+    "id": 796832289592967218,
+    "name": "_nassse_",
+    "nick": null,
+    "display_name": "n4se",
+    "global_name": "n4se",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199378927897",
+        "name": "n4se",
+        "url": "https://steamcommunity.com/profiles/76561199378927897"
+      },
+      "twitch": {
+        "id": "1130648275",
+        "name": "n4sss3",
+        "url": "https://www.twitch.tv/n4sss3"
+      }
+    },
+    "legacy_username": null
   }
 }
