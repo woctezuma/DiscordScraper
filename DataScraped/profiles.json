@@ -743,5 +743,25 @@
       }
     },
     "legacy_username": "REAPER#6484"
+  },
+  "1006143561147887646": {
+    "id": 1006143561147887646,
+    "name": "nejko._.",
+    "nick": null,
+    "display_name": "nejko",
+    "global_name": "nejko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " https://guns.lol/nejko",
+    "guild_bio": null,
+    "display_bio": " https://guns.lol/nejko",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
