@@ -1087,5 +1087,32 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "285488719257927681": {
+    "id": 285488719257927681,
+    "name": "rack_47",
+    "nick": null,
+    "display_name": "Rack",
+    "global_name": "Rack",
+    "pronouns": "Power/blackout",
+    "guild_pronouns": null,
+    "bio": "We fear naught but God.",
+    "guild_bio": null,
+    "display_bio": "We fear naught but God.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "rackarviktoryt",
+        "name": "V.Magnusson",
+        "url": "https://open.spotify.com/user/rackarviktoryt"
+      }
+    },
+    "legacy_username": null
   }
 }
