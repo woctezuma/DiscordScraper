@@ -1596,5 +1596,77 @@
       }
     },
     "legacy_username": "Goat_yay#9273"
+  },
+  "607594710843785217": {
+    "id": 607594710843785217,
+    "name": "red990",
+    "nick": null,
+    "display_name": "red990",
+    "global_name": null,
+    "pronouns": "i am/the honored one",
+    "guild_pronouns": null,
+    "bio": "\"You only live once and I'll live to the fullest. When I lay down to rest inside my coffin. I want my fists clenched with pride, Certain that I lived the best life I could have.\"",
+    "guild_bio": null,
+    "display_bio": "\"You only live once and I'll live to the fullest. When I lay down to rest inside my coffin. I want my fists clenched with pride, Certain that I lived the best life I could have.\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "OGFhYzNmNjBjNjA1NTdjZjU0YTMyOWMzYjA2ZjJiYWM2MjZiNjIxOThmOGRmZjQ3N2Y3ZjU2NTlmZWJkNDU3Mg",
+        "name": "Discret11MG",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Discret11MG"
+      }
+    },
+    "legacy_username": "red990#6816"
+  },
+  "408936478287200256": {
+    "id": 408936478287200256,
+    "name": "ldp_legend",
+    "nick": null,
+    "display_name": "Legend",
+    "global_name": "Legend",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198041295625",
+        "name": "I'm dueL",
+        "url": "https://steamcommunity.com/profiles/76561198041295625"
+      }
+    },
+    "legacy_username": "BlackowL#5216"
+  },
+  "237707823176220672": {
+    "id": 237707823176220672,
+    "name": "bk_grilles5878",
+    "nick": null,
+    "display_name": "bk_grilles",
+    "global_name": "bk_grilles",
+    "pronouns": "yo, mama",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
