@@ -1564,5 +1564,37 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "290336009298640897": {
+    "id": 290336009298640897,
+    "name": "goat_yay",
+    "nick": null,
+    "display_name": "Goat_yay",
+    "global_name": "Goat_yay",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "oqrk1u4ow",
+        "name": "btanqy",
+        "url": "https://www.reddit.com/u/btanqy"
+      },
+      "twitch": {
+        "id": "418420854",
+        "name": "goat_yay",
+        "url": "https://www.twitch.tv/goat_yay"
+      }
+    },
+    "legacy_username": "Goat_yay#9273"
   }
 }
