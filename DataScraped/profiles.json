@@ -663,5 +663,85 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "304616959742443521": {
+    "id": 304616959742443521,
+    "name": "kidshawn",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Assault/Elicopter",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "e87wmzxl7sdf5hlzmtjscs9a8",
+        "name": "Verrellishawn",
+        "url": "https://open.spotify.com/user/e87wmzxl7sdf5hlzmtjscs9a8"
+      },
+      "steam": {
+        "id": "76561198281380636",
+        "name": "[YT]ZombieMaster",
+        "url": "https://steamcommunity.com/profiles/76561198281380636"
+      },
+      "youtube": {
+        "id": "UC2qdsOebbd9BaLY7xm36k_g",
+        "name": "un nabbo su cod",
+        "url": "https://www.youtube.com/channel/UC2qdsOebbd9BaLY7xm36k_g"
+      }
+    },
+    "legacy_username": "\u30b7\u30e7\u30fc\u30f3#0744"
+  },
+  "1099314807057960970": {
+    "id": 1099314807057960970,
+    "name": "mxrgul",
+    "nick": null,
+    "display_name": "Mxrgul",
+    "global_name": "Mxrgul",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "AKA Reaper\n\nhttps://linktr.ee/mxrgul",
+    "guild_bio": null,
+    "display_bio": "AKA Reaper\n\nhttps://linktr.ee/mxrgul",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "JOKER#222822",
+        "name": "JOKER#222822",
+        "url": null
+      },
+      "epic_games": {
+        "id": "47f7b9378fb34e9c8b36cdd2d8ac98c2",
+        "name": "Mxrgul",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198257595895",
+        "name": "Mxrgul",
+        "url": "https://steamcommunity.com/profiles/76561198257595895"
+      },
+      "xbox": {
+        "id": "3062975199998430",
+        "name": "Mxrgul1972",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Mxrgul1972"
+      }
+    },
+    "legacy_username": "REAPER#6484"
   }
 }
