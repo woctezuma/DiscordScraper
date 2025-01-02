@@ -2728,5 +2728,64 @@
     ],
     "connections": {},
     "legacy_username": "Xaviq#7951"
+  },
+  "853077105003855893": {
+    "id": 853077105003855893,
+    "name": "febsssss06",
+    "nick": null,
+    "display_name": "febs",
+    "global_name": "febs",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31vvcyvjwiide6ghvht32gckooaq",
+        "name": "febriansyah",
+        "url": "https://open.spotify.com/user/31vvcyvjwiide6ghvht32gckooaq"
+      },
+      "xbox": {
+        "id": "3077006616894908",
+        "name": "FrostGod602031",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=FrostGod602031"
+      }
+    },
+    "legacy_username": "febri#4066"
+  },
+  "290551601070997505": {
+    "id": 290551601070997505,
+    "name": "ezsubnet",
+    "nick": null,
+    "display_name": "Ezsubnet",
+    "global_name": "Ezsubnet",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "chris_44_",
+        "name": "Chr Is",
+        "url": "https://open.spotify.com/user/chris_44_"
+      }
+    },
+    "legacy_username": "Ezsubnet- Redcap#1692"
   }
 }
