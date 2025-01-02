@@ -2904,5 +2904,65 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "884408505396772924": {
+    "id": 884408505396772924,
+    "name": "___watson___",
+    "nick": null,
+    "display_name": "Watson",
+    "global_name": "Watson",
+    "pronouns": "Your Majesty",
+    "guild_pronouns": null,
+    "bio": "Need ur red flavorful thing'",
+    "guild_bio": null,
+    "display_bio": "Need ur red flavorful thing'",
+    "banner": "https://cdn.discordapp.com/banners/884408505396772924/4c766cda4ee352ddad8076f3250f6217.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/884408505396772924/4c766cda4ee352ddad8076f3250f6217.png?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4527841304185060756",
+        "name": "watson_s86",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198379695281",
+        "name": "Watson",
+        "url": "https://steamcommunity.com/profiles/76561198379695281"
+      },
+      "xbox": {
+        "id": "3063810467675640",
+        "name": "Bloodedge5583",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Bloodedge5583"
+      }
+    },
+    "legacy_username": "Watson#0003"
+  },
+  "731441600768639057": {
+    "id": 731441600768639057,
+    "name": "yhbh_2tap",
+    "nick": null,
+    "display_name": "2tap",
+    "global_name": "2tap",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u6d6e\u534e\u83cc#0912"
   }
 }
