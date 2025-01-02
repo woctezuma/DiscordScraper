@@ -2649,5 +2649,41 @@
       }
     },
     "legacy_username": "YoucrazyOne .-.#0844"
+  },
+  "273131119321415680": {
+    "id": 273131119321415680,
+    "name": "carapacik",
+    "nick": null,
+    "display_name": "Carapacik",
+    "global_name": "Carapacik",
+    "pronouns": "milord",
+    "guild_pronouns": null,
+    "bio": ":carapa2Heart: https://carapacik.github.io :carapa2Heart:",
+    "guild_bio": null,
+    "display_bio": ":carapa2Heart: https://carapacik.github.io :carapa2Heart:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "github": {
+        "id": "52125833",
+        "name": "Carapacik",
+        "url": "https://github.com/Carapacik"
+      },
+      "steam": {
+        "id": "76561198090549054",
+        "name": "Carapacik",
+        "url": "https://steamcommunity.com/profiles/76561198090549054"
+      },
+      "twitch": {
+        "id": "92372555",
+        "name": "carapacik",
+        "url": "https://www.twitch.tv/carapacik"
+      }
+    },
+    "legacy_username": null
   }
 }
