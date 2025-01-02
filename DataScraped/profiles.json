@@ -2571,5 +2571,83 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "729341882412564521": {
+    "id": 729341882412564521,
+    "name": "rival9857",
+    "nick": null,
+    "display_name": "Rival",
+    "global_name": "Rival",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "15891b090373438b8e4acda450cca9eb",
+        "name": "xRifaldi",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199072055326",
+        "name": "Rivaldi",
+        "url": "https://steamcommunity.com/profiles/76561199072055326"
+      },
+      "xbox": {
+        "id": "3066938875123519",
+        "name": "xRival96",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=xRival96"
+      }
+    },
+    "legacy_username": "Rival#9857"
+  },
+  "625410608044572682": {
+    "id": 625410608044572682,
+    "name": "youcrazyone",
+    "nick": null,
+    "display_name": "YoucrazyOne .-.",
+    "global_name": "YoucrazyOne .-.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "gt36aw94",
+        "name": "YoucrazyOne_",
+        "url": "https://www.reddit.com/u/YoucrazyOne_"
+      },
+      "steam": {
+        "id": "76561198884522543",
+        "name": "YoucrazyOne",
+        "url": "https://steamcommunity.com/profiles/76561198884522543"
+      },
+      "xbox": {
+        "id": "3064318197582865",
+        "name": "YoucrazyOne",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=YoucrazyOne"
+      },
+      "youtube": {
+        "id": "UCQfX--zhydCQtbCKmUyxvUw",
+        "name": "YoucrazyOne",
+        "url": "https://www.youtube.com/channel/UCQfX--zhydCQtbCKmUyxvUw"
+      }
+    },
+    "legacy_username": "YoucrazyOne .-.#0844"
   }
 }
