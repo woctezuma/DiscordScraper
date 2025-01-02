@@ -3876,5 +3876,62 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "526156091785216028": {
+    "id": 526156091785216028,
+    "name": "momlander",
+    "nick": null,
+    "display_name": "Max",
+    "global_name": "Max",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Stay Safe, Friend. Don't you dare go Hollow.\nSteam : 430164121",
+    "guild_bio": null,
+    "display_bio": "Stay Safe, Friend. Don't you dare go Hollow.\nSteam : 430164121",
+    "banner": "https://cdn.discordapp.com/banners/526156091785216028/a_9f8a47d47e0f63f5125e5ac1a273cfff.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/526156091785216028/a_9f8a47d47e0f63f5125e5ac1a273cfff.gif?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198390429849",
+        "name": "Max",
+        "url": "https://steamcommunity.com/profiles/76561198390429849"
+      },
+      "xbox": {
+        "id": "3073147030582316",
+        "name": "MaxBoi8223",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MaxBoi8223"
+      }
+    },
+    "legacy_username": "MaxTHEsimp#5475"
+  },
+  "970433520839294996": {
+    "id": 970433520839294996,
+    "name": "clintomus",
+    "nick": null,
+    "display_name": "Templar Clintomus",
+    "global_name": "Templar Clintomus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31pnvdrxdeke5slo7uvxh2vxv7xi",
+        "name": "Clint Barnett",
+        "url": "https://open.spotify.com/user/31pnvdrxdeke5slo7uvxh2vxv7xi"
+      }
+    },
+    "legacy_username": null
   }
 }
