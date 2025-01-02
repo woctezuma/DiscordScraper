@@ -2521,5 +2521,37 @@
     ],
     "connections": {},
     "legacy_username": "Josh Komarov#9963"
+  },
+  "243747910007652352": {
+    "id": 243747910007652352,
+    "name": "magnusg1994",
+    "nick": null,
+    "display_name": "MagnusG",
+    "global_name": "MagnusG",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MagnusG#2392",
+        "name": "MagnusG#2392",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197987380505",
+        "name": "MagnusG",
+        "url": "https://steamcommunity.com/profiles/76561197987380505"
+      }
+    },
+    "legacy_username": "MagnusG#3623"
   }
 }
