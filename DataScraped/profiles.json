@@ -4525,5 +4525,44 @@
     ],
     "connections": {},
     "legacy_username": "Nikhil Aslan#9217"
+  },
+  "918670289917870142": {
+    "id": 918670289917870142,
+    "name": "yoitsnones",
+    "nick": null,
+    "display_name": "yoitsnones",
+    "global_name": "yoitsnones",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "yoitsnones",
+        "name": "yoitsnones",
+        "url": "https://open.spotify.com/user/yoitsnones"
+      },
+      "steam": {
+        "id": "76561198909847387",
+        "name": "yoitsnones",
+        "url": "https://steamcommunity.com/profiles/76561198909847387"
+      },
+      "twitch": {
+        "id": "538937047",
+        "name": "wenonalouise",
+        "url": "https://www.twitch.tv/wenonalouise"
+      },
+      "xbox": {
+        "id": "3067292488557251",
+        "name": "yoitsnones",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=yoitsnones"
+      }
+    },
+    "legacy_username": null
   }
 }
