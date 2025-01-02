@@ -4212,5 +4212,91 @@
     ],
     "connections": {},
     "legacy_username": "CursedUnfortunate#5231"
+  },
+  "1048206659413102662": {
+    "id": 1048206659413102662,
+    "name": "redfirewolf3",
+    "nick": null,
+    "display_name": "Red",
+    "global_name": "Red",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "Age: 19\nBirthday: 12/02\nRoblox username: JolteonMonster\nRec room: RedFireWolf1\nVrchat: RedFireWolf3\nBorderline personality disorder, ADHD, and insomnia.",
+    "guild_bio": null,
+    "display_bio": "Age: 19\nBirthday: 12/02\nRoblox username: JolteonMonster\nRec room: RedFireWolf1\nVrchat: RedFireWolf3\nBorderline personality disorder, ADHD, and insomnia.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "RedFireWolf3#0289"
+  },
+  "1174940720117854238": {
+    "id": 1174940720117854238,
+    "name": "grandfatherwil",
+    "nick": null,
+    "display_name": "Mr. No",
+    "global_name": "Mr. No",
+    "pronouns": "Disappointed/ In You (ENTP)",
+    "guild_pronouns": null,
+    "bio": "Viet. \nRemember, the best thing to prepare at a dinner party is the corpse of your only son, as to appease their appetite.",
+    "guild_bio": null,
+    "display_bio": "Viet. \nRemember, the best thing to prepare at a dinner party is the corpse of your only son, as to appease their appetite.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "126363250420875264": {
+    "id": 126363250420875264,
+    "name": "mantve",
+    "nick": null,
+    "display_name": "Mantve",
+    "global_name": "Mantve",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198112869725",
+        "name": "Mantve",
+        "url": "https://steamcommunity.com/profiles/76561198112869725"
+      }
+    },
+    "legacy_username": "Mantve#5126"
+  },
+  "995463687685025955": {
+    "id": 995463687685025955,
+    "name": "sotirizzz",
+    "nick": null,
+    "display_name": "tmnf_player",
+    "global_name": "tmnf_player",
+    "pronouns": "Car/race",
+    "guild_pronouns": null,
+    "bio": "Hi am sotiris am your typical car lover I like all sorts of Cars and If you are reading this I appreciate it",
+    "guild_bio": null,
+    "display_bio": "Hi am sotiris am your typical car lover I like all sorts of Cars and If you are reading this I appreciate it",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
