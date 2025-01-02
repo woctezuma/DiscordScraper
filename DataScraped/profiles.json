@@ -4371,5 +4371,119 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1271967237015863316": {
+    "id": 1271967237015863316,
+    "name": "pepperthenoob1",
+    "nick": null,
+    "display_name": "pepper",
+    "global_name": "pepper",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": ":D",
+    "guild_bio": null,
+    "display_bio": ":D",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "482618677880029204": {
+    "id": 482618677880029204,
+    "name": "valeria10935",
+    "nick": null,
+    "display_name": "Piolina",
+    "global_name": "Piolina",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "minion de 1.65",
+    "guild_bio": null,
+    "display_bio": "minion de 1.65",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "f8pcxcbo37wus0kefuyc3m80z",
+        "name": "-Vxleria \u2b52",
+        "url": "https://open.spotify.com/user/f8pcxcbo37wus0kefuyc3m80z"
+      },
+      "steam": {
+        "id": "76561199475642239",
+        "name": "Wachiturros",
+        "url": "https://steamcommunity.com/profiles/76561199475642239"
+      },
+      "twitter": {
+        "id": "1188911146415411201",
+        "name": "Valeria_10935",
+        "url": "https://twitter.com/Valeria_10935"
+      }
+    },
+    "legacy_username": "!!! \u10e6 \u1d18\u026a\u1d0f\u029f\u026a\u0274\u1d00#8970"
+  },
+  "770090756928569365": {
+    "id": 770090756928569365,
+    "name": "stopsigninagrocerybag",
+    "nick": null,
+    "display_name": "Stop sign in a grocery bag",
+    "global_name": "Stop sign in a grocery bag",
+    "pronouns": "Neolithic Revolutionary",
+    "guild_pronouns": null,
+    "bio": "I wish to go back in time\nAnd sail in the wonderful Lake Mega-Chad\nblack mold is just wild chocolate",
+    "guild_bio": null,
+    "display_bio": "I wish to go back in time\nAnd sail in the wonderful Lake Mega-Chad\nblack mold is just wild chocolate",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Stop sign in a grocery bag#2964"
+  },
+  "726604505956745297": {
+    "id": 726604505956745297,
+    "name": "itzyarealgirlela",
+    "nick": null,
+    "display_name": "ItzyarealgirlEla",
+    "global_name": "ItzyarealgirlEla",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "5318805172",
+        "name": "Itzyarealgirlela200",
+        "url": null
+      },
+      "spotify": {
+        "id": "m9xz9raoskk0b1rnj0dn5lkid",
+        "name": "Animal.lover594",
+        "url": "https://open.spotify.com/user/m9xz9raoskk0b1rnj0dn5lkid"
+      },
+      "xbox": {
+        "id": "3067400628589351",
+        "name": "SudsyPainter930",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SudsyPainter930"
+      }
+    },
+    "legacy_username": "ItzyarealgirlEla#3962"
   }
 }
