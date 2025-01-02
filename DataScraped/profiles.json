@@ -2685,5 +2685,48 @@
       }
     },
     "legacy_username": null
+  },
+  "1014179136027230298": {
+    "id": 1014179136027230298,
+    "name": "chinesecommiebastard",
+    "nick": null,
+    "display_name": "CommieBastard",
+    "global_name": "CommieBastard",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "CommieBastard",
+    "guild_bio": null,
+    "display_bio": "CommieBastard",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "CommieBastard#8946"
+  },
+  "1027958869357498420": {
+    "id": 1027958869357498420,
+    "name": "xavi.365",
+    "nick": null,
+    "display_name": "Xavier",
+    "global_name": "Xavier",
+    "pronouns": "X\u01fbvi, ToXavi",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Xaviq#7951"
   }
 }
