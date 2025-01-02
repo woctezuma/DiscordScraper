@@ -3331,5 +3331,29 @@
       }
     },
     "legacy_username": "Loop#6912"
+  },
+  "1168282695835603064": {
+    "id": 1168282695835603064,
+    "name": "wright07_39179",
+    "nick": null,
+    "display_name": "Wright_07",
+    "global_name": "Wright_07",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "nachher noch minecraft streamen",
+    "guild_bio": null,
+    "display_bio": "nachher noch minecraft streamen",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "1087306040",
+        "name": "wright_07",
+        "url": "https://www.twitch.tv/wright_07"
+      }
+    },
+    "legacy_username": null
   }
 }
