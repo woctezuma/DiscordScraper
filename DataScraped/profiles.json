@@ -2787,5 +2787,104 @@
       }
     },
     "legacy_username": "Ezsubnet- Redcap#1692"
+  },
+  "1108327117109862461": {
+    "id": 1108327117109862461,
+    "name": "maiai.",
+    "nick": null,
+    "display_name": "mai",
+    "global_name": "mai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**.  my clematis,\n always be by my side**\n\n\n ghosting everyone cuz i ded.\n     https://xlviii.carrd.co/",
+    "guild_bio": null,
+    "display_bio": "**.  my clematis,\n always be by my side**\n\n\n ghosting everyone cuz i ded.\n     https://xlviii.carrd.co/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31raqmo7nyj77pffbn5qbi6zb3rq",
+        "name": "mai",
+        "url": "https://open.spotify.com/user/31raqmo7nyj77pffbn5qbi6zb3rq"
+      },
+      "steam": {
+        "id": "76561199189668340",
+        "name": "maiai",
+        "url": "https://steamcommunity.com/profiles/76561199189668340"
+      },
+      "xbox": {
+        "id": "3068291269818823",
+        "name": "Mai Lumie",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Mai Lumie"
+      }
+    },
+    "legacy_username": "mai.#2507"
+  },
+  "899819404664115232": {
+    "id": 899819404664115232,
+    "name": "passingsimply",
+    "nick": null,
+    "display_name": "SimplyPassing",
+    "global_name": "SimplyPassing",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Perpetually Sleepy",
+    "guild_bio": null,
+    "display_bio": "Perpetually Sleepy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3122ucxfuuwtbbuvlpoacflttnfe",
+        "name": "Mario Stevanus",
+        "url": "https://open.spotify.com/user/3122ucxfuuwtbbuvlpoacflttnfe"
+      },
+      "steam": {
+        "id": "76561198341213476",
+        "name": "SimplyPassing",
+        "url": "https://steamcommunity.com/profiles/76561198341213476"
+      },
+      "twitch": {
+        "id": "603576666",
+        "name": "passingguyg",
+        "url": "https://www.twitch.tv/passingguyg"
+      },
+      "youtube": {
+        "id": "UCSiwcVpe5EPh_lUqLSj_Pdw",
+        "name": "Hello There",
+        "url": "https://www.youtube.com/channel/UCSiwcVpe5EPh_lUqLSj_Pdw"
+      }
+    },
+    "legacy_username": "SimplyPassing#3183"
+  },
+  "1098746034139709450": {
+    "id": 1098746034139709450,
+    "name": "wal0140",
+    "nick": null,
+    "display_name": "wall",
+    "global_name": "wall",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "wal#9749"
   }
 }
