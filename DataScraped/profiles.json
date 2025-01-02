@@ -2354,5 +2354,46 @@
       }
     },
     "legacy_username": "phrog#7544"
+  },
+  "750459491484565634": {
+    "id": 750459491484565634,
+    "name": "agus_lu0",
+    "nick": null,
+    "display_name": "Agus_Lu",
+    "global_name": "Agus_Lu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6625045350842263",
+        "name": "agus_lu0",
+        "url": "https://www.instagram.com/agus_lu0"
+      },
+      "spotify": {
+        "id": "y79jbpjbgy33euu16jc0xaulu",
+        "name": "Agus_Lu0",
+        "url": "https://open.spotify.com/user/y79jbpjbgy33euu16jc0xaulu"
+      },
+      "steam": {
+        "id": "76561199181437439",
+        "name": "Agus_Lu0",
+        "url": "https://steamcommunity.com/profiles/76561199181437439"
+      },
+      "twitter": {
+        "id": "1821430395914817536",
+        "name": "agus_lu0",
+        "url": "https://twitter.com/agus_lu0"
+      }
+    },
+    "legacy_username": "Agus_Lu#3672"
   }
 }
