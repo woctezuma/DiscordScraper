@@ -4192,5 +4192,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "820058603439259658": {
+    "id": 820058603439259658,
+    "name": "theeyespyer",
+    "nick": null,
+    "display_name": "TheEyeSpyer",
+    "global_name": "TheEyeSpyer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Help me please... I've been stuck in the Backrooms since <t:1662768000:R>",
+    "guild_bio": null,
+    "display_bio": "Help me please... I've been stuck in the Backrooms since <t:1662768000:R>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "CursedUnfortunate#5231"
   }
 }
