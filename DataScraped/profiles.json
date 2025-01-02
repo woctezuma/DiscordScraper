@@ -4759,5 +4759,25 @@
       }
     },
     "legacy_username": "dark-Wolf2345#5213"
+  },
+  "1060559792923484292": {
+    "id": 1060559792923484292,
+    "name": "eldor_kromonde",
+    "nick": null,
+    "display_name": "Eldor",
+    "global_name": "Eldor",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
