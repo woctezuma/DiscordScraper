@@ -4963,5 +4963,31 @@
       }
     },
     "legacy_username": "Luftschloss#7504"
+  },
+  "633732095046320129": {
+    "id": 633732095046320129,
+    "name": "carlos_jt",
+    "nick": null,
+    "display_name": "Carlosjt91",
+    "global_name": "Carlosjt91",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "68004224",
+        "name": "carlosjt91",
+        "url": "https://www.twitch.tv/carlosjt91"
+      }
+    },
+    "legacy_username": "Carlosjt91#3266"
   }
 }
