@@ -3073,5 +3073,56 @@
       }
     },
     "legacy_username": "Idiotv#3781"
+  },
+  "954034162950606848": {
+    "id": 954034162950606848,
+    "name": "arcx99_",
+    "nick": null,
+    "display_name": "arcx99_",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "whcpuy9rqd7si3om8hpfrlsm9",
+        "name": "Arcx",
+        "url": "https://open.spotify.com/user/whcpuy9rqd7si3om8hpfrlsm9"
+      },
+      "youtube": {
+        "id": "UCSoGQLbwF__hfnaYPDYKmCA",
+        "name": "Arcx",
+        "url": "https://www.youtube.com/channel/UCSoGQLbwF__hfnaYPDYKmCA"
+      }
+    },
+    "legacy_username": "ayx87#0745"
+  },
+  "1200195565544284236": {
+    "id": 1200195565544284236,
+    "name": "edi._.si._.atat",
+    "nick": null,
+    "display_name": "edi._.si._.atat",
+    "global_name": "edi._.si._.atat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
