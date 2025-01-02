@@ -4779,5 +4779,189 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "785603349705261098": {
+    "id": 785603349705261098,
+    "name": "tonyganza",
+    "nick": null,
+    "display_name": "j",
+    "global_name": "j",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "542085778231001088": {
+    "id": 542085778231001088,
+    "name": "fishy312",
+    "nick": null,
+    "display_name": "Fishy",
+    "global_name": "Fishy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fishy#9500"
+  },
+  "211180913529192448": {
+    "id": 211180913529192448,
+    "name": "anthonutty",
+    "nick": null,
+    "display_name": "Anthonutty",
+    "global_name": "Anthonutty",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "513193404",
+        "name": "anthonutty",
+        "url": "https://www.twitch.tv/anthonutty"
+      },
+      "xbox": {
+        "id": "3078500208140357",
+        "name": "floppydoggy",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=floppydoggy"
+      }
+    },
+    "legacy_username": "Anthonutty#9797"
+  },
+  "1324500191147065415": {
+    "id": 1324500191147065415,
+    "name": "groowymg",
+    "nick": null,
+    "display_name": "Groowy",
+    "global_name": "Groowy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198148975321",
+        "name": "marjang",
+        "url": "https://steamcommunity.com/profiles/76561198148975321"
+      }
+    },
+    "legacy_username": null
+  },
+  "566616053661302804": {
+    "id": 566616053661302804,
+    "name": "lindoferretti",
+    "nick": null,
+    "display_name": "Michael Travan",
+    "global_name": "Michael Travan",
+    "pronouns": "He",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "lindoferretti#8656"
+  },
+  "685856173068779574": {
+    "id": 685856173068779574,
+    "name": "drdidier321",
+    "nick": null,
+    "display_name": "didier",
+    "global_name": "didier",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "drDidier321#1780"
+  },
+  "728829996352667668": {
+    "id": 728829996352667668,
+    "name": "reziphex_",
+    "nick": null,
+    "display_name": "Reziphex",
+    "global_name": "Reziphex",
+    "pronouns": "Gusy",
+    "guild_pronouns": null,
+    "bio": "Just...",
+    "guild_bio": null,
+    "display_bio": "Just...",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31jxp6dond5iqlwg26yzvmqihweq",
+        "name": "Luftschloss",
+        "url": "https://open.spotify.com/user/31jxp6dond5iqlwg26yzvmqihweq"
+      },
+      "steam": {
+        "id": "76561199036739525",
+        "name": "Reziphex",
+        "url": "https://steamcommunity.com/profiles/76561199036739525"
+      },
+      "tiktok": {
+        "id": "a2422978-a49d-50ce-a6b1-0e31cdd68924",
+        "name": "re.ziphex",
+        "url": "https://tiktok.com/@re.ziphex"
+      },
+      "twitch": {
+        "id": "661438757",
+        "name": "ota_bi",
+        "url": "https://www.twitch.tv/ota_bi"
+      },
+      "xbox": {
+        "id": "3077836529525448",
+        "name": "Luftschloss1324",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Luftschloss1324"
+      }
+    },
+    "legacy_username": "Luftschloss#7504"
   }
 }
