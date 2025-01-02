@@ -3355,5 +3355,53 @@
       }
     },
     "legacy_username": null
+  },
+  "784343831247585300": {
+    "id": 784343831247585300,
+    "name": "dzedas",
+    "nick": null,
+    "display_name": "Dzedas",
+    "global_name": "Dzedas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://discord.gg/cDu42Zh3pv",
+    "guild_bio": null,
+    "display_bio": "https://discord.gg/cDu42Zh3pv",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3156pudro3afyu2vrzafstorjh6i",
+        "name": "Dzedukas",
+        "url": "https://open.spotify.com/user/3156pudro3afyu2vrzafstorjh6i"
+      }
+    },
+    "legacy_username": "Dzedas#6848"
+  },
+  "567407080412151819": {
+    "id": 567407080412151819,
+    "name": "severuscrate",
+    "nick": null,
+    "display_name": "SeverusCrate",
+    "global_name": "SeverusCrate",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
