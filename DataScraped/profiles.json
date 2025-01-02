@@ -2272,5 +2272,87 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "314585094302203904": {
+    "id": 314585094302203904,
+    "name": "turret.",
+    "nick": null,
+    "display_name": "turret.",
+    "global_name": "turret.",
+    "pronouns": "turret.",
+    "guild_pronouns": null,
+    "bio": "they call me turret.",
+    "guild_bio": null,
+    "display_bio": "they call me turret.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "47651618",
+        "name": "turret-dev",
+        "url": "https://github.com/turret-dev"
+      }
+    },
+    "legacy_username": "turret.#1938"
+  },
+  "575167383421976586": {
+    "id": 575167383421976586,
+    "name": "phroggorhp",
+    "nick": null,
+    "display_name": "Phrog",
+    "global_name": "Phrog",
+    "pronouns": "Seb",
+    "guild_pronouns": null,
+    "bio": "livin fr /j",
+    "guild_bio": null,
+    "display_bio": "livin fr /j",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "PhroggorhP#1965",
+        "name": "PhroggorhP#1965",
+        "url": null
+      },
+      "epic_games": {
+        "id": "9c69b8d1fa424ade96d2dd9d5c9259f5",
+        "name": "PhroggorhP",
+        "url": null
+      },
+      "playstation": {
+        "id": "5654358542954963305",
+        "name": "PhroggorhP",
+        "url": null
+      },
+      "riot_games": {
+        "id": "O7mj4vZGHtnCnUYRMUvJHArqOJJWQOM7kKE6Lv9shH3NaMS0MOcsIqmj212_h76nRWfKJbz6QkJvvQ",
+        "name": "PhroggorhP#7149",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "154419792",
+        "name": "misticMase",
+        "url": null
+      },
+      "spotify": {
+        "id": "52tmm3kdib9dfmuhsag9xzate",
+        "name": "RED",
+        "url": "https://open.spotify.com/user/52tmm3kdib9dfmuhsag9xzate"
+      }
+    },
+    "legacy_username": "phrog#7544"
   }
 }
