@@ -4087,5 +4087,74 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "394517244069019658": {
+    "id": 394517244069019658,
+    "name": "._alcor_.",
+    "nick": null,
+    "display_name": "alcor",
+    "global_name": "alcor",
+    "pronouns": "8:59:60 \ud83c\udf19",
+    "guild_pronouns": null,
+    "bio": "i told you that story to tell you this one\n\nkinda open for commission???",
+    "guild_bio": null,
+    "display_bio": "i told you that story to tell you this one\n\nkinda open for commission???",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "63wgs66yr9rqu28sz7t6t7k3i",
+        "name": "adonica",
+        "url": "https://open.spotify.com/user/63wgs66yr9rqu28sz7t6t7k3i"
+      },
+      "steam": {
+        "id": "76561198935801923",
+        "name": "ado",
+        "url": "https://steamcommunity.com/profiles/76561198935801923"
+      }
+    },
+    "legacy_username": null
+  },
+  "679223671608573952": {
+    "id": 679223671608573952,
+    "name": "fnryannf",
+    "nick": null,
+    "display_name": "fnryannf",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "767298437938544671": {
+    "id": 767298437938544671,
+    "name": "haaepsonic",
+    "nick": null,
+    "display_name": "HaaepS0NIC",
+    "global_name": "HaaepS0NIC",
+    "pronouns": "haaep/sonic",
+    "guild_pronouns": null,
+    "bio": "GLORY TO ESTONIA!!!\n",
+    "guild_bio": null,
+    "display_bio": "GLORY TO ESTONIA!!!\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "HaaepS0NIC#0870"
   }
 }
