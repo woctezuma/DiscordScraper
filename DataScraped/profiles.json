@@ -2500,5 +2500,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "561470687936512020": {
+    "id": 561470687936512020,
+    "name": "joshkomarov",
+    "nick": null,
+    "display_name": "joshkomarov",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Josh Komarov#9963"
   }
 }
