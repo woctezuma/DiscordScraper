@@ -2426,5 +2426,23 @@
       }
     },
     "legacy_username": "k e n n e d y  h o r m a n#4781"
+  },
+  "1323220066799714335": {
+    "id": 1323220066799714335,
+    "name": "pl2w_com",
+    "nick": null,
+    "display_name": "PL2W",
+    "global_name": "PL2W",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Pay Less To Win",
+    "guild_bio": null,
+    "display_bio": "Pay Less To Win",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
