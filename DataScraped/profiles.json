@@ -2234,5 +2234,25 @@
       }
     },
     "legacy_username": "bragatama#5863"
+  },
+  "1082864597117194340": {
+    "id": 1082864597117194340,
+    "name": "mangic001",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "mangic001#1494"
   }
 }
