@@ -3027,5 +3027,51 @@
       }
     },
     "legacy_username": "\u2124\ud835\udd56\ud835\udd63\ud835\udd60#1220"
+  },
+  "1157336425763700738": {
+    "id": 1157336425763700738,
+    "name": "power91_l_40335",
+    "nick": null,
+    "display_name": "power91",
+    "global_name": "power91",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "707916428312969226": {
+    "id": 707916428312969226,
+    "name": "idiotvv",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "End-user license agreement",
+    "guild_pronouns": null,
+    "bio": "It's better to poop in the sink than to sink in the poop",
+    "guild_bio": null,
+    "display_bio": "It's better to poop in the sink than to sink in the poop",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199445044687",
+        "name": "Ben",
+        "url": "https://steamcommunity.com/profiles/76561199445044687"
+      }
+    },
+    "legacy_username": "Idiotv#3781"
   }
 }
