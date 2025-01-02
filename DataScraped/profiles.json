@@ -3227,5 +3227,109 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "831178360574181396": {
+    "id": 831178360574181396,
+    "name": "memaybeo0293",
+    "nick": null,
+    "display_name": "SupaNigga",
+    "global_name": "SupaNigga",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Gambling and game addict\nDont stop until you win ",
+    "guild_bio": null,
+    "display_bio": "Gambling and game addict\nDont stop until you win ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199758604793",
+        "name": "truonggiaminh1911",
+        "url": "https://steamcommunity.com/profiles/76561199758604793"
+      }
+    },
+    "legacy_username": "MeMayBeo#0293"
+  },
+  "334293437543350276": {
+    "id": 334293437543350276,
+    "name": "warriormguy2",
+    "nick": null,
+    "display_name": "[LSG]warriormguy",
+    "global_name": "[LSG]warriormguy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "warriorwgirl#7874"
+  },
+  "1092756681596866632": {
+    "id": 1092756681596866632,
+    "name": "arashgozo",
+    "nick": null,
+    "display_name": "Arash",
+    "global_name": "Arash",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "arashgozo#9909"
+  },
+  "725852299129389106": {
+    "id": 725852299129389106,
+    "name": "loop6912",
+    "nick": null,
+    "display_name": "Doomguy",
+    "global_name": "Doomguy",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": " (also me)\n\n              (me)",
+    "guild_bio": null,
+    "display_bio": " (also me)\n\n              (me)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "TRyuu#1446",
+        "name": "TRyuu#1446",
+        "url": null
+      },
+      "riot_games": {
+        "id": "zN4p78WkEOQkSTbQwC65o8yoV1qHfF_LYKmBD5LhvgeAJ3igPsqeKiml63RLqyXWyK1CZpbcwRFe4g",
+        "name": "Ryuu#2106",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199052590434",
+        "name": "Ryu",
+        "url": "https://steamcommunity.com/profiles/76561199052590434"
+      }
+    },
+    "legacy_username": "Loop#6912"
   }
 }
