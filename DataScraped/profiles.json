@@ -4485,5 +4485,45 @@
       }
     },
     "legacy_username": "ItzyarealgirlEla#3962"
+  },
+  "357638287893987338": {
+    "id": 357638287893987338,
+    "name": "themidnightcat",
+    "nick": null,
+    "display_name": "Anthony Fortesque",
+    "global_name": "Anthony Fortesque",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Anthony Fortesque#4028"
+  },
+  "712372305224794204": {
+    "id": 712372305224794204,
+    "name": "nikhil_aslan",
+    "nick": null,
+    "display_name": "Nikhil Aslan",
+    "global_name": "Nikhil Aslan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nikhil Aslan#9217"
   }
 }
