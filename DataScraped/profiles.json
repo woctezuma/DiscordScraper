@@ -3837,5 +3837,44 @@
       }
     },
     "legacy_username": null
+  },
+  "709154539533500448": {
+    "id": 709154539533500448,
+    "name": "kaiju_ow",
+    "nick": null,
+    "display_name": "Toro",
+    "global_name": "Toro",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/709154539533500448/a_14617686ae73fbf63b7d9920ebd7589b.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/709154539533500448/a_14617686ae73fbf63b7d9920ebd7589b.gif?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1164634385140686918": {
+    "id": 1164634385140686918,
+    "name": "echossilence",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
