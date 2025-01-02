@@ -3638,5 +3638,75 @@
       }
     },
     "legacy_username": "MinhKaneki#1147"
+  },
+  "328161853211541506": {
+    "id": 328161853211541506,
+    "name": "deandark",
+    "nick": null,
+    "display_name": "DeanDark",
+    "global_name": "DeanDark",
+    "pronouns": "Pojebie/Mnie",
+    "guild_pronouns": null,
+    "bio": ">  - My Website\n> https://deandark.me\n\n>  - Server\n> https://discord.gg/6H8Uhs7nQ6\n\n>  - StartIT Staff\n> https://startit.bot/\n\n> I LOVE CATS   \n\n> \n> <t:1762470000:R>",
+    "guild_bio": null,
+    "display_bio": ">  - My Website\n> https://deandark.me\n\n>  - Server\n> https://discord.gg/6H8Uhs7nQ6\n\n>  - StartIT Staff\n> https://startit.bot/\n\n> I LOVE CATS   \n\n> \n> <t:1762470000:R>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:himm6lfljhtgkpegmw7nyv74",
+        "name": "deandark.bsky.social",
+        "url": null
+      },
+      "unknown_domain": {
+        "id": "deandark.me",
+        "name": "deandark.me",
+        "url": null
+      },
+      "github": {
+        "id": "93433446",
+        "name": "D3anDark",
+        "url": "https://github.com/D3anDark"
+      },
+      "paypal": {
+        "id": "0DcWxOzbaHsyVCJZnQsfu7CIOxr7aNeM56NrOpO_Sj0",
+        "name": "Jakub Deandark",
+        "url": null
+      },
+      "playstation": {
+        "id": "5724851330111110988",
+        "name": "DeanDarkPS",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "210928997",
+        "name": "kapitandup",
+        "url": null
+      },
+      "spotify": {
+        "id": "3bspycjlcoj2u4lacfe599tzt",
+        "name": "DeanDark",
+        "url": "https://open.spotify.com/user/3bspycjlcoj2u4lacfe599tzt"
+      },
+      "steam": {
+        "id": "76561198101560119",
+        "name": "DeanDark",
+        "url": "https://steamcommunity.com/profiles/76561198101560119"
+      },
+      "twitch": {
+        "id": "492416170",
+        "name": "d3andark",
+        "url": "https://www.twitch.tv/d3andark"
+      }
+    },
+    "legacy_username": "DeanDark#8006"
   }
 }
