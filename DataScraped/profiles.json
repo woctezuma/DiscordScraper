@@ -3933,5 +3933,159 @@
       }
     },
     "legacy_username": null
+  },
+  "565496180637696031": {
+    "id": 565496180637696031,
+    "name": "shahrulll",
+    "nick": null,
+    "display_name": "Shahrul",
+    "global_name": "Shahrul",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "MY",
+    "guild_bio": null,
+    "display_bio": "MY",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6081548671312128668",
+        "name": "S_hrull",
+        "url": null
+      },
+      "spotify": {
+        "id": "31233uxgc5h3ll3pwcahlnbuykru",
+        "name": "Shahrul",
+        "url": "https://open.spotify.com/user/31233uxgc5h3ll3pwcahlnbuykru"
+      },
+      "steam": {
+        "id": "76561199064412891",
+        "name": "Shahrul",
+        "url": "https://steamcommunity.com/profiles/76561199064412891"
+      },
+      "xbox": {
+        "id": "3067298261880877",
+        "name": "TwistyShahrul",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TwistyShahrul"
+      },
+      "youtube": {
+        "id": "UChdYjN4WUV5Y69TaqRYEt_g",
+        "name": "Calul",
+        "url": "https://www.youtube.com/channel/UChdYjN4WUV5Y69TaqRYEt_g"
+      }
+    },
+    "legacy_username": "shasha#7041"
+  },
+  "311216446611128320": {
+    "id": 311216446611128320,
+    "name": "tanatris",
+    "nick": null,
+    "display_name": "Tana",
+    "global_name": "Tana",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl8",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198001427079",
+        "name": "Tana",
+        "url": "https://steamcommunity.com/profiles/76561198001427079"
+      }
+    },
+    "legacy_username": "Tana#1000"
+  },
+  "801564800873791489": {
+    "id": 801564800873791489,
+    "name": "ruggy84",
+    "nick": null,
+    "display_name": "Ruggy84",
+    "global_name": "Ruggy84",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ruggy84#2902"
+  },
+  "717008970010722316": {
+    "id": 717008970010722316,
+    "name": "_emil_1",
+    "nick": null,
+    "display_name": "emil",
+    "global_name": "emil",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "POLITI#8985"
+  },
+  "157437527140073472": {
+    "id": 157437527140073472,
+    "name": "winner_ok",
+    "nick": null,
+    "display_name": "Daniil Manakovskiy",
+    "global_name": "Daniil Manakovskiy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Winner_oK#1202"
+  },
+  "1292138590796513352": {
+    "id": 1292138590796513352,
+    "name": "clintomusgaming",
+    "nick": null,
+    "display_name": "Clintomus",
+    "global_name": "Clintomus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
