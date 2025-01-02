@@ -3460,5 +3460,66 @@
       }
     },
     "legacy_username": "DVT alt#0213"
+  },
+  "1041957188635213834": {
+    "id": 1041957188635213834,
+    "name": "i_am_ivo",
+    "nick": null,
+    "display_name": "Darknight",
+    "global_name": "Darknight",
+    "pronouns": "bat - man",
+    "guild_pronouns": null,
+    "bio": "Need to protect Gotham",
+    "guild_bio": null,
+    "display_bio": "Need to protect Gotham",
+    "banner": "https://cdn.discordapp.com/banners/1041957188635213834/a_7a04682d4379937f269447c4f5054866.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1041957188635213834/a_7a04682d4379937f269447c4f5054866.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31s6gibsw7exfdinr24snfmqh6xm",
+        "name": "Sevan Days",
+        "url": "https://open.spotify.com/user/31s6gibsw7exfdinr24snfmqh6xm"
+      },
+      "xbox": {
+        "id": "3066424016571871",
+        "name": "SevanDAYS9871",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SevanDAYS9871"
+      }
+    },
+    "legacy_username": "HidenSeekwitdaCops#2140"
+  },
+  "737480285670867055": {
+    "id": 737480285670867055,
+    "name": "jalenhives",
+    "nick": null,
+    "display_name": "JalenHives",
+    "global_name": "JalenHives",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hanging around",
+    "guild_bio": null,
+    "display_bio": "Hanging around",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCcfqCeAeYHQNuaYERPuy09g",
+        "name": "Josh Hives",
+        "url": "https://www.youtube.com/channel/UCcfqCeAeYHQNuaYERPuy09g"
+      }
+    },
+    "legacy_username": "JalenHives#1258"
   }
 }
