@@ -1862,5 +1862,177 @@
       }
     },
     "legacy_username": "youkaii#2045"
+  },
+  "1324183529717891146": {
+    "id": 1324183529717891146,
+    "name": "bluethanos_91931",
+    "nick": null,
+    "display_name": "Blue Thanos",
+    "global_name": "Blue Thanos",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "223551757819576321": {
+    "id": 223551757819576321,
+    "name": "jaykayjam",
+    "nick": null,
+    "display_name": "JayKay",
+    "global_name": "JayKay",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Just kind of a guy",
+    "guild_bio": null,
+    "display_bio": "Just kind of a guy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "JayKay#3421"
+  },
+  "1324167587097083957": {
+    "id": 1324167587097083957,
+    "name": "keeuori",
+    "nick": null,
+    "display_name": "Keeuori",
+    "global_name": "Keeuori",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "5218971488888900449",
+        "name": "Keeuori",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199814171881",
+        "name": "Keeuori",
+        "url": "https://steamcommunity.com/profiles/76561199814171881"
+      },
+      "xbox": {
+        "id": "3075572348703569",
+        "name": "Keeuori",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Keeuori"
+      }
+    },
+    "legacy_username": null
+  },
+  "211024217271959552": {
+    "id": 211024217271959552,
+    "name": "strungviper",
+    "nick": null,
+    "display_name": "Strungviper",
+    "global_name": "Strungviper",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "na1_33120800",
+        "name": "Strungviper",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198055760489",
+        "name": "Strungviper",
+        "url": "https://steamcommunity.com/profiles/76561198055760489"
+      },
+      "twitch": {
+        "id": "30637523",
+        "name": "strungviper",
+        "url": "https://www.twitch.tv/strungviper"
+      }
+    },
+    "legacy_username": "Strungviper#6793"
+  },
+  "1258678941409873982": {
+    "id": 1258678941409873982,
+    "name": "redsw6n",
+    "nick": null,
+    "display_name": "rd",
+    "global_name": "rd",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "469590532151050242": {
+    "id": 469590532151050242,
+    "name": "stiebulator",
+    "nick": null,
+    "display_name": "CallMePreph",
+    "global_name": "CallMePreph",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Stiebulator#2528",
+        "name": "Stiebulator#2528",
+        "url": null
+      },
+      "github": {
+        "id": "68881884",
+        "name": "JulianStiebler",
+        "url": "https://github.com/JulianStiebler"
+      },
+      "steam": {
+        "id": "76561197999968645",
+        "name": "SyrRokzU",
+        "url": "https://steamcommunity.com/profiles/76561197999968645"
+      },
+      "twitch": {
+        "id": "159878627",
+        "name": "callmepreph",
+        "url": "https://www.twitch.tv/callmepreph"
+      }
+    },
+    "legacy_username": "SyrRokZu#2662"
   }
 }
