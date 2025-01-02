@@ -2095,5 +2095,144 @@
       }
     },
     "legacy_username": "Gamerchick39#9928"
+  },
+  "492728915500990464": {
+    "id": 492728915500990464,
+    "name": "noxious32",
+    "nick": null,
+    "display_name": "Noxi32",
+    "global_name": "Noxi32",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "494425295969845254": {
+    "id": 494425295969845254,
+    "name": "lordswift45",
+    "nick": null,
+    "display_name": "lordswift45",
+    "global_name": "lordswift45",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Upcoming steamer and content creator ! Usually run apex but willing to play almost anything to be honest!  Layed back !",
+    "guild_bio": null,
+    "display_bio": "Upcoming steamer and content creator ! Usually run apex but willing to play almost anything to be honest!  Layed back !",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "417757558",
+        "name": "ttvlordswift54",
+        "url": "https://www.twitch.tv/ttvlordswift54"
+      },
+      "xbox": {
+        "id": "3073781199945902",
+        "name": "JonManRevized54",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JonManRevized54"
+      }
+    },
+    "legacy_username": "lordswift45#1509"
+  },
+  "953106200193548298": {
+    "id": 953106200193548298,
+    "name": "blonded_93",
+    "nick": null,
+    "display_name": "Abel",
+    "global_name": "Abel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "axrdi8l7f4e168q9yw9l76kjq",
+        "name": "Abel Habtamu \ud83d\udc12",
+        "url": "https://open.spotify.com/user/axrdi8l7f4e168q9yw9l76kjq"
+      },
+      "xbox": {
+        "id": "3077544013807824",
+        "name": "BLACKcar132",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=BLACKcar132"
+      }
+    },
+    "legacy_username": "TheLeba#8553"
+  },
+  "298133625415663616": {
+    "id": 298133625415663616,
+    "name": "bragatama",
+    "nick": null,
+    "display_name": "bragatama",
+    "global_name": "bragatama",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "6b7df2bdeeda42ba9e5438130dc263b1",
+        "name": "bragatama",
+        "url": null
+      },
+      "instagram": {
+        "id": "5668662426589416",
+        "name": "bragatama",
+        "url": "https://www.instagram.com/bragatama"
+      },
+      "playstation": {
+        "id": "8756867061748685374",
+        "name": "quantumeffcts",
+        "url": null
+      },
+      "riot_games": {
+        "id": "oaJv6KYv4rg31sL9kLurhwe3DTCDV2oa5ticqxnfLzUn6L5B63xrFeBgDCxGNE-AXILkA-cO6cySQw",
+        "name": "Fenrir#Wolfy",
+        "url": null
+      },
+      "spotify": {
+        "id": "31zbmuyzbaed2at4dpuaf5beg4le",
+        "name": "Braga Tama",
+        "url": "https://open.spotify.com/user/31zbmuyzbaed2at4dpuaf5beg4le"
+      },
+      "steam": {
+        "id": "76561198919497752",
+        "name": "FENRIR",
+        "url": "https://steamcommunity.com/profiles/76561198919497752"
+      },
+      "xbox": {
+        "id": "3068948986990577",
+        "name": "Bragatama",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Bragatama"
+      }
+    },
+    "legacy_username": "bragatama#5863"
   }
 }
