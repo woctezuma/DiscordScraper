@@ -2482,5 +2482,23 @@
     ],
     "connections": {},
     "legacy_username": "dxkznjc#1678"
+  },
+  "1324284496547287053": {
+    "id": 1324284496547287053,
+    "name": "norooms_66915",
+    "nick": null,
+    "display_name": "NoroomS",
+    "global_name": "NoroomS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
