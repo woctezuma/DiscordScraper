@@ -4298,5 +4298,78 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "202481815364173824": {
+    "id": 202481815364173824,
+    "name": "rantins",
+    "nick": null,
+    "display_name": "rantins",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198309656159",
+        "name": "ajR",
+        "url": "https://steamcommunity.com/profiles/76561198309656159"
+      }
+    },
+    "legacy_username": null
+  },
+  "795331712397737985": {
+    "id": 795331712397737985,
+    "name": "hilso",
+    "nick": null,
+    "display_name": ".hilso",
+    "global_name": ".hilso",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "github": {
+        "id": "145281224",
+        "name": "xxspvc",
+        "url": "https://github.com/xxspvc"
+      },
+      "steam": {
+        "id": "76561199246052461",
+        "name": "hils0",
+        "url": "https://steamcommunity.com/profiles/76561199246052461"
+      }
+    },
+    "legacy_username": null
+  },
+  "1324449793334050858": {
+    "id": 1324449793334050858,
+    "name": "theforestmig",
+    "nick": null,
+    "display_name": "TheForest",
+    "global_name": "TheForest",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
