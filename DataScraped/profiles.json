@@ -2964,5 +2964,68 @@
     ],
     "connections": {},
     "legacy_username": "\u6d6e\u534e\u83cc#0912"
+  },
+  "1083657336326979675": {
+    "id": 1083657336326979675,
+    "name": "_coloniser",
+    "nick": null,
+    "display_name": "C19H14O3",
+    "global_name": "C19H14O3",
+    "pronouns": "75%/25%",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1083657336326979675/b75119b35a652e4f9bd9ea201bfc3c9b.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1083657336326979675/b75119b35a652e4f9bd9ea201bfc3c9b.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "colonizer#1945"
+  },
+  "183410793683877889": {
+    "id": 183410793683877889,
+    "name": "kangel.com",
+    "nick": null,
+    "display_name": "kangel.com",
+    "global_name": null,
+    "pronouns": "\ud83d\ude3c\ud83d\udc4d",
+    "guild_pronouns": null,
+    "bio": "`[need friends ]`\n:nso_amepet: \n`{mulch munching + maxxing}`",
+    "guild_bio": null,
+    "display_bio": "`[need friends ]`\n:nso_amepet: \n`{mulch munching + maxxing}`",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7604766315940741970",
+        "name": "Flanxxcakes",
+        "url": null
+      },
+      "spotify": {
+        "id": "flankida",
+        "name": "flankida",
+        "url": "https://open.spotify.com/user/flankida"
+      },
+      "steam": {
+        "id": "76561198312835462",
+        "name": "Zero",
+        "url": "https://steamcommunity.com/profiles/76561198312835462"
+      }
+    },
+    "legacy_username": "\u2124\ud835\udd56\ud835\udd63\ud835\udd60#1220"
   }
 }
