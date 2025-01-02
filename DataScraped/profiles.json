@@ -4564,5 +4564,46 @@
       }
     },
     "legacy_username": null
+  },
+  "1069971296437411981": {
+    "id": 1069971296437411981,
+    "name": "anonimo.exz",
+    "nick": null,
+    "display_name": "Pablo+1",
+    "global_name": "Pablo+1",
+    "pronouns": "Editor.",
+    "guild_pronouns": null,
+    "bio": "Ol",
+    "guild_bio": null,
+    "display_bio": "Ol",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Pablo+1#1704"
+  },
+  "403139955368394752": {
+    "id": 403139955368394752,
+    "name": "vudunghqt",
+    "nick": null,
+    "display_name": "VuDungHQT",
+    "global_name": "VuDungHQT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Cng cha ca anh ch c 1 thi B:Typing_bean: \nFaceBook:\nDiscord:https://discord.gg/dungshopcaythue\nCho thu Synape X",
+    "guild_bio": null,
+    "display_bio": "Cng cha ca anh ch c 1 thi B:Typing_bean: \nFaceBook:\nDiscord:https://discord.gg/dungshopcaythue\nCho thu Synape X",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "VuDungHQT#2005"
   }
 }
