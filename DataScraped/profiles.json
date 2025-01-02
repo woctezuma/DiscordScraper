@@ -3521,5 +3521,122 @@
       }
     },
     "legacy_username": "JalenHives#1258"
+  },
+  "706545085344382988": {
+    "id": 706545085344382988,
+    "name": "fallens_x",
+    "nick": null,
+    "display_name": "Fallenzito",
+    "global_name": "Fallenzito",
+    "pronouns": "Real",
+    "guild_pronouns": null,
+    "bio": "Roblox:SrFallensG_amer",
+    "guild_bio": null,
+    "display_bio": "Roblox:SrFallensG_amer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "9589b79def914887b204c041e94dee22",
+        "name": "PAODURODAP0H4",
+        "url": null
+      },
+      "playstation": {
+        "id": "4985370309442587393",
+        "name": "DaviKsPhantom777",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199653026515",
+        "name": "Fallenzito",
+        "url": "https://steamcommunity.com/profiles/76561199653026515"
+      },
+      "xbox": {
+        "id": "3069159064628511",
+        "name": "SrFallensGamer",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SrFallensGamer"
+      },
+      "youtube": {
+        "id": "UCDEhNp4H0lyIMX8ICPkYUhA",
+        "name": "Fallenzito",
+        "url": "https://www.youtube.com/channel/UCDEhNp4H0lyIMX8ICPkYUhA"
+      }
+    },
+    "legacy_username": "SR_Fallens#9474"
+  },
+  "660554055310901339": {
+    "id": 660554055310901339,
+    "name": "cole.2931",
+    "nick": null,
+    "display_name": "cole.",
+    "global_name": "cole.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "0e3q3awv21lxrv8bg0xu3tmj6",
+        "name": "NotCole",
+        "url": "https://open.spotify.com/user/0e3q3awv21lxrv8bg0xu3tmj6"
+      },
+      "steam": {
+        "id": "76561199009422182",
+        "name": "NotCole",
+        "url": "https://steamcommunity.com/profiles/76561199009422182"
+      }
+    },
+    "legacy_username": "cole.#2931"
+  },
+  "871317634765967380": {
+    "id": 871317634765967380,
+    "name": "minhkaneki",
+    "nick": null,
+    "display_name": "MinhKaneki",
+    "global_name": "MinhKaneki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Maybe i'm still alive",
+    "guild_bio": null,
+    "display_bio": "Maybe i'm still alive",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "8qmkY608_yIrPgaspCs3p-FybGmzHLDL_n-6q-fXvCNn9L5cJM_r7DsmxSzNegh-hLzervH8nQRPZA",
+        "name": "IrysSoCool#Irys",
+        "url": null
+      },
+      "spotify": {
+        "id": "31yvkkvml6v34kmkpp5urlbotpj4",
+        "name": "\u304b\u306d\u304d.Ch\u30df\u30f3\u30d2",
+        "url": "https://open.spotify.com/user/31yvkkvml6v34kmkpp5urlbotpj4"
+      },
+      "youtube": {
+        "id": "UCZeoebe3BqeD-Ns3uqGa23Q",
+        "name": "Ken",
+        "url": "https://www.youtube.com/channel/UCZeoebe3BqeD-Ns3uqGa23Q"
+      }
+    },
+    "legacy_username": "MinhKaneki#1147"
   }
 }
