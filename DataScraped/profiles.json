@@ -3178,5 +3178,36 @@
       }
     },
     "legacy_username": null
+  },
+  "355607422238326786": {
+    "id": 355607422238326786,
+    "name": "quangogc",
+    "nick": null,
+    "display_name": "quangogc",
+    "global_name": "quangogc",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1835663106507559",
+        "name": "Quang Ogc",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198080552384",
+        "name": "Decim",
+        "url": "https://steamcommunity.com/profiles/76561198080552384"
+      }
+    },
+    "legacy_username": "quangogc#5819"
   }
 }
