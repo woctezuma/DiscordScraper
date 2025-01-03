@@ -5892,5 +5892,74 @@
     ],
     "connections": {},
     "legacy_username": "hightideahead#7286"
+  },
+  "609769609834397696": {
+    "id": 609769609834397696,
+    "name": "demonziak",
+    "nick": null,
+    "display_name": "Demonziak",
+    "global_name": "Demonziak",
+    "pronouns": "\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc04\ud835\udc26\ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc28\ud835\udc2b",
+    "guild_pronouns": null,
+    "bio": "ENTJ\nSeptember 27",
+    "guild_bio": null,
+    "display_bio": "ENTJ\nSeptember 27",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "913505b55fae482cbc18d64198e3776f",
+        "name": "Demonziak0",
+        "url": null
+      },
+      "instagram": {
+        "id": "6283571411750486",
+        "name": "demonziak",
+        "url": "https://www.instagram.com/demonziak"
+      },
+      "spotify": {
+        "id": "mk0amc421r7e8fjv881kurdkf",
+        "name": "Demonziak",
+        "url": "https://open.spotify.com/user/mk0amc421r7e8fjv881kurdkf"
+      },
+      "xbox": {
+        "id": "3074012174135931",
+        "name": "Azeroth1837",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Azeroth1837"
+      },
+      "youtube": {
+        "id": "UC6b3amWJGnxzgwDPMnHqv5A",
+        "name": "Demonziak",
+        "url": "https://www.youtube.com/channel/UC6b3amWJGnxzgwDPMnHqv5A"
+      }
+    },
+    "legacy_username": "Madara\ud81a\udd10#6223"
+  },
+  "255446045985734656": {
+    "id": 255446045985734656,
+    "name": "lucas4732",
+    "nick": null,
+    "display_name": "Lucas",
+    "global_name": "Lucas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "old and cough shit\n",
+    "guild_bio": null,
+    "display_bio": "old and cough shit\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Lucas4732#5794"
   }
 }
