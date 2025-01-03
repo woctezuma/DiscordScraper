@@ -5981,5 +5981,42 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "182314927258599424": {
+    "id": 182314927258599424,
+    "name": "maishrek",
+    "nick": null,
+    "display_name": "ElChueck",
+    "global_name": "ElChueck",
+    "pronouns": "I'm an attack helicopter",
+    "guild_pronouns": null,
+    "bio": "FullStack Developer :pepe_hacker:",
+    "guild_bio": null,
+    "display_bio": "FullStack Developer :pepe_hacker:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198130831572",
+        "name": "SrChrome",
+        "url": "https://steamcommunity.com/profiles/76561198130831572"
+      },
+      "twitch": {
+        "id": "137752505",
+        "name": "sdenicolas",
+        "url": "https://www.twitch.tv/sdenicolas"
+      },
+      "youtube": {
+        "id": "UCXxIrdkPPlvBNTLJbZTMX3w",
+        "name": "SrFailWTF",
+        "url": "https://www.youtube.com/channel/UCXxIrdkPPlvBNTLJbZTMX3w"
+      }
+    },
+    "legacy_username": "MaiShrek#1274"
   }
 }
