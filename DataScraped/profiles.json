@@ -5829,5 +5829,68 @@
       }
     },
     "legacy_username": "BahyTheDev#5351"
+  },
+  "717604125487136869": {
+    "id": 717604125487136869,
+    "name": "aust9",
+    "nick": null,
+    "display_name": "Aust",
+    "global_name": "Aust",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Yello there, I'm a 19 yr old bi male that loves music, games, pokmon, cooking, walking and hanging out with friends(also has social anxiety and... time's up:)\nTaken by my adorable Lisa",
+    "guild_bio": null,
+    "display_bio": "Yello there, I'm a 19 yr old bi male that loves music, games, pokmon, cooking, walking and hanging out with friends(also has social anxiety and... time's up:)\nTaken by my adorable Lisa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "5659281790867296",
+        "name": "austo_o",
+        "url": "https://www.instagram.com/austo_o"
+      },
+      "unknown_roblox": {
+        "id": "1822458216",
+        "name": "AustO_9",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199198121708",
+        "name": "O",
+        "url": "https://steamcommunity.com/profiles/76561199198121708"
+      },
+      "xbox": {
+        "id": "3070854786134201",
+        "name": "O2739",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=O2739"
+      }
+    },
+    "legacy_username": "Aust#8044"
+  },
+  "576854096670228480": {
+    "id": 576854096670228480,
+    "name": "hightideahead",
+    "nick": null,
+    "display_name": "hightideahead",
+    "global_name": "hightideahead",
+    "pronouns": "Romans 7:24-25",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "hightideahead#7286"
   }
 }
