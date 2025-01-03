@@ -6354,5 +6354,146 @@
       }
     },
     "legacy_username": "Stunt Gav#8137"
+  },
+  "990503447520489553": {
+    "id": 990503447520489553,
+    "name": "hatexl",
+    "nick": null,
+    "display_name": "Jeffery Epstein",
+    "global_name": "Jeffery Epstein",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "monkey nigga",
+    "guild_bio": null,
+    "display_bio": "monkey nigga",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "255347044221321216": {
+    "id": 255347044221321216,
+    "name": "vad_teller",
+    "nick": null,
+    "display_name": "V",
+    "global_name": "V",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "twitch.tv/teller_play",
+    "guild_bio": null,
+    "display_bio": "twitch.tv/teller_play",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "VadTeller#2337",
+        "name": "VadTeller#2337",
+        "url": null
+      },
+      "skype": {
+        "id": "teller_ghost",
+        "name": "teller_ghost",
+        "url": "skype:teller_ghost?userinfo"
+      },
+      "spotify": {
+        "id": "31txltbztdlsfqjxlbognw7rr55q",
+        "name": "Vad_Teller",
+        "url": "https://open.spotify.com/user/31txltbztdlsfqjxlbognw7rr55q"
+      },
+      "twitch": {
+        "id": "89965264",
+        "name": "arftteam",
+        "url": "https://www.twitch.tv/arftteam"
+      },
+      "twitter": {
+        "id": "827677199419502592",
+        "name": "Vad_Teller",
+        "url": "https://twitter.com/Vad_Teller"
+      }
+    },
+    "legacy_username": "-V-#2721"
+  },
+  "336943484625747969": {
+    "id": 336943484625747969,
+    "name": "tommyboiii.",
+    "nick": null,
+    "display_name": "tommyboiii",
+    "global_name": "tommyboiii",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "tommyboiii#9004"
+  },
+  "1077286680492511393": {
+    "id": 1077286680492511393,
+    "name": "j0n12011",
+    "nick": null,
+    "display_name": "joni",
+    "global_name": "joni",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "pheesh\nand follow jonichspielealles on twitch",
+    "guild_bio": null,
+    "display_bio": "pheesh\nand follow jonichspielealles on twitch",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Jnoi#2844",
+        "name": "Jnoi#2844",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ae52390da8fc4a669d30d7efd8826679",
+        "name": "jonidertyp",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "ziexW8G7Utwt29rAYHEZteClPjBWBiUAyCMaC1Uc-023zvBCd3BFN6lw5qHlgomz8_EIP63ovGNTmA",
+        "name": "jnoananas#18769",
+        "url": null
+      },
+      "riot_games": {
+        "id": "ziexW8G7Utwt29rAYHEZteClPjBWBiUAyCMaC1Uc-023zvBCd3BFN6lw5qHlgomz8_EIP63ovGNTmA",
+        "name": "jnoananas#18769",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3287224450",
+        "name": "joni99816",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199509049760",
+        "name": "joni2010",
+        "url": "https://steamcommunity.com/profiles/76561199509049760"
+      },
+      "twitch": {
+        "id": "936040451",
+        "name": "jonichspielealles",
+        "url": "https://www.twitch.tv/jonichspielealles"
+      }
+    },
+    "legacy_username": "j0n12011#1677"
   }
 }
