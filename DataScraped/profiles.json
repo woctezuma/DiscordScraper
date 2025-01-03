@@ -4989,5 +4989,103 @@
       }
     },
     "legacy_username": "Carlosjt91#3266"
+  },
+  "941401897884069918": {
+    "id": 941401897884069918,
+    "name": "arsonhound",
+    "nick": null,
+    "display_name": "Luke",
+    "global_name": "Luke",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "Luis para los compas",
+    "guild_bio": null,
+    "display_bio": "Luis para los compas",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "LukeCrowdell#9386"
+  },
+  "488710461924311040": {
+    "id": 488710461924311040,
+    "name": "chinhtruongduc",
+    "nick": null,
+    "display_name": "Chinh_QB",
+    "global_name": "Chinh_QB",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Sakurinh#6290"
+  },
+  "476414466762866692": {
+    "id": 476414466762866692,
+    "name": "dizzy3333",
+    "nick": null,
+    "display_name": "DIZZY",
+    "global_name": "DIZZY",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "DIZZY#0819"
+  },
+  "298830949628641280": {
+    "id": 298830949628641280,
+    "name": "bobbybarealonecowboy",
+    "nick": null,
+    "display_name": "Marty",
+    "global_name": "Marty",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Lumerus#6522"
+  },
+  "372032351141625867": {
+    "id": 372032351141625867,
+    "name": "feekal_u4ria",
+    "nick": null,
+    "display_name": "Feekal_U4ria",
+    "global_name": "Feekal_U4ria",
+    "pronouns": "race/car",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
