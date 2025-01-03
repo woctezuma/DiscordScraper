@@ -5961,5 +5961,25 @@
     ],
     "connections": {},
     "legacy_username": "Lucas4732#5794"
+  },
+  "1311974976341151757": {
+    "id": 1311974976341151757,
+    "name": "simdepzaiisreal",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
