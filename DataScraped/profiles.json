@@ -5586,5 +5586,93 @@
     ],
     "connections": {},
     "legacy_username": "Daniel Yvro#8165"
+  },
+  "821425139517358080": {
+    "id": 821425139517358080,
+    "name": "demmis_what_up",
+    "nick": null,
+    "display_name": "Demmis",
+    "global_name": "Demmis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Quiero mucho a mis amigos\nhttps://el-puto-negrito.straw.page/",
+    "guild_bio": null,
+    "display_bio": "Quiero mucho a mis amigos\nhttps://el-puto-negrito.straw.page/",
+    "banner": "https://cdn.discordapp.com/banners/821425139517358080/2795684ef11ae567c3a6419304d893d7.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/821425139517358080/2795684ef11ae567c3a6419304d893d7.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5b5e9c3f5688459880b82541f168f111",
+        "name": "Demmisin",
+        "url": null
+      },
+      "spotify": {
+        "id": "x4zn1qfwsupsdxfrsltpsx12t",
+        "name": "Demmis",
+        "url": "https://open.spotify.com/user/x4zn1qfwsupsdxfrsltpsx12t"
+      },
+      "tiktok": {
+        "id": "22fa2225-11a9-41ce-a6a9-1a7102a274da",
+        "name": "demmisss",
+        "url": "https://tiktok.com/@demmisss"
+      },
+      "twitter": {
+        "id": "1443665590959280139",
+        "name": "Demisbolas",
+        "url": "https://twitter.com/Demisbolas"
+      },
+      "xbox": {
+        "id": "3070193449784128",
+        "name": "Demmis1941",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Demmis1941"
+      }
+    },
+    "legacy_username": "Demmis E.#7455"
+  },
+  "318134011039842304": {
+    "id": 318134011039842304,
+    "name": "gigipruna",
+    "nick": null,
+    "display_name": "Gigi Pruna",
+    "global_name": "Gigi Pruna",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Singur Singurel..\n\nhttps://steamcommunity.com/id/gigipruna/",
+    "guild_bio": null,
+    "display_bio": "Singur Singurel..\n\nhttps://steamcommunity.com/id/gigipruna/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "eune_38085295",
+        "name": "Gigi Pruna",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198092248171",
+        "name": "Gigi Pruna",
+        "url": "https://steamcommunity.com/profiles/76561198092248171"
+      },
+      "xbox": {
+        "id": "3068594273235684",
+        "name": "Gigi Pruna5029",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gigi Pruna5029"
+      }
+    },
+    "legacy_username": "Gigi Pruna#8023"
   }
 }
