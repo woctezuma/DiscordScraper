@@ -8000,5 +8000,25 @@
     ],
     "connections": {},
     "legacy_username": "LammeHaas#1722"
+  },
+  "1077179015330271273": {
+    "id": 1077179015330271273,
+    "name": "bujoify",
+    "nick": null,
+    "display_name": "bujoify",
+    "global_name": "bujoify",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "bujo#2305"
   }
 }
