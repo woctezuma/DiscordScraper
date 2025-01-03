@@ -6702,5 +6702,109 @@
       }
     },
     "legacy_username": "Zigmond#1385"
+  },
+  "217022260433649665": {
+    "id": 217022260433649665,
+    "name": "goodguygaeb",
+    "nick": null,
+    "display_name": "Gabe",
+    "global_name": "Gabe",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "YokaiMore#2616",
+        "name": "YokaiMore#2616",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "c9085249-d527-56d7-848d-239d7abbbbc2",
+        "name": "GoodGuyGaeb",
+        "url": null
+      },
+      "instagram": {
+        "id": "7030736237010143",
+        "name": "goodguygaeb",
+        "url": "https://www.instagram.com/goodguygaeb"
+      },
+      "spotify": {
+        "id": "11149131373",
+        "name": "Pellicano Gabriel",
+        "url": "https://open.spotify.com/user/11149131373"
+      },
+      "steam": {
+        "id": "76561198086359367",
+        "name": "Jason's Tetem",
+        "url": "https://steamcommunity.com/profiles/76561198086359367"
+      },
+      "twitch": {
+        "id": "430369055",
+        "name": "goodguygaeb",
+        "url": "https://www.twitch.tv/goodguygaeb"
+      },
+      "xbox": {
+        "id": "3064059406410723",
+        "name": "YokaiMore3945",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=YokaiMore3945"
+      }
+    },
+    "legacy_username": "Gaeb#0914"
+  },
+  "1122473301755822091": {
+    "id": 1122473301755822091,
+    "name": "otglap",
+    "nick": null,
+    "display_name": "OtgLaP",
+    "global_name": "OtgLaP",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "OtgLaP#9049"
+  },
+  "428251403799101450": {
+    "id": 428251403799101450,
+    "name": "misieqqx",
+    "nick": null,
+    "display_name": "MisieQQx",
+    "global_name": "MisieQQx",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "- Processor - Intel Core i7-10750H @ 2.60GHz\n- GPU - NVIDIA Geforce RTX 3070\n- Storage Size - 8TB SSD (2x 4TB)\n- RAM Size - 64GB",
+    "guild_bio": null,
+    "display_bio": "- Processor - Intel Core i7-10750H @ 2.60GHz\n- GPU - NVIDIA Geforce RTX 3070\n- Storage Size - 8TB SSD (2x 4TB)\n- RAM Size - 64GB",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198046225047",
+        "name": "MisieQQx",
+        "url": "https://steamcommunity.com/profiles/76561198046225047"
+      }
+    },
+    "legacy_username": "MisieQQx#4861"
   }
 }
