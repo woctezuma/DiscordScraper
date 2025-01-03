@@ -7114,5 +7114,159 @@
       }
     },
     "legacy_username": "wc6nm#3867"
+  },
+  "1262827221119275129": {
+    "id": 1262827221119275129,
+    "name": "740011.",
+    "nick": null,
+    "display_name": "zephyro",
+    "global_name": "zephyro",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3068414199985967",
+        "name": "Zephyro9886",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Zephyro9886"
+      }
+    },
+    "legacy_username": null
+  },
+  "373346920032239626": {
+    "id": 373346920032239626,
+    "name": "azraelgames",
+    "nick": null,
+    "display_name": "Azrael",
+    "global_name": "Azrael",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Pastor, Husband, Brother, Friend, Gamer, Musician.\n\nSteam: https://steamcommunity.com/id/azraelgames/\nXbox: Azrael\nNintendo Switch: 188984561484\nActivision: Azrael#3279325",
+    "guild_bio": null,
+    "display_bio": "Pastor, Husband, Brother, Friend, Gamer, Musician.\n\nSteam: https://steamcommunity.com/id/azraelgames/\nXbox: Azrael\nNintendo Switch: 188984561484\nActivision: Azrael#3279325",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198092974752",
+        "name": "Azrael",
+        "url": "https://steamcommunity.com/profiles/76561198092974752"
+      }
+    },
+    "legacy_username": null
+  },
+  "718170754201550850": {
+    "id": 718170754201550850,
+    "name": "poke0208",
+    "nick": null,
+    "display_name": "gargamelk_nl",
+    "global_name": "gargamelk_nl",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31mdmcrptcksqxeig3dbz6bca3ga",
+        "name": "noud",
+        "url": "https://open.spotify.com/user/31mdmcrptcksqxeig3dbz6bca3ga"
+      }
+    },
+    "legacy_username": "poke#0208"
+  },
+  "670593636790042635": {
+    "id": 670593636790042635,
+    "name": "lmrwnl",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\u227d ^ \u2022 \u2a4a \u2022 ^ \u227c",
+    "guild_pronouns": null,
+    "bio": "**Server: https://discord.gg/SeYrd55FF5**\n**`ANYA.exe          `**\n**          |        II       |     **\n**   13:04  20:04**\n ",
+    "guild_bio": null,
+    "display_bio": "**Server: https://discord.gg/SeYrd55FF5**\n**`ANYA.exe          `**\n**          |        II       |     **\n**   13:04  20:04**\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "M\u0158W\u0147#2421",
+        "name": "M\u0158W\u0147#2421",
+        "url": null
+      },
+      "epic_games": {
+        "id": "4aa600d1f7334c5eb040ad3be12c6ed1",
+        "name": "M\u0158W\u0147",
+        "url": null
+      },
+      "instagram": {
+        "id": "7222394511151290",
+        "name": "lmrwnl_",
+        "url": "https://www.instagram.com/lmrwnl_"
+      },
+      "spotify": {
+        "id": "oba8ll1ezjwbnv36vx0fai4je",
+        "name": "M\u0158W\u0147",
+        "url": "https://open.spotify.com/user/oba8ll1ezjwbnv36vx0fai4je"
+      },
+      "steam": {
+        "id": "76561198280933808",
+        "name": "M\u0158W\u0147",
+        "url": "https://steamcommunity.com/profiles/76561198280933808"
+      },
+      "tiktok": {
+        "id": "c7fc6a0c-ffd9-5e72-96ab-c842c5a0fc46",
+        "name": "lmrwnl",
+        "url": "https://tiktok.com/@lmrwnl"
+      },
+      "twitch": {
+        "id": "134381012",
+        "name": "lmrwnl",
+        "url": "https://www.twitch.tv/lmrwnl"
+      }
+    },
+    "legacy_username": null
+  },
+  "1318583409613869096": {
+    "id": 1318583409613869096,
+    "name": "type.writr",
+    "nick": null,
+    "display_name": "Type",
+    "global_name": "Type",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I've got too much eminem shit on my profile",
+    "guild_bio": null,
+    "display_bio": "I've got too much eminem shit on my profile",
+    "banner": "https://cdn.discordapp.com/banners/1318583409613869096/a97dc8feac73240ab5ddac31191e6e9b.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1318583409613869096/a97dc8feac73240ab5ddac31191e6e9b.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
