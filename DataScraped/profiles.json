@@ -6036,5 +6036,60 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "493507846994919444": {
+    "id": 493507846994919444,
+    "name": "feylund",
+    "nick": null,
+    "display_name": "Feylund",
+    "global_name": "Feylund",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "if you are reading this, you have 7 days to eat pizza or you will have gone a week without pizza",
+    "guild_bio": null,
+    "display_bio": "if you are reading this, you have 7 days to eat pizza or you will have gone a week without pizza",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1142279784044874698",
+        "name": "AnyaFaye",
+        "url": null
+      }
+    },
+    "legacy_username": "Feylund#0164"
+  },
+  "857636939674550292": {
+    "id": 857636939674550292,
+    "name": "_hitotsumesama",
+    "nick": null,
+    "display_name": "Gin",
+    "global_name": "Gin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://youtu.be/xvFZjo5PgG0?si=HRcEWP2AuLSnEUtO",
+    "guild_bio": null,
+    "display_bio": "https://youtu.be/xvFZjo5PgG0?si=HRcEWP2AuLSnEUtO",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "228fed3904a44a1f86c22558a30878b8",
+        "name": "H1totsume",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198422562578",
+        "name": "Hitotsume",
+        "url": "https://steamcommunity.com/profiles/76561198422562578"
+      }
+    },
+    "legacy_username": null
   }
 }
