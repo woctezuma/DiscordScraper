@@ -7704,5 +7704,61 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1323978195212566529": {
+    "id": 1323978195212566529,
+    "name": "a_j_o_r_a",
+    "nick": null,
+    "display_name": "A_j_o_r_a",
+    "global_name": "A_j_o_r_a",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1274370790355107910": {
+    "id": 1274370790355107910,
+    "name": "yago_christ_58147",
+    "nick": null,
+    "display_name": "yago_christ",
+    "global_name": "yago_christ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "421792911047262210": {
+    "id": 421792911047262210,
+    "name": "jogigota",
+    "nick": null,
+    "display_name": "Jonny",
+    "global_name": "Jonny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jonny#1576"
   }
 }
