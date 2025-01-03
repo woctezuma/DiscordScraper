@@ -6850,5 +6850,26 @@
       }
     },
     "legacy_username": "Nica#8221"
+  },
+  "805721163527225364": {
+    "id": 805721163527225364,
+    "name": "stormyez_433",
+    "nick": null,
+    "display_name": "Stormyez 42",
+    "global_name": "Stormyez 42",
+    "pronouns": "LLJW 42",
+    "guild_pronouns": null,
+    "bio": "LLJW 42 ",
+    "guild_bio": null,
+    "display_bio": "LLJW 42 ",
+    "banner": "https://cdn.discordapp.com/banners/805721163527225364/a_ef9cfe0b5cafc90ba109192f0cb69b9c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/805721163527225364/a_ef9cfe0b5cafc90ba109192f0cb69b9c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
