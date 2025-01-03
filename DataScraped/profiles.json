@@ -7268,5 +7268,25 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1020683762297741362": {
+    "id": 1020683762297741362,
+    "name": "belkabandigoo",
+    "nick": null,
+    "display_name": "belkabandigoo",
+    "global_name": "belkabandigoo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "belkabandigoo#5788"
   }
 }
