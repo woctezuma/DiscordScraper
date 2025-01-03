@@ -8219,5 +8219,25 @@
       }
     },
     "legacy_username": "TheFinalApollo#0788"
+  },
+  "1020325168536637490": {
+    "id": 1020325168536637490,
+    "name": "qzmaj",
+    "nick": null,
+    "display_name": "QZ",
+    "global_name": "QZ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "the_great_QZ#5516"
   }
 }
