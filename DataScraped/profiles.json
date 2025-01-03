@@ -7922,5 +7922,83 @@
     ],
     "connections": {},
     "legacy_username": "Narrox#1354"
+  },
+  "580148827537932299": {
+    "id": 580148827537932299,
+    "name": "nitrax96",
+    "nick": null,
+    "display_name": "balls",
+    "global_name": "balls",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199119732305",
+        "name": "NitraX",
+        "url": "https://steamcommunity.com/profiles/76561199119732305"
+      },
+      "twitch": {
+        "id": "255630831",
+        "name": "nitraz96",
+        "url": "https://www.twitch.tv/nitraz96"
+      },
+      "youtube": {
+        "id": "UCoGWhUULqLNrNlIGUuAaspA",
+        "name": "NitraX",
+        "url": "https://www.youtube.com/channel/UCoGWhUULqLNrNlIGUuAaspA"
+      }
+    },
+    "legacy_username": "NitraX#3094"
+  },
+  "1259385548607328278": {
+    "id": 1259385548607328278,
+    "name": "gym31986",
+    "nick": null,
+    "display_name": "Gym3 1986#",
+    "global_name": "Gym3 1986#",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "568029962620370946": {
+    "id": 568029962620370946,
+    "name": "lammehaas",
+    "nick": null,
+    "display_name": "spacebear",
+    "global_name": "spacebear",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "LammeHaas#1722"
   }
 }
