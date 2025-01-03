@@ -6318,5 +6318,41 @@
       }
     },
     "legacy_username": null
+  },
+  "695910162543935511": {
+    "id": 695910162543935511,
+    "name": "stuntgav",
+    "nick": null,
+    "display_name": "Stunt Gav",
+    "global_name": "Stunt Gav",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7815934919660288072",
+        "name": "Stunt_Gav",
+        "url": null
+      },
+      "xbox": {
+        "id": "NWI2MGEwYWQ0Yjc5YWY4YjcyYTJmNzdkY2E5NDI4YzNlNmE2YTRiNzYwMzllODM1MTgwYjE1YjMzZjViZDM5ZA",
+        "name": "Stunt Gav",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Stunt Gav"
+      },
+      "youtube": {
+        "id": "UC_ePgMnv4ckFGYCmRlze2fg",
+        "name": "Stunt Gav",
+        "url": "https://www.youtube.com/channel/UC_ePgMnv4ckFGYCmRlze2fg"
+      }
+    },
+    "legacy_username": "Stunt Gav#8137"
   }
 }
