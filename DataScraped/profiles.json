@@ -6513,5 +6513,38 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "970412745340108811": {
+    "id": 970412745340108811,
+    "name": "therealzmuptv",
+    "nick": null,
+    "display_name": "Z",
+    "global_name": "Z",
+    "pronouns": "Just call me Z if you can't say my name",
+    "guild_pronouns": null,
+    "bio": "i make music and random videos\n\n\n\n\nhttps://www.youtube.com/@zmuptv6000",
+    "guild_bio": null,
+    "display_bio": "i make music and random videos\n\n\n\n\nhttps://www.youtube.com/@zmuptv6000",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199263110865",
+        "name": "NN0",
+        "url": "https://steamcommunity.com/profiles/76561199263110865"
+      },
+      "youtube": {
+        "id": "UC5RHrlkBCeWrOHB4MLJxRXA",
+        "name": "Zmuptv",
+        "url": "https://www.youtube.com/channel/UC5RHrlkBCeWrOHB4MLJxRXA"
+      }
+    },
+    "legacy_username": "idkmanimded#5720"
   }
 }
