@@ -6546,5 +6546,31 @@
       }
     },
     "legacy_username": "idkmanimded#5720"
+  },
+  "816031662202814504": {
+    "id": 816031662202814504,
+    "name": "kindtsipar",
+    "nick": null,
+    "display_name": "Kann3110",
+    "global_name": "Kann3110",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31oqelag7siaraojosuxhbahjxbu",
+        "name": "Kevin Hdsbz",
+        "url": "https://open.spotify.com/user/31oqelag7siaraojosuxhbahjxbu"
+      }
+    },
+    "legacy_username": "Kann3110#1503"
   }
 }
