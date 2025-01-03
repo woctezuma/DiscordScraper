@@ -6989,5 +6989,25 @@
       }
     },
     "legacy_username": "Pew#5256"
+  },
+  "239187345935564800": {
+    "id": 239187345935564800,
+    "name": "rocky0070369",
+    "nick": null,
+    "display_name": "Rocky007",
+    "global_name": "Rocky007",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Rocky007#0369"
   }
 }
