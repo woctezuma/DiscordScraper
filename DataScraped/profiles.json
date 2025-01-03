@@ -8239,5 +8239,45 @@
     ],
     "connections": {},
     "legacy_username": "the_great_QZ#5516"
+  },
+  "276450510536572928": {
+    "id": 276450510536572928,
+    "name": "hysterycalirish",
+    "nick": null,
+    "display_name": "THE ONE AND ONLY BUUUUUUCOLO",
+    "global_name": "THE ONE AND ONLY BUUUUUUCOLO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nico-Hysterycal#3852"
+  },
+  "598482698301997066": {
+    "id": 598482698301997066,
+    "name": "nyalpin",
+    "nick": null,
+    "display_name": "<3",
+    "global_name": "<3",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
