@@ -7617,5 +7617,74 @@
       }
     },
     "legacy_username": "Trevas#1255"
+  },
+  "696114959595077632": {
+    "id": 696114959595077632,
+    "name": "nova541",
+    "nick": null,
+    "display_name": "Nova",
+    "global_name": "Nova",
+    "pronouns": "murderer/serial killer",
+    "guild_pronouns": null,
+    "bio": "NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO NO",
+    "guild_bio": null,
+    "display_bio": "NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO  NO NO",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "gaminggang#21702",
+        "name": "gaminggang#21702",
+        "url": null
+      },
+      "epic_games": {
+        "id": "009be6a6a11b4b08ad6f729b509d0c4d",
+        "name": "slat3rslat3r01",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199078984737",
+        "name": "Super-Gaming-Gang",
+        "url": "https://steamcommunity.com/profiles/76561199078984737"
+      },
+      "twitch": {
+        "id": "719768949",
+        "name": "steampunkstwitch",
+        "url": "https://www.twitch.tv/steampunkstwitch"
+      },
+      "xbox": {
+        "id": "3069773445857460",
+        "name": "Supergaminggang",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Supergaminggang"
+      }
+    },
+    "legacy_username": null
+  },
+  "581365603869261824": {
+    "id": 581365603869261824,
+    "name": "aru1088",
+    "nick": null,
+    "display_name": "Aru",
+    "global_name": "Aru",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Name : Aru\nFav Game : PUBG/ML\nTukang Nyimak",
+    "guild_bio": null,
+    "display_bio": "Name : Aru\nFav Game : PUBG/ML\nTukang Nyimak",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Aru#1088"
   }
 }
