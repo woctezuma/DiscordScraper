@@ -7760,5 +7760,42 @@
     ],
     "connections": {},
     "legacy_username": "Jonny#1576"
+  },
+  "349295779518873600": {
+    "id": 349295779518873600,
+    "name": "spicecowboy4",
+    "nick": null,
+    "display_name": "SpiceCowboy",
+    "global_name": "SpiceCowboy",
+    "pronouns": "Nikolaj Jensen",
+    "guild_pronouns": null,
+    "bio": "SOME PEOPLE CALL ME THE SPICE COWBOY SOME CALL ME THE CLAIRVOYANT STUD. \nOTHER PEOPLE CALL ME MUA'DIB CAUSE I UNLEASHED A JIHAD OF BLOOD RWOOOOOOO!",
+    "guild_bio": null,
+    "display_bio": "SOME PEOPLE CALL ME THE SPICE COWBOY SOME CALL ME THE CLAIRVOYANT STUD. \nOTHER PEOPLE CALL ME MUA'DIB CAUSE I UNLEASHED A JIHAD OF BLOOD RWOOOOOOO!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "ebj3ljd",
+        "name": "HIWS433",
+        "url": "https://www.reddit.com/u/HIWS433"
+      },
+      "spotify": {
+        "id": "21vzxjmgm23cpqio5fycdceqa",
+        "name": "NIKO",
+        "url": "https://open.spotify.com/user/21vzxjmgm23cpqio5fycdceqa"
+      },
+      "steam": {
+        "id": "76561198838672339",
+        "name": "Spice Cowboy",
+        "url": "https://steamcommunity.com/profiles/76561198838672339"
+      }
+    },
+    "legacy_username": "HIWES#6332"
   }
 }
