@@ -8279,5 +8279,111 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "700492902572490764": {
+    "id": 700492902572490764,
+    "name": "unlozano",
+    "nick": null,
+    "display_name": "ThatLozano",
+    "global_name": "ThatLozano",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "12150421985",
+        "name": "Saul Lozano",
+        "url": "https://open.spotify.com/user/12150421985"
+      },
+      "xbox": {
+        "id": "3073498677245273",
+        "name": "ClaspedBoot5397",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ClaspedBoot5397"
+      }
+    },
+    "legacy_username": "UnLozano#5354"
+  },
+  "537392753534042152": {
+    "id": 537392753534042152,
+    "name": "tokyoaraa",
+    "nick": null,
+    "display_name": "Gloomy.....",
+    "global_name": "Gloomy.....",
+    "pronouns": "Griefer",
+    "guild_pronouns": null,
+    "bio": "Welcome....<a:amazed:1214809255991840788> <a:monkey:1194136045873287188><a:Zerotwoczt:1197060851660771369> <a:toothless:1197060556352393327> <a:fbi:1214810639919218699>",
+    "guild_bio": null,
+    "display_bio": "Welcome....<a:amazed:1214809255991840788> <a:monkey:1194136045873287188><a:Zerotwoczt:1197060851660771369> <a:toothless:1197060556352393327> <a:fbi:1214810639919218699>",
+    "banner": "https://cdn.discordapp.com/banners/537392753534042152/a_77056e44074a2719bfa6acbe57943bc0.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/537392753534042152/a_77056e44074a2719bfa6acbe57943bc0.gif?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ljppycjygbwhx4hubnxro487v",
+        "name": "_.6Bunny",
+        "url": "https://open.spotify.com/user/ljppycjygbwhx4hubnxro487v"
+      },
+      "steam": {
+        "id": "76561198127738108",
+        "name": "Agent Gloomy \u30d9\u30eb\u30bb\u30eb\u30af",
+        "url": "https://steamcommunity.com/profiles/76561198127738108"
+      },
+      "twitch": {
+        "id": "441521970",
+        "name": "tokyoaraa",
+        "url": "https://www.twitch.tv/tokyoaraa"
+      },
+      "xbox": {
+        "id": "3071803086148121",
+        "name": "D E V I L8488",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=D E V I L8488"
+      }
+    },
+    "legacy_username": "DoseExp#9919"
+  },
+  "703963758652817448": {
+    "id": 703963758652817448,
+    "name": "deerlymissed",
+    "nick": null,
+    "display_name": "DeerlyMissed",
+    "global_name": "DeerlyMissed",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "probably dead somewhere",
+    "guild_bio": null,
+    "display_bio": "probably dead somewhere",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "aqdehe83zmzvd1jaqns12088y",
+        "name": "Angel",
+        "url": "https://open.spotify.com/user/aqdehe83zmzvd1jaqns12088y"
+      },
+      "steam": {
+        "id": "76561198426265837",
+        "name": "Moony",
+        "url": "https://steamcommunity.com/profiles/76561198426265837"
+      }
+    },
+    "legacy_username": "DeerlyMissed#6404"
   }
 }
