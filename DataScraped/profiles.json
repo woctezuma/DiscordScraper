@@ -8193,5 +8193,31 @@
       }
     },
     "legacy_username": "CryBaby#4086"
+  },
+  "553332037688361011": {
+    "id": 553332037688361011,
+    "name": "thefinalapollo",
+    "nick": null,
+    "display_name": "TheFinalApollo",
+    "global_name": "TheFinalApollo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " Father and Husband\nGamer\nPilot\nOutdoors\nWeight Lifting\n\nIm just happy to be here\n\nThe cake is a lie",
+    "guild_bio": null,
+    "display_bio": " Father and Husband\nGamer\nPilot\nOutdoors\nWeight Lifting\n\nIm just happy to be here\n\nThe cake is a lie",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3063110002457499",
+        "name": "NightRaven45",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=NightRaven45"
+      }
+    },
+    "legacy_username": "TheFinalApollo#0788"
   }
 }
