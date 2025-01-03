@@ -6909,5 +6909,49 @@
     ],
     "connections": {},
     "legacy_username": "Bshort#6213"
+  },
+  "189795680477380608": {
+    "id": 189795680477380608,
+    "name": "ekku",
+    "nick": null,
+    "display_name": "Eku",
+    "global_name": "Eku",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198113504881",
+        "name": "Eku",
+        "url": "https://steamcommunity.com/profiles/76561198113504881"
+      }
+    },
+    "legacy_username": "Ekku#3897"
+  },
+  "256379893321957377": {
+    "id": 256379893321957377,
+    "name": "_burakba",
+    "nick": null,
+    "display_name": "Burak",
+    "global_name": "Burak",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
