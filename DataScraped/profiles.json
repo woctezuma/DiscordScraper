@@ -7902,5 +7902,25 @@
       }
     },
     "legacy_username": null
+  },
+  "306433487450275841": {
+    "id": 306433487450275841,
+    "name": "narrox",
+    "nick": null,
+    "display_name": "Narrox",
+    "global_name": "Narrox",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Narrox#1354"
   }
 }
