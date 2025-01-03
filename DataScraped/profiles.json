@@ -6091,5 +6091,113 @@
       }
     },
     "legacy_username": null
+  },
+  "849677162684219423": {
+    "id": 849677162684219423,
+    "name": "itzenzy",
+    "nick": null,
+    "display_name": "!enzy",
+    "global_name": "!enzy",
+    "pronouns": "\ud83e\udd75 https://only-fans.uk/enzy \ud83d\udca6",
+    "guild_pronouns": null,
+    "bio": "https://fbi.bio/enzy  \"Where my motherfuckin' army when I need that?\"  ",
+    "guild_bio": null,
+    "display_bio": "https://fbi.bio/enzy  \"Where my motherfuckin' army when I need that?\"  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AFTPU5WJSMGPRPTJKBS5ITBLYF4Q",
+        "name": "enzy",
+        "url": null
+      },
+      "battle_net": {
+        "id": "enzy#31107",
+        "name": "enzy#31107",
+        "url": null
+      },
+      "unknown_bluesky": {
+        "id": "did:plc:tfnbrhsvsdinseaixpcawact",
+        "name": "enzzyy.bsky.social",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018537740720",
+        "name": "enzy",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "648f086a-d9f0-5e2e-9516-a5c27b636c28",
+        "name": "eenzyy",
+        "url": null
+      },
+      "epic_games": {
+        "id": "01e0e029df3f425aa3d3ed701828d7f8",
+        "name": "enzy .",
+        "url": null
+      },
+      "github": {
+        "id": "170224478",
+        "name": "itzenzy",
+        "url": "https://github.com/itzenzy"
+      },
+      "reddit": {
+        "id": "1137kvas7e",
+        "name": "eenzyy",
+        "url": "https://www.reddit.com/u/eenzyy"
+      },
+      "riot_games": {
+        "id": "VfigWFgo94N9JwWrk1BGENxUyEyh9HGz1eTGwm3xwWweHryswDnK4qWouJHjX-q2-KZL6xZ1a0Daww",
+        "name": "enzy#eenzy",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "7071128894",
+        "name": "itzenzzy",
+        "url": null
+      },
+      "spotify": {
+        "id": "31574n7dnvchn3gxjyaowojuzqsu",
+        "name": "enzy",
+        "url": "https://open.spotify.com/user/31574n7dnvchn3gxjyaowojuzqsu"
+      },
+      "steam": {
+        "id": "76561199579587960",
+        "name": "enzy",
+        "url": "https://steamcommunity.com/profiles/76561199579587960"
+      },
+      "tiktok": {
+        "id": "9f677fa5-6536-552a-8f92-0a4d888b8927",
+        "name": "thorxae",
+        "url": "https://tiktok.com/@thorxae"
+      },
+      "twitch": {
+        "id": "1031192689",
+        "name": "enzzyplays",
+        "url": "https://www.twitch.tv/enzzyplays"
+      },
+      "twitter": {
+        "id": "1639051516068651009",
+        "name": "enzyplays",
+        "url": "https://twitter.com/enzyplays"
+      },
+      "xbox": {
+        "id": "3072492701275134",
+        "name": "itzenzy7170",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=itzenzy7170"
+      },
+      "youtube": {
+        "id": "UCFjKuLk-cGdfU9-S_NWPfVg",
+        "name": "enzy",
+        "url": "https://www.youtube.com/channel/UCFjKuLk-cGdfU9-S_NWPfVg"
+      }
+    },
+    "legacy_username": "turdboi#7030"
   }
 }
