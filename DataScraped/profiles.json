@@ -6287,5 +6287,36 @@
     ],
     "connections": {},
     "legacy_username": "BenDover#5611"
+  },
+  "1219705944078942310": {
+    "id": 1219705944078942310,
+    "name": "spuz",
+    "nick": null,
+    "display_name": "Spuz",
+    "global_name": "Spuz",
+    "pronouns": "I am dragon \u2642",
+    "guild_pronouns": null,
+    "bio": "https://linktr.ee/spuz_",
+    "guild_bio": null,
+    "display_bio": "https://linktr.ee/spuz_",
+    "banner": "https://cdn.discordapp.com/banners/1219705944078942310/a_c7f2fb6a96cece5a0b0fed6a43c5ab0a.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1219705944078942310/a_c7f2fb6a96cece5a0b0fed6a43c5ab0a.gif?size=512",
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198378816591",
+        "name": "Spuz",
+        "url": "https://steamcommunity.com/profiles/76561198378816591"
+      },
+      "youtube": {
+        "id": "UCh34ymKEoMjSbz9zx_rqmpA",
+        "name": "SpuzPSO",
+        "url": "https://www.youtube.com/channel/UCh34ymKEoMjSbz9zx_rqmpA"
+      }
+    },
+    "legacy_username": null
   }
 }
