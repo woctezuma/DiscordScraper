@@ -8385,5 +8385,33 @@
       }
     },
     "legacy_username": "DeerlyMissed#6404"
+  },
+  "192812722168135680": {
+    "id": 192812722168135680,
+    "name": "ddoom33",
+    "nick": null,
+    "display_name": "D-Doom33",
+    "global_name": "D-Doom33",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "36249773",
+        "name": "d_doom33",
+        "url": "https://www.twitch.tv/d_doom33"
+      }
+    },
+    "legacy_username": "D-Doom33#0579"
   }
 }
