@@ -6871,5 +6871,43 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1306285911486632007": {
+    "id": 1306285911486632007,
+    "name": "sevenbestt.",
+    "nick": null,
+    "display_name": "Best",
+    "global_name": "Best",
+    "pronouns": "so sou um estranho, e oque pensam...",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "184786781869178880": {
+    "id": 184786781869178880,
+    "name": "bshorty",
+    "nick": null,
+    "display_name": "AlamoLoL",
+    "global_name": "AlamoLoL",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Bshort#6213"
   }
 }
