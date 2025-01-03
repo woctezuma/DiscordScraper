@@ -5694,5 +5694,28 @@
     ],
     "connections": {},
     "legacy_username": "Kanashi_Namida#9812"
+  },
+  "384360595203293194": {
+    "id": 384360595203293194,
+    "name": "dragondemon",
+    "nick": null,
+    "display_name": "DD-621 (The Hound)",
+    "global_name": "DD-621 (The Hound)",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/384360595203293194/aa4e345a538383dae145992d914ebc55.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/384360595203293194/aa4e345a538383dae145992d914ebc55.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Dragon Demon#3299"
   }
 }
