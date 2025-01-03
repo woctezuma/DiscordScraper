@@ -6953,5 +6953,41 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "894216091407101962": {
+    "id": 894216091407101962,
+    "name": "itz_pew",
+    "nick": null,
+    "display_name": "Pew",
+    "global_name": "Pew",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<:0_:1171838582844039308><:1_:1171838584060387438><:2_:1171838586132377740><:3_:1171838587147390997><:4_:1171838589387153408><:5_:1171838590599311410><:6_:1171838592197333044>",
+    "guild_bio": null,
+    "display_bio": "<:0_:1171838582844039308><:1_:1171838584060387438><:2_:1171838586132377740><:3_:1171838587147390997><:4_:1171838589387153408><:5_:1171838590599311410><:6_:1171838592197333044>",
+    "banner": "https://cdn.discordapp.com/banners/894216091407101962/a_afd8b3ef83f5c1c7a156eaff6b446914.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/894216091407101962/a_afd8b3ef83f5c1c7a156eaff6b446914.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198801884863",
+        "name": "Pew",
+        "url": "https://steamcommunity.com/profiles/76561198801884863"
+      },
+      "youtube": {
+        "id": "UCZx1VVQOeGFCH9Kjg0wS10A",
+        "name": "Pew",
+        "url": "https://www.youtube.com/channel/UCZx1VVQOeGFCH9Kjg0wS10A"
+      }
+    },
+    "legacy_username": "Pew#5256"
   }
 }
