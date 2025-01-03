@@ -5755,5 +5755,79 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "910531471725428766": {
+    "id": 910531471725428766,
+    "name": "yefege_",
+    "nick": null,
+    "display_name": "yefege",
+    "global_name": "yefege",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "certified idiot",
+    "guild_bio": null,
+    "display_bio": "certified idiot",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "182772978",
+        "name": "yefege",
+        "url": "https://github.com/yefege"
+      },
+      "playstation": {
+        "id": "7783054044983213480",
+        "name": "yefege",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "299384723",
+        "name": "yefege",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199127211015",
+        "name": "yefege",
+        "url": "https://steamcommunity.com/profiles/76561199127211015"
+      },
+      "twitter": {
+        "id": "1802389768095084544",
+        "name": "yef_ege1",
+        "url": "https://twitter.com/yef_ege1"
+      }
+    },
+    "legacy_username": "progaming69#6768"
+  },
+  "775912795463745577": {
+    "id": 775912795463745577,
+    "name": "bahythedev",
+    "nick": null,
+    "display_name": "Zenuchhi",
+    "global_name": "Zenuchhi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Typical Maldivian, what more are you asking for?",
+    "guild_bio": null,
+    "display_bio": "Typical Maldivian, what more are you asking for?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UC_btOect-S6ejWyhH2ldNrA",
+        "name": "BahyTheDev",
+        "url": "https://www.youtube.com/channel/UC_btOect-S6ejWyhH2ldNrA"
+      }
+    },
+    "legacy_username": "BahyTheDev#5351"
   }
 }
