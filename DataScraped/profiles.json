@@ -7797,5 +7797,110 @@
       }
     },
     "legacy_username": "HIWES#6332"
+  },
+  "1227024475317342248": {
+    "id": 1227024475317342248,
+    "name": "sata_andagiii25",
+    "nick": null,
+    "display_name": "Sata Andagiii :D",
+    "global_name": "Sata Andagiii :D",
+    "pronouns": "Sata/Andagiii :D",
+    "guild_pronouns": null,
+    "bio": "Sata Andagiii :D",
+    "guild_bio": null,
+    "display_bio": "Sata Andagiii :D",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31vuzbirz4qbuxamutrty67u7o3m",
+        "name": "me",
+        "url": "https://open.spotify.com/user/31vuzbirz4qbuxamutrty67u7o3m"
+      },
+      "steam": {
+        "id": "76561199668266485",
+        "name": "sata andagiii :D",
+        "url": "https://steamcommunity.com/profiles/76561199668266485"
+      }
+    },
+    "legacy_username": null
+  },
+  "998511892664430633": {
+    "id": 998511892664430633,
+    "name": "ravinduravindu3669",
+    "nick": null,
+    "display_name": "RAVIDU.",
+    "global_name": "RAVIDU.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1171505220199645266": {
+    "id": 1171505220199645266,
+    "name": "adam12gg",
+    "nick": null,
+    "display_name": "Adam12gg",
+    "global_name": "Adam12gg",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Dm me and I will respond, I'm welcoming (mostly).\nDon't question me, I exist for several reasons.\nBe respectful, you can never know who you're dealing with .",
+    "guild_bio": null,
+    "display_bio": "Dm me and I will respond, I'm welcoming (mostly).\nDon't question me, I exist for several reasons.\nBe respectful, you can never know who you're dealing with .",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "1e9aapfr8e",
+        "name": "Adam12gg_Social125",
+        "url": "https://www.reddit.com/u/Adam12gg_Social125"
+      },
+      "spotify": {
+        "id": "31spw564a2lz5l4nj4piircje5e4",
+        "name": "\u00c1d\u00e1m",
+        "url": "https://open.spotify.com/user/31spw564a2lz5l4nj4piircje5e4"
+      },
+      "steam": {
+        "id": "76561199585497527",
+        "name": "adam12ggaming",
+        "url": "https://steamcommunity.com/profiles/76561199585497527"
+      },
+      "twitch": {
+        "id": "993862920",
+        "name": "adam12_gg",
+        "url": "https://www.twitch.tv/adam12_gg"
+      },
+      "twitter": {
+        "id": "1720913392922226688",
+        "name": "Adam12GG",
+        "url": "https://twitter.com/Adam12GG"
+      },
+      "xbox": {
+        "id": "3069673360340960",
+        "name": "Adam12GG4162",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Adam12GG4162"
+      },
+      "youtube": {
+        "id": "UCHrkLxcbkc50ceg-oe_Ft9A",
+        "name": "\u00c1d\u00e1m 12",
+        "url": "https://www.youtube.com/channel/UCHrkLxcbkc50ceg-oe_Ft9A"
+      }
+    },
+    "legacy_username": null
   }
 }
