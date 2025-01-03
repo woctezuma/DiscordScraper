@@ -7331,5 +7331,146 @@
       }
     },
     "legacy_username": "Itz_MarekCZ#3058"
+  },
+  "323635889786060811": {
+    "id": 323635889786060811,
+    "name": "enzucka",
+    "nick": null,
+    "display_name": "Zuca",
+    "global_name": "Zuca",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "When you meet your God tell him to leave me alone.",
+    "guild_bio": null,
+    "display_bio": "When you meet your God tell him to leave me alone.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Enzucka#6022"
+  },
+  "854603548921954314": {
+    "id": 854603548921954314,
+    "name": "marymikiy",
+    "nick": null,
+    "display_name": "Miki",
+    "global_name": "Miki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/854603548921954314/a_791563c87abb37a5cdf8278199001ac9.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/854603548921954314/a_791563c87abb37a5cdf8278199001ac9.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "lo2uvqpj",
+        "name": "maricymiki",
+        "url": "https://www.reddit.com/u/maricymiki"
+      },
+      "steam": {
+        "id": "76561198103541490",
+        "name": "Miki",
+        "url": "https://steamcommunity.com/profiles/76561198103541490"
+      },
+      "tiktok": {
+        "id": "1a751f6e-dc8f-5ec0-a94a-647e8e1227ac",
+        "name": "pinkpixelita",
+        "url": "https://tiktok.com/@pinkpixelita"
+      },
+      "twitch": {
+        "id": "936680316",
+        "name": "maricymiki",
+        "url": "https://www.twitch.tv/maricymiki"
+      },
+      "xbox": {
+        "id": "3073122406966409",
+        "name": "GoldenMiki5799",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=GoldenMiki5799"
+      }
+    },
+    "legacy_username": "Miki_#3984"
+  },
+  "786346285992116235": {
+    "id": 786346285992116235,
+    "name": "teodorus_rex",
+    "nick": null,
+    "display_name": "Frenchausaure",
+    "global_name": "Frenchausaure",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Pourquoi faire simple quand on peut faire compliqu",
+    "guild_bio": null,
+    "display_bio": "Pourquoi faire simple quand on peut faire compliqu",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "7b3d7966-c885-543d-9949-ea1c6fb656e5",
+        "name": "Eruasuahcnerf",
+        "url": null
+      },
+      "epic_games": {
+        "id": "6d0ccfa9e1804f9fb65b2cca6926e404",
+        "name": "T\u00e9odorus",
+        "url": null
+      },
+      "reddit": {
+        "id": "b9l4eml3",
+        "name": "Uryan_Z",
+        "url": "https://www.reddit.com/u/Uryan_Z"
+      },
+      "steam": {
+        "id": "76561199528504563",
+        "name": "Frenchausaure",
+        "url": "https://steamcommunity.com/profiles/76561199528504563"
+      },
+      "twitch": {
+        "id": "742958020",
+        "name": "teodorus_rex",
+        "url": "https://www.twitch.tv/teodorus_rex"
+      },
+      "youtube": {
+        "id": "UCdVUD4PBUNN67SsE3RX_Mqg",
+        "name": "Frenchausaure",
+        "url": "https://www.youtube.com/channel/UCdVUD4PBUNN67SsE3RX_Mqg"
+      }
+    },
+    "legacy_username": "T\u00e9odorus_Rex#6163"
+  },
+  "1320662174800154715": {
+    "id": 1320662174800154715,
+    "name": "elka_82196",
+    "nick": null,
+    "display_name": "Elka",
+    "global_name": "Elka",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
