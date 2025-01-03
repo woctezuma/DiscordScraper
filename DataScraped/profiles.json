@@ -6806,5 +6806,49 @@
       }
     },
     "legacy_username": "MisieQQx#4861"
+  },
+  "723125587605979196": {
+    "id": 723125587605979196,
+    "name": "nicansmile",
+    "nick": null,
+    "display_name": "Nica",
+    "global_name": "Nica",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "<:natsuPogs:740590608615211068>  \ni visit my cave a lot.",
+    "guild_bio": null,
+    "display_bio": "<:natsuPogs:740590608615211068>  \ni visit my cave a lot.",
+    "banner": "https://cdn.discordapp.com/banners/723125587605979196/a_43dc224d3399bb4a01235de49e276c35.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/723125587605979196/a_43dc224d3399bb4a01235de49e276c35.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Nicansmile#3174",
+        "name": "Nicansmile#3174",
+        "url": null
+      },
+      "epic_games": {
+        "id": "97a753a8f195439db38c0c0bb2eaf49f",
+        "name": "Jaybitee",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198424637703",
+        "name": "Jaybitee",
+        "url": "https://steamcommunity.com/profiles/76561198424637703"
+      },
+      "twitch": {
+        "id": "600638538",
+        "name": "nicansmile",
+        "url": "https://www.twitch.tv/nicansmile"
+      }
+    },
+    "legacy_username": "Nica#8221"
   }
 }
