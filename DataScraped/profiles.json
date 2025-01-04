@@ -9830,5 +9830,36 @@
       }
     },
     "legacy_username": null
+  },
+  "1290379927669051485": {
+    "id": 1290379927669051485,
+    "name": "max_423518",
+    "nick": null,
+    "display_name": "Max",
+    "global_name": "Max",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Hello! I fucking love the game Day Z. You should try it but it i'sent free by any chance. Bye have an good day night evening!",
+    "guild_bio": null,
+    "display_bio": "Hello! I fucking love the game Day Z. You should try it but it i'sent free by any chance. Bye have an good day night evening!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "7783515791",
+        "name": "max_423518",
+        "url": null
+      },
+      "spotify": {
+        "id": "31p7qcigu5mxtezmfqtxt76ps3ci",
+        "name": "Max",
+        "url": "https://open.spotify.com/user/31p7qcigu5mxtezmfqtxt76ps3ci"
+      }
+    },
+    "legacy_username": null
   }
 }
