@@ -10082,5 +10082,49 @@
     ],
     "connections": {},
     "legacy_username": "muffin#1218"
+  },
+  "503671634234703873": {
+    "id": 503671634234703873,
+    "name": ".xeroc",
+    "nick": null,
+    "display_name": "Xeroc",
+    "global_name": "Xeroc",
+    "pronouns": "LUE",
+    "guild_pronouns": null,
+    "bio": "\"Within the inner heart I plead\nFor you to talk to me\nI wanna hear all the good and bad\nThe new stories you have\"\nM <3",
+    "guild_bio": null,
+    "display_bio": "\"Within the inner heart I plead\nFor you to talk to me\nI wanna hear all the good and bad\nThe new stories you have\"\nM <3",
+    "banner": "https://cdn.discordapp.com/banners/503671634234703873/64095838839f558034eaced9955fd5d7.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/503671634234703873/64095838839f558034eaced9955fd5d7.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Xeroc\ud83d\ude3c#0041"
+  },
+  "985929051136995419": {
+    "id": 985929051136995419,
+    "name": "katu5588",
+    "nick": null,
+    "display_name": "katu",
+    "global_name": "katu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "katu#5588"
   }
 }
