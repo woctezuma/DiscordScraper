@@ -8752,5 +8752,43 @@
       }
     },
     "legacy_username": null
+  },
+  "1047686395751309312": {
+    "id": 1047686395751309312,
+    "name": "fromtheroughs213",
+    "nick": null,
+    "display_name": "ChoutaEater",
+    "global_name": "ChoutaEater",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hey Gancho!",
+    "guild_bio": null,
+    "display_bio": "Hey Gancho!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "fromtheroughs213#4288"
+  },
+  "1171164983829200937": {
+    "id": 1171164983829200937,
+    "name": "chickenkool",
+    "nick": null,
+    "display_name": "docta choppa",
+    "global_name": "docta choppa",
+    "pronouns": "D33z/Nutz",
+    "guild_pronouns": null,
+    "bio": "https://youtu.be/pJTGAtLH7Hw?si=enKqN8992RTss73j",
+    "guild_bio": null,
+    "display_bio": "https://youtu.be/pJTGAtLH7Hw?si=enKqN8992RTss73j",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
