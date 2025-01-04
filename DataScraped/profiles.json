@@ -11948,5 +11948,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "165240848152395786": {
+    "id": 165240848152395786,
+    "name": "lenzon101",
+    "nick": null,
+    "display_name": "lenzon101",
+    "global_name": "lenzon101",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hey.",
+    "guild_bio": null,
+    "display_bio": "Hey.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "lenzon101#1592"
   }
 }
