@@ -11879,5 +11879,56 @@
       }
     },
     "legacy_username": "\u0f12MRKT\u0f12#1811"
+  },
+  "1224116721322033243": {
+    "id": 1224116721322033243,
+    "name": "benryw",
+    "nick": null,
+    "display_name": "Benry",
+    "global_name": "Benry",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Email address\n\nBenry@disroot.org\n\nMrzim crnuge ",
+    "guild_bio": null,
+    "display_bio": "Email address\n\nBenry@disroot.org\n\nMrzim crnuge ",
+    "banner": "https://cdn.discordapp.com/banners/1224116721322033243/f3de07afcf31b2990e4080e9d0dc3a81.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1224116721322033243/f3de07afcf31b2990e4080e9d0dc3a81.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199573548620",
+        "name": "Benry",
+        "url": "https://steamcommunity.com/profiles/76561199573548620"
+      },
+      "youtube": {
+        "id": "UCtIrMpzgLOVdyhzIks8LxsQ",
+        "name": "Benry",
+        "url": "https://www.youtube.com/channel/UCtIrMpzgLOVdyhzIks8LxsQ"
+      }
+    },
+    "legacy_username": null
+  },
+  "1041518399076966430": {
+    "id": 1041518399076966430,
+    "name": "newtitanangel",
+    "nick": null,
+    "display_name": "NewTitanAngel",
+    "global_name": "NewTitanAngel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
