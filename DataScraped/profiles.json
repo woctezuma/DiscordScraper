@@ -9910,5 +9910,36 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "194381658441383936": {
+    "id": 194381658441383936,
+    "name": "vlnifos",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "20313298",
+        "name": "NiFos",
+        "url": "https://github.com/NiFos"
+      },
+      "steam": {
+        "id": "76561198088580928",
+        "name": "NiFos",
+        "url": "https://steamcommunity.com/profiles/76561198088580928"
+      }
+    },
+    "legacy_username": "\u0428\u0442\u0443\u0446\u0435\u0440 \u0437 \u043a\u043e\u0432\u043f\u0430\u0447\u043a\u043e\u043c#6331"
   }
 }
