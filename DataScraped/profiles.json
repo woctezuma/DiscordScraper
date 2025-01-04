@@ -11487,5 +11487,83 @@
     ],
     "connections": {},
     "legacy_username": "WeTheNorth#4624"
+  },
+  "772615698244829185": {
+    "id": 772615698244829185,
+    "name": "thunderwolf_man",
+    "nick": null,
+    "display_name": "Thunderwolf_man",
+    "global_name": "Thunderwolf_man",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ".. .  . ..  .   * ...  .         .  \n. .  . ..",
+    "guild_bio": null,
+    "display_bio": ".. .  . ..  .   * ...  .         .  \n. .  . ..",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Thunderwolf#11354",
+        "name": "Thunderwolf#11354",
+        "url": null
+      },
+      "epic_games": {
+        "id": "8bc7820efbcf43d9bb76234f096cc6be",
+        "name": "Thunderwolf_man",
+        "url": null
+      },
+      "facebook": {
+        "id": "237314952064926",
+        "name": "Thunderwolf Man",
+        "url": null
+      },
+      "instagram": {
+        "id": "8868870329850472",
+        "name": "thunderwolf_man",
+        "url": "https://www.instagram.com/thunderwolf_man"
+      },
+      "reddit": {
+        "id": "81p27cyh",
+        "name": "BackgroundOwl2536",
+        "url": "https://www.reddit.com/u/BackgroundOwl2536"
+      },
+      "spotify": {
+        "id": "h5bvfjz4qm3v0ga4fkv9fx5uq",
+        "name": "thunderwolf",
+        "url": "https://open.spotify.com/user/h5bvfjz4qm3v0ga4fkv9fx5uq"
+      },
+      "steam": {
+        "id": "76561199419418959",
+        "name": "Thunderwolf_man",
+        "url": "https://steamcommunity.com/profiles/76561199419418959"
+      },
+      "twitch": {
+        "id": "559060735",
+        "name": "thunderwolf_man",
+        "url": "https://www.twitch.tv/thunderwolf_man"
+      },
+      "twitter": {
+        "id": "1539127537208532993",
+        "name": "Thunderwolf_man",
+        "url": "https://twitter.com/Thunderwolf_man"
+      },
+      "xbox": {
+        "id": "3075435087079415",
+        "name": "ViewlessAsh3237",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ViewlessAsh3237"
+      },
+      "youtube": {
+        "id": "UCp_q-aF8zpK4pX0_53RenGg",
+        "name": "thunderwolf man",
+        "url": "https://www.youtube.com/channel/UCp_q-aF8zpK4pX0_53RenGg"
+      }
+    },
+    "legacy_username": "Thunderwolf_man#3273"
   }
 }
