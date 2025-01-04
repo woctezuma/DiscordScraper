@@ -11719,5 +11719,117 @@
     ],
     "connections": {},
     "legacy_username": "Khaled Milan#4480"
+  },
+  "749648025369968730": {
+    "id": 749648025369968730,
+    "name": "_burs_",
+    "nick": null,
+    "display_name": "BurS (jolly)",
+    "global_name": "BurS (jolly)",
+    "pronouns": "hoe hoe hoe",
+    "guild_pronouns": null,
+    "bio": "mwah",
+    "guild_bio": null,
+    "display_bio": "mwah",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "htBIYhOW69zVx3FBk-jjvxUaE51Il1j96h2b9vgxWqNmR3Xm8ki2f-FDKUVOF26tsSQ7Ipb6GEM3SA",
+        "name": "ilovemusic#frfr",
+        "url": null
+      },
+      "spotify": {
+        "id": "mxir3h66wevttyw3qir3svq0g",
+        "name": "Ilovemusic",
+        "url": "https://open.spotify.com/user/mxir3h66wevttyw3qir3svq0g"
+      },
+      "steam": {
+        "id": "76561199093747944",
+        "name": "burs",
+        "url": "https://steamcommunity.com/profiles/76561199093747944"
+      },
+      "xbox": {
+        "id": "3061790168411862",
+        "name": "nirosuki",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=nirosuki"
+      }
+    },
+    "legacy_username": null
+  },
+  "639662436382801979": {
+    "id": 639662436382801979,
+    "name": "ancientelis",
+    "nick": null,
+    "display_name": "AncientElis",
+    "global_name": "AncientElis",
+    "pronouns": "AElis, Elis, \u0421\u043e\u043d\u0434\u0440\u0430, \u0421\u043e\u0440\u0430",
+    "guild_pronouns": null,
+    "bio": "```    ```\n>  :https://youtu.be/_c7aAHZjO3E\n\n> https://github.com/AncientSUS/Dieseltorio\n\n> `\",  !\"`\n> `\" \"`",
+    "guild_bio": null,
+    "display_bio": "```    ```\n>  :https://youtu.be/_c7aAHZjO3E\n\n> https://github.com/AncientSUS/Dieseltorio\n\n> `\",  !\"`\n> `\" \"`",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "78358545",
+        "name": "AncientSUS",
+        "url": "https://github.com/AncientSUS"
+      },
+      "steam": {
+        "id": "76561199117432979",
+        "name": "AncientElis",
+        "url": "https://steamcommunity.com/profiles/76561199117432979"
+      }
+    },
+    "legacy_username": "AncientEVIL#5843"
+  },
+  "994774032740270171": {
+    "id": 994774032740270171,
+    "name": "wienerbutts",
+    "nick": null,
+    "display_name": "weston",
+    "global_name": "weston",
+    "pronouns": "he him",
+    "guild_pronouns": null,
+    "bio": "i love my girlfriend mika!!\n17\n3-22-22",
+    "guild_bio": null,
+    "display_bio": "i love my girlfriend mika!!\n17\n3-22-22",
+    "banner": "https://cdn.discordapp.com/banners/994774032740270171/a_24278870e574436ac31396efefd15f85.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/994774032740270171/a_24278870e574436ac31396efefd15f85.gif?size=512",
+    "badges": [
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7763188179863743967",
+        "name": "hemozzee01",
+        "url": null
+      },
+      "spotify": {
+        "id": "9al0jztwenoaq8qrjacy4r82v",
+        "name": "weston",
+        "url": "https://open.spotify.com/user/9al0jztwenoaq8qrjacy4r82v"
+      },
+      "xbox": {
+        "id": "3072230130518267",
+        "name": "hemozzee8849",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=hemozzee8849"
+      }
+    },
+    "legacy_username": null
   }
 }
