@@ -10887,5 +10887,41 @@
     ],
     "connections": {},
     "legacy_username": "der#9788"
+  },
+  "652257553811636236": {
+    "id": 652257553811636236,
+    "name": "cyberwhisky",
+    "nick": null,
+    "display_name": "Cyberwhisky",
+    "global_name": "Cyberwhisky",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "151621942",
+        "name": "cyberwhisky",
+        "url": "https://www.twitch.tv/cyberwhisky"
+      },
+      "twitter": {
+        "id": "1300411623446781953",
+        "name": "Soulcypher1",
+        "url": "https://twitter.com/Soulcypher1"
+      },
+      "youtube": {
+        "id": "UC8G_FMlzbcCuM5d4hiMsUNQ",
+        "name": "Erich S",
+        "url": "https://www.youtube.com/channel/UC8G_FMlzbcCuM5d4hiMsUNQ"
+      }
+    },
+    "legacy_username": "Soulcypher#8966"
   }
 }
