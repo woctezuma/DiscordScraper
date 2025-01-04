@@ -11604,5 +11604,82 @@
       }
     },
     "legacy_username": null
+  },
+  "562068844034654208": {
+    "id": 562068844034654208,
+    "name": "trupera",
+    "nick": null,
+    "display_name": "Trupera",
+    "global_name": "Trupera",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "QOW2#2515",
+        "name": "QOW2#2515",
+        "url": null
+      },
+      "ebay": {
+        "id": "p4gnhtrnq4c",
+        "name": "johae13",
+        "url": "https://www.ebay.com/usr/johae13"
+      },
+      "epic_games": {
+        "id": "46b222cecbfd415ba3dae97f924927f6",
+        "name": "Trupera",
+        "url": null
+      },
+      "github": {
+        "id": "66578152",
+        "name": "Trupera",
+        "url": "https://github.com/Trupera"
+      },
+      "league_of_legends": {
+        "id": "KHPaF8jmU-k5_ErAhKkxrrx8S8Ey5rPB05NWni8cUE3mr5pjbYmb8iDKVG8NZ2Th5GuvMr5wQ_6aog",
+        "name": "Trupera",
+        "url": null
+      },
+      "riot_games": {
+        "id": "KHPaF8jmU-k5_ErAhKkxrrx8S8Ey5rPB05NWni8cUE3mr5pjbYmb8iDKVG8NZ2Th5GuvMr5wQ_6aog",
+        "name": "Trupera#2204",
+        "url": null
+      },
+      "spotify": {
+        "id": "h9kscppk0s6d2rjvego08fdwk",
+        "name": "Troop",
+        "url": "https://open.spotify.com/user/h9kscppk0s6d2rjvego08fdwk"
+      },
+      "steam": {
+        "id": "76561198963293859",
+        "name": "Trupera",
+        "url": "https://steamcommunity.com/profiles/76561198963293859"
+      },
+      "twitch": {
+        "id": "790176392",
+        "name": "huperhupera",
+        "url": "https://www.twitch.tv/huperhupera"
+      },
+      "twitter": {
+        "id": "775842485457354753",
+        "name": "feeblhawkins",
+        "url": "https://twitter.com/feeblhawkins"
+      },
+      "youtube": {
+        "id": "UCtRfkg2Dz_nPhGqtOedePaQ",
+        "name": "Adam W.",
+        "url": "https://www.youtube.com/channel/UCtRfkg2Dz_nPhGqtOedePaQ"
+      }
+    },
+    "legacy_username": "! Trupera#0159"
   }
 }
