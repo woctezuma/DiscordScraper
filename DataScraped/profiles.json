@@ -11286,5 +11286,49 @@
       }
     },
     "legacy_username": "allen#6351"
+  },
+  "1315469376467505202": {
+    "id": 1315469376467505202,
+    "name": "shortysauce",
+    "nick": null,
+    "display_name": "shortysauce",
+    "global_name": "shortysauce",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "760588880058515476": {
+    "id": 760588880058515476,
+    "name": "nuccio93",
+    "nick": null,
+    "display_name": "Nuccio93",
+    "global_name": "Nuccio93",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3062861994442258",
+        "name": "Nuccio0510",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Nuccio0510"
+      }
+    },
+    "legacy_username": "Nuccio93#6434"
   }
 }
