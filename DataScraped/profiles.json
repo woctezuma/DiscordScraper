@@ -8649,5 +8649,74 @@
       }
     },
     "legacy_username": null
+  },
+  "425041862538166283": {
+    "id": 425041862538166283,
+    "name": "duccisparta",
+    "nick": null,
+    "display_name": "DucciSparta",
+    "global_name": "DucciSparta",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hi",
+    "guild_bio": null,
+    "display_bio": "Hi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "752808222594957333": {
+    "id": 752808222594957333,
+    "name": "zacht_p",
+    "nick": null,
+    "display_name": "zacht",
+    "global_name": "zacht",
+    "pronouns": "your/yours",
+    "guild_pronouns": null,
+    "bio": "Are you not tired? Cuz you always run in mind all day along",
+    "guild_bio": null,
+    "display_bio": "Are you not tired? Cuz you always run in mind all day along",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199468017572",
+        "name": "Zacht_K",
+        "url": "https://steamcommunity.com/profiles/76561199468017572"
+      }
+    },
+    "legacy_username": "zacht#9705"
+  },
+  "262988682909188106": {
+    "id": 262988682909188106,
+    "name": "lummadesign",
+    "nick": null,
+    "display_name": "LummaDesign ",
+    "global_name": "LummaDesign ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/262988682909188106/a_8565b22251c6e96c2f4edb5d46c7fea0.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/262988682909188106/a_8565b22251c6e96c2f4edb5d46c7fea0.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "LummaDesign#4902"
   }
 }
