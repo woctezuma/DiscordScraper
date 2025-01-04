@@ -9660,5 +9660,72 @@
     ],
     "connections": {},
     "legacy_username": "dhyra#5485"
+  },
+  "1116374350615027772": {
+    "id": 1116374350615027772,
+    "name": "anrcy.",
+    "nick": null,
+    "display_name": "Saint",
+    "global_name": "Saint",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1186516818454646816": {
+    "id": 1186516818454646816,
+    "name": "shyu22122005",
+    "nick": null,
+    "display_name": "Suwyburn",
+    "global_name": "Suwyburn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "27j4mguxcuy2184z4v21h7btd",
+        "name": "Shyu",
+        "url": "https://open.spotify.com/user/27j4mguxcuy2184z4v21h7btd"
+      },
+      "steam": {
+        "id": "76561199096986116",
+        "name": "Shyu:3",
+        "url": "https://steamcommunity.com/profiles/76561199096986116"
+      },
+      "twitch": {
+        "id": "1128389774",
+        "name": "sonphanluyyou",
+        "url": "https://www.twitch.tv/sonphanluyyou"
+      },
+      "twitter": {
+        "id": "1791083448238845952",
+        "name": "Shyu2205",
+        "url": "https://twitter.com/Shyu2205"
+      },
+      "xbox": {
+        "id": "3064337804910689",
+        "name": "Shyu9493",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Shyu9493"
+      }
+    },
+    "legacy_username": null
   }
 }
