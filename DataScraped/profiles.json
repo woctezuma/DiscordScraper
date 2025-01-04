@@ -10485,5 +10485,56 @@
       }
     },
     "legacy_username": "\u1cbc\u1cbc\u1cbc\u1cbc#8598"
+  },
+  "1099354081585270884": {
+    "id": 1099354081585270884,
+    "name": "coopergamez.",
+    "nick": null,
+    "display_name": "CBG",
+    "global_name": "CBG",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "305668996777246720": {
+    "id": 305668996777246720,
+    "name": "debildedektyv",
+    "nick": null,
+    "display_name": "Debildedektyv",
+    "global_name": "Debildedektyv",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31cfwyxlliokktj3xp7opmemsw2i",
+        "name": "Debildedektyv",
+        "url": "https://open.spotify.com/user/31cfwyxlliokktj3xp7opmemsw2i"
+      },
+      "steam": {
+        "id": "76561198391617471",
+        "name": "Debildedektyv",
+        "url": "https://steamcommunity.com/profiles/76561198391617471"
+      }
+    },
+    "legacy_username": "Debildedektyv#6473"
   }
 }
