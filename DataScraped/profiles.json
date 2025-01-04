@@ -10018,5 +10018,49 @@
     ],
     "connections": {},
     "legacy_username": "Jeremy#6472"
+  },
+  "1241124686922911849": {
+    "id": 1241124686922911849,
+    "name": "wangyk000",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "818392136789524480": {
+    "id": 818392136789524480,
+    "name": "crazymasterart",
+    "nick": null,
+    "display_name": "CrazyMaster",
+    "global_name": "CrazyMaster",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "Currently hiatus for 4-6 months, all projects are paused and will be continued in April-June 2025.\n\nThere will be many things coming...\nSee you there!",
+    "guild_bio": null,
+    "display_bio": "Currently hiatus for 4-6 months, all projects are paused and will be continued in April-June 2025.\n\nThere will be many things coming...\nSee you there!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCgWEnnbO_ZTknc8Dizif5Ng",
+        "name": "CrazyMaster",
+        "url": "https://www.youtube.com/channel/UCgWEnnbO_ZTknc8Dizif5Ng"
+      }
+    },
+    "legacy_username": "CrazyMaster#2309"
   }
 }
