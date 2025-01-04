@@ -9376,5 +9376,51 @@
       }
     },
     "legacy_username": "Don't ask#2286"
+  },
+  "774135268722737162": {
+    "id": 774135268722737162,
+    "name": "faizmeir17551",
+    "nick": null,
+    "display_name": "Faizmeir1",
+    "global_name": "Faizmeir1",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "700056812929417327": {
+    "id": 700056812929417327,
+    "name": "pitbullet",
+    "nick": null,
+    "display_name": "PITBULLET",
+    "global_name": "PITBULLET",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "People who classify their selves as pronouns are Separatists... It's better to die on your feet than live on your knees. 110% Man...Fucking deal wit it.",
+    "guild_bio": null,
+    "display_bio": "People who classify their selves as pronouns are Separatists... It's better to die on your feet than live on your knees. 110% Man...Fucking deal wit it.",
+    "banner": "https://cdn.discordapp.com/banners/700056812929417327/5d1806c05b361477e21e6deb11799551.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/700056812929417327/5d1806c05b361477e21e6deb11799551.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31bazc6rvxgndsbhyc5l5arq5ulq",
+        "name": "PITBULLET",
+        "url": "https://open.spotify.com/user/31bazc6rvxgndsbhyc5l5arq5ulq"
+      }
+    },
+    "legacy_username": "pitbullet#1878"
   }
 }
