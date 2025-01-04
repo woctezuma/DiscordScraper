@@ -10288,5 +10288,31 @@
       }
     },
     "legacy_username": "FlStudioSlatt#1854"
+  },
+  "166964633368920065": {
+    "id": 166964633368920065,
+    "name": "bennywave",
+    "nick": null,
+    "display_name": "BennyWave",
+    "global_name": "BennyWave",
+    "pronouns": "Info: Never start a day without coffee",
+    "guild_pronouns": null,
+    "bio": " Community management & administration\n IT-Engineer & IT-Security\n Bitdefender & Eset Expert\n Voluntary activities\n Career oriented",
+    "guild_bio": null,
+    "display_bio": " Community management & administration\n IT-Engineer & IT-Security\n Bitdefender & Eset Expert\n Voluntary activities\n Career oriented",
+    "banner": "https://cdn.discordapp.com/banners/166964633368920065/5504f4775c2f42a167e1372c65d40cc4.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/166964633368920065/5504f4775c2f42a167e1372c65d40cc4.png?size=512",
+    "badges": [
+      "active_developer",
+      "early_supporter",
+      "guild_booster_lvl6",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "BennyKun#0001"
   }
 }
