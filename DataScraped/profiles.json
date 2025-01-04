@@ -9292,5 +9292,89 @@
     ],
     "connections": {},
     "legacy_username": "KuroKrow#8434"
+  },
+  "1233457933614977135": {
+    "id": 1233457933614977135,
+    "name": "imsorii_",
+    "nick": null,
+    "display_name": "Sorii",
+    "global_name": "Sorii",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "NWJNS ",
+    "guild_bio": null,
+    "display_bio": "NWJNS ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "9104066822885764802",
+        "name": "LyaMew",
+        "url": null
+      },
+      "spotify": {
+        "id": "60j9tatbwmw2tpcjln79xch78",
+        "name": "Brice",
+        "url": "https://open.spotify.com/user/60j9tatbwmw2tpcjln79xch78"
+      }
+    },
+    "legacy_username": null
+  },
+  "644557450640621593": {
+    "id": 644557450640621593,
+    "name": "mercy._.jean",
+    "nick": null,
+    "display_name": "Mercy",
+    "global_name": "Mercy",
+    "pronouns": "What i was born with....",
+    "guild_pronouns": null,
+    "bio": "life is useless \nMatt 28:20 lo, i am with you alway ,even unto the end of the world.Amen.",
+    "guild_bio": null,
+    "display_bio": "life is useless \nMatt 28:20 lo, i am with you alway ,even unto the end of the world.Amen.",
+    "banner": "https://cdn.discordapp.com/banners/644557450640621593/4d826b613b3fd4028d9e4b7b15d2ae1d.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/644557450640621593/4d826b613b3fd4028d9e4b7b15d2ae1d.png?size=512",
+    "badges": [
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "383702190524727296": {
+    "id": 383702190524727296,
+    "name": "dontask2286",
+    "nick": null,
+    "display_name": "Don't ask",
+    "global_name": "Don't ask",
+    "pronouns": "They/She/Chat \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+    "guild_pronouns": null,
+    "bio": "\"Dark times may come, but yet you have nothing to fear. After all, all you need is an Ikea Shark\" -Socrates, ca. 69 BCE\n\nAutistic. Please handle with care",
+    "guild_bio": null,
+    "display_bio": "\"Dark times may come, but yet you have nothing to fear. After all, all you need is an Ikea Shark\" -Socrates, ca. 69 BCE\n\nAutistic. Please handle with care",
+    "banner": "https://cdn.discordapp.com/banners/383702190524727296/a_5b2508fb618c74feeebe4198b8e47e45.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/383702190524727296/a_5b2508fb618c74feeebe4198b8e47e45.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "khe9gel8fpckfbz3j6jqkwwmk",
+        "name": "GNP",
+        "url": "https://open.spotify.com/user/khe9gel8fpckfbz3j6jqkwwmk"
+      },
+      "steam": {
+        "id": "76561198329680757",
+        "name": "Don't ask",
+        "url": "https://steamcommunity.com/profiles/76561198329680757"
+      }
+    },
+    "legacy_username": "Don't ask#2286"
   }
 }
