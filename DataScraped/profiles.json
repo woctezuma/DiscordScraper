@@ -8936,5 +8936,31 @@
     ],
     "connections": {},
     "legacy_username": "fairyjazzy#3759"
+  },
+  "433009334029516813": {
+    "id": 433009334029516813,
+    "name": "vietnamese__coffee",
+    "nick": null,
+    "display_name": "coffee",
+    "global_name": "coffee",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Its an eternity in there.",
+    "guild_bio": null,
+    "display_bio": "Its an eternity in there.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "271801125",
+        "name": "un__scripted",
+        "url": "https://www.twitch.tv/un__scripted"
+      }
+    },
+    "legacy_username": "V.#7240"
   }
 }
