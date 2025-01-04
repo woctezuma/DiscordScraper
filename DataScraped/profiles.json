@@ -11969,5 +11969,37 @@
     ],
     "connections": {},
     "legacy_username": "lenzon101#1592"
+  },
+  "701519540768735294": {
+    "id": 701519540768735294,
+    "name": "kurtxg0d",
+    "nick": null,
+    "display_name": "KurT",
+    "global_name": "KurT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31usutqz5xh6cmpwepbm5hfrnvnq",
+        "name": "Kurt",
+        "url": "https://open.spotify.com/user/31usutqz5xh6cmpwepbm5hfrnvnq"
+      },
+      "steam": {
+        "id": "76561198451429166",
+        "name": "2Pac",
+        "url": "https://steamcommunity.com/profiles/76561198451429166"
+      }
+    },
+    "legacy_username": "KurT#1112"
   }
 }
