@@ -10257,5 +10257,36 @@
       }
     },
     "legacy_username": "ZER0N#3219"
+  },
+  "458747245144047622": {
+    "id": 458747245144047622,
+    "name": "flstudioslatt",
+    "nick": null,
+    "display_name": "flstudioslatt",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "fj4tke5qdnlrqvwwg0qxhw29o",
+        "name": "Opium Rayz",
+        "url": "https://open.spotify.com/user/fj4tke5qdnlrqvwwg0qxhw29o"
+      },
+      "steam": {
+        "id": "76561199617901210",
+        "name": "WHOLELOTTARED",
+        "url": "https://steamcommunity.com/profiles/76561199617901210"
+      }
+    },
+    "legacy_username": "FlStudioSlatt#1854"
   }
 }
