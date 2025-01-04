@@ -10457,5 +10457,33 @@
       }
     },
     "legacy_username": null
+  },
+  "806195166003986443": {
+    "id": 806195166003986443,
+    "name": "justtt_swayam",
+    "nick": null,
+    "display_name": "SWAYAM",
+    "global_name": "SWAYAM",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "_*https://guns.lol/swayam*_",
+    "guild_bio": null,
+    "display_bio": "_*https://guns.lol/swayam*_",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31buem5lkcordsefi7vfkb4fypy4",
+        "name": "Swayam Arman Aich",
+        "url": "https://open.spotify.com/user/31buem5lkcordsefi7vfkb4fypy4"
+      }
+    },
+    "legacy_username": "\u1cbc\u1cbc\u1cbc\u1cbc#8598"
   }
 }
