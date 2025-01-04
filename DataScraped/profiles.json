@@ -11110,5 +11110,90 @@
       }
     },
     "legacy_username": "JodyJDC#7775"
+  },
+  "832230882370256946": {
+    "id": 832230882370256946,
+    "name": "tomanjecerny",
+    "nick": null,
+    "display_name": "Tomannoss",
+    "global_name": "Tomannoss",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31qdib4mb4m5u7s3gc6bddjouzii",
+        "name": "t\u00e9omaseeeek",
+        "url": "https://open.spotify.com/user/31qdib4mb4m5u7s3gc6bddjouzii"
+      }
+    },
+    "legacy_username": "Tomanjecerny#9120"
+  },
+  "418043790000128001": {
+    "id": 418043790000128001,
+    "name": "phantomimey",
+    "nick": null,
+    "display_name": "phantomimey",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "510173903",
+        "name": "phantomimeyy",
+        "url": "https://www.twitch.tv/phantomimeyy"
+      },
+      "twitter": {
+        "id": "1185856802933616640",
+        "name": "phantomimey",
+        "url": "https://twitter.com/phantomimey"
+      },
+      "youtube": {
+        "id": "UCNnRDCjCXMTFvx1tNgZIjaQ",
+        "name": "phantomimey",
+        "url": "https://www.youtube.com/channel/UCNnRDCjCXMTFvx1tNgZIjaQ"
+      }
+    },
+    "legacy_username": "Domino#7259"
+  },
+  "1236764086587363389": {
+    "id": 1236764086587363389,
+    "name": "silenceslayer._.",
+    "nick": null,
+    "display_name": "Silence",
+    "global_name": "Silence",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "Hello, I'm silence.\nGamer.\nI'm Eighteen.\n(I Don't know what else to put.)",
+    "guild_bio": null,
+    "display_bio": "Hello, I'm silence.\nGamer.\nI'm Eighteen.\n(I Don't know what else to put.)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
