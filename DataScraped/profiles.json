@@ -10978,5 +10978,137 @@
       }
     },
     "legacy_username": "\u0274\u1d00\u0280\u1d1c\u1d1b\u1d0f#6423"
+  },
+  "269415459735076864": {
+    "id": 269415459735076864,
+    "name": "its.yuuto",
+    "nick": null,
+    "display_name": "!",
+    "global_name": "!",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "https://paypal.me/46354635487464168\nhttps://miwa.lol/yuuto\nhttps://yuuto.dev",
+    "guild_bio": null,
+    "display_bio": "https://paypal.me/46354635487464168\nhttps://miwa.lol/yuuto\nhttps://yuuto.dev",
+    "banner": "https://cdn.discordapp.com/banners/269415459735076864/013a77c99a9ed3ea763fff07cd7bccd4.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/269415459735076864/013a77c99a9ed3ea763fff07cd7bccd4.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "yuuto.dev",
+        "name": "yuuto.dev",
+        "url": null
+      },
+      "github": {
+        "id": "55290516",
+        "name": "JustYuuto",
+        "url": "https://github.com/JustYuuto"
+      },
+      "steam": {
+        "id": "76561199097796412",
+        "name": "Yuuto",
+        "url": "https://steamcommunity.com/profiles/76561199097796412"
+      }
+    },
+    "legacy_username": null
+  },
+  "533366918426656769": {
+    "id": 533366918426656769,
+    "name": "johnamir5791",
+    "nick": null,
+    "display_name": "johnamir",
+    "global_name": "johnamir",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "211878850257223682": {
+    "id": 211878850257223682,
+    "name": "jodyjdc",
+    "nick": null,
+    "display_name": "JodyJDC",
+    "global_name": "JodyJDC",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "JodyCCH#2208",
+        "name": "JodyCCH#2208",
+        "url": null
+      },
+      "facebook": {
+        "id": "10215514660165586",
+        "name": "Jody Daniele Cecchetto",
+        "url": null
+      },
+      "instagram": {
+        "id": "5382460601857709",
+        "name": "jodyjdc",
+        "url": "https://www.instagram.com/jodyjdc"
+      },
+      "skype": {
+        "id": "jody7694",
+        "name": "jody7694",
+        "url": "skype:jody7694?userinfo"
+      },
+      "steam": {
+        "id": "76561198036990479",
+        "name": "JodyCCH",
+        "url": "https://steamcommunity.com/profiles/76561198036990479"
+      },
+      "tiktok": {
+        "id": "ad8b7fdb-f25e-4d60-8db3-8a517f74fef3",
+        "name": "jodyjdc",
+        "url": "https://tiktok.com/@jodyjdc"
+      },
+      "twitch": {
+        "id": "20844000",
+        "name": "jodyjdc",
+        "url": "https://www.twitch.tv/jodyjdc"
+      },
+      "twitter": {
+        "id": "72905654",
+        "name": "JodyJDC",
+        "url": "https://twitter.com/JodyJDC"
+      },
+      "xbox": {
+        "id": "NjdkNGY3NDk5NTRmYjQyNmY1YzAwZTU1ZGFlZmM2YTUzZDRlZGY4M2I1MzJiN2EwNTcxZTRlNGEzZTA0YTBiMw",
+        "name": "JodyFigo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JodyFigo"
+      },
+      "youtube": {
+        "id": "UCoI5jFE88GejYl4X5T7D9dw",
+        "name": "Jody Cecchetto",
+        "url": "https://www.youtube.com/channel/UCoI5jFE88GejYl4X5T7D9dw"
+      }
+    },
+    "legacy_username": "JodyJDC#7775"
   }
 }
