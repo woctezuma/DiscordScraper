@@ -9125,5 +9125,131 @@
       }
     },
     "legacy_username": "Yogi the Dynamo#1907"
+  },
+  "384702087663058944": {
+    "id": 384702087663058944,
+    "name": "skiitz617",
+    "nick": null,
+    "display_name": "Skitzo",
+    "global_name": "Skitzo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "You're just gonna get Older and One Day you will look around and your gonna realize that everybody loves you but nobody likes you and that is the loneliest feeling in the world.",
+    "guild_bio": null,
+    "display_bio": "You're just gonna get Older and One Day you will look around and your gonna realize that everybody loves you but nobody likes you and that is the loneliest feeling in the world.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ShadowSkiitz#2178",
+        "name": "ShadowSkiitz#2178",
+        "url": null
+      },
+      "epic_games": {
+        "id": "f8d2ab402c4f41d1ab3cddf510c9efd4",
+        "name": "ShadowSkiitz",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "tSeNqXwn-cOP8r5H3zUZ2PrNJYxJfFOzLNOwqHmW85tSYb8Cc9dZiw-v9v36jrCwQ3LzehMq-ikvLA",
+        "name": "Skitz#bruh",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199024752076",
+        "name": "Skitz",
+        "url": "https://steamcommunity.com/profiles/76561199024752076"
+      }
+    },
+    "legacy_username": "Skitz#6579"
+  },
+  "589798433590870016": {
+    "id": 589798433590870016,
+    "name": "tardisboy1",
+    "nick": null,
+    "display_name": "TARDISBoy1",
+    "global_name": "TARDISBoy1",
+    "pronouns": "any",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/589798433590870016/31cfcf29d8058458beb9ca04ecdd76eb.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/589798433590870016/31cfcf29d8058458beb9ca04ecdd76eb.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "8002644499860290529",
+        "name": "TARDISBoy1",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "410499194",
+        "name": "Real_GamerBoyYT1",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199010168732",
+        "name": "TARDISBoy1",
+        "url": "https://steamcommunity.com/profiles/76561199010168732"
+      },
+      "xbox": {
+        "id": "3070549276087132",
+        "name": "TARDISBoy11735",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TARDISBoy11735"
+      }
+    },
+    "legacy_username": "TARDISBoy1#9924"
+  },
+  "847152012361596928": {
+    "id": 847152012361596928,
+    "name": "belldev_",
+    "nick": null,
+    "display_name": "LLDV",
+    "global_name": "LLDV",
+    "pronouns": "She",
+    "guild_pronouns": null,
+    "bio": "\n \n, \n   \n19 \n\n\n",
+    "guild_bio": null,
+    "display_bio": "\n \n, \n   \n19 \n\n\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "3973039899",
+        "name": "EidenBell",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198917936340",
+        "name": "BellDev_",
+        "url": "https://steamcommunity.com/profiles/76561198917936340"
+      },
+      "xbox": {
+        "id": "3066804591277203",
+        "name": "Gurr48136",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gurr48136"
+      }
+    },
+    "legacy_username": "\u2764 || Eiden!#3931"
   }
 }
