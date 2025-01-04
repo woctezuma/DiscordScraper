@@ -10707,5 +10707,63 @@
     ],
     "connections": {},
     "legacy_username": "rohit27#8034"
+  },
+  "877103299680141352": {
+    "id": 877103299680141352,
+    "name": "moongamma987",
+    "nick": null,
+    "display_name": "Ekakkub",
+    "global_name": "Ekakkub",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "MoonGamma_#1019"
+  },
+  "551534050544975887": {
+    "id": 551534050544975887,
+    "name": "jaybooth26",
+    "nick": null,
+    "display_name": "Jaybooth26",
+    "global_name": "Jaybooth26",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "My Bad and Dead Server Zom https://discord.com/invite/tdejcUZ36x",
+    "guild_bio": null,
+    "display_bio": "My Bad and Dead Server Zom https://discord.com/invite/tdejcUZ36x",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "jaybooth26#1725",
+        "name": "jaybooth26#1725",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198807714324",
+        "name": "jaybooth26",
+        "url": "https://steamcommunity.com/profiles/76561198807714324"
+      },
+      "xbox": {
+        "id": "3077655597466906",
+        "name": "Memedrugie",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Memedrugie"
+      }
+    },
+    "legacy_username": "Jaybooth26#1838"
   }
 }
