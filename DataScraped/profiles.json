@@ -11330,5 +11330,47 @@
       }
     },
     "legacy_username": "Nuccio93#6434"
+  },
+  "977966465271619654": {
+    "id": 977966465271619654,
+    "name": "kak_ctarenkiy",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": "KaK_StArUnKIy",
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "hAgWdJMZrKkWnbg9vLovt7SybiF4EI9bscpd3grwt2sPNt7rP-BVJE4-UmiMOqD_tw3d3gadDRPI4Q",
+        "name": "\u0430\u043b\u0430\u0441\u0442\u043e\u0440#1489",
+        "url": null
+      },
+      "spotify": {
+        "id": "31hgsfzpp6h6ivcegbhacd76mv5a",
+        "name": "\u0411\u0438\u0431\u0430",
+        "url": "https://open.spotify.com/user/31hgsfzpp6h6ivcegbhacd76mv5a"
+      },
+      "steam": {
+        "id": "76561199390127606",
+        "name": "\u041f\u0435\u0434\u043e\u0444\u0438\u043b\u0438\u0447 \u0422\u0410\u0420\u041e",
+        "url": "https://steamcommunity.com/profiles/76561199390127606"
+      },
+      "xbox": {
+        "id": "3066717670398512",
+        "name": "Pro1233153",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Pro1233153"
+      }
+    },
+    "legacy_username": "Broken_Heart#8254"
   }
 }
