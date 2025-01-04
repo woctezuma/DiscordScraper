@@ -10783,5 +10783,44 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1162913297159438377": {
+    "id": 1162913297159438377,
+    "name": "pedrobrusco_10598",
+    "nick": null,
+    "display_name": "Brusco",
+    "global_name": "Brusco",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "518007946555293706": {
+    "id": 518007946555293706,
+    "name": ".pookiee4",
+    "nick": null,
+    "display_name": "Pookie",
+    "global_name": "Pookie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
