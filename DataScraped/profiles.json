@@ -9861,5 +9861,36 @@
       }
     },
     "legacy_username": null
+  },
+  "743269255989952594": {
+    "id": 743269255989952594,
+    "name": "faen___",
+    "nick": null,
+    "display_name": "Faen_sadboypro777xx",
+    "global_name": "Faen_sadboypro777xx",
+    "pronouns": "Ella me dec\u00eda \"princesito\"",
+    "guild_pronouns": null,
+    "bio": "Te esperara esta y la prxima vida, realmente te necesito. Quiero volver a tu lado, aunque eso signifique perderlo todo.",
+    "guild_bio": null,
+    "display_bio": "Te esperara esta y la prxima vida, realmente te necesito. Quiero volver a tu lado, aunque eso signifique perderlo todo.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "mv5o1dxa",
+        "name": "dalleom",
+        "url": "https://www.reddit.com/u/dalleom"
+      },
+      "spotify": {
+        "id": "31fsw6dxdubomni24ircpbbyo63u",
+        "name": "Hide it.",
+        "url": "https://open.spotify.com/user/31fsw6dxdubomni24ircpbbyo63u"
+      }
+    },
+    "legacy_username": "teeow#0571"
   }
 }
