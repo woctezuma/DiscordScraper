@@ -10314,5 +10314,148 @@
     ],
     "connections": {},
     "legacy_username": "BennyKun#0001"
+  },
+  "134792423103528961": {
+    "id": 134792423103528961,
+    "name": "cordzzy23",
+    "nick": null,
+    "display_name": "Cordzzy",
+    "global_name": "Cordzzy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "2281443242",
+        "name": "SaBeRc0r",
+        "url": "https://twitter.com/SaBeRc0r"
+      },
+      "youtube": {
+        "id": "UCkLFQ1y7wUHqkVNjbiv6O2g",
+        "name": "SaBeRc0r",
+        "url": "https://www.youtube.com/channel/UCkLFQ1y7wUHqkVNjbiv6O2g"
+      }
+    },
+    "legacy_username": "SaBeRc0r#0971"
+  },
+  "1275139918892634125": {
+    "id": 1275139918892634125,
+    "name": "erase_07278",
+    "nick": null,
+    "display_name": "Erase",
+    "global_name": "Erase",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "261734782428250112": {
+    "id": 261734782428250112,
+    "name": "therealb3on",
+    "nick": null,
+    "display_name": "TheRealB3on",
+    "global_name": "TheRealB3on",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198045072976",
+        "name": "Alex",
+        "url": "https://steamcommunity.com/profiles/76561198045072976"
+      }
+    },
+    "legacy_username": "TheRealB3on#1721"
+  },
+  "466976004917821443": {
+    "id": 466976004917821443,
+    "name": "saikotron",
+    "nick": null,
+    "display_name": "Saikotron",
+    "global_name": "Saikotron",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Reality is a construct of simple-minded fools who can't function in the absence of boundaries.",
+    "guild_bio": null,
+    "display_bio": "Reality is a construct of simple-minded fools who can't function in the absence of boundaries.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCp9B7X5qZt10BHCjCZIFiTw",
+        "name": "Saikotron",
+        "url": "https://www.youtube.com/channel/UCp9B7X5qZt10BHCjCZIFiTw"
+      }
+    },
+    "legacy_username": null
+  },
+  "827863696717250620": {
+    "id": 827863696717250620,
+    "name": "ashu_x_erase",
+    "nick": null,
+    "display_name": "ERASE!!",
+    "global_name": "ERASE!!",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "~SAFFRON WARRIOR \nPc Jindabad\nEmulator Developer",
+    "guild_bio": null,
+    "display_bio": "~SAFFRON WARRIOR \nPc Jindabad\nEmulator Developer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bungie": {
+        "id": "4611686018532454534",
+        "name": "Junjaybhai45",
+        "url": null
+      },
+      "epic_games": {
+        "id": "7d39f41962cb4a678bd87d406ca7bfc7",
+        "name": "JunjayBhai94",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ll6dnhz5c7r4afzklajixtestm",
+        "name": "Ashu",
+        "url": "https://open.spotify.com/user/31ll6dnhz5c7r4afzklajixtestm"
+      },
+      "youtube": {
+        "id": "UCeFT0n3M5fnIeUjvi56NYKg",
+        "name": "ERASE OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCeFT0n3M5fnIeUjvi56NYKg"
+      }
+    },
+    "legacy_username": null
   }
 }
