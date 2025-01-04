@@ -9761,5 +9761,46 @@
       }
     },
     "legacy_username": "matan_ziggy#4064"
+  },
+  "351367754395156480": {
+    "id": 351367754395156480,
+    "name": "spider1996",
+    "nick": null,
+    "display_name": "Spider",
+    "global_name": "Spider",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Spider#2373",
+        "name": "Spider#2373",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198030669632",
+        "name": "Spider",
+        "url": "https://steamcommunity.com/profiles/76561198030669632"
+      },
+      "twitch": {
+        "id": "25839816",
+        "name": "spider1996",
+        "url": "https://www.twitch.tv/spider1996"
+      },
+      "youtube": {
+        "id": "UCk2JvM4v9M4e5xOPDMm8SyQ",
+        "name": "Robin Zimmermann",
+        "url": "https://www.youtube.com/channel/UCk2JvM4v9M4e5xOPDMm8SyQ"
+      }
+    },
+    "legacy_username": "RobinZ#9960"
   }
 }
