@@ -8980,5 +8980,31 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "543829027299917874": {
+    "id": 543829027299917874,
+    "name": "moonableplays",
+    "nick": null,
+    "display_name": "ItzMoony",
+    "global_name": "ItzMoony",
+    "pronouns": "she/her \ud83e\udd0d",
+    "guild_pronouns": null,
+    "bio": "..\n  - *Batman Forever *\n    *Brooklyn Fallmoon/MoonablePlays*\n*Hazy Galaxy* \n **SSO, RDR2, COD, HOGWARTS LEGACY**\n:*:  `GAMER, DIGITAL ARTIST`",
+    "guild_bio": null,
+    "display_bio": "..\n  - *Batman Forever *\n    *Brooklyn Fallmoon/MoonablePlays*\n*Hazy Galaxy* \n **SSO, RDR2, COD, HOGWARTS LEGACY**\n:*:  `GAMER, DIGITAL ARTIST`",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCQpsLNznNWkbWYZYtD1PLbQ",
+        "name": "Moonable",
+        "url": "https://www.youtube.com/channel/UCQpsLNznNWkbWYZYtD1PLbQ"
+      }
+    },
+    "legacy_username": "MoonablePlays#8282"
   }
 }
