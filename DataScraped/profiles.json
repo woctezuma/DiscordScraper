@@ -11427,5 +11427,65 @@
       }
     },
     "legacy_username": null
+  },
+  "453355745501642782": {
+    "id": 453355745501642782,
+    "name": "finchasaurus",
+    "nick": null,
+    "display_name": "Finch",
+    "global_name": "Finch",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "I make a computer create images at 60 frames per second.\n<:heart_trans:1096215311872696330> <:1429_gay_pride_heart:715397954755625012>",
+    "guild_bio": null,
+    "display_bio": "I make a computer create images at 60 frames per second.\n<:heart_trans:1096215311872696330> <:1429_gay_pride_heart:715397954755625012>",
+    "banner": "https://cdn.discordapp.com/banners/453355745501642782/74867dcf5326ab2844bb783a795c4e34.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/453355745501642782/74867dcf5326ab2844bb783a795c4e34.png?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:j4vep4ygjwwh3tlickyfbiqa",
+        "name": "renders.neocities.org",
+        "url": null
+      },
+      "github": {
+        "id": "73542262",
+        "name": "Finchasaurus",
+        "url": "https://github.com/Finchasaurus"
+      },
+      "twitter": {
+        "id": "1053405723546152960",
+        "name": "Finchasaurus_",
+        "url": "https://twitter.com/Finchasaurus_"
+      }
+    },
+    "legacy_username": "Finchasaurus#5618"
+  },
+  "344286674651578370": {
+    "id": 344286674651578370,
+    "name": "wethenorth.",
+    "nick": null,
+    "display_name": "WeTheNorth",
+    "global_name": "WeTheNorth",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "WeTheNorth#4624"
   }
 }
