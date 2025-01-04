@@ -10941,5 +10941,42 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "555625535011553282": {
+    "id": 555625535011553282,
+    "name": "recubing",
+    "nick": null,
+    "display_name": "naruto",
+    "global_name": "naruto",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6444481958928426",
+        "name": "recubing",
+        "url": "https://www.instagram.com/recubing"
+      },
+      "spotify": {
+        "id": "31vnm3fj3btfu5smnq6vgb6jqpva",
+        "name": "Arslan Adil",
+        "url": "https://open.spotify.com/user/31vnm3fj3btfu5smnq6vgb6jqpva"
+      },
+      "steam": {
+        "id": "76561199042432158",
+        "name": "naruto",
+        "url": "https://steamcommunity.com/profiles/76561199042432158"
+      }
+    },
+    "legacy_username": "\u0274\u1d00\u0280\u1d1c\u1d1b\u1d0f#6423"
   }
 }
