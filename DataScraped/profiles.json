@@ -11681,5 +11681,23 @@
       }
     },
     "legacy_username": "! Trupera#0159"
+  },
+  "1324723612799864904": {
+    "id": 1324723612799864904,
+    "name": "gfjtr5_62134",
+    "nick": null,
+    "display_name": "gfjtr5",
+    "global_name": "gfjtr5",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
