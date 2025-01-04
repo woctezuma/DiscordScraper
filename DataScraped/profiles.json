@@ -10536,5 +10536,55 @@
       }
     },
     "legacy_username": "Debildedektyv#6473"
+  },
+  "690196880176578648": {
+    "id": 690196880176578648,
+    "name": "davidalexandru65",
+    "nick": null,
+    "display_name": "65Divy.",
+    "global_name": "65Divy.",
+    "pronouns": "Divy/David",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7632383976184069510",
+        "name": "divy-david65",
+        "url": null
+      },
+      "spotify": {
+        "id": "31nijokocancme6wazuhfvykvdbq",
+        "name": "IKDaviD65",
+        "url": "https://open.spotify.com/user/31nijokocancme6wazuhfvykvdbq"
+      }
+    },
+    "legacy_username": "15Divy.#6596"
+  },
+  "1036736765597335653": {
+    "id": 1036736765597335653,
+    "name": "cassio3234.",
+    "nick": null,
+    "display_name": "Cassio3234",
+    "global_name": "Cassio3234",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
