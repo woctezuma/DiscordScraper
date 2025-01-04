@@ -9006,5 +9006,50 @@
       }
     },
     "legacy_username": "MoonablePlays#8282"
+  },
+  "591667309332922403": {
+    "id": 591667309332922403,
+    "name": "https.nyxvulcan",
+    "nick": null,
+    "display_name": "Nyx Vulcan",
+    "global_name": "Nyx Vulcan",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "<:biheart:784602970506919938> \nLvl. 20, Bisexual\n\nhttps://myanimelist.net/profile/NyxVulcan",
+    "guild_bio": null,
+    "display_bio": "<:biheart:784602970506919938> \nLvl. 20, Bisexual\n\nhttps://myanimelist.net/profile/NyxVulcan",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "1a8484f92eff4d129b9d588550d64a40",
+        "name": "Nyx Vulcan",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199072972825",
+        "name": "Nyx Vulcan",
+        "url": "https://steamcommunity.com/profiles/76561199072972825"
+      },
+      "twitter": {
+        "id": "1624532821434896384",
+        "name": "https_nyxvulcan",
+        "url": "https://twitter.com/https_nyxvulcan"
+      },
+      "youtube": {
+        "id": "UCFlSlhvRHY5d8l76uwjEAAg",
+        "name": "Nyx Vulcan",
+        "url": "https://www.youtube.com/channel/UCFlSlhvRHY5d8l76uwjEAAg"
+      }
+    },
+    "legacy_username": "Nyx Vulcan#6212"
   }
 }
