@@ -9619,5 +9619,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "620203642238009345": {
+    "id": 620203642238009345,
+    "name": "izzannathaputra",
+    "nick": null,
+    "display_name": "Zanzanie",
+    "global_name": "Zanzanie",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "fuckoff",
+    "guild_bio": null,
+    "display_bio": "fuckoff",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "izzan natha putra#2813"
   }
 }
