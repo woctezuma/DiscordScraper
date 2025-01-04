@@ -9422,5 +9422,108 @@
       }
     },
     "legacy_username": "pitbullet#1878"
+  },
+  "1297228265815150612": {
+    "id": 1297228265815150612,
+    "name": "birdman256_09906",
+    "nick": null,
+    "display_name": "Birdman256",
+    "global_name": "Birdman256",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3070239667978161",
+        "name": "UnbrokenFoil398",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=UnbrokenFoil398"
+      }
+    },
+    "legacy_username": null
+  },
+  "796131472565338142": {
+    "id": 796131472565338142,
+    "name": "cass.tralopithecus",
+    "nick": null,
+    "display_name": "Cass",
+    "global_name": "Cass",
+    "pronouns": "Carpe Noctem",
+    "guild_pronouns": null,
+    "bio": "just gotta make it to friday, and it will be fine. just gotta make it to friday, and it will be fine. just gotta make it to friday, and it will be fine. just gotta make it to friday, and it",
+    "guild_bio": null,
+    "display_bio": "just gotta make it to friday, and it will be fine. just gotta make it to friday, and it will be fine. just gotta make it to friday, and it will be fine. just gotta make it to friday, and it",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Tom?#8600"
+  },
+  "1257565915411648592": {
+    "id": 1257565915411648592,
+    "name": "sadaus",
+    "nick": null,
+    "display_name": "Sadas",
+    "global_name": "Sadas",
+    "pronouns": "you don't know me",
+    "guild_pronouns": null,
+    "bio": "a campeo, me v duas dose de melancolia fazendo o favor? ah- e sem lgrimas, s a vontade de chorar, tmj ",
+    "guild_bio": null,
+    "display_bio": "a campeo, me v duas dose de melancolia fazendo o favor? ah- e sem lgrimas, s a vontade de chorar, tmj ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1257238503930990699": {
+    "id": 1257238503930990699,
+    "name": ".rtx4090.",
+    "nick": null,
+    "display_name": "RTX 4090",
+    "global_name": "RTX 4090",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "650751394654978049": {
+    "id": 650751394654978049,
+    "name": "empz7",
+    "nick": null,
+    "display_name": "Empz7",
+    "global_name": "Empz7",
+    "pronouns": "teo/isfat",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Empz7#5644"
   }
 }
