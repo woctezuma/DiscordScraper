@@ -9251,5 +9251,46 @@
       }
     },
     "legacy_username": "\u2764 || Eiden!#3931"
+  },
+  "286337481039675393": {
+    "id": 286337481039675393,
+    "name": "ysk3002",
+    "nick": null,
+    "display_name": "YSK",
+    "global_name": "YSK",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "YSK#3002"
+  },
+  "405767603643088907": {
+    "id": 405767603643088907,
+    "name": "kozykrow",
+    "nick": null,
+    "display_name": "KozyKrow",
+    "global_name": "KozyKrow",
+    "pronouns": "Sleepy . . . \ud83d\udca4",
+    "guild_pronouns": null,
+    "bio": "Im just a loner crow, vibing through life while dead but alive at some point Maybe that's what they refer to me as an abyss.",
+    "guild_bio": null,
+    "display_bio": "Im just a loner crow, vibing through life while dead but alive at some point Maybe that's what they refer to me as an abyss.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "KuroKrow#8434"
   }
 }
