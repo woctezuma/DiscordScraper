@@ -9525,5 +9525,25 @@
     ],
     "connections": {},
     "legacy_username": "Empz7#5644"
+  },
+  "742481272341004306": {
+    "id": 742481272341004306,
+    "name": "jakojan",
+    "nick": null,
+    "display_name": "bluejay",
+    "global_name": "bluejay",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "bluejay#2266"
   }
 }
