@@ -10126,5 +10126,136 @@
     ],
     "connections": {},
     "legacy_username": "katu#5588"
+  },
+  "701245894376292363": {
+    "id": 701245894376292363,
+    "name": "jazzkomp",
+    "nick": null,
+    "display_name": "jazzkomp",
+    "global_name": "jazzkomp",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i like to eat",
+    "guild_bio": null,
+    "display_bio": "i like to eat",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "jazzkomp#8289"
+  },
+  "1299938670098251848": {
+    "id": 1299938670098251848,
+    "name": "eliplaysdumb",
+    "nick": null,
+    "display_name": "Eliplays",
+    "global_name": "Eliplays",
+    "pronouns": "he/him/his",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "8696894320124f32893e8eeeadb6323e",
+        "name": "Eliplaysdumb",
+        "url": null
+      },
+      "github": {
+        "id": "109837835",
+        "name": "Rockerstudio09",
+        "url": "https://github.com/Rockerstudio09"
+      },
+      "reddit": {
+        "id": "15rduqfacu",
+        "name": "gentleskeleton-0932",
+        "url": "https://www.reddit.com/u/gentleskeleton-0932"
+      },
+      "unknown_roblox": {
+        "id": "3942794294",
+        "name": "rockerstudio09",
+        "url": null
+      },
+      "spotify": {
+        "id": "31hco6dasq3qki7vvm2x2joudahi",
+        "name": "31hco6dasq3qki7vvm2x2joudahi",
+        "url": "https://open.spotify.com/user/31hco6dasq3qki7vvm2x2joudahi"
+      },
+      "steam": {
+        "id": "76561199476047183",
+        "name": "Eliplays",
+        "url": "https://steamcommunity.com/profiles/76561199476047183"
+      },
+      "twitch": {
+        "id": "1164930777",
+        "name": "eliplaysweird",
+        "url": "https://www.twitch.tv/eliplaysweird"
+      },
+      "xbox": {
+        "id": "3071082257423432",
+        "name": "Rockerstudio09",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Rockerstudio09"
+      },
+      "youtube": {
+        "id": "UC0zyvrCBG1XbzFLzUyHPu3Q",
+        "name": "Eliplays",
+        "url": "https://www.youtube.com/channel/UC0zyvrCBG1XbzFLzUyHPu3Q"
+      }
+    },
+    "legacy_username": null
+  },
+  "547720405415362591": {
+    "id": 547720405415362591,
+    "name": "v.zer0n",
+    "nick": null,
+    "display_name": "ZER0N",
+    "global_name": "ZER0N",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7328511161723597802",
+        "name": "W-ZERON-W",
+        "url": null
+      },
+      "riot_games": {
+        "id": "uRgutX_htItqGeuUAWmCOniuUY8_aevbO2CsbkOOxXQnS219zsdjvJRdz9MIHdwWCPYJteEh3hAJ7Q",
+        "name": "VZER0N#bruh",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198848666869",
+        "name": "ZER0N",
+        "url": "https://steamcommunity.com/profiles/76561198848666869"
+      },
+      "xbox": {
+        "id": "3070456231359940",
+        "name": "ZER0N2454",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ZER0N2454"
+      }
+    },
+    "legacy_username": "ZER0N#3219"
   }
 }
