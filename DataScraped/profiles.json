@@ -11195,5 +11195,96 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "753249998459895918": {
+    "id": 753249998459895918,
+    "name": "aditszz",
+    "nick": null,
+    "display_name": "Adit",
+    "global_name": "Adit",
+    "pronouns": "He/Him/Dit",
+    "guild_pronouns": null,
+    "bio": "bargaining..\n\n\nMention if you need me.\nInvisible mode? u think, i can't see you??",
+    "guild_bio": null,
+    "display_bio": "bargaining..\n\n\nMention if you need me.\nInvisible mode? u think, i can't see you??",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Adit#21933",
+        "name": "Adit#21933",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "a625fd37-f89d-51aa-82bb-014dad5f6126",
+        "name": "Aditszz",
+        "url": null
+      },
+      "epic_games": {
+        "id": "aed3e9bb27554be99700f598b7b1739f",
+        "name": "Aditszzz",
+        "url": null
+      },
+      "github": {
+        "id": "106678299",
+        "name": "Aditsz",
+        "url": "https://github.com/Aditsz"
+      },
+      "riot_games": {
+        "id": "ptwQ7rfbdYOBC0tLBtbqEUJsOizE4tMRXgEMIjkzPS_zkYRmdmWD9tlUgKDv64CcF0cjf-fJI_3a-g",
+        "name": "Aditszz#2008",
+        "url": null
+      },
+      "spotify": {
+        "id": "31x3mu72r5zlccrpwgv22oitymbu",
+        "name": "Aditszz",
+        "url": "https://open.spotify.com/user/31x3mu72r5zlccrpwgv22oitymbu"
+      },
+      "steam": {
+        "id": "76561199237984192",
+        "name": "Aditszz",
+        "url": "https://steamcommunity.com/profiles/76561199237984192"
+      },
+      "xbox": {
+        "id": "3077867441210875",
+        "name": "Aditszz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Aditszz"
+      }
+    },
+    "legacy_username": "!     A d I t#1475"
+  },
+  "567021288787279902": {
+    "id": 567021288787279902,
+    "name": "allencapalot",
+    "nick": null,
+    "display_name": "allen",
+    "global_name": "allen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31wutil5tambrxlee5gel4sygmnu",
+        "name": "allen",
+        "url": "https://open.spotify.com/user/31wutil5tambrxlee5gel4sygmnu"
+      }
+    },
+    "legacy_username": "allen#6351"
   }
 }
