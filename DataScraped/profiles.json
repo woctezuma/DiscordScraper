@@ -10062,5 +10062,25 @@
       }
     },
     "legacy_username": "CrazyMaster#2309"
+  },
+  "419850026680975361": {
+    "id": 419850026680975361,
+    "name": "yamitenshi3",
+    "nick": null,
+    "display_name": "YamiTenshi",
+    "global_name": "YamiTenshi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "muffin#1218"
   }
 }
