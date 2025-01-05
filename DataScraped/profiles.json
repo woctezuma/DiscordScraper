@@ -14780,5 +14780,76 @@
       }
     },
     "legacy_username": null
+  },
+  "447862139336785961": {
+    "id": 447862139336785961,
+    "name": "suluila",
+    "nick": null,
+    "display_name": "jal",
+    "global_name": "jal",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/447862139336785961/a_493c576c4c4b92c41a34f0b015ae9965.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/447862139336785961/a_493c576c4c4b92c41a34f0b015ae9965.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "gJYlMaoBZeoQYM3626kgmNR3hwx-47JXLKky2JY37aVpkeVznB8FC0lU_uRu55NvmXsJtvrea4LP1A",
+        "name": "Geki#1929",
+        "url": null
+      },
+      "riot_games": {
+        "id": "gJYlMaoBZeoQYM3626kgmNR3hwx-47JXLKky2JY37aVpkeVznB8FC0lU_uRu55NvmXsJtvrea4LP1A",
+        "name": "Geki#1929",
+        "url": null
+      }
+    },
+    "legacy_username": "\u0394Geki#8531"
+  },
+  "194755654089441280": {
+    "id": 194755654089441280,
+    "name": "true_ronyo",
+    "nick": null,
+    "display_name": "Ronyo",
+    "global_name": "Ronyo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ronyo#6864"
+  },
+  "805107682984984609": {
+    "id": 805107682984984609,
+    "name": "joeychaos_",
+    "nick": null,
+    "display_name": "Joeychaos",
+    "global_name": "Joeychaos",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
