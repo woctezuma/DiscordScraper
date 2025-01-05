@@ -12918,5 +12918,44 @@
     ],
     "connections": {},
     "legacy_username": "alexhimura#0646"
+  },
+  "1103820564851863553": {
+    "id": 1103820564851863553,
+    "name": "deddfdddd",
+    "nick": null,
+    "display_name": "#1 lucki glazer",
+    "global_name": "#1 lucki glazer",
+    "pronouns": "p goobler",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3125qykuaigxvuxi7nfyl5nngdra",
+        "name": "Jd",
+        "url": "https://open.spotify.com/user/3125qykuaigxvuxi7nfyl5nngdra"
+      },
+      "xbox": {
+        "id": "3064860874589839",
+        "name": "te9y",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=te9y"
+      },
+      "youtube": {
+        "id": "UCeKeP6uoi8hDf6AAKsALPnA",
+        "name": "Jd fn",
+        "url": "https://www.youtube.com/channel/UCeKeP6uoi8hDf6AAKsALPnA"
+      }
+    },
+    "legacy_username": "deddfdddd#9559"
   }
 }
