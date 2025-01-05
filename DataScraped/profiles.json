@@ -13435,5 +13435,31 @@
       }
     },
     "legacy_username": "Fakhri19#0001"
+  },
+  "678881449117483030": {
+    "id": 678881449117483030,
+    "name": "lyrikashi",
+    "nick": null,
+    "display_name": "Lyrikashi",
+    "global_name": "Lyrikashi",
+    "pronouns": "He/her - whatever basically",
+    "guild_pronouns": null,
+    "bio": "\"Peepee poopoo, poopoo peepee\"",
+    "guild_bio": null,
+    "display_bio": "\"Peepee poopoo, poopoo peepee\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCvdWyyPRSL1spRgxVxcVuzg",
+        "name": "Lyrikashi",
+        "url": "https://www.youtube.com/channel/UCvdWyyPRSL1spRgxVxcVuzg"
+      }
+    },
+    "legacy_username": "Lyrikashi#5421"
   }
 }
