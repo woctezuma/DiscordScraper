@@ -13033,5 +13033,32 @@
       }
     },
     "legacy_username": null
+  },
+  "705540413133553744": {
+    "id": 705540413133553744,
+    "name": "amkishere",
+    "nick": null,
+    "display_name": "amkishere",
+    "global_name": "amkishere",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198991774900",
+        "name": "amk-ded",
+        "url": "https://steamcommunity.com/profiles/76561198991774900"
+      }
+    },
+    "legacy_username": "amkishere#0184"
   }
 }
