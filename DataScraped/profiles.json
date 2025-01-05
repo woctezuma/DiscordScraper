@@ -12303,5 +12303,74 @@
       }
     },
     "legacy_username": "actuallymrj#9533"
+  },
+  "741270305808318505": {
+    "id": 741270305808318505,
+    "name": "yok.asura",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\u30df\u30f3\u30c6\u30e5",
+    "guild_pronouns": null,
+    "bio": "Chm m trong ting sng nh ca cuc sng, ti tm thy bnh yn gia nhng m ng n o.",
+    "guild_bio": null,
+    "display_bio": "Chm m trong ting sng nh ca cuc sng, ti tm thy bnh yn gia nhng m ng n o.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198384251722",
+        "name": "KT Meliodas",
+        "url": "https://steamcommunity.com/profiles/76561198384251722"
+      }
+    },
+    "legacy_username": "KTMeliodas#8264"
+  },
+  "1001894944308469831": {
+    "id": 1001894944308469831,
+    "name": "noname99914",
+    "nick": null,
+    "display_name": "Noname",
+    "global_name": "Noname",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "draw something \n||||||||||||||||||||||||||||||||\n||||||||||||||||||||||||||||||||\n||||||||||||||||||||||||||||||||\n||||||||||||||||||||||||||||||||",
+    "guild_bio": null,
+    "display_bio": "draw something \n||||||||||||||||||||||||||||||||\n||||||||||||||||||||||||||||||||\n||||||||||||||||||||||||||||||||\n||||||||||||||||||||||||||||||||",
+    "banner": "https://cdn.discordapp.com/banners/1001894944308469831/f432818a28adcd161e5f98e729c472e2.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1001894944308469831/f432818a28adcd161e5f98e729c472e2.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl4",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1223984873",
+        "name": "noname99914",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199099128157",
+        "name": "Noname",
+        "url": "https://steamcommunity.com/profiles/76561199099128157"
+      },
+      "xbox": {
+        "id": "3074573756103991",
+        "name": "Noname P3789",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Noname P3789"
+      }
+    },
+    "legacy_username": "Noname99914#4610"
   }
 }
