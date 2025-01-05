@@ -14184,5 +14184,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "910893465787830333": {
+    "id": 910893465787830333,
+    "name": "k05aggie4165",
+    "nick": null,
+    "display_name": "PenguinGoat",
+    "global_name": "PenguinGoat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I am a small streamer would love some support thanks.",
+    "guild_bio": null,
+    "display_bio": "I am a small streamer would love some support thanks.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "cf506ba3bc1744a1884ad3c503a2f741",
+        "name": "PenguinGoatNow",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3009600626",
+        "name": "TinyEli_PenguinGoat",
+        "url": null
+      },
+      "twitch": {
+        "id": "1090513113",
+        "name": "penguingoatnow",
+        "url": "https://www.twitch.tv/penguingoatnow"
+      },
+      "youtube": {
+        "id": "UC8FKFhLcxeidvw2GFJaUkBg",
+        "name": "PenguinGoatNow",
+        "url": "https://www.youtube.com/channel/UC8FKFhLcxeidvw2GFJaUkBg"
+      }
+    },
+    "legacy_username": null
   }
 }
