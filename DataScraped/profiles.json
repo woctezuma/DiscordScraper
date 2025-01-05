@@ -14498,5 +14498,62 @@
     ],
     "connections": {},
     "legacy_username": "Joe Blackman#4207"
+  },
+  "1126573681720701089": {
+    "id": 1126573681720701089,
+    "name": "drakoon98",
+    "nick": null,
+    "display_name": "Drakoon",
+    "global_name": "Drakoon",
+    "pronouns": "dat/girl",
+    "guild_pronouns": null,
+    "bio": "a gamer girl\n20 she/her",
+    "guild_bio": null,
+    "display_bio": "a gamer girl\n20 she/her",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Drakoon#9559"
+  },
+  "1190369207993516123": {
+    "id": 1190369207993516123,
+    "name": "yourdadddyvenomenous_xx_23568",
+    "nick": null,
+    "display_name": "!urDaddyVenom!",
+    "global_name": "!urDaddyVenom!",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  TheOneAndOnlyPerfect... \n   \"**`VENOM`**\" \n <a:HuTaoLick_Nociii:852689867996659762> 6'0 (18)<:KeqingGasp_yibyeol229:782410848014041108>",
+    "guild_bio": null,
+    "display_bio": "  TheOneAndOnlyPerfect... \n   \"**`VENOM`**\" \n <a:HuTaoLick_Nociii:852689867996659762> 6'0 (18)<:KeqingGasp_yibyeol229:782410848014041108>",
+    "banner": "https://cdn.discordapp.com/banners/1190369207993516123/f080e778329eca99dbdef08b161b7a31.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1190369207993516123/f080e778329eca99dbdef08b161b7a31.png?size=512",
+    "badges": [
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e10de0b64bcd4579a7db0faa59d6857c",
+        "name": "Venominous_Chabb",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199587118919",
+        "name": "vnmXchbrrrrrrrrrrrr",
+        "url": "https://steamcommunity.com/profiles/76561199587118919"
+      },
+      "twitter": {
+        "id": "1736047247882657792",
+        "name": "VnMx_CHBR_XX",
+        "url": "https://twitter.com/VnMx_CHBR_XX"
+      }
+    },
+    "legacy_username": null
   }
 }
