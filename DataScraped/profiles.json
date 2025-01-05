@@ -14326,5 +14326,54 @@
       }
     },
     "legacy_username": "Koszmar010#0534"
+  },
+  "792388512636731423": {
+    "id": 792388512636731423,
+    "name": "arcticmathi",
+    "nick": null,
+    "display_name": "Arctic Mathi",
+    "global_name": "Arctic Mathi",
+    "pronouns": "help/me",
+    "guild_pronouns": null,
+    "bio": " GMT+1 \n oct 8th\n fnaf enjoyer\n weirdo\n what else do i write here\n who is even going to read this",
+    "guild_bio": null,
+    "display_bio": " GMT+1 \n oct 8th\n fnaf enjoyer\n weirdo\n what else do i write here\n who is even going to read this",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "68fa2d9def05466198100557524e75ad",
+        "name": "Arctic Mathi",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "273572260",
+        "name": "mathiasbording",
+        "url": null
+      },
+      "spotify": {
+        "id": "bording081008",
+        "name": "Mathias Bording",
+        "url": "https://open.spotify.com/user/bording081008"
+      },
+      "steam": {
+        "id": "76561198452005446",
+        "name": "Arctic Mathi",
+        "url": "https://steamcommunity.com/profiles/76561198452005446"
+      },
+      "youtube": {
+        "id": "UCdVL9YuEtk6XD-pUsiry7Wg",
+        "name": "Not Mathi",
+        "url": "https://www.youtube.com/channel/UCdVL9YuEtk6XD-pUsiry7Wg"
+      }
+    },
+    "legacy_username": "Arctic Mathi#2834"
   }
 }
