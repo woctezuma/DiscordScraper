@@ -13794,5 +13794,68 @@
       }
     },
     "legacy_username": null
+  },
+  "363349084071002122": {
+    "id": 363349084071002122,
+    "name": "oldboi",
+    "nick": null,
+    "display_name": "OLDboi",
+    "global_name": "OLDboi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1049170731694730962",
+        "name": "OLDboiUA",
+        "url": null
+      },
+      "youtube": {
+        "id": "UC9S0Ge7cw73nqvZ4FOA3gAQ",
+        "name": "OLDboi",
+        "url": "https://www.youtube.com/channel/UC9S0Ge7cw73nqvZ4FOA3gAQ"
+      }
+    },
+    "legacy_username": "OLDboi#9477"
+  },
+  "703010472089223309": {
+    "id": 703010472089223309,
+    "name": "rapahelp",
+    "nick": null,
+    "display_name": "Raphael Pereira",
+    "global_name": "Raphael Pereira",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "12163091018",
+        "name": "Raphael",
+        "url": "https://open.spotify.com/user/12163091018"
+      },
+      "steam": {
+        "id": "76561198079753723",
+        "name": "rapahelp",
+        "url": "https://steamcommunity.com/profiles/76561198079753723"
+      }
+    },
+    "legacy_username": "rapahelp#6120"
   }
 }
