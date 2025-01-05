@@ -14478,5 +14478,25 @@
       }
     },
     "legacy_username": "ZockPlays#3039"
+  },
+  "85828102340493312": {
+    "id": 85828102340493312,
+    "name": "joeblackman",
+    "nick": null,
+    "display_name": "Joe Blackman",
+    "global_name": "Joe Blackman",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Joe Blackman#4207"
   }
 }
