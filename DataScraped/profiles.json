@@ -14125,5 +14125,46 @@
       }
     },
     "legacy_username": "t0nin0t#5296"
+  },
+  "295234403787866114": {
+    "id": 295234403787866114,
+    "name": "quijano",
+    "nick": null,
+    "display_name": "Quijano",
+    "global_name": "Quijano",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Quijano#1639"
+  },
+  "318919444816723969": {
+    "id": 318919444816723969,
+    "name": "chef_raekwon",
+    "nick": null,
+    "display_name": "DirtMcgurt",
+    "global_name": "DirtMcgurt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Chef_Raekwon#3098"
   }
 }
