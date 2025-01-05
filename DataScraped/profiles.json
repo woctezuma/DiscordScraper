@@ -13980,5 +13980,25 @@
       }
     },
     "legacy_username": "Thomas Lenauer#3235"
+  },
+  "495694723906928650": {
+    "id": 495694723906928650,
+    "name": "sp4rrow2115",
+    "nick": null,
+    "display_name": "sp4rrow",
+    "global_name": "sp4rrow",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "sp4rrow#2794"
   }
 }
