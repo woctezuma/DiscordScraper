@@ -13760,5 +13760,39 @@
       }
     },
     "legacy_username": "Gabe#3406"
+  },
+  "1020356538092761089": {
+    "id": 1020356538092761089,
+    "name": "junewoo_sato19",
+    "nick": null,
+    "display_name": "JiEun-Woo Sat",
+    "global_name": "JiEun-Woo Sat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ", , ,   : \"    ,    ...    \"!",
+    "guild_bio": null,
+    "display_bio": ", , ,   : \"    ,    ...    \"!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "264e6dd4c7eb4bb1850e6cddc7b4e6fa",
+        "name": "Sat\u014d_JW",
+        "url": null
+      },
+      "github": {
+        "id": "172453604",
+        "name": "NotADuncan",
+        "url": "https://github.com/NotADuncan"
+      },
+      "steam": {
+        "id": "76561199201804114",
+        "name": "Sato June",
+        "url": "https://steamcommunity.com/profiles/76561199201804114"
+      }
+    },
+    "legacy_username": null
   }
 }
