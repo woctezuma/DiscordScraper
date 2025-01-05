@@ -13884,5 +13884,31 @@
       }
     },
     "legacy_username": "Kiko_NysKo#5436"
+  },
+  "311229435292418050": {
+    "id": 311229435292418050,
+    "name": "taccoig",
+    "nick": null,
+    "display_name": "Tac",
+    "global_name": "Tac",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "TacCOIG\n",
+    "guild_bio": null,
+    "display_bio": "TacCOIG\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCA28T5b8X8v8Bh-l1d17NnQ",
+        "name": "Tacitus2COIG",
+        "url": "https://www.youtube.com/channel/UCA28T5b8X8v8Bh-l1d17NnQ"
+      }
+    },
+    "legacy_username": "Tac#1337"
   }
 }
