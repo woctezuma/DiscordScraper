@@ -14021,5 +14021,109 @@
     ],
     "connections": {},
     "legacy_username": "AleksStar4#4965"
+  },
+  "772085232454991923": {
+    "id": 772085232454991923,
+    "name": "jammingjazzknight",
+    "nick": null,
+    "display_name": "Boyle's Aim String Theory",
+    "global_name": "Boyle's Aim String Theory",
+    "pronouns": "Adidas",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1110304667457568899": {
+    "id": 1110304667457568899,
+    "name": "teoseva3029",
+    "nick": null,
+    "display_name": "Teo Sevastopoulos",
+    "global_name": "Teo Sevastopoulos",
+    "pronouns": "\u039f/\u03a4\u03bf\u03bd/\u03c4\u03bf\u03c5",
+    "guild_pronouns": null,
+    "bio": "MY CAT IS BALD!!!!",
+    "guild_bio": null,
+    "display_bio": "MY CAT IS BALD!!!!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "eb299033b7ce4ab39418fe091da4bf23",
+        "name": "TeoSeva3029",
+        "url": null
+      },
+      "playstation": {
+        "id": "7941330571433815288",
+        "name": "TeoSeva3029",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199185091161",
+        "name": "teosevagamer",
+        "url": "https://steamcommunity.com/profiles/76561199185091161"
+      },
+      "twitter": {
+        "id": "1718993155297566720",
+        "name": "TeoSeva3029",
+        "url": "https://twitter.com/TeoSeva3029"
+      },
+      "xbox": {
+        "id": "3073054996486575",
+        "name": "Teogames2560",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Teogames2560"
+      },
+      "youtube": {
+        "id": "UCdrHza_7GCOb2DqUNCjInYQ",
+        "name": "TJKDG THE GOOD GAMERS",
+        "url": "https://www.youtube.com/channel/UCdrHza_7GCOb2DqUNCjInYQ"
+      }
+    },
+    "legacy_username": "TeoSeva#9671"
+  },
+  "166429788666462211": {
+    "id": 166429788666462211,
+    "name": "alfasusi",
+    "nick": null,
+    "display_name": "t0nin0t / ALFASUSI",
+    "global_name": "t0nin0t / ALFASUSI",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6594053685673884335",
+        "name": "t0nin0t",
+        "url": null
+      },
+      "twitch": {
+        "id": "49233907",
+        "name": "t0nin0t",
+        "url": "https://www.twitch.tv/t0nin0t"
+      }
+    },
+    "legacy_username": "t0nin0t#5296"
   }
 }
