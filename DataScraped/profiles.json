@@ -13224,5 +13224,57 @@
       }
     },
     "legacy_username": "A D D Y#4305"
+  },
+  "375856929924186123": {
+    "id": 375856929924186123,
+    "name": ".kikk",
+    "nick": null,
+    "display_name": "Kikk",
+    "global_name": "Kikk",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "<:WICKED:998988443231195169>  `MYRUST SQUAD` <:WICKED:998988443231195169> \n<:peepoEz:851358403593764865>  **work 24 hours a day** <:peepoEz:851358403593764865>",
+    "guild_bio": null,
+    "display_bio": "<:WICKED:998988443231195169>  `MYRUST SQUAD` <:WICKED:998988443231195169> \n<:peepoEz:851358403593764865>  **work 24 hours a day** <:peepoEz:851358403593764865>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Kikk#21231",
+        "name": "Kikk#21231",
+        "url": null
+      },
+      "epic_games": {
+        "id": "27163bc6a0074afa8f97d1fae210fb9c",
+        "name": "Kikk2",
+        "url": null
+      },
+      "spotify": {
+        "id": "k4i18bvn8p2xuqz70appae67n",
+        "name": "Kikk",
+        "url": "https://open.spotify.com/user/k4i18bvn8p2xuqz70appae67n"
+      },
+      "steam": {
+        "id": "76561198319528268",
+        "name": "Kikk",
+        "url": "https://steamcommunity.com/profiles/76561198319528268"
+      },
+      "twitch": {
+        "id": "184580001",
+        "name": "kikk901",
+        "url": "https://www.twitch.tv/kikk901"
+      },
+      "xbox": {
+        "id": "ODlmNTc0YmNiNTljY2U0MTA4ZGRhNDU0ZjEzMjkyMWU1MTFiYjBhMTlhMjQ2ZjEyZjk0ZjQ0YTM0MTU3YjA4NQ",
+        "name": "kikk45RU",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=kikk45RU"
+      }
+    },
+    "legacy_username": null
   }
 }
