@@ -14712,5 +14712,26 @@
       }
     },
     "legacy_username": "kaapiii#8054"
+  },
+  "331846925525450753": {
+    "id": 331846925525450753,
+    "name": "synix804",
+    "nick": null,
+    "display_name": "Synix",
+    "global_name": "Synix",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Synix#1884"
   }
 }
