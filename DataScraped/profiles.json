@@ -13910,5 +13910,75 @@
       }
     },
     "legacy_username": "Tac#1337"
+  },
+  "1019193442062061659": {
+    "id": 1019193442062061659,
+    "name": "jaopxt",
+    "nick": null,
+    "display_name": "Jo",
+    "global_name": "Jo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1019193442062061659/a_99d8d2a95dcf1d430c143d5d095c0617.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1019193442062061659/a_99d8d2a95dcf1d430c143d5d095c0617.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "KP932S1Gll6CApYg8lFpQFhHFU0IXhfbAw87cWbMZA6ESKx-WBhx4iTD1rLjadrMSEGPHu-UtubQ0Q",
+        "name": "Drakantos em JUL#J\u00e3o",
+        "url": null
+      },
+      "riot_games": {
+        "id": "KP932S1Gll6CApYg8lFpQFhHFU0IXhfbAw87cWbMZA6ESKx-WBhx4iTD1rLjadrMSEGPHu-UtubQ0Q",
+        "name": "Drakantos em JUL#J\u00e3o",
+        "url": null
+      },
+      "spotify": {
+        "id": "315egsrv362rxqvue4hdklhcl6ii",
+        "name": "J\u00e3o",
+        "url": "https://open.spotify.com/user/315egsrv362rxqvue4hdklhcl6ii"
+      }
+    },
+    "legacy_username": "Jaopxt#7533"
+  },
+  "616545382826246155": {
+    "id": 616545382826246155,
+    "name": "thomaslenauer",
+    "nick": null,
+    "display_name": "Thomas Lenauer",
+    "global_name": "Thomas Lenauer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "615179407",
+        "name": "thomaslenauer",
+        "url": "https://www.twitch.tv/thomaslenauer"
+      },
+      "youtube": {
+        "id": "UCOgAaroDKb9pE4FRL0qAK7A",
+        "name": "Thomas Lenauer",
+        "url": "https://www.youtube.com/channel/UCOgAaroDKb9pE4FRL0qAK7A"
+      }
+    },
+    "legacy_username": "Thomas Lenauer#3235"
   }
 }
