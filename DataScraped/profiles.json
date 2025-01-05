@@ -12698,5 +12698,25 @@
     ],
     "connections": {},
     "legacy_username": "Peytoia#1535"
+  },
+  "899527961399672882": {
+    "id": 899527961399672882,
+    "name": "sawagaaz",
+    "nick": null,
+    "display_name": "SaWaGaAz",
+    "global_name": "SaWaGaAz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "SaWaGaAz#0866"
   }
 }
