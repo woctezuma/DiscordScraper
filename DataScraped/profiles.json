@@ -13461,5 +13461,80 @@
       }
     },
     "legacy_username": "Lyrikashi#5421"
+  },
+  "219398255505571840": {
+    "id": 219398255505571840,
+    "name": "faszjanosxd123",
+    "nick": null,
+    "display_name": "mustezredes",
+    "global_name": "mustezredes",
+    "pronouns": "fasz/janos",
+    "guild_pronouns": null,
+    "bio": "Az ember az csak gy van.\nMagban.",
+    "guild_bio": null,
+    "display_bio": "Az ember az csak gy van.\nMagban.",
+    "banner": "https://cdn.discordapp.com/banners/219398255505571840/a_da3923d6de68fa2237efd5c125b1cc6b.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/219398255505571840/a_da3923d6de68fa2237efd5c125b1cc6b.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "f2e3f3e3-ba69-5b9a-b41e-a6f69221775f",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "re5XHkvlheDg7xPABiEJZH-bwPenqapAZhZ-q7XmFTJJ3WHH0wkP1liUeGhGEkniOpcDl5DF0nIOcA",
+        "name": "mustezredes#dns",
+        "url": null
+      },
+      "riot_games": {
+        "id": "re5XHkvlheDg7xPABiEJZH-bwPenqapAZhZ-q7XmFTJJ3WHH0wkP1liUeGhGEkniOpcDl5DF0nIOcA",
+        "name": "mustezredes#dns",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198140403775",
+        "name": "mustezredes",
+        "url": "https://steamcommunity.com/profiles/76561198140403775"
+      },
+      "twitch": {
+        "id": "630910791",
+        "name": "adiferencia",
+        "url": "https://www.twitch.tv/adiferencia"
+      }
+    },
+    "legacy_username": null
+  },
+  "334576306949849089": {
+    "id": 334576306949849089,
+    "name": "popuri.sa.juice",
+    "nick": null,
+    "display_name": "popuri.sa.Juice",
+    "global_name": "popuri.sa.Juice",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "4rvqnboxfkb6cbf7z6lb1udai",
+        "name": "sp.K",
+        "url": "https://open.spotify.com/user/4rvqnboxfkb6cbf7z6lb1udai"
+      }
+    },
+    "legacy_username": "poppuri.sa.juice#0387"
   }
 }
