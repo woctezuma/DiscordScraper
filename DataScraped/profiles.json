@@ -12506,5 +12506,81 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1325331636698746922": {
+    "id": 1325331636698746922,
+    "name": "ahmed043210",
+    "nick": null,
+    "display_name": "Ahmed",
+    "global_name": "Ahmed",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1278872430823342192": {
+    "id": 1278872430823342192,
+    "name": "shadowcurse1032",
+    "nick": null,
+    "display_name": "Shadow_Curse",
+    "global_name": "Shadow_Curse",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "736052825808699403": {
+    "id": 736052825808699403,
+    "name": "justnova0769",
+    "nick": null,
+    "display_name": "justNOVA",
+    "global_name": "justNOVA",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "Being immortal is a curse",
+    "guild_bio": null,
+    "display_bio": "Being immortal is a curse",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "IhI2tK8EdD5Pp8BAseG4zXjKKNfhLrIo8GN645z0J46Qay6sLh8qSHLBi_bb3bjvDQ2Y-rJjoBO2Cg",
+        "name": "XrealNova#0769",
+        "url": null
+      },
+      "spotify": {
+        "id": "31dzrvtdk6mgatbccpq6walyloxy",
+        "name": "Nova_0769",
+        "url": "https://open.spotify.com/user/31dzrvtdk6mgatbccpq6walyloxy"
+      },
+      "twitch": {
+        "id": "688856786",
+        "name": "the_xreal_nova",
+        "url": "https://www.twitch.tv/the_xreal_nova"
+      }
+    },
+    "legacy_username": "justNOVA#0769"
   }
 }
