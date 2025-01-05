@@ -12019,5 +12019,137 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "281166313131474955": {
+    "id": 281166313131474955,
+    "name": "shmevdog",
+    "nick": null,
+    "display_name": "Shmevdog",
+    "global_name": "Shmevdog",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "21",
+    "guild_bio": null,
+    "display_bio": "21",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "0367b3664b734632b596306212323a28",
+        "name": "ahemnotforyou",
+        "url": null
+      },
+      "spotify": {
+        "id": "niety8lu69ffe2qks5acli714",
+        "name": "Shmevdog",
+        "url": "https://open.spotify.com/user/niety8lu69ffe2qks5acli714"
+      },
+      "steam": {
+        "id": "76561198259396694",
+        "name": "Shmevdog",
+        "url": "https://steamcommunity.com/profiles/76561198259396694"
+      },
+      "twitch": {
+        "id": "430841129",
+        "name": "shmevdog",
+        "url": "https://www.twitch.tv/shmevdog"
+      },
+      "xbox": {
+        "id": "3074014984436015",
+        "name": "Shmevdog69",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Shmevdog69"
+      }
+    },
+    "legacy_username": null
+  },
+  "1064290762340188240": {
+    "id": 1064290762340188240,
+    "name": "mjplaysgames",
+    "nick": null,
+    "display_name": "MJ",
+    "global_name": "MJ",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "Subscribe please",
+    "guild_bio": null,
+    "display_bio": "Subscribe please",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "v2zgc6u8dp71rtfumpqniojml",
+        "name": "MjPlaysGames",
+        "url": "https://open.spotify.com/user/v2zgc6u8dp71rtfumpqniojml"
+      },
+      "xbox": {
+        "id": "3072231249175702",
+        "name": "Mjplaysreal",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Mjplaysreal"
+      },
+      "youtube": {
+        "id": "UCWGptihSFuMa3miIOR9D-EQ",
+        "name": "Mjplaysgames",
+        "url": "https://www.youtube.com/channel/UCWGptihSFuMa3miIOR9D-EQ"
+      }
+    },
+    "legacy_username": "MjPlaysgames#1336"
+  },
+  "1316986481818206280": {
+    "id": 1316986481818206280,
+    "name": "rudi05477",
+    "nick": null,
+    "display_name": "Rudi",
+    "global_name": "Rudi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199807716953",
+        "name": "RUDIGUITARF1984",
+        "url": "https://steamcommunity.com/profiles/76561199807716953"
+      }
+    },
+    "legacy_username": null
+  },
+  "615625679483961345": {
+    "id": 615625679483961345,
+    "name": "bluhby",
+    "nick": null,
+    "display_name": "Bluhby",
+    "global_name": "Bluhby",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Nyanchalant",
+    "guild_bio": null,
+    "display_bio": "Nyanchalant",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198298821484",
+        "name": "Bluhby",
+        "url": "https://steamcommunity.com/profiles/76561198298821484"
+      }
+    },
+    "legacy_username": "Bluhby#6754"
   }
 }
