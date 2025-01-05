@@ -12447,5 +12447,64 @@
       }
     },
     "legacy_username": "xKONIGSTIGERx#8989"
+  },
+  "627044964177805324": {
+    "id": 627044964177805324,
+    "name": "fireware21_5407",
+    "nick": null,
+    "display_name": "Fireware21#5407",
+    "global_name": "Fireware21#5407",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fireware21#5407"
+  },
+  "697728431311421502": {
+    "id": 697728431311421502,
+    "name": "dranelyeoj",
+    "nick": null,
+    "display_name": "Dranel",
+    "global_name": "Dranel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Lenard Joey T. Gomez#5528"
+  },
+  "1313302935576379522": {
+    "id": 1313302935576379522,
+    "name": "vodkkaa_",
+    "nick": null,
+    "display_name": "vodkkaa_",
+    "global_name": "vodkkaa_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "|\n( 7  \n |    \n,)",
+    "guild_bio": null,
+    "display_bio": "|\n( 7  \n |    \n,)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
