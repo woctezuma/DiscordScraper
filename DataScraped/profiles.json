@@ -13857,5 +13857,32 @@
       }
     },
     "legacy_username": "rapahelp#6120"
+  },
+  "309748101801967616": {
+    "id": 309748101801967616,
+    "name": "kiko_nysko",
+    "nick": null,
+    "display_name": "Kiko_NysKo",
+    "global_name": "Kiko_NysKo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198386408121",
+        "name": "Kiko NysKo",
+        "url": "https://steamcommunity.com/profiles/76561198386408121"
+      }
+    },
+    "legacy_username": "Kiko_NysKo#5436"
   }
 }
