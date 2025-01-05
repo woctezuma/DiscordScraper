@@ -12151,5 +12151,96 @@
       }
     },
     "legacy_username": "Bluhby#6754"
+  },
+  "655167970397650976": {
+    "id": 655167970397650976,
+    "name": "frostando",
+    "nick": null,
+    "display_name": "Frostando",
+    "global_name": "Frostando",
+    "pronouns": "hee/ho",
+    "guild_pronouns": null,
+    "bio": "      . \n                                             \n\n<a:woll:1299898802823757885>",
+    "guild_bio": null,
+    "display_bio": "      . \n                                             \n\n<a:woll:1299898802823757885>",
+    "banner": "https://cdn.discordapp.com/banners/655167970397650976/119ad1005fb4f04c3594118a5af7451d.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/655167970397650976/119ad1005fb4f04c3594118a5af7451d.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Seth#13944",
+        "name": "Seth#13944",
+        "url": null
+      },
+      "instagram": {
+        "id": "9514340058608640",
+        "name": "frost.png",
+        "url": "https://www.instagram.com/frost.png"
+      },
+      "league_of_legends": {
+        "id": "EmQJV1HCjzllMrL7dngMGWCwvXmBOzdSfyyKf7ppiHWQSJ1gXAY7yZMg4ku7_ocUkSh-eahvTVlEwQ",
+        "name": "Frostando",
+        "url": null
+      },
+      "riot_games": {
+        "id": "EmQJV1HCjzllMrL7dngMGWCwvXmBOzdSfyyKf7ppiHWQSJ1gXAY7yZMg4ku7_ocUkSh-eahvTVlEwQ",
+        "name": "Frostando#BR1",
+        "url": null
+      },
+      "spotify": {
+        "id": "12151532782",
+        "name": "Frostando",
+        "url": "https://open.spotify.com/user/12151532782"
+      },
+      "steam": {
+        "id": "76561198078358843",
+        "name": "Frostando",
+        "url": "https://steamcommunity.com/profiles/76561198078358843"
+      },
+      "twitch": {
+        "id": "47197005",
+        "name": "frostando_",
+        "url": "https://www.twitch.tv/frostando_"
+      },
+      "twitter": {
+        "id": "1355017055842562051",
+        "name": "Frostando",
+        "url": "https://twitter.com/Frostando"
+      }
+    },
+    "legacy_username": "Frostando#0936"
+  },
+  "1070191069318361138": {
+    "id": 1070191069318361138,
+    "name": "minami9888",
+    "nick": null,
+    "display_name": "Exusiai",
+    "global_name": "Exusiai",
+    "pronouns": "apple pie",
+    "guild_pronouns": null,
+    "bio": "may my hail of bullets\n           bring you eternal peace\n   ",
+    "guild_bio": null,
+    "display_bio": "may my hail of bullets\n           bring you eternal peace\n   ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCXSx4MMQTx5HMSZy6-S1MPQ",
+        "name": "Yona",
+        "url": "https://www.youtube.com/channel/UCXSx4MMQTx5HMSZy6-S1MPQ"
+      }
+    },
+    "legacy_username": "Minami#9888"
   }
 }
