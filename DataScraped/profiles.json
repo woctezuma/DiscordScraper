@@ -14555,5 +14555,43 @@
       }
     },
     "legacy_username": null
+  },
+  "450062092704284672": {
+    "id": 450062092704284672,
+    "name": "siruberksdude",
+    "nick": null,
+    "display_name": "Sir Uberks",
+    "global_name": "Sir Uberks",
+    "pronouns": "\ud835\ude3e\ud835\ude64\ud835\ude67\ud835\ude59\ud835\ude64\ud835\ude57\ud835\ude5a\ud835\ude68",
+    "guild_pronouns": null,
+    "bio": "\"Hoy se fa, maana no.\"\nEse es mi lema\n\n\n\n\n \n\n-\n   :BorussiaDortmund:    ",
+    "guild_bio": null,
+    "display_bio": "\"Hoy se fa, maana no.\"\nEse es mi lema\n\n\n\n\n \n\n-\n   :BorussiaDortmund:    ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "76mo9wfx",
+        "name": "TheFranx21",
+        "url": "https://www.reddit.com/u/TheFranx21"
+      },
+      "steam": {
+        "id": "76561198883988869",
+        "name": "Sir \u00fc\u00dferk",
+        "url": "https://steamcommunity.com/profiles/76561198883988869"
+      },
+      "twitter": {
+        "id": "1041061531604135936",
+        "name": "Frankitouxski",
+        "url": "https://twitter.com/Frankitouxski"
+      }
+    },
+    "legacy_username": "\u00dcberks\u010e#0063"
   }
 }
