@@ -12652,5 +12652,51 @@
       }
     },
     "legacy_username": "choncy#0412"
+  },
+  "292030115385311232": {
+    "id": 292030115385311232,
+    "name": "eternalnum",
+    "nick": null,
+    "display_name": "Eternalnum",
+    "global_name": "Eternalnum",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I only get on to post memes and steal them.",
+    "guild_bio": null,
+    "display_bio": "I only get on to post memes and steal them.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "1252842830734651394",
+        "name": "Eternalnums",
+        "url": "https://twitter.com/Eternalnums"
+      }
+    },
+    "legacy_username": "Eternalnum#6322"
+  },
+  "630381693777215488": {
+    "id": 630381693777215488,
+    "name": ".peytoia",
+    "nick": null,
+    "display_name": "Peytoia",
+    "global_name": "Peytoia",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Peytoia#1535"
   }
 }
