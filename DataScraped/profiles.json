@@ -14640,5 +14640,25 @@
       }
     },
     "legacy_username": null
+  },
+  "1062679158653714482": {
+    "id": 1062679158653714482,
+    "name": "andomepl",
+    "nick": null,
+    "display_name": "andomepl",
+    "global_name": "andomepl",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "andomepl#3246"
   }
 }
