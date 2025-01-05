@@ -14416,5 +14416,67 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1043354352758292542": {
+    "id": 1043354352758292542,
+    "name": "magic_sword",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "wangyi755#8208"
+  },
+  "469990956133777418": {
+    "id": 469990956133777418,
+    "name": "zockplays",
+    "nick": null,
+    "display_name": "ZockPlays",
+    "global_name": "ZockPlays",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6499194867976172032",
+        "name": "ZockPlays",
+        "url": null
+      },
+      "spotify": {
+        "id": "luk9876",
+        "name": "luk9876",
+        "url": "https://open.spotify.com/user/luk9876"
+      },
+      "steam": {
+        "id": "76561198056521556",
+        "name": "ZockPlays",
+        "url": "https://steamcommunity.com/profiles/76561198056521556"
+      },
+      "twitch": {
+        "id": "470226266",
+        "name": "zockplays_",
+        "url": "https://www.twitch.tv/zockplays_"
+      }
+    },
+    "legacy_username": "ZockPlays#3039"
   }
 }
