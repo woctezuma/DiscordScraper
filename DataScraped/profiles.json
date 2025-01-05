@@ -14593,5 +14593,23 @@
       }
     },
     "legacy_username": "\u00dcberks\u010e#0063"
+  },
+  "1238410102084730890": {
+    "id": 1238410102084730890,
+    "name": "viplove_48036_24128",
+    "nick": null,
+    "display_name": "viplove",
+    "global_name": "viplove",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
