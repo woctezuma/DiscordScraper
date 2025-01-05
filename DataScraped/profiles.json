@@ -13155,5 +13155,46 @@
       }
     },
     "legacy_username": "\u212c\ud835\udc86\ud835\udcfb\ud835\udcfd\ud835\udcf2 \ud835\udc52 iubirea ta \u2661\u30c5\ud835\udc05\ud835\udc13#3858"
+  },
+  "889125106025132063": {
+    "id": 889125106025132063,
+    "name": "nijbroekie",
+    "nick": null,
+    "display_name": "Nijbroekie",
+    "global_name": "Nijbroekie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "5fe5881d-79ad-5772-af27-c40fc163cbad",
+        "name": "Nijbroekie",
+        "url": null
+      },
+      "epic_games": {
+        "id": "fca38d55268e4f5fa151f42d8fb95023",
+        "name": "Nijbroekie",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199389046326",
+        "name": "Nijbroekie",
+        "url": "https://steamcommunity.com/profiles/76561199389046326"
+      },
+      "xbox": {
+        "id": "3078498866581722",
+        "name": "Nijbroekie",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Nijbroekie"
+      }
+    },
+    "legacy_username": "Nijbroek#3776"
   }
 }
