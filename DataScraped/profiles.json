@@ -14266,5 +14266,32 @@
     ],
     "connections": {},
     "legacy_username": "LadyofLace#4691"
+  },
+  "600391439267921920": {
+    "id": 600391439267921920,
+    "name": "lethaki",
+    "nick": null,
+    "display_name": "Lethaki",
+    "global_name": "Lethaki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":)",
+    "guild_bio": null,
+    "display_bio": ":)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "459286448",
+        "name": "leonie___e",
+        "url": "https://www.twitch.tv/leonie___e"
+      }
+    },
+    "legacy_username": "Lethaki#8018"
   }
 }
