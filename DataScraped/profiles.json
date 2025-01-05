@@ -14000,5 +14000,26 @@
     ],
     "connections": {},
     "legacy_username": "sp4rrow#2794"
+  },
+  "1017111453347610784": {
+    "id": 1017111453347610784,
+    "name": "aleksstar4",
+    "nick": null,
+    "display_name": "AleksStar4",
+    "global_name": "AleksStar4",
+    "pronouns": "AleksStar4#4965",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "AleksStar4#4965"
   }
 }
