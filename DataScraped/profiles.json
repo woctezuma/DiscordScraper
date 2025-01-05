@@ -12855,5 +12855,68 @@
     ],
     "connections": {},
     "legacy_username": "EagleJ#6109"
+  },
+  "473810651748499456": {
+    "id": 473810651748499456,
+    "name": "f0nteec6420",
+    "nick": null,
+    "display_name": "f0nTeec",
+    "global_name": "f0nTeec",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "Fd1PwqpOI9_1jNT9ytFuPGRa3rTgpDnedXOjW-CuN2nO0Q7vBe9X8vYGE4bt1Rd6rCeQED_Sek1oLQ",
+        "name": "CA77 f0nTeec#6420",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198428265840",
+        "name": "f0nTeec\u2720",
+        "url": "https://steamcommunity.com/profiles/76561198428265840"
+      },
+      "twitch": {
+        "id": "505623501",
+        "name": "f0nteec",
+        "url": "https://www.twitch.tv/f0nteec"
+      },
+      "youtube": {
+        "id": "UCdzb1nMpbgjv8hjuJ8ixuGQ",
+        "name": "f0nTeec",
+        "url": "https://www.youtube.com/channel/UCdzb1nMpbgjv8hjuJ8ixuGQ"
+      }
+    },
+    "legacy_username": "f0nTeec#6420"
+  },
+  "1061258917277077584": {
+    "id": 1061258917277077584,
+    "name": "alexhimura22",
+    "nick": null,
+    "display_name": "Alex Himura The Tech Cat Vtuber",
+    "global_name": "Alex Himura The Tech Cat Vtuber",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "alexhimura#0646"
   }
 }
