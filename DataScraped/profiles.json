@@ -14293,5 +14293,38 @@
       }
     },
     "legacy_username": "Lethaki#8018"
+  },
+  "708419153492705391": {
+    "id": 708419153492705391,
+    "name": "koszmar010",
+    "nick": null,
+    "display_name": "Koszmar010",
+    "global_name": "Koszmar010",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31de5i52ufludbqeh2owsrk65aji",
+        "name": "Koszmar010",
+        "url": "https://open.spotify.com/user/31de5i52ufludbqeh2owsrk65aji"
+      },
+      "twitch": {
+        "id": "595632199",
+        "name": "koszmar010",
+        "url": "https://www.twitch.tv/koszmar010"
+      }
+    },
+    "legacy_username": "Koszmar010#0534"
   }
 }
