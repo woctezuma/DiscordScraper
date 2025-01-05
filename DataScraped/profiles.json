@@ -13640,5 +13640,125 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "289111711338725376": {
+    "id": 289111711338725376,
+    "name": "cerb3rx",
+    "nick": null,
+    "display_name": "CerberX",
+    "global_name": "CerberX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7974148143074978142",
+        "name": "BLADEXBLACFire",
+        "url": null
+      },
+      "twitch": {
+        "id": "52945987",
+        "name": "cerb3rx",
+        "url": "https://www.twitch.tv/cerb3rx"
+      }
+    },
+    "legacy_username": "ggreed.2#5890"
+  },
+  "492699475635077132": {
+    "id": 492699475635077132,
+    "name": "jacknife1706",
+    "nick": null,
+    "display_name": "JacKnife",
+    "global_name": "JacKnife",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "JacKnife#1706"
+  },
+  "991466258904137828": {
+    "id": 991466258904137828,
+    "name": "sisukisu",
+    "nick": null,
+    "display_name": "Nisu",
+    "global_name": "Nisu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3426849348535791269",
+        "name": "nisu_90",
+        "url": null
+      }
+    },
+    "legacy_username": "sisunisu#9947"
+  },
+  "926736339611832330": {
+    "id": 926736339611832330,
+    "name": "magicalproposal",
+    "nick": null,
+    "display_name": "Gabriel",
+    "global_name": "Gabriel",
+    "pronouns": "He/him/the chosen one",
+    "guild_pronouns": null,
+    "bio": "Lionhearted! <a:lionbongo:1233391387467186247> <:WeissChub:631892537497616387>\n\nThere are no regrets. If one can be proud of ones life, one should not wish for another chance.",
+    "guild_bio": null,
+    "display_bio": "Lionhearted! <a:lionbongo:1233391387467186247> <:WeissChub:631892537497616387>\n\nThere are no regrets. If one can be proud of ones life, one should not wish for another chance.",
+    "banner": "https://cdn.discordapp.com/banners/926736339611832330/a_14c2e1f48c279261abdef78cfac27c64.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/926736339611832330/a_14c2e1f48c279261abdef78cfac27c64.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d1a8505c938541c19693576b138dbec2",
+        "name": "Saika Kuozaki",
+        "url": null
+      },
+      "reddit": {
+        "id": "9f05pz90",
+        "name": "Emilia67",
+        "url": "https://www.reddit.com/u/Emilia67"
+      },
+      "xbox": {
+        "id": "3075501440144235",
+        "name": "SaikaKuozaki",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SaikaKuozaki"
+      }
+    },
+    "legacy_username": "Gabe#3406"
   }
 }
