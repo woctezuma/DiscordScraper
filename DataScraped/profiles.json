@@ -13060,5 +13060,32 @@
       }
     },
     "legacy_username": "amkishere#0184"
+  },
+  "143778546467340288": {
+    "id": 143778546467340288,
+    "name": "ptollemy",
+    "nick": null,
+    "display_name": "Ptollemy",
+    "global_name": "Ptollemy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1116735768",
+        "name": "Will Piears",
+        "url": "https://open.spotify.com/user/1116735768"
+      }
+    },
+    "legacy_username": "Ptollemy#8458"
   }
 }
