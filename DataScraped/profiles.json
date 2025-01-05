@@ -13006,5 +13006,32 @@
       }
     },
     "legacy_username": "saraaaaaaaaaa#8754"
+  },
+  "1124341634054754344": {
+    "id": 1124341634054754344,
+    "name": "adam__craft",
+    "nick": null,
+    "display_name": " | ZRX",
+    "global_name": " | ZRX",
+    "pronouns": "New Chapter Soon\u203c\ufe0f",
+    "guild_pronouns": null,
+    "bio": "                .\n\nhttps://discord.gg/NeVer1",
+    "guild_bio": null,
+    "display_bio": "                .\n\nhttps://discord.gg/NeVer1",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCACv8S5Vnk-OStOLN9kenug",
+        "name": "Adam+-+Craft",
+        "url": "https://www.youtube.com/channel/UCACv8S5Vnk-OStOLN9kenug"
+      }
+    },
+    "legacy_username": null
   }
 }
