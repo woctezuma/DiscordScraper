@@ -13087,5 +13087,73 @@
       }
     },
     "legacy_username": "Ptollemy#8458"
+  },
+  "946406304765870120": {
+    "id": 946406304765870120,
+    "name": "_spiin",
+    "nick": null,
+    "display_name": "INFXA",
+    "global_name": "INFXA",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Them or us.\nChase or race.\nHunt or be hunted.\nWhat side are you on?",
+    "guild_bio": null,
+    "display_bio": "Them or us.\nChase or race.\nHunt or be hunted.\nWhat side are you on?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199241950011",
+        "name": "INFXA",
+        "url": "https://steamcommunity.com/profiles/76561199241950011"
+      },
+      "xbox": {
+        "id": "3077157908106335",
+        "name": "SummerKitty4188",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SummerKitty4188"
+      },
+      "youtube": {
+        "id": "UCwpvHyG-D4w37wE88oJ2AHg",
+        "name": "Amy Dixon",
+        "url": "https://www.youtube.com/channel/UCwpvHyG-D4w37wE88oJ2AHg"
+      }
+    },
+    "legacy_username": "Spiin#1249"
+  },
+  "926925456631013376": {
+    "id": 926925456631013376,
+    "name": "bertieiubireata",
+    "nick": null,
+    "display_name": "  iubira ta",
+    "global_name": "  iubira ta",
+    "pronouns": "\u212c\ud835\udc86\ud835\udcfb\ud835\udcfd\ud835\udcf2\u2661 \ud835\udc52 iubirea ta \u0219i a Fetelor",
+    "guild_pronouns": null,
+    "bio": "A Revenit cuceritoru fetelor care te cucerea 3 ani si nu o lun ca altii cucerea acele fete care i-o plcut i care a crezut ca ii trebuiesc ! https://www.tiktok.com/@bertiteiiubeste",
+    "guild_bio": null,
+    "display_bio": "A Revenit cuceritoru fetelor care te cucerea 3 ani si nu o lun ca altii cucerea acele fete care i-o plcut i care a crezut ca ii trebuiesc ! https://www.tiktok.com/@bertiteiiubeste",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3124bkakmpyubjaydxdfkggsowfm",
+        "name": "Tasn\u00e1di Berthold Berti e iubirea ta",
+        "url": "https://open.spotify.com/user/3124bkakmpyubjaydxdfkggsowfm"
+      },
+      "steam": {
+        "id": "76561199807059081",
+        "name": "\u212c\ud835\udc86\ud835\udcfb\ud835\udcfd\ud835\udcf2 \ud835\udc52 \ud835\udcbe",
+        "url": "https://steamcommunity.com/profiles/76561199807059081"
+      }
+    },
+    "legacy_username": "\u212c\ud835\udc86\ud835\udcfb\ud835\udcfd\ud835\udcf2 \ud835\udc52 iubirea ta \u2661\u30c5\ud835\udc05\ud835\udc13#3858"
   }
 }
