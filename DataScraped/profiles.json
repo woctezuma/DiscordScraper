@@ -14751,5 +14751,34 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1189375402708324363": {
+    "id": 1189375402708324363,
+    "name": "generalmaddi.",
+    "nick": null,
+    "display_name": "ZOMBIEMUNCHER",
+    "global_name": "ZOMBIEMUNCHER",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "THE VOICES THERE GETTING LOUDER",
+    "guild_bio": null,
+    "display_bio": "THE VOICES THERE GETTING LOUDER",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198973756826",
+        "name": "GeneralMaddie",
+        "url": "https://steamcommunity.com/profiles/76561198973756826"
+      },
+      "xbox": {
+        "id": "3078258803089231",
+        "name": "generalmaddi",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=generalmaddi"
+      }
+    },
+    "legacy_username": null
   }
 }
