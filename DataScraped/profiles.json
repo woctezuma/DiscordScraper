@@ -12957,5 +12957,54 @@
       }
     },
     "legacy_username": "deddfdddd#9559"
+  },
+  "883696907774468158": {
+    "id": 883696907774468158,
+    "name": "saraichi",
+    "nick": null,
+    "display_name": "Sara",
+    "global_name": "Sara",
+    "pronouns": "retar/dead",
+    "guild_pronouns": null,
+    "bio": "**IGNS**\n<:roblox:1193578792439009300> SaraIchikawa\n<:valorant:975875542672896070> SaraIchikawa#0001\n<:league:975874162017071114> SaraIchikawa#0001\n<:steam:1267445064481771551> SaraIchikawa",
+    "guild_bio": null,
+    "display_bio": "**IGNS**\n<:roblox:1193578792439009300> SaraIchikawa\n<:valorant:975875542672896070> SaraIchikawa#0001\n<:league:975874162017071114> SaraIchikawa#0001\n<:steam:1267445064481771551> SaraIchikawa",
+    "banner": "https://cdn.discordapp.com/banners/883696907774468158/7d00362b49ca8f4304ff98f210ee7fcb.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/883696907774468158/7d00362b49ca8f4304ff98f210ee7fcb.png?size=512",
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "2IAxW3cGFBLoHtHNkSI2wgs27ldDBCTnjgu8iYYg-6zVvNo3J7cbOaXqaQ4gQKfVnORkctUJ2auUUg",
+        "name": "SaraIchikawa#0001",
+        "url": null
+      },
+      "riot_games": {
+        "id": "2IAxW3cGFBLoHtHNkSI2wgs27ldDBCTnjgu8iYYg-6zVvNo3J7cbOaXqaQ4gQKfVnORkctUJ2auUUg",
+        "name": "SaraIchikawa#0001",
+        "url": null
+      },
+      "spotify": {
+        "id": "o92y4fgpwcvgzf96xkxyyaqjd",
+        "name": "SaraIchikawa",
+        "url": "https://open.spotify.com/user/o92y4fgpwcvgzf96xkxyyaqjd"
+      },
+      "steam": {
+        "id": "76561199465996207",
+        "name": "SaraIchikawa",
+        "url": "https://steamcommunity.com/profiles/76561199465996207"
+      },
+      "youtube": {
+        "id": "UCqQuUwM4ycxVWiYdUW2RGEw",
+        "name": "SaraIchikawa",
+        "url": "https://www.youtube.com/channel/UCqQuUwM4ycxVWiYdUW2RGEw"
+      }
+    },
+    "legacy_username": "saraaaaaaaaaa#8754"
   }
 }
