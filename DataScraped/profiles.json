@@ -15163,5 +15163,46 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1038214070446329916": {
+    "id": 1038214070446329916,
+    "name": "gooberisnoober",
+    "nick": null,
+    "display_name": "GOOBA SNOOBA",
+    "global_name": "GOOBA SNOOBA",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "interesting",
+    "guild_bio": null,
+    "display_bio": "interesting",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "GOOBERISNOOBER#9527"
+  },
+  "1200074217526411377": {
+    "id": 1200074217526411377,
+    "name": "thatguyvr0829",
+    "nick": null,
+    "display_name": "that guy vr",
+    "global_name": "that guy vr",
+    "pronouns": "him/he",
+    "guild_pronouns": null,
+    "bio": "i play gorilla tag and make vids  ",
+    "guild_bio": null,
+    "display_bio": "i play gorilla tag and make vids  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
