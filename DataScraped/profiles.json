@@ -16363,5 +16363,146 @@
       }
     },
     "legacy_username": null
+  },
+  "395537295647965204": {
+    "id": 395537295647965204,
+    "name": "elitebro",
+    "nick": null,
+    "display_name": "6THEDRINK9",
+    "global_name": "6THEDRINK9",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "GREW UP ON PS2 ERA  \n\nLETS GOOOOOOOOOOO",
+    "guild_bio": null,
+    "display_bio": "GREW UP ON PS2 ERA  \n\nLETS GOOOOOOOOOOO",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e47bed44f2b14745871193e42de46d28",
+        "name": "SpawnTheWolf",
+        "url": null
+      },
+      "playstation": {
+        "id": "1109014763990808748",
+        "name": "SpawnAngel95",
+        "url": null
+      }
+    },
+    "legacy_username": null
+  },
+  "703937883517747211": {
+    "id": 703937883517747211,
+    "name": "binoyaneh",
+    "nick": null,
+    "display_name": "Vino",
+    "global_name": "Vino",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "384273921098121237": {
+    "id": 384273921098121237,
+    "name": "d.u.b",
+    "nick": null,
+    "display_name": "dub",
+    "global_name": "dub",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "WHO ISN'T?",
+    "guild_bio": null,
+    "display_bio": "WHO ISN'T?",
+    "banner": "https://cdn.discordapp.com/banners/384273921098121237/a_77eded15385b8256b6f183b2edc23a34.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/384273921098121237/a_77eded15385b8256b6f183b2edc23a34.gif?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "dub#11751",
+        "name": "dub#11751",
+        "url": null
+      },
+      "spotify": {
+        "id": "ojisix",
+        "name": "ojisix",
+        "url": "https://open.spotify.com/user/ojisix"
+      },
+      "steam": {
+        "id": "76561198871271883",
+        "name": "dub",
+        "url": "https://steamcommunity.com/profiles/76561198871271883"
+      },
+      "twitch": {
+        "id": "55748144",
+        "name": "dubcade",
+        "url": "https://www.twitch.tv/dubcade"
+      }
+    },
+    "legacy_username": "dub#6420"
+  },
+  "228692155978219521": {
+    "id": 228692155978219521,
+    "name": "vezrias",
+    "nick": null,
+    "display_name": "Vezrias",
+    "global_name": "Vezrias",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Vezrias#1308",
+        "name": "Vezrias#1308",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "na_50370312",
+        "name": "Vezrias",
+        "url": null
+      },
+      "playstation": {
+        "id": "4449425342188093696",
+        "name": "Vezrias",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197963463765",
+        "name": "Vezrias",
+        "url": "https://steamcommunity.com/profiles/76561197963463765"
+      },
+      "xbox": {
+        "id": "NGUwM2ExYzJjMTM1NmJkNTdjZGU5ZDAxZmQ1ZDNkNjVmN2Q3ZDA5MDJhZDU5YzA2NmEzMWM4ZTI3YWY5MTMzMA",
+        "name": "Vezrias",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Vezrias"
+      }
+    },
+    "legacy_username": "Vezrias#6081"
   }
 }
