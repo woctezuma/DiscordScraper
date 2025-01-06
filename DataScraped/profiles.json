@@ -18515,5 +18515,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "395940524340805632": {
+    "id": 395940524340805632,
+    "name": "xonirix",
+    "nick": null,
+    "display_name": "Xonirix",
+    "global_name": "Xonirix",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Digital artist person and that doesn't know what he is doing.\n\n\nI am currently making a webtoon, go sub to it here: https://www.webtoons.com/en/challenge/random-grays/list?title_no=682628",
+    "guild_bio": null,
+    "display_bio": "Digital artist person and that doesn't know what he is doing.\n\n\nI am currently making a webtoon, go sub to it here: https://www.webtoons.com/en/challenge/random-grays/list?title_no=682628",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Xonirix#9419"
   }
 }
