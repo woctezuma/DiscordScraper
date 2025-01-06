@@ -16719,5 +16719,54 @@
     ],
     "connections": {},
     "legacy_username": "TanithRitual#8211"
+  },
+  "784056738013773824": {
+    "id": 784056738013773824,
+    "name": "slynxcz",
+    "nick": null,
+    "display_name": "Slynx",
+    "global_name": "Slynx",
+    "pronouns": "Full Stack Developer | UI Designer",
+    "guild_pronouns": null,
+    "bio": "**Portfolio**\nhttps://www.slynxdev.cz \n\n**FUNPLAY.pro cord**\nhttps://discord.gg/funplay\n\n**JailBreak Ultimate**\nconnect **cs.funplay.pro**\n**Mirage 24/7**\nconnect **cs.funplay.pro:27016**",
+    "guild_bio": null,
+    "display_bio": "**Portfolio**\nhttps://www.slynxdev.cz \n\n**FUNPLAY.pro cord**\nhttps://discord.gg/funplay\n\n**JailBreak Ultimate**\nconnect **cs.funplay.pro**\n**Mirage 24/7**\nconnect **cs.funplay.pro:27016**",
+    "banner": "https://cdn.discordapp.com/banners/784056738013773824/b64181777ec64a8c9b684b4e57e3a1de.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/784056738013773824/b64181777ec64a8c9b684b4e57e3a1de.png?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "github": {
+        "id": "88426022",
+        "name": "SlynxCZ",
+        "url": "https://github.com/SlynxCZ"
+      },
+      "paypal": {
+        "id": "2tkGm2qaSs2sfuEA33g3l9LtQ_ZsV2aDr0YB4byiqzc",
+        "name": "Michal P\u0159ikryl",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199516400841",
+        "name": "Slynx",
+        "url": "https://steamcommunity.com/profiles/76561199516400841"
+      },
+      "twitch": {
+        "id": "544333052",
+        "name": "slynxcz",
+        "url": "https://www.twitch.tv/slynxcz"
+      },
+      "youtube": {
+        "id": "UCFf6Dn4ECxua8cztanj7B7Q",
+        "name": "Slynx Developer",
+        "url": "https://www.youtube.com/channel/UCFf6Dn4ECxua8cztanj7B7Q"
+      }
+    },
+    "legacy_username": "Mikix#0101"
   }
 }
