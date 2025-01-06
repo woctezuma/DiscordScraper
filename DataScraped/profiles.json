@@ -18147,5 +18147,116 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1191031582388133932": {
+    "id": 1191031582388133932,
+    "name": "hemulen01",
+    "nick": null,
+    "display_name": "Hemu",
+    "global_name": "Hemu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "634945413232984074": {
+    "id": 634945413232984074,
+    "name": "lferzoltan",
+    "nick": null,
+    "display_name": "Zoli",
+    "global_name": "Zoli",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "lferzoltan#2935",
+        "name": "lferzoltan#2935",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ae65f6c3c53244adad92fb8bda1ed6ee",
+        "name": "Lostymayer",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "W5s9dIFjMW_Dr-mC7vxxONwO5ja-03I3IOabehCrsFfVOfaKW_cyRB3xp-Jz9RcHXJQ77_sm4TXMOg",
+        "name": "LostyChamp",
+        "url": null
+      },
+      "playstation": {
+        "id": "7830526891608476713",
+        "name": "numb_optician7",
+        "url": null
+      },
+      "reddit": {
+        "id": "11shzbxlws",
+        "name": "lfer_zoltan",
+        "url": "https://www.reddit.com/u/lfer_zoltan"
+      },
+      "riot_games": {
+        "id": "W5s9dIFjMW_Dr-mC7vxxONwO5ja-03I3IOabehCrsFfVOfaKW_cyRB3xp-Jz9RcHXJQ77_sm4TXMOg",
+        "name": "LostyChamp#EUNE",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "4924963259",
+        "name": "lferzoltan",
+        "url": null
+      },
+      "spotify": {
+        "id": "31bdwwiyjn6w57vfg7lbxadqa2ue",
+        "name": "lferzoltan",
+        "url": "https://open.spotify.com/user/31bdwwiyjn6w57vfg7lbxadqa2ue"
+      },
+      "steam": {
+        "id": "76561198426101544",
+        "name": "Lferzoltan",
+        "url": "https://steamcommunity.com/profiles/76561198426101544"
+      },
+      "tiktok": {
+        "id": "72df5ac5-a5b4-4e95-bc76-b3284fc1cb60",
+        "name": "lfer.zoltan",
+        "url": "https://tiktok.com/@lfer.zoltan"
+      },
+      "twitch": {
+        "id": "183420135",
+        "name": "lferzoltan",
+        "url": "https://www.twitch.tv/lferzoltan"
+      },
+      "twitter": {
+        "id": "1824766854226690048",
+        "name": "lferzoltan",
+        "url": "https://twitter.com/lferzoltan"
+      },
+      "xbox": {
+        "id": "3069020348987682",
+        "name": "SyaYroz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SyaYroz"
+      },
+      "youtube": {
+        "id": "UCKCaAA_0mMUEp1lHqI6DWhA",
+        "name": "LferZoltan",
+        "url": "https://www.youtube.com/channel/UCKCaAA_0mMUEp1lHqI6DWhA"
+      }
+    },
+    "legacy_username": "Zoli#5534"
   }
 }
