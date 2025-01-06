@@ -15662,5 +15662,54 @@
       }
     },
     "legacy_username": "ilkan#8157"
+  },
+  "291255422885560320": {
+    "id": 291255422885560320,
+    "name": "jimjamgo",
+    "nick": null,
+    "display_name": "JimJamGo",
+    "global_name": "JimJamGo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "__Fursonas__:\n<a:EleanorVibe:962028579825283132> Eleanor\n<a:LuciusVibe:956870164413050910> Lucius\nOnline <t:1674804600:t> to <t:1674860400:t>.",
+    "guild_bio": null,
+    "display_bio": "__Fursonas__:\n<a:EleanorVibe:962028579825283132> Eleanor\n<a:LuciusVibe:956870164413050910> Lucius\nOnline <t:1674804600:t> to <t:1674860400:t>.",
+    "banner": "https://cdn.discordapp.com/banners/291255422885560320/e168426ab31475817516a6e677a4c8ff.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/291255422885560320/e168426ab31475817516a6e677a4c8ff.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "github": {
+        "id": "30004589",
+        "name": "JimJamGo",
+        "url": "https://github.com/JimJamGo"
+      },
+      "reddit": {
+        "id": "2baezhau",
+        "name": "JimJamGo",
+        "url": "https://www.reddit.com/u/JimJamGo"
+      },
+      "steam": {
+        "id": "76561198230828412",
+        "name": "JImJamGo",
+        "url": "https://steamcommunity.com/profiles/76561198230828412"
+      },
+      "twitch": {
+        "id": "736909589",
+        "name": "vistasstreams",
+        "url": "https://www.twitch.tv/vistasstreams"
+      },
+      "xbox": {
+        "id": "b72TMVfgJEEy3MQmuZnEwbdzpWThQ-3Ay904OT5Qu0Y",
+        "name": "JamJimGo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JamJimGo"
+      }
+    },
+    "legacy_username": "JimJamGo#0042"
   }
 }
