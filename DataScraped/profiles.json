@@ -17840,5 +17840,60 @@
       }
     },
     "legacy_username": "Magnus616#3586"
+  },
+  "1325908764502786050": {
+    "id": 1325908764502786050,
+    "name": "nvhfghfghfghfg_05496",
+    "nick": null,
+    "display_name": "nvhfghfghfghfg",
+    "global_name": "nvhfghfghfghfg",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "608253757100261376": {
+    "id": 608253757100261376,
+    "name": "buh3x",
+    "nick": null,
+    "display_name": "buh3x",
+    "global_name": null,
+    "pronouns": "Attack helicopter/alcholic",
+    "guild_pronouns": null,
+    "bio": ":plink: :buh:",
+    "guild_bio": null,
+    "display_bio": ":plink: :buh:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "yi827r8ru",
+        "name": "igetfemboys",
+        "url": "https://www.reddit.com/u/igetfemboys"
+      },
+      "steam": {
+        "id": "76561199161265812",
+        "name": "buh3x",
+        "url": "https://steamcommunity.com/profiles/76561199161265812"
+      },
+      "twitch": {
+        "id": "772595096",
+        "name": "buh3x",
+        "url": "https://www.twitch.tv/buh3x"
+      }
+    },
+    "legacy_username": null
   }
 }
