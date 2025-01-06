@@ -17546,5 +17546,82 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "442084413380100117": {
+    "id": 442084413380100117,
+    "name": "phoenixsiha",
+    "nick": null,
+    "display_name": "Ashina",
+    "global_name": "Ashina",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "6a58a88b52bf404494616f7f7d127d1f",
+        "name": "SihaTR",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198988182547",
+        "name": "SihaTR",
+        "url": "https://steamcommunity.com/profiles/76561198988182547"
+      }
+    },
+    "legacy_username": "p\u043doe\u0274\u03b9\u0445 (\u0455\u03b9\u043d\u03b1)#1465"
+  },
+  "632721263550529544": {
+    "id": 632721263550529544,
+    "name": "huynhminhtrietpj",
+    "nick": null,
+    "display_name": "Hunh Minh Trit (PJ)",
+    "global_name": "Hunh Minh Trit (PJ)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31raefxayqgjppo4izisv6bs3rqi",
+        "name": "Huynh Minh Triet",
+        "url": "https://open.spotify.com/user/31raefxayqgjppo4izisv6bs3rqi"
+      }
+    },
+    "legacy_username": "Hu\u1ef3nh Minh Tri\u1ebft (PJ)#7083"
+  },
+  "796438832022683678": {
+    "id": 796438832022683678,
+    "name": "dreaddy2774",
+    "nick": null,
+    "display_name": "Dreaddy",
+    "global_name": "Dreaddy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Dreaddy#2774"
   }
 }
