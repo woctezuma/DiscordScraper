@@ -15268,5 +15268,96 @@
     ],
     "connections": {},
     "legacy_username": "Tota#1709"
+  },
+  "1187136183529111655": {
+    "id": 1187136183529111655,
+    "name": "henrimt_",
+    "nick": null,
+    "display_name": "HenriMT",
+    "global_name": "HenriMT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "HenriMT#1305",
+        "name": "HenriMT#1305",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "f0e35b5d-860e-5c1d-99b9-1217b1de9dd3",
+        "name": "HenriMT_Jojo",
+        "url": null
+      },
+      "ebay": {
+        "id": "sze0sdu1th6",
+        "name": "henrimt_08",
+        "url": "https://www.ebay.com/usr/henrimt_08"
+      },
+      "epic_games": {
+        "id": "354c62c1ebed45e28319e65706be0939",
+        "name": "HenriMT_Jojo",
+        "url": null
+      },
+      "github": {
+        "id": "126419011",
+        "name": "HenriMT-ARC",
+        "url": "https://github.com/HenriMT-ARC"
+      },
+      "spotify": {
+        "id": "31ud7lzk3gfrlvk4eobblzpmbnyu",
+        "name": "HenriMT",
+        "url": "https://open.spotify.com/user/31ud7lzk3gfrlvk4eobblzpmbnyu"
+      },
+      "steam": {
+        "id": "76561199180594598",
+        "name": "HenriMT",
+        "url": "https://steamcommunity.com/profiles/76561199180594598"
+      },
+      "twitch": {
+        "id": "700336587",
+        "name": "henrimt_live",
+        "url": "https://www.twitch.tv/henrimt_live"
+      },
+      "xbox": {
+        "id": "3064161866681941",
+        "name": "Maker Tube",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Maker Tube"
+      },
+      "youtube": {
+        "id": "UCq-iS8czmgyK5mb1_cX2a0Q",
+        "name": "HenriMT_Play",
+        "url": "https://www.youtube.com/channel/UCq-iS8czmgyK5mb1_cX2a0Q"
+      }
+    },
+    "legacy_username": null
+  },
+  "192114763130470400": {
+    "id": 192114763130470400,
+    "name": "gnih",
+    "nick": null,
+    "display_name": "Gnih",
+    "global_name": "Gnih",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Gnih#3202"
   }
 }
