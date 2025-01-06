@@ -15593,5 +15593,25 @@
       }
     },
     "legacy_username": "chees#8713"
+  },
+  "890594085751099422": {
+    "id": 890594085751099422,
+    "name": "vergil3174",
+    "nick": null,
+    "display_name": "vergil",
+    "global_name": "vergil",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "vergil#3174"
   }
 }
