@@ -18564,5 +18564,31 @@
       }
     },
     "legacy_username": "rim206#5052"
+  },
+  "1055961574923325440": {
+    "id": 1055961574923325440,
+    "name": ".alik98",
+    "nick": null,
+    "display_name": "ALIK98",
+    "global_name": "ALIK98",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3065556433471529",
+        "name": "ecbateni1384",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ecbateni1384"
+      }
+    },
+    "legacy_username": "ALIK98#0162"
   }
 }
