@@ -16168,5 +16168,129 @@
     ],
     "connections": {},
     "legacy_username": "PesteElPesto#6991"
+  },
+  "640665797882282025": {
+    "id": 640665797882282025,
+    "name": "mossoshuu",
+    "nick": null,
+    "display_name": "MossoShuu",
+    "global_name": "MossoShuu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "Exor#1157",
+        "name": "Exor#1157",
+        "url": null
+      },
+      "facebook": {
+        "id": "2069844826387093",
+        "name": "Luis Shuu Gustavo",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198219233396",
+        "name": "Mosso Shuu",
+        "url": "https://steamcommunity.com/profiles/76561198219233396"
+      },
+      "twitch": {
+        "id": "118017853",
+        "name": "doomerofhell",
+        "url": "https://www.twitch.tv/doomerofhell"
+      },
+      "twitter": {
+        "id": "909608532441468932",
+        "name": "TheDoomOfHell",
+        "url": "https://twitter.com/TheDoomOfHell"
+      },
+      "youtube": {
+        "id": "UClUy-J3qLR_imLygFwKr1Mg",
+        "name": "Gran Gus",
+        "url": "https://www.youtube.com/channel/UClUy-J3qLR_imLygFwKr1Mg"
+      }
+    },
+    "legacy_username": null
+  },
+  "987517552102113312": {
+    "id": 987517552102113312,
+    "name": "pa_tronn",
+    "nick": null,
+    "display_name": "Dev.tron808",
+    "global_name": "Dev.tron808",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Moderator ||Crypto Enthusiast\n#ASIC #GPU $solana\n~game dev ",
+    "guild_bio": null,
+    "display_bio": "Moderator ||Crypto Enthusiast\n#ASIC #GPU $solana\n~game dev ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1030649683149848646": {
+    "id": 1030649683149848646,
+    "name": "sabirhussainbalal",
+    "nick": null,
+    "display_name": "L4$T D4Y.",
+    "global_name": "L4$T D4Y.",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "*Beautiful faces are everywhere,*\n                         *but*\n*beautiful minds are hard to find.*\n\n\n***The Programming Magician...***",
+    "guild_bio": null,
+    "display_bio": "*Beautiful faces are everywhere,*\n                         *but*\n*beautiful minds are hard to find.*\n\n\n***The Programming Magician...***",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "219a5a3702cc4487ba102a2b50536df4",
+        "name": "L4sT D4Y.",
+        "url": null
+      },
+      "facebook": {
+        "id": "763354895665735",
+        "name": "Sabir Hussain Balal",
+        "url": null
+      },
+      "github": {
+        "id": "114157878",
+        "name": "Sabirhussainbalal",
+        "url": "https://github.com/Sabirhussainbalal"
+      },
+      "instagram": {
+        "id": "7093553227425202",
+        "name": "sabirhussainbalal",
+        "url": "https://www.instagram.com/sabirhussainbalal"
+      },
+      "steam": {
+        "id": "76561199088194179",
+        "name": "L4$T D4Y.",
+        "url": "https://steamcommunity.com/profiles/76561199088194179"
+      },
+      "tiktok": {
+        "id": "bae5284c-3917-5658-8a08-6988066b768d",
+        "name": "sabirhussainbalal",
+        "url": "https://tiktok.com/@sabirhussainbalal"
+      },
+      "youtube": {
+        "id": "UCUujOhMA8Avr4RDCgmaetrQ",
+        "name": "Sabir Hussain Balal The Programming Magician.",
+        "url": "https://www.youtube.com/channel/UCUujOhMA8Avr4RDCgmaetrQ"
+      }
+    },
+    "legacy_username": "sabirhussainbalal#8254"
   }
 }
