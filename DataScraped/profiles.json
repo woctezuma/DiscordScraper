@@ -16545,5 +16545,60 @@
       }
     },
     "legacy_username": null
+  },
+  "697134298062389269": {
+    "id": 697134298062389269,
+    "name": "duga.cik",
+    "nick": null,
+    "display_name": "duga",
+    "global_name": "duga",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mr.doga#1154"
+  },
+  "768433308388163595": {
+    "id": 768433308388163595,
+    "name": "ketchumash8946",
+    "nick": null,
+    "display_name": "Karuizawa",
+    "global_name": "Karuizawa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "o2exham2ki7unvcn8b1exklk6",
+        "name": "Kayon Z",
+        "url": "https://open.spotify.com/user/o2exham2ki7unvcn8b1exklk6"
+      },
+      "steam": {
+        "id": "76561199729745988",
+        "name": "Karuizawa",
+        "url": "https://steamcommunity.com/profiles/76561199729745988"
+      },
+      "xbox": {
+        "id": "3063995226692477",
+        "name": "Karuizawa7826",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Karuizawa7826"
+      }
+    },
+    "legacy_username": null
   }
 }
