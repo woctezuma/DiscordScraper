@@ -15613,5 +15613,27 @@
     ],
     "connections": {},
     "legacy_username": "vergil#3174"
+  },
+  "806400105036906506": {
+    "id": 806400105036906506,
+    "name": "lgdq",
+    "nick": null,
+    "display_name": "lgdq",
+    "global_name": "lgdq",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Psst!",
+    "guild_bio": null,
+    "display_bio": "Psst!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "LGD#1582"
   }
 }
