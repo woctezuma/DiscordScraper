@@ -16504,5 +16504,46 @@
       }
     },
     "legacy_username": "Vezrias#6081"
+  },
+  "789553390379204638": {
+    "id": 789553390379204638,
+    "name": "grimmnorth",
+    "nick": null,
+    "display_name": "Rich",
+    "global_name": "Rich",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:prtcxjmojp5buoqgcsszozwa",
+        "name": "grimmnorth.bsky.social",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197978892605",
+        "name": "GrimmNorth",
+        "url": "https://steamcommunity.com/profiles/76561197978892605"
+      },
+      "twitch": {
+        "id": "57705089",
+        "name": "gr1mmnorth",
+        "url": "https://www.twitch.tv/gr1mmnorth"
+      },
+      "xbox": {
+        "id": "3067561688056215",
+        "name": "Gr1mmNorth",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gr1mmNorth"
+      }
+    },
+    "legacy_username": null
   }
 }
