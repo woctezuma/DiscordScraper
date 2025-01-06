@@ -15711,5 +15711,101 @@
       }
     },
     "legacy_username": "JimJamGo#0042"
+  },
+  "905082911869530133": {
+    "id": 905082911869530133,
+    "name": "hnbi.04",
+    "nick": null,
+    "display_name": "hanabi",
+    "global_name": "hanabi",
+    "pronouns": "helikoptre/aroplein",
+    "guild_pronouns": null,
+    "bio": "oyasumi....\nOYAASUMI\n\nCLOSE UR EYES,\nWHEN U LEAVE THIS DREAM....\n\noyasumi...\nOYAASUMI\n\nI KNOW THAT\nIT'S HARD TO DOO...",
+    "guild_bio": null,
+    "display_bio": "oyasumi....\nOYAASUMI\n\nCLOSE UR EYES,\nWHEN U LEAVE THIS DREAM....\n\noyasumi...\nOYAASUMI\n\nI KNOW THAT\nIT'S HARD TO DOO...",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "4da2b4b75ac84e7996b9b1d9b84170be",
+        "name": "hanabi.03",
+        "url": null
+      },
+      "github": {
+        "id": "75316581",
+        "name": "ronikch123",
+        "url": "https://github.com/ronikch123"
+      },
+      "league_of_legends": {
+        "id": "fJ3QvIo6gxNPUxnGmZyBk1a3PpwfoOKL144BD4DuOtMsbCZwL98FM6fvPfZyJHX8PLHz_PpgHY52kA",
+        "name": "OMEGAz69",
+        "url": null
+      },
+      "riot_games": {
+        "id": "fJ3QvIo6gxNPUxnGmZyBk1a3PpwfoOKL144BD4DuOtMsbCZwL98FM6fvPfZyJHX8PLHz_PpgHY52kA",
+        "name": "OMEGAz#6960",
+        "url": null
+      },
+      "spotify": {
+        "id": "31mwtbk5jo7bhk6xzvkp7ssue2hm",
+        "name": "meahh",
+        "url": "https://open.spotify.com/user/31mwtbk5jo7bhk6xzvkp7ssue2hm"
+      },
+      "steam": {
+        "id": "76561199086677821",
+        "name": "hanabi.5.3.04",
+        "url": "https://steamcommunity.com/profiles/76561199086677821"
+      },
+      "twitter": {
+        "id": "1048045637525094405",
+        "name": "hnbi_04",
+        "url": "https://twitter.com/hnbi_04"
+      },
+      "xbox": {
+        "id": "3075536408828522",
+        "name": "bakadesu1601",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=bakadesu1601"
+      }
+    },
+    "legacy_username": "hanabi#1011"
+  },
+  "705773625529204798": {
+    "id": 705773625529204798,
+    "name": "nutkla.",
+    "nick": null,
+    "display_name": "NotKLa",
+    "global_name": "NotKLa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31yehcdbtlmi6vrfnlz5wghpne2y",
+        "name": "Merry Pops",
+        "url": "https://open.spotify.com/user/31yehcdbtlmi6vrfnlz5wghpne2y"
+      },
+      "twitch": {
+        "id": "592500099",
+        "name": "raikurence",
+        "url": "https://www.twitch.tv/raikurence"
+      }
+    },
+    "legacy_username": "NotKLa#8073"
   }
 }
