@@ -18008,5 +18008,50 @@
       }
     },
     "legacy_username": null
+  },
+  "603550636545540096": {
+    "id": 603550636545540096,
+    "name": "dr.grayhood",
+    "nick": null,
+    "display_name": "Roadkill",
+    "global_name": "Roadkill",
+    "pronouns": "Ran/Over",
+    "guild_pronouns": null,
+    "bio": "Cancer survivor x2\nGot ran over by a car x1\nCollecting these like they are achievements.",
+    "guild_bio": null,
+    "display_bio": "Cancer survivor x2\nGot ran over by a car x1\nCollecting these like they are achievements.",
+    "banner": "https://cdn.discordapp.com/banners/603550636545540096/a_bc66ea8db5f8fc94daefaad63673dc4d.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/603550636545540096/a_bc66ea8db5f8fc94daefaad63673dc4d.gif?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Grayhood114#1570",
+        "name": "Grayhood114#1570",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ca775ef4f13f4b1980a654643963b27b",
+        "name": "Gravery0114",
+        "url": null
+      },
+      "spotify": {
+        "id": "31fn52vjh3gbcc7mt6txpvvlrf7y",
+        "name": "Grayson ZREMAN",
+        "url": "https://open.spotify.com/user/31fn52vjh3gbcc7mt6txpvvlrf7y"
+      },
+      "steam": {
+        "id": "76561199238897721",
+        "name": "Grayhood114",
+        "url": "https://steamcommunity.com/profiles/76561199238897721"
+      }
+    },
+    "legacy_username": "Dr. Grayhood#8038"
   }
 }
