@@ -15359,5 +15359,85 @@
     ],
     "connections": {},
     "legacy_username": "Gnih#3202"
+  },
+  "797857094429573170": {
+    "id": 797857094429573170,
+    "name": "real_affairs",
+    "nick": null,
+    "display_name": "affairs",
+    "global_name": "affairs",
+    "pronouns": "King",
+    "guild_pronouns": null,
+    "bio": "`AFFAIR - aboutme.exe             `\n                            **     AFFAIR    ** \n                         *So fight. you cunt!*\n                     *Good luck in life bastard*",
+    "guild_bio": null,
+    "display_bio": "`AFFAIR - aboutme.exe             `\n                            **     AFFAIR    ** \n                         *So fight. you cunt!*\n                     *Good luck in life bastard*",
+    "banner": "https://cdn.discordapp.com/banners/797857094429573170/a_6f663825b34b2403517f21089e92dd99.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/797857094429573170/a_6f663825b34b2403517f21089e92dd99.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "premium"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "tpclTzFNiGsSgueu12Egb9bHXZ91-1ju8yOeozgjNUcBBcYFOwlAGcXWh0mIiVeXVKDKzmo4JdAWYQ",
+        "name": "affair#HELL",
+        "url": null
+      },
+      "riot_games": {
+        "id": "tpclTzFNiGsSgueu12Egb9bHXZ91-1ju8yOeozgjNUcBBcYFOwlAGcXWh0mIiVeXVKDKzmo4JdAWYQ",
+        "name": "affair#HELL",
+        "url": null
+      },
+      "spotify": {
+        "id": "31mtl6zk3g5glzwrhv2umbobff2a",
+        "name": "affair",
+        "url": "https://open.spotify.com/user/31mtl6zk3g5glzwrhv2umbobff2a"
+      },
+      "steam": {
+        "id": "76561199112725373",
+        "name": "affair",
+        "url": "https://steamcommunity.com/profiles/76561199112725373"
+      }
+    },
+    "legacy_username": null
+  },
+  "457984962918875186": {
+    "id": 457984962918875186,
+    "name": "hamzazain",
+    "nick": null,
+    "display_name": "Xamza",
+    "global_name": "Xamza",
+    "pronouns": "your/motherfucker",
+    "guild_pronouns": null,
+    "bio": "INSTA@hamzaissomewhere",
+    "guild_bio": null,
+    "display_bio": "INSTA@hamzaissomewhere",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198870174113",
+        "name": "Xamza69",
+        "url": "https://steamcommunity.com/profiles/76561198870174113"
+      },
+      "twitter": {
+        "id": "1115998159120023552",
+        "name": "XZain96",
+        "url": "https://twitter.com/XZain96"
+      },
+      "youtube": {
+        "id": "UCiCoEtQCTvUEusWPTrjawgw",
+        "name": "Xamza zee",
+        "url": "https://www.youtube.com/channel/UCiCoEtQCTvUEusWPTrjawgw"
+      }
+    },
+    "legacy_username": "Xamza#6183"
   }
 }
