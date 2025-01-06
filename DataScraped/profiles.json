@@ -18536,5 +18536,33 @@
     ],
     "connections": {},
     "legacy_username": "Xonirix#9419"
+  },
+  "481228470706503680": {
+    "id": 481228470706503680,
+    "name": "rim206",
+    "nick": null,
+    "display_name": "Yahoo",
+    "global_name": "Yahoo",
+    "pronouns": "BS/Ch\u00f4meur",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "5fvi119ge6l1poydce9svvxbw",
+        "name": "remi",
+        "url": "https://open.spotify.com/user/5fvi119ge6l1poydce9svvxbw"
+      }
+    },
+    "legacy_username": "rim206#5052"
   }
 }
