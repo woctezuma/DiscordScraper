@@ -15913,5 +15913,72 @@
       }
     },
     "legacy_username": null
+  },
+  "219864639381438464": {
+    "id": 219864639381438464,
+    "name": "soth.jpg",
+    "nick": null,
+    "display_name": "Soth",
+    "global_name": "Soth",
+    "pronouns": "Ele/Him",
+    "guild_pronouns": null,
+    "bio": "EXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!",
+    "guild_bio": null,
+    "display_bio": "EXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!\nEXTERMINATE!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198081381540",
+        "name": "Soth",
+        "url": "https://steamcommunity.com/profiles/76561198081381540"
+      }
+    },
+    "legacy_username": "Soth#5149"
+  },
+  "511192099518021632": {
+    "id": 511192099518021632,
+    "name": "raunak2109",
+    "nick": null,
+    "display_name": "RaunaK",
+    "global_name": "RaunaK",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "RaunaK#7043"
+  },
+  "624700773195841547": {
+    "id": 624700773195841547,
+    "name": "chronic162",
+    "nick": null,
+    "display_name": "chronic162",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "chronic162#6937"
   }
 }
