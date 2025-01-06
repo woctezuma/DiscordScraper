@@ -16768,5 +16768,88 @@
       }
     },
     "legacy_username": "Mikix#0101"
+  },
+  "478784489254944768": {
+    "id": 478784489254944768,
+    "name": "cryptocrown2941422",
+    "nick": null,
+    "display_name": "PYNKXYPLAYZ",
+    "global_name": "PYNKXYPLAYZ",
+    "pronouns": "Him",
+    "guild_pronouns": null,
+    "bio": "PYNKXY\nJust here to stream and have fun",
+    "guild_bio": null,
+    "display_bio": "PYNKXY\nJust here to stream and have fun",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "avLBhxgZVLsEfaSlTGTYmP26PQaqK4CTsFSM0zmdgyc",
+        "name": "CryptoCrown294",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=CryptoCrown294"
+      }
+    },
+    "legacy_username": null
+  },
+  "588321349236162561": {
+    "id": 588321349236162561,
+    "name": "hyz_res.",
+    "nick": null,
+    "display_name": "Res.",
+    "global_name": "Res.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "America can be defined as a single word : asnafutimnaffutifut",
+    "guild_bio": null,
+    "display_bio": "America can be defined as a single word : asnafutimnaffutifut",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCd4UCjwIKXAE8YuJNYZHJ2A",
+        "name": "Res.",
+        "url": "https://www.youtube.com/channel/UCd4UCjwIKXAE8YuJNYZHJ2A"
+      }
+    },
+    "legacy_username": "Res.#5239"
+  },
+  "614156537384140824": {
+    "id": 614156537384140824,
+    "name": "tonislime",
+    "nick": null,
+    "display_name": "ant",
+    "global_name": "ant",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "hi",
+    "guild_bio": null,
+    "display_bio": "hi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1329662932",
+        "name": "YTsRacks",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199086836502",
+        "name": "Plant",
+        "url": "https://steamcommunity.com/profiles/76561199086836502"
+      }
+    },
+    "legacy_username": "Slime#5384"
   }
 }
