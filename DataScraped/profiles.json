@@ -16147,5 +16147,26 @@
       }
     },
     "legacy_username": "Gousts#5576"
+  },
+  "1098670494653362318": {
+    "id": 1098670494653362318,
+    "name": "pesteelpesto",
+    "nick": null,
+    "display_name": "P",
+    "global_name": "P",
+    "pronouns": "idk",
+    "guild_pronouns": null,
+    "bio": "Hi im friendly (dont bite) talk to me when you want",
+    "guild_bio": null,
+    "display_bio": "Hi im friendly (dont bite) talk to me when you want",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "PesteElPesto#6991"
   }
 }
