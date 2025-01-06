@@ -16324,5 +16324,44 @@
       }
     },
     "legacy_username": "Iguh#4233"
+  },
+  "1155237872098619473": {
+    "id": 1155237872098619473,
+    "name": "heathersruletheworld",
+    "nick": null,
+    "display_name": "HeathersRuleTheWorld",
+    "global_name": "HeathersRuleTheWorld",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31vb47rhj3ac5upymi6qx6tsbume",
+        "name": "hmlang",
+        "url": "https://open.spotify.com/user/31vb47rhj3ac5upymi6qx6tsbume"
+      },
+      "steam": {
+        "id": "76561199782155098",
+        "name": "HeathersRuleTheWorld",
+        "url": "https://steamcommunity.com/profiles/76561199782155098"
+      },
+      "tiktok": {
+        "id": "28f46757-75b7-5bc5-b04f-9611954a9732",
+        "name": "heathersruletheworld5",
+        "url": "https://tiktok.com/@heathersruletheworld5"
+      },
+      "xbox": {
+        "id": "3067436386251557",
+        "name": "HeathersRule",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HeathersRule"
+      }
+    },
+    "legacy_username": null
   }
 }
