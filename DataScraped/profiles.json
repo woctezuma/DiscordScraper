@@ -16973,5 +16973,48 @@
       }
     },
     "legacy_username": "Saya#8588"
+  },
+  "725820744981807184": {
+    "id": 725820744981807184,
+    "name": "russiangrandpa.",
+    "nick": null,
+    "display_name": "Hudson Shaffer",
+    "global_name": "Hudson Shaffer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "russian grandpa#1969"
+  },
+  "373973871600205824": {
+    "id": 373973871600205824,
+    "name": "millery",
+    "nick": null,
+    "display_name": "ITSUMVDE",
+    "global_name": "ITSUMVDE",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl5",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Millery#4244"
   }
 }
