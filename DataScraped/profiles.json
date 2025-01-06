@@ -15037,5 +15037,131 @@
     ],
     "connections": {},
     "legacy_username": "Godm#3831"
+  },
+  "932739800782475325": {
+    "id": 932739800782475325,
+    "name": "hookupts",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Nick/her",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31xipmsbx3fw7u57cd64ab4p4ykm",
+        "name": "Ivan",
+        "url": "https://open.spotify.com/user/31xipmsbx3fw7u57cd64ab4p4ykm"
+      },
+      "steam": {
+        "id": "76561199136723248",
+        "name": "Hookupts",
+        "url": "https://steamcommunity.com/profiles/76561199136723248"
+      }
+    },
+    "legacy_username": null
+  },
+  "1141390814010949704": {
+    "id": 1141390814010949704,
+    "name": "gastoro46",
+    "nick": null,
+    "display_name": "Hastan",
+    "global_name": "Hastan",
+    "pronouns": "Lester Molester",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31omdqv2v7ikgfurtomjmtlmgmem",
+        "name": "hastan",
+        "url": "https://open.spotify.com/user/31omdqv2v7ikgfurtomjmtlmgmem"
+      }
+    },
+    "legacy_username": null
+  },
+  "598605239901487114": {
+    "id": 598605239901487114,
+    "name": "gatdo",
+    "nick": null,
+    "display_name": "gatdo",
+    "global_name": "gatdo",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198445994079",
+        "name": "Gatdo",
+        "url": "https://steamcommunity.com/profiles/76561198445994079"
+      },
+      "twitch": {
+        "id": "577852082",
+        "name": "gatdo007",
+        "url": "https://www.twitch.tv/gatdo007"
+      }
+    },
+    "legacy_username": "gatdo#8595"
+  },
+  "1030524351696621639": {
+    "id": 1030524351696621639,
+    "name": "bezzowbingleton",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "857729198843756544": {
+    "id": 857729198843756544,
+    "name": "liizrok",
+    "nick": null,
+    "display_name": "liza",
+    "global_name": "liza",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
