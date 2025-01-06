@@ -14851,5 +14851,191 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "736480313764610139": {
+    "id": 736480313764610139,
+    "name": "peucoz",
+    "nick": null,
+    "display_name": "Peucoz",
+    "global_name": "Peucoz",
+    "pronouns": "He / Him",
+    "guild_pronouns": null,
+    "bio": "Nah, I'd cook.",
+    "guild_bio": null,
+    "display_bio": "Nah, I'd cook.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "25266541722945198",
+        "name": "peucoz",
+        "url": "https://www.instagram.com/peucoz"
+      },
+      "spotify": {
+        "id": "31u2q42j6ceblen2nyxdgcputmq4",
+        "name": "Peucoz",
+        "url": "https://open.spotify.com/user/31u2q42j6ceblen2nyxdgcputmq4"
+      },
+      "twitch": {
+        "id": "796656964",
+        "name": "peucoz",
+        "url": "https://www.twitch.tv/peucoz"
+      },
+      "youtube": {
+        "id": "UCAbdcni6FsOWwJGmZFae8Cw",
+        "name": "Peucoz",
+        "url": "https://www.youtube.com/channel/UCAbdcni6FsOWwJGmZFae8Cw"
+      }
+    },
+    "legacy_username": "Peucoz#2594"
+  },
+  "1191516602638802975": {
+    "id": 1191516602638802975,
+    "name": "waitaminitman",
+    "nick": null,
+    "display_name": "waitaminit",
+    "global_name": "waitaminit",
+    "pronouns": "deez/nuts",
+    "guild_pronouns": null,
+    "bio": "But we friends tho",
+    "guild_bio": null,
+    "display_bio": "But we friends tho",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199573310656",
+        "name": "Prets",
+        "url": "https://steamcommunity.com/profiles/76561199573310656"
+      },
+      "youtube": {
+        "id": "UCa5B04dCLYer9jALHoWJxNg",
+        "name": "Ethan Pham",
+        "url": "https://www.youtube.com/channel/UCa5B04dCLYer9jALHoWJxNg"
+      }
+    },
+    "legacy_username": null
+  },
+  "1240123441252667472": {
+    "id": 1240123441252667472,
+    "name": "manny_53586",
+    "nick": null,
+    "display_name": "Manny",
+    "global_name": "Manny",
+    "pronouns": "He",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1532856642",
+        "name": "xXMannyXx012",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198078198049",
+        "name": "Manny 3.0",
+        "url": "https://steamcommunity.com/profiles/76561198078198049"
+      },
+      "xbox": {
+        "id": "3074228169698925",
+        "name": "AttackingOoze14",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AttackingOoze14"
+      }
+    },
+    "legacy_username": null
+  },
+  "478371628581912613": {
+    "id": 478371628581912613,
+    "name": "princesstwinkles",
+    "nick": null,
+    "display_name": "Princess Twinkles",
+    "global_name": "Princess Twinkles",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198841917218",
+        "name": "Princess Twinkles",
+        "url": "https://steamcommunity.com/profiles/76561198841917218"
+      }
+    },
+    "legacy_username": "Princess Twinkles#6047"
+  },
+  "247159041048969216": {
+    "id": 247159041048969216,
+    "name": "ragu_gamer",
+    "nick": null,
+    "display_name": "Wizard Plug",
+    "global_name": "Wizard Plug",
+    "pronouns": "Rogu/Ragu",
+    "guild_pronouns": null,
+    "bio": "Ill be wielding magic and shit. \n\nI can conjure the best Kush that well send you to the nine realms.",
+    "guild_bio": null,
+    "display_bio": "Ill be wielding magic and shit. \n\nI can conjure the best Kush that well send you to the nine realms.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "bigcactusz",
+        "name": "Halo3Ratz",
+        "url": "https://open.spotify.com/user/bigcactusz"
+      },
+      "steam": {
+        "id": "76561198198774605",
+        "name": "GhostHunter RAGU",
+        "url": "https://steamcommunity.com/profiles/76561198198774605"
+      }
+    },
+    "legacy_username": null
+  },
+  "305953667801022484": {
+    "id": 305953667801022484,
+    "name": "godm",
+    "nick": null,
+    "display_name": "Godm",
+    "global_name": "Godm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Godm#3831"
   }
 }
