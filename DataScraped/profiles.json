@@ -17687,5 +17687,158 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "656557335405133843": {
+    "id": 656557335405133843,
+    "name": "lbzcriss",
+    "nick": null,
+    "display_name": "LbzCriss",
+    "global_name": "LbzCriss",
+    "pronouns": "gg/starboys",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "ab97b7f4cbcd4d3f9cf1c3a3a6faf656",
+        "name": "CrissLLJW",
+        "url": null
+      },
+      "spotify": {
+        "id": "31uhtvxs6z3v3jtrga7m6qm5rffy",
+        "name": "LbzCriss",
+        "url": "https://open.spotify.com/user/31uhtvxs6z3v3jtrga7m6qm5rffy"
+      }
+    },
+    "legacy_username": null
+  },
+  "604023958735421456": {
+    "id": 604023958735421456,
+    "name": "midofey",
+    "nick": null,
+    "display_name": "Midofey",
+    "global_name": "Midofey",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Midofey#2357",
+        "name": "Midofey#2357",
+        "url": null
+      },
+      "epic_games": {
+        "id": "a68ce9e8257f412b9bd1e20085faa256",
+        "name": "Midofey",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198854772880",
+        "name": "Midofey",
+        "url": "https://steamcommunity.com/profiles/76561198854772880"
+      }
+    },
+    "legacy_username": "Midofey#2860"
+  },
+  "285827535441362944": {
+    "id": 285827535441362944,
+    "name": "alpaca.exe",
+    "nick": null,
+    "display_name": "Alpaca",
+    "global_name": "Alpaca",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Tjrs en train de stalker toi ",
+    "guild_bio": null,
+    "display_bio": "Tjrs en train de stalker toi ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Alpaca#8988"
+  },
+  "826483183431188481": {
+    "id": 826483183431188481,
+    "name": "mecavecuneppdesm",
+    "nick": null,
+    "display_name": "Stalker",
+    "global_name": "Stalker",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "198896966757908480": {
+    "id": 198896966757908480,
+    "name": "magnusred616",
+    "nick": null,
+    "display_name": "MagnusRed616",
+    "global_name": "MagnusRed616",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Destroy power, not people.",
+    "guild_bio": null,
+    "display_bio": "Destroy power, not people.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "8378387508678982294",
+        "name": "MagnusRed616",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198040956313",
+        "name": "MagnusRed616",
+        "url": "https://steamcommunity.com/profiles/76561198040956313"
+      },
+      "xbox": {
+        "id": "ZmYwMGZjMzMwMGEzMDQ0ZmZiMTQ4YTJiZWMwNDU2Y2U2NWYxMTlhNzBjNzE1ZjY5YTYyMDViNjU1OGQ1ODgyMw",
+        "name": "MagnusRed616",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MagnusRed616"
+      },
+      "youtube": {
+        "id": "UC7Gh9qpdo8I-j4U6jE2yEdA",
+        "name": "Charles Johnson-Kelly",
+        "url": "https://www.youtube.com/channel/UC7Gh9qpdo8I-j4U6jE2yEdA"
+      }
+    },
+    "legacy_username": "Magnus616#3586"
   }
 }
