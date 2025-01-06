@@ -15886,5 +15886,32 @@
       }
     },
     "legacy_username": null
+  },
+  "601477108946174013": {
+    "id": 601477108946174013,
+    "name": "a_fe",
+    "nick": null,
+    "display_name": "Madness ~ ",
+    "global_name": "Madness ~ ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I enjoy mcr garfield evangelion\ni am a certified goober",
+    "guild_bio": null,
+    "display_bio": "I enjoy mcr garfield evangelion\ni am a certified goober",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "yvh5sgffisplwi3di1twhlyqg",
+        "name": "Madness",
+        "url": "https://open.spotify.com/user/yvh5sgffisplwi3di1twhlyqg"
+      }
+    },
+    "legacy_username": null
   }
 }
