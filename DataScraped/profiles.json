@@ -17946,5 +17946,25 @@
       }
     },
     "legacy_username": "ST4R#9999"
+  },
+  "1313293194925965424": {
+    "id": 1313293194925965424,
+    "name": "j.mmz",
+    "nick": null,
+    "display_name": "j.mmz",
+    "global_name": "j.mmz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
