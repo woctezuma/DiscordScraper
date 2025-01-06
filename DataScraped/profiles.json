@@ -16052,5 +16052,29 @@
       }
     },
     "legacy_username": null
+  },
+  "1160439059810893904": {
+    "id": 1160439059810893904,
+    "name": "syh312057",
+    "nick": null,
+    "display_name": "syh027848",
+    "global_name": "syh027848",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3071922172719459",
+        "name": "syh312057",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=syh312057"
+      }
+    },
+    "legacy_username": null
   }
 }
