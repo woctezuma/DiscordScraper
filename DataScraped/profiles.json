@@ -16600,5 +16600,124 @@
       }
     },
     "legacy_username": null
+  },
+  "565033840129605652": {
+    "id": 565033840129605652,
+    "name": "nemexv",
+    "nick": null,
+    "display_name": "NemexV",
+    "global_name": "NemexV",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "NemexV#2821"
+  },
+  "1024982035829366794": {
+    "id": 1024982035829366794,
+    "name": "laquillare",
+    "nick": null,
+    "display_name": "Laquillare",
+    "global_name": "Laquillare",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a9048aee168b41659f1db9c7eb4ed71f",
+        "name": "Laquillare",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198197738797",
+        "name": "Laquillare",
+        "url": "https://steamcommunity.com/profiles/76561198197738797"
+      },
+      "twitch": {
+        "id": "160290459",
+        "name": "laquillare",
+        "url": "https://www.twitch.tv/laquillare"
+      }
+    },
+    "legacy_username": "!Laquillare#2317"
+  },
+  "133621519833235457": {
+    "id": 133621519833235457,
+    "name": "varinico",
+    "nick": null,
+    "display_name": "Vari  / Nico",
+    "global_name": "Vari  / Nico",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Vari  / Nico#8295"
+  },
+  "464615298667118609": {
+    "id": 464615298667118609,
+    "name": "shadoomski",
+    "nick": null,
+    "display_name": "shad3",
+    "global_name": "shad3",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Probably is getting anhilated on CTF_2Fort",
+    "guild_bio": null,
+    "display_bio": "Probably is getting anhilated on CTF_2Fort",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "shad3#1735"
+  },
+  "191749931264901121": {
+    "id": 191749931264901121,
+    "name": "tanithritual",
+    "nick": null,
+    "display_name": "TanithRitual",
+    "global_name": "TanithRitual",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "TanithRitual#8211"
   }
 }
