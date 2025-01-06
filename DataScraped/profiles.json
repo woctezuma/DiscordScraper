@@ -17062,5 +17062,88 @@
     ],
     "connections": {},
     "legacy_username": "KOT#1162"
+  },
+  "942433320338325524": {
+    "id": 942433320338325524,
+    "name": "huuphuocnguyen",
+    "nick": null,
+    "display_name": "Hu Phc",
+    "global_name": "Hu Phc",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "*Nu khng phi l mt trong hai c tnh, th c i ny cng chng th gp li.*\n\nk29 huflit english studies, k55 nguyn tri (graduated)\n**About me**: \nhttps://huuphuocnguyen.carrd.co/",
+    "guild_bio": null,
+    "display_bio": "*Nu khng phi l mt trong hai c tnh, th c i ny cng chng th gp li.*\n\nk29 huflit english studies, k55 nguyn tri (graduated)\n**About me**: \nhttps://huuphuocnguyen.carrd.co/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "107675515177088",
+        "name": "Nguy\u1ec5n H\u1eefu Ph\u01b0\u1edbc",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "okMf1KEbnGv3afmbrWHLCHbqM3-V1syUu8AUZTX9225nj0bHgGXFiHRMJzNTMFVp6BlivFfYkfmC6g",
+        "name": "Laur \u0110\u00e1ng Y\u00eau#Arc",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199243398001",
+        "name": "Laur",
+        "url": "https://steamcommunity.com/profiles/76561199243398001"
+      },
+      "youtube": {
+        "id": "UClUGIjrOytd9zJN3rK5x0SA",
+        "name": "H\u1eefu Ph\u01b0\u1edbc Nguy\u1ec5n",
+        "url": "https://www.youtube.com/channel/UClUGIjrOytd9zJN3rK5x0SA"
+      }
+    },
+    "legacy_username": "elaina.311#7843"
+  },
+  "938840708452876339": {
+    "id": 938840708452876339,
+    "name": "torresjuanp",
+    "nick": null,
+    "display_name": "torresjuanp",
+    "global_name": "torresjuanp",
+    "pronouns": "La pritty",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "torresjuanp#1762"
+  },
+  "219660985399640064": {
+    "id": 219660985399640064,
+    "name": "the8bitwarrior",
+    "nick": null,
+    "display_name": "The8BitWarrior",
+    "global_name": "The8BitWarrior",
+    "pronouns": "Head/Crab",
+    "guild_pronouns": null,
+    "bio": "I'm becoming a happier person",
+    "guild_bio": null,
+    "display_bio": "I'm becoming a happier person",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "The8BitWarrior#8897"
   }
 }
