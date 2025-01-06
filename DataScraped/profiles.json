@@ -18258,5 +18258,51 @@
       }
     },
     "legacy_username": "Zoli#5534"
+  },
+  "443464432006463498": {
+    "id": 443464432006463498,
+    "name": "j.basilone",
+    "nick": null,
+    "display_name": "LEGEND",
+    "global_name": "LEGEND",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "sirZENfar#2982",
+        "name": "sirZENfar#2982",
+        "url": null
+      },
+      "epic_games": {
+        "id": "26b9b607753e4c5d961b730e0165bd49",
+        "name": "farzansd",
+        "url": null
+      },
+      "reddit": {
+        "id": "8h9gwzvk",
+        "name": "Valuable_Ear_5885",
+        "url": "https://www.reddit.com/u/Valuable_Ear_5885"
+      },
+      "steam": {
+        "id": "76561198368113647",
+        "name": "J. Basilone",
+        "url": "https://steamcommunity.com/profiles/76561198368113647"
+      },
+      "tiktok": {
+        "id": "dbcdfed9-5246-5336-ae09-05240a6d6091",
+        "name": "j.basilone",
+        "url": "https://tiktok.com/@j.basilone"
+      }
+    },
+    "legacy_username": null
   }
 }
