@@ -16076,5 +16076,76 @@
       }
     },
     "legacy_username": null
+  },
+  "948145183143391262": {
+    "id": 948145183143391262,
+    "name": ".anna121",
+    "nick": null,
+    "display_name": "Oblivion",
+    "global_name": "Oblivion",
+    "pronouns": "ANNA",
+    "guild_pronouns": null,
+    "bio": "I don't have much time left. ",
+    "guild_bio": null,
+    "display_bio": "I don't have much time left. ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "facebook": {
+        "id": "1002374168597684",
+        "name": "Ai C\u0169ng \u0110\u01b0\u1ee3c",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "4891189949",
+        "name": "nekokawaii558",
+        "url": null
+      },
+      "tiktok": {
+        "id": "baa412f8-7f5c-5f59-8289-06273aaac5bd",
+        "name": "mafiaroz",
+        "url": "https://tiktok.com/@mafiaroz"
+      }
+    },
+    "legacy_username": null
+  },
+  "1042165191179247656": {
+    "id": 1042165191179247656,
+    "name": "gousts",
+    "nick": null,
+    "display_name": "ghost",
+    "global_name": "ghost",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c478eea54ad8474a86a1aadcff763e65",
+        "name": "ghost rizler",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199427340993",
+        "name": "ghost",
+        "url": "https://steamcommunity.com/profiles/76561199427340993"
+      },
+      "twitch": {
+        "id": "849618587",
+        "name": "gousts4",
+        "url": "https://www.twitch.tv/gousts4"
+      }
+    },
+    "legacy_username": "Gousts#5576"
   }
 }
