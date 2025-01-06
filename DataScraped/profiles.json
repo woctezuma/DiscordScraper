@@ -18053,5 +18053,46 @@
       }
     },
     "legacy_username": "Dr. Grayhood#8038"
+  },
+  "885664722794455090": {
+    "id": 885664722794455090,
+    "name": "justinuz",
+    "nick": null,
+    "display_name": "jus",
+    "global_name": "jus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "8836496660568918193",
+        "name": "GhOSty_OmG",
+        "url": null
+      },
+      "spotify": {
+        "id": "k4i0rwzk8ow6a0jyihql81p0p",
+        "name": "Andrea",
+        "url": "https://open.spotify.com/user/k4i0rwzk8ow6a0jyihql81p0p"
+      },
+      "steam": {
+        "id": "76561199491484895",
+        "name": "Justin",
+        "url": "https://steamcommunity.com/profiles/76561199491484895"
+      },
+      "twitch": {
+        "id": "496860796",
+        "name": "andreacortii",
+        "url": "https://www.twitch.tv/andreacortii"
+      }
+    },
+    "legacy_username": null
   }
 }
