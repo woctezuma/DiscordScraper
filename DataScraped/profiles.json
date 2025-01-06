@@ -18590,5 +18590,63 @@
       }
     },
     "legacy_username": "ALIK98#0162"
+  },
+  "1031021829499928646": {
+    "id": 1031021829499928646,
+    "name": "earth3r",
+    "nick": null,
+    "display_name": "Chair",
+    "global_name": "Chair",
+    "pronouns": "Sit/Sat",
+    "guild_pronouns": null,
+    "bio": "Sometimes a chair is just a chair.",
+    "guild_bio": null,
+    "display_bio": "Sometimes a chair is just a chair.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1024882060013346866": {
+    "id": 1024882060013346866,
+    "name": "bingusman23",
+    "nick": null,
+    "display_name": "Jolly Bingus",
+    "global_name": "Jolly Bingus",
+    "pronouns": "Silly/bean",
+    "guild_pronouns": null,
+    "bio": "Name: Bingus \n\nInterests: Art, Cars, Video Games, and World War 2\n\nFun Fact: I have autism!\n\nMatching with: @i._am._a._sandwich \n\nNuzi = Peak \n\nWhy am I like this",
+    "guild_bio": null,
+    "display_bio": "Name: Bingus \n\nInterests: Art, Cars, Video Games, and World War 2\n\nFun Fact: I have autism!\n\nMatching with: @i._am._a._sandwich \n\nNuzi = Peak \n\nWhy am I like this",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1816549037",
+        "name": "Springbonnie0681",
+        "url": null
+      },
+      "spotify": {
+        "id": "316i443yryq4cb6hjndbso3vocgu",
+        "name": "BingusMan23",
+        "url": "https://open.spotify.com/user/316i443yryq4cb6hjndbso3vocgu"
+      },
+      "steam": {
+        "id": "76561199575027329",
+        "name": "BingusMan23",
+        "url": "https://steamcommunity.com/profiles/76561199575027329"
+      }
+    },
+    "legacy_username": "smuglink#6897"
   }
 }
