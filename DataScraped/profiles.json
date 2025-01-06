@@ -17895,5 +17895,56 @@
       }
     },
     "legacy_username": null
+  },
+  "1004476813600358561": {
+    "id": 1004476813600358561,
+    "name": "st4r_ship",
+    "nick": null,
+    "display_name": "ST4R",
+    "global_name": "ST4R",
+    "pronouns": "Metallicuh",
+    "guild_pronouns": null,
+    "bio": "<:Cake:893597105921359882> <t:1740722400:R>   \nhalf the time im not serious so dont take most the stuff i say seriously\nhttps://about.me/varziti\nmy midnight for you: <t:1736056800:t>",
+    "guild_bio": null,
+    "display_bio": "<:Cake:893597105921359882> <t:1740722400:R>   \nhalf the time im not serious so dont take most the stuff i say seriously\nhttps://about.me/varziti\nmy midnight for you: <t:1736056800:t>",
+    "banner": "https://cdn.discordapp.com/banners/1004476813600358561/643d84b9ecea430fba9025b2b0b644c7.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1004476813600358561/643d84b9ecea430fba9025b2b0b644c7.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "42b19dc2952e4b4295a5d5f008d7c644",
+        "name": "ST4R_SH1P",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "309605045",
+        "name": "ST4R_SHIP",
+        "url": null
+      },
+      "spotify": {
+        "id": "jjssam",
+        "name": "cam\ud83e\udd18",
+        "url": "https://open.spotify.com/user/jjssam"
+      },
+      "steam": {
+        "id": "76561199092464863",
+        "name": "ST4R",
+        "url": "https://steamcommunity.com/profiles/76561199092464863"
+      },
+      "xbox": {
+        "id": "3066017795604460",
+        "name": "ST4R4492",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ST4R4492"
+      }
+    },
+    "legacy_username": "ST4R#9999"
   }
 }
