@@ -15465,5 +15465,63 @@
       }
     },
     "legacy_username": "Aidenws487#7433"
+  },
+  "356797031655800833": {
+    "id": 356797031655800833,
+    "name": "cane25_",
+    "nick": null,
+    "display_name": "CANE",
+    "global_name": "CANE",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Filipino Gamer",
+    "guild_bio": null,
+    "display_bio": "Filipino Gamer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "724171249",
+        "name": "engrkeinx",
+        "url": "https://www.twitch.tv/engrkeinx"
+      },
+      "twitter": {
+        "id": "1399447470",
+        "name": "MarquisLoria",
+        "url": "https://twitter.com/MarquisLoria"
+      },
+      "youtube": {
+        "id": "UC1q1V7kbXIUqQn1u0bBEnww",
+        "name": "Marquis Loria",
+        "url": "https://www.youtube.com/channel/UC1q1V7kbXIUqQn1u0bBEnww"
+      }
+    },
+    "legacy_username": "Cane#0066"
+  },
+  "791263261906829324": {
+    "id": 791263261906829324,
+    "name": "tojacytryn",
+    "nick": null,
+    "display_name": "Cytryn",
+    "global_name": "Cytryn",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "```` **<t:1759874460:R>**",
+    "guild_bio": null,
+    "display_bio": "```` **<t:1759874460:R>**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Cytryn#1495"
   }
 }
