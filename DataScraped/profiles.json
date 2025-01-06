@@ -17200,5 +17200,31 @@
       }
     },
     "legacy_username": "slave5000#9745"
+  },
+  "830154736359309342": {
+    "id": 830154736359309342,
+    "name": "sweet.g.m.",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199160099326",
+        "name": "\u043f\u0418\u0441\u0430\u0442\u044c\ud83e\udd0d",
+        "url": "https://steamcommunity.com/profiles/76561199160099326"
+      }
+    },
+    "legacy_username": null
   }
 }
