@@ -19072,5 +19072,53 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "456999057106403329": {
+    "id": 456999057106403329,
+    "name": "nezru.",
+    "nick": null,
+    "display_name": "nezru",
+    "global_name": "nezru",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "not anny more Mr rat",
+    "guild_bio": null,
+    "display_bio": "not anny more Mr rat",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "nezru#0887"
+  },
+  "287184270588379137": {
+    "id": 287184270588379137,
+    "name": "blitz26",
+    "nick": null,
+    "display_name": "Blitz",
+    "global_name": "Blitz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCL_8gMChYJD5ls7GaJtGmUw",
+        "name": "Gaming For The Recently Deceased",
+        "url": "https://www.youtube.com/channel/UCL_8gMChYJD5ls7GaJtGmUw"
+      }
+    },
+    "legacy_username": "Blitz#0613"
   }
 }
