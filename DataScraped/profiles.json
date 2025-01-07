@@ -19622,5 +19622,31 @@
     ],
     "connections": {},
     "legacy_username": "GamerJeps#1293"
+  },
+  "612750710404153373": {
+    "id": 612750710404153373,
+    "name": "glaurung64",
+    "nick": null,
+    "display_name": "Glaurung",
+    "global_name": "Glaurung",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "152337336",
+        "name": "glaurung64",
+        "url": "https://www.twitch.tv/glaurung64"
+      }
+    },
+    "legacy_username": "Glaurung#9844"
   }
 }
