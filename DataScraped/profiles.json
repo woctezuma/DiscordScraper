@@ -19120,5 +19120,23 @@
       }
     },
     "legacy_username": "Blitz#0613"
+  },
+  "1308753316037263430": {
+    "id": 1308753316037263430,
+    "name": "valiant_armadillo_03761",
+    "nick": null,
+    "display_name": "valiant_armadillo_03761",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
