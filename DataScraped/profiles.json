@@ -21598,5 +21598,82 @@
     ],
     "connections": {},
     "legacy_username": "supermom#4270"
+  },
+  "127543114100506633": {
+    "id": 127543114100506633,
+    "name": "lalas",
+    "nick": null,
+    "display_name": "Lalas",
+    "global_name": "Lalas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Professional napper",
+    "guild_bio": null,
+    "display_bio": "Professional napper",
+    "banner": "https://cdn.discordapp.com/banners/127543114100506633/a_65c7a8a1e07cfb82f19918368ccd33a2.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/127543114100506633/a_65c7a8a1e07cfb82f19918368ccd33a2.gif?size=512",
+    "badges": [
+      "guild_booster_lvl6",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Lalas#1460",
+        "name": "Lalas#1460",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "br_1716910",
+        "name": "Lalas",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198026905751",
+        "name": "Lalas",
+        "url": "https://steamcommunity.com/profiles/76561198026905751"
+      },
+      "twitter": {
+        "id": "1867866376737619968",
+        "name": "Lalas1293",
+        "url": "https://twitter.com/Lalas1293"
+      }
+    },
+    "legacy_username": "Lalas#2935"
+  },
+  "518780004411113482": {
+    "id": 518780004411113482,
+    "name": "sgiri",
+    "nick": null,
+    "display_name": "g..",
+    "global_name": "g..",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3352akbtgvxdttvzu4i6xqs7e",
+        "name": "Mr.Delete",
+        "url": "https://open.spotify.com/user/3352akbtgvxdttvzu4i6xqs7e"
+      },
+      "steam": {
+        "id": "76561199438486173",
+        "name": "BUM BUM BOLE",
+        "url": "https://steamcommunity.com/profiles/76561199438486173"
+      }
+    },
+    "legacy_username": "S GIRI#2019"
   }
 }
