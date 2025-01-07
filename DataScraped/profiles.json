@@ -19444,5 +19444,59 @@
       }
     },
     "legacy_username": "Hexi#2013"
+  },
+  "820513813349662751": {
+    "id": 820513813349662751,
+    "name": "embutsh",
+    "nick": null,
+    "display_name": "dubur dubur",
+    "global_name": "dubur dubur",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "124757932469518336": {
+    "id": 124757932469518336,
+    "name": "thebu3no",
+    "nick": null,
+    "display_name": "theBU3NO",
+    "global_name": "theBU3NO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\nhttps://thebu3no.com\nhttps://youtube.com/@theBU3NO",
+    "guild_bio": null,
+    "display_bio": "\nhttps://thebu3no.com\nhttps://youtube.com/@theBU3NO",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "theBU3NO#1775",
+        "name": "theBU3NO#1775",
+        "url": null
+      },
+      "epic_games": {
+        "id": "0543709e8a1e4e799ae08e42c8624022",
+        "name": "theBU3NO",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198032242873",
+        "name": "theBU3NO",
+        "url": "https://steamcommunity.com/profiles/76561198032242873"
+      }
+    },
+    "legacy_username": null
   }
 }
