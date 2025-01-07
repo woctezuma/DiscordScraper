@@ -19602,5 +19602,25 @@
     ],
     "connections": {},
     "legacy_username": "smurfplatinado#0085"
+  },
+  "749499179415371879": {
+    "id": 749499179415371879,
+    "name": "gamerjeps",
+    "nick": null,
+    "display_name": "Kyosiko",
+    "global_name": "Kyosiko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"If every fish in the sea are unique, tasting them all is quite the challenge.\"\n\nAchievement Whore ()",
+    "guild_bio": null,
+    "display_bio": "\"If every fish in the sea are unique, tasting them all is quite the challenge.\"\n\nAchievement Whore ()",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "GamerJeps#1293"
   }
 }
