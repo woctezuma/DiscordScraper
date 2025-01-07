@@ -19255,5 +19255,72 @@
       }
     },
     "legacy_username": null
+  },
+  "302849053274931201": {
+    "id": 302849053274931201,
+    "name": "akiunrust",
+    "nick": null,
+    "display_name": "Akiunrust",
+    "global_name": "Akiunrust",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "walaweh lu olang mau liat apa lo buka buka plofil oe a?",
+    "guild_bio": null,
+    "display_bio": "walaweh lu olang mau liat apa lo buka buka plofil oe a?",
+    "banner": "https://cdn.discordapp.com/banners/302849053274931201/a_da535ab815d023a6a8504576b6169957.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/302849053274931201/a_da535ab815d023a6a8504576b6169957.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "cSpUFffotOZmdK-SI193dc0adSFW7cnoAm9kfYsgsxNyU3NK4wurn6f3b97RE0BwGi8oKZpncJTr1Q",
+        "name": "Akiun#Rust",
+        "url": null
+      },
+      "riot_games": {
+        "id": "cSpUFffotOZmdK-SI193dc0adSFW7cnoAm9kfYsgsxNyU3NK4wurn6f3b97RE0BwGi8oKZpncJTr1Q",
+        "name": "Akiun#Rust",
+        "url": null
+      },
+      "spotify": {
+        "id": "iwyut339zcjbyfus8yhto5a3w",
+        "name": "Akiunrust",
+        "url": "https://open.spotify.com/user/iwyut339zcjbyfus8yhto5a3w"
+      },
+      "steam": {
+        "id": "76561198157540273",
+        "name": "Akiunrust",
+        "url": "https://steamcommunity.com/profiles/76561198157540273"
+      },
+      "youtube": {
+        "id": "UC7YFtRbVhumw3xbME3GxXnw",
+        "name": "Akiunrust",
+        "url": "https://www.youtube.com/channel/UC7YFtRbVhumw3xbME3GxXnw"
+      }
+    },
+    "legacy_username": null
+  },
+  "1147755060282019910": {
+    "id": 1147755060282019910,
+    "name": "sheeliqing",
+    "nick": null,
+    "display_name": "sheeliqing",
+    "global_name": "sheeliqing",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
