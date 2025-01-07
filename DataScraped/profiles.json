@@ -19498,5 +19498,26 @@
       }
     },
     "legacy_username": null
+  },
+  "398045904122413067": {
+    "id": 398045904122413067,
+    "name": "j0n1b0t",
+    "nick": null,
+    "display_name": "J0N1B0T",
+    "global_name": "J0N1B0T",
+    "pronouns": "he/him (modern day californian shit)",
+    "guild_pronouns": null,
+    "bio": "-international anerkannter Erdbeerquetscher\n-nach wie vor der Boss\n-Teil von jener Kraft, die stets das Bse will und stets das Gute schafft\n-ein Gysi auf der Strae und ein Stalin im Bett",
+    "guild_bio": null,
+    "display_bio": "-international anerkannter Erdbeerquetscher\n-nach wie vor der Boss\n-Teil von jener Kraft, die stets das Bse will und stets das Gute schafft\n-ein Gysi auf der Strae und ein Stalin im Bett",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "J0N1B0T#5487"
   }
 }
