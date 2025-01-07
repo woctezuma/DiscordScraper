@@ -22096,5 +22096,63 @@
       }
     },
     "legacy_username": "Gabriielk#4323"
+  },
+  "618913694738284606": {
+    "id": 618913694738284606,
+    "name": "raioo",
+    "nick": null,
+    "display_name": "Raio",
+    "global_name": "Raio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Deus  inexplicvel\nEle te ama mais que todos que voc conhece aqui na Terra\nAceite a vida verdadeira, por meio da sua f e graa, Ele est de braos abertos para voc",
+    "guild_bio": null,
+    "display_bio": "Deus  inexplicvel\nEle te ama mais que todos que voc conhece aqui na Terra\nAceite a vida verdadeira, por meio da sua f e graa, Ele est de braos abertos para voc",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "94388172",
+        "name": "Raioo",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199110198699",
+        "name": "Raioo",
+        "url": "https://steamcommunity.com/profiles/76561199110198699"
+      },
+      "xbox": {
+        "id": "3065792835942981",
+        "name": "SnowyRaioo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SnowyRaioo"
+      }
+    },
+    "legacy_username": "Raioo#3365"
+  },
+  "665066180272324629": {
+    "id": 665066180272324629,
+    "name": "max4064",
+    "nick": null,
+    "display_name": "MaxCool",
+    "global_name": "MaxCool",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "TheGoodDoctor#4064"
   }
 }
