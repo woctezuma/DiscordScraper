@@ -20674,5 +20674,92 @@
       }
     },
     "legacy_username": "YTangeldog2145#1614"
+  },
+  "556419476510212097": {
+    "id": 556419476510212097,
+    "name": "amiir4677",
+    "nick": null,
+    "display_name": "amiir4677",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "amiir#4677"
+  },
+  "673894438468321317": {
+    "id": 673894438468321317,
+    "name": "ronniemar",
+    "nick": null,
+    "display_name": "Ronnie",
+    "global_name": "Ronnie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "905970794482532393": {
+    "id": 905970794482532393,
+    "name": "haimanh201.",
+    "nick": null,
+    "display_name": "haimanh201",
+    "global_name": "haimanh201",
+    "pronouns": "Cats are funny because they silly",
+    "guild_pronouns": null,
+    "bio": "Cats are the best thing to happen to you humans",
+    "guild_bio": null,
+    "display_bio": "Cats are the best thing to happen to you humans",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31kdsddkpymat5ltfpvnupo2nhnq",
+        "name": "Mhain",
+        "url": "https://open.spotify.com/user/31kdsddkpymat5ltfpvnupo2nhnq"
+      }
+    },
+    "legacy_username": "haimanh201#1213"
+  },
+  "767103287806918666": {
+    "id": 767103287806918666,
+    "name": "ymoy",
+    "nick": null,
+    "display_name": "shb7",
+    "global_name": "shb7",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Yaseen#0291"
   }
 }
