@@ -20181,5 +20181,106 @@
       }
     },
     "legacy_username": "maryu#8778"
+  },
+  "660150093730807848": {
+    "id": 660150093730807848,
+    "name": "basil2006",
+    "nick": null,
+    "display_name": "Basil2006",
+    "global_name": "Basil2006",
+    "pronouns": "Male he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198179175274",
+        "name": "combine2005",
+        "url": "https://steamcommunity.com/profiles/76561198179175274"
+      },
+      "youtube": {
+        "id": "UCRYr6Dv1CG4EwhhMZTAMRxA",
+        "name": "Mineblock Animations",
+        "url": "https://www.youtube.com/channel/UCRYr6Dv1CG4EwhhMZTAMRxA"
+      }
+    },
+    "legacy_username": "Basil2006#5203"
+  },
+  "986356297387618356": {
+    "id": 986356297387618356,
+    "name": "askjks",
+    "nick": null,
+    "display_name": "askjks",
+    "global_name": "askjks",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Azkjks#1564",
+        "name": "Azkjks#1564",
+        "url": null
+      },
+      "epic_games": {
+        "id": "d05b35de4f9d49d4826c5a5a55d9a124",
+        "name": "Azkjks",
+        "url": null
+      },
+      "spotify": {
+        "id": "gregorio.gda100",
+        "name": "gregorio",
+        "url": "https://open.spotify.com/user/gregorio.gda100"
+      },
+      "steam": {
+        "id": "76561199512445477",
+        "name": "gregorio.gda100",
+        "url": "https://steamcommunity.com/profiles/76561199512445477"
+      },
+      "xbox": {
+        "id": "3078100470943403",
+        "name": "Askjks",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Askjks"
+      }
+    },
+    "legacy_username": null
+  },
+  "1116018499882586226": {
+    "id": 1116018499882586226,
+    "name": "benjiesan",
+    "nick": null,
+    "display_name": "Benjie",
+    "global_name": "Benjie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Bob2021#9753"
   }
 }
