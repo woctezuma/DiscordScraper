@@ -19914,5 +19914,68 @@
       }
     },
     "legacy_username": "merrygfx#2985"
+  },
+  "768137087710789713": {
+    "id": 768137087710789713,
+    "name": "iamsmetana",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": "\u15dc\u02ec\u15dc",
+    "guild_pronouns": null,
+    "bio": "\n   \n\n\n\nrepent for your sins\n\nLigma",
+    "guild_bio": null,
+    "display_bio": "\n   \n\n\n\nrepent for your sins\n\nLigma",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c4c1560e4e7a4e4e99d5096833ec5453",
+        "name": "\u0419\u043e\u0433\u0443\u0440\u0442 \u043f\u043e \u0441\u043a\u0438\u0434\u043a\u0435",
+        "url": null
+      },
+      "riot_games": {
+        "id": "iRMOjh2_QtHGYRGYBIlY82m6KSNGiSsXvuxdODUQnao4Uajc1r0LDa27I2OwuJLd6sPym3hiwaN3Tg",
+        "name": "\u0419\u043e\u0433\u0443\u0440\u0442 \u043f\u043e \u0441\u043a\u0438\u0434\u043a\u0435#iam",
+        "url": null
+      },
+      "spotify": {
+        "id": "31rbrh7tmnsvqpeh7i4yqhqnrq4u",
+        "name": "\u0419\u043e\u0433\u0443\u0440\u0442",
+        "url": "https://open.spotify.com/user/31rbrh7tmnsvqpeh7i4yqhqnrq4u"
+      },
+      "steam": {
+        "id": "76561198956467976",
+        "name": "\u0419\u043e\u0433\u0443\u0440\u0442 \u043f\u043e \u0441\u043a\u0438\u0434\u043a\u0435",
+        "url": "https://steamcommunity.com/profiles/76561198956467976"
+      }
+    },
+    "legacy_username": "IAmSmetena#2566"
+  },
+  "1018204258555928647": {
+    "id": 1018204258555928647,
+    "name": "sp3cter90",
+    "nick": null,
+    "display_name": "SPECTRE",
+    "global_name": "SPECTRE",
+    "pronouns": "HE/HIM",
+    "guild_pronouns": null,
+    "bio": "In a world were you can be anything, be kind",
+    "guild_bio": null,
+    "display_bio": "In a world were you can be anything, be kind",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
