@@ -19887,5 +19887,32 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "616051740957212704": {
+    "id": 616051740957212704,
+    "name": "merrygfx",
+    "nick": null,
+    "display_name": "merry",
+    "global_name": "merry",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**** Aviation/Aerospace Major\n**** Graphic Designer",
+    "guild_bio": null,
+    "display_bio": "**** Aviation/Aerospace Major\n**** Graphic Designer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "479813362",
+        "name": "merrygfx",
+        "url": "https://www.twitch.tv/merrygfx"
+      }
+    },
+    "legacy_username": "merrygfx#2985"
   }
 }
