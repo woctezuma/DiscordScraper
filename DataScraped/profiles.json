@@ -19670,5 +19670,45 @@
     ],
     "connections": {},
     "legacy_username": "Legends580#9276"
+  },
+  "408405074977488907": {
+    "id": 408405074977488907,
+    "name": "_alexandersas",
+    "nick": null,
+    "display_name": "Kingen",
+    "global_name": "Kingen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Alexanders#7756"
+  },
+  "1080110500446228501": {
+    "id": 1080110500446228501,
+    "name": "dinodaknight",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "     ",
+    "guild_bio": null,
+    "display_bio": "     ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Dino.Daniel#9293"
   }
 }
