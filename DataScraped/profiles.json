@@ -20761,5 +20761,148 @@
     ],
     "connections": {},
     "legacy_username": "Yaseen#0291"
+  },
+  "666676392456355851": {
+    "id": 666676392456355851,
+    "name": "contratopdev",
+    "nick": null,
+    "display_name": "ContratopDev",
+    "global_name": "ContratopDev",
+    "pronouns": "Dev / Hack",
+    "guild_pronouns": null,
+    "bio": "CEO - New Molecule Global\n\nGSV4",
+    "guild_bio": null,
+    "display_bio": "CEO - New Molecule Global\n\nGSV4",
+    "banner": "https://cdn.discordapp.com/banners/666676392456355851/a_7d774433cc4b4837284c59c9acd49414.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/666676392456355851/a_7d774433cc4b4837284c59c9acd49414.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "849590932446329",
+        "name": "Contratop Dev",
+        "url": null
+      },
+      "github": {
+        "id": "23730767",
+        "name": "contratop",
+        "url": "https://github.com/contratop"
+      },
+      "reddit": {
+        "id": "8gdeu2bn",
+        "name": "ContratopDever",
+        "url": "https://www.reddit.com/u/ContratopDever"
+      },
+      "steam": {
+        "id": "76561198096664865",
+        "name": "ContraTop \u30c4",
+        "url": "https://steamcommunity.com/profiles/76561198096664865"
+      },
+      "twitch": {
+        "id": "601322194",
+        "name": "contratopdev",
+        "url": "https://www.twitch.tv/contratopdev"
+      },
+      "xbox": {
+        "id": "NTMyNWRlNDVlODM3MmJkZGJjMDc3ZTE0MWQ4NGQ1YzdjODI5NTFjNzQzNTMyZjMxNGYwYmIwNDY0MDBhNDY1Ng",
+        "name": "Contratop",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Contratop"
+      }
+    },
+    "legacy_username": "Contratop#5232"
+  },
+  "1037276822016098334": {
+    "id": 1037276822016098334,
+    "name": "yakamiyao",
+    "nick": null,
+    "display_name": "YakamiYao",
+    "global_name": "YakamiYao",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "YakamiYao#1197"
+  },
+  "548583732773257227": {
+    "id": 548583732773257227,
+    "name": "snealty",
+    "nick": null,
+    "display_name": "snealty",
+    "global_name": "snealty",
+    "pronouns": "nigger",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/548583732773257227/a_136622bc7e517e6bbded1bb78fa8660c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/548583732773257227/a_136622bc7e517e6bbded1bb78fa8660c.gif?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "snealty#2522",
+        "name": "snealty#2522",
+        "url": null
+      },
+      "epic_games": {
+        "id": "5e2f7d061c084af3a6443b939e4cb1b3",
+        "name": "snealty",
+        "url": null
+      },
+      "instagram": {
+        "id": "6237481162955004",
+        "name": "warre.wds",
+        "url": "https://www.instagram.com/warre.wds"
+      },
+      "riot_games": {
+        "id": "Saujg3hyZo7OddWjtVnvY8xkfwmB6tGtYMP7QZX2DhrRcOyD8QdL422g3yeT3Ofqck2zYmSh0Cb46A",
+        "name": "snealty#EUW",
+        "url": null
+      },
+      "spotify": {
+        "id": "cq7mksiwwu34tz0cq406x7jpj",
+        "name": "warre",
+        "url": "https://open.spotify.com/user/cq7mksiwwu34tz0cq406x7jpj"
+      },
+      "steam": {
+        "id": "76561199172848445",
+        "name": "Snealty",
+        "url": "https://steamcommunity.com/profiles/76561199172848445"
+      },
+      "twitch": {
+        "id": "469969468",
+        "name": "snealty",
+        "url": "https://www.twitch.tv/snealty"
+      },
+      "twitter": {
+        "id": "1112013081968889856",
+        "name": "snealty",
+        "url": "https://twitter.com/snealty"
+      },
+      "xbox": {
+        "id": "3069055577387971",
+        "name": "snealty",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=snealty"
+      }
+    },
+    "legacy_username": "snealty#5241"
   }
 }
