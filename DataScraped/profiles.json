@@ -21560,5 +21560,43 @@
       }
     },
     "legacy_username": null
+  },
+  "1326268110969245726": {
+    "id": 1326268110969245726,
+    "name": "fdsfasfds_99842",
+    "nick": null,
+    "display_name": "fdsfasfds",
+    "global_name": "fdsfasfds",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "948149590144724992": {
+    "id": 948149590144724992,
+    "name": "darkwebkiler2.0",
+    "nick": null,
+    "display_name": "SunKnght",
+    "global_name": "SunKnght",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "supermom#4270"
   }
 }
