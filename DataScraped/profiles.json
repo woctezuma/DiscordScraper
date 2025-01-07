@@ -22211,5 +22211,70 @@
     ],
     "connections": {},
     "legacy_username": "tarum\u00e3#2749"
+  },
+  "661056956664119306": {
+    "id": 661056956664119306,
+    "name": "asuy",
+    "nick": null,
+    "display_name": "asuy",
+    "global_name": "asuy",
+    "pronouns": "snipeao",
+    "guild_pronouns": null,
+    "bio": "https://es.namemc.com/profile/snipeao.1\n||flasheaste :text_kys: ||",
+    "guild_bio": null,
+    "display_bio": "https://es.namemc.com/profile/snipeao.1\n||flasheaste :text_kys: ||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "07kjlm1lfy36kjmt3g5o0i834",
+        "name": "snipeao",
+        "url": "https://open.spotify.com/user/07kjlm1lfy36kjmt3g5o0i834"
+      },
+      "steam": {
+        "id": "76561199813621840",
+        "name": "snipeao",
+        "url": "https://steamcommunity.com/profiles/76561199813621840"
+      }
+    },
+    "legacy_username": "Asuy#0987"
+  },
+  "631192404518502431": {
+    "id": 631192404518502431,
+    "name": "freshgamingartist69",
+    "nick": null,
+    "display_name": "Thatwanguy",
+    "global_name": "Thatwanguy",
+    "pronouns": "He/Him/aaa",
+    "guild_pronouns": null,
+    "bio": "Hey there...\n15 y/o | \"Artist\" | Straight... \ncarrd:\nhttps://infothatwanguy.carrd.co/",
+    "guild_bio": null,
+    "display_bio": "Hey there...\n15 y/o | \"Artist\" | Straight... \ncarrd:\nhttps://infothatwanguy.carrd.co/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "975306730",
+        "name": "explore357",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198963391811",
+        "name": "Lemon437",
+        "url": "https://steamcommunity.com/profiles/76561198963391811"
+      }
+    },
+    "legacy_username": null
   }
 }
