@@ -19648,5 +19648,27 @@
       }
     },
     "legacy_username": "Glaurung#9844"
+  },
+  "822456194996109372": {
+    "id": 822456194996109372,
+    "name": "physically_retarded",
+    "nick": null,
+    "display_name": "Davidson",
+    "global_name": "Davidson",
+    "pronouns": "Davidson\ud83c\ude50\ud83e\ude7b",
+    "guild_pronouns": null,
+    "bio": "  \nmamska putra mumu skabaral",
+    "guild_bio": null,
+    "display_bio": "  \nmamska putra mumu skabaral",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Legends580#9276"
   }
 }
