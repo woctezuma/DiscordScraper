@@ -21042,5 +21042,41 @@
       }
     },
     "legacy_username": null
+  },
+  "775662593725431851": {
+    "id": 775662593725431851,
+    "name": "gratiismail",
+    "nick": null,
+    "display_name": "Badman",
+    "global_name": "Badman",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "s14KTqBrtK91iljBButvzMsEzjgyW7uRGAx1jpb66GHxo4OeGu3SwwN_ESrIXsc_82TWENZggWkGfw",
+        "name": "FNC GRATI",
+        "url": null
+      },
+      "riot_games": {
+        "id": "s14KTqBrtK91iljBButvzMsEzjgyW7uRGAx1jpb66GHxo4OeGu3SwwN_ESrIXsc_82TWENZggWkGfw",
+        "name": "FNC GRATI#EUW",
+        "url": null
+      },
+      "spotify": {
+        "id": "312baqtrsbmprkruyiurijmhhrxm",
+        "name": "Gratiismail",
+        "url": "https://open.spotify.com/user/312baqtrsbmprkruyiurijmhhrxm"
+      }
+    },
+    "legacy_username": "Badman#7408"
   }
 }
