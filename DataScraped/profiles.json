@@ -19564,5 +19564,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "579653777771200518": {
+    "id": 579653777771200518,
+    "name": "thaonlyking8388",
+    "nick": null,
+    "display_name": "THAonlyKing",
+    "global_name": "THAonlyKing",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "734306953794158623": {
+    "id": 734306953794158623,
+    "name": "smurfplatinado",
+    "nick": null,
+    "display_name": "Smurfplatinado",
+    "global_name": "Smurfplatinado",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "smurfplatinado#0085"
   }
 }
