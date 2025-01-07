@@ -22665,5 +22665,133 @@
       }
     },
     "legacy_username": "June Kyousuke#6505"
+  },
+  "370028188803268609": {
+    "id": 370028188803268609,
+    "name": "cadu1337",
+    "nick": null,
+    "display_name": "Cadu",
+    "global_name": "Cadu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Cadu#0458"
+  },
+  "1056573702692667432": {
+    "id": 1056573702692667432,
+    "name": "mills520",
+    "nick": null,
+    "display_name": "Mills520",
+    "global_name": "Mills520",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "built on jesus my lord",
+    "guild_bio": null,
+    "display_bio": "built on jesus my lord",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "9db658f2211a4610baf5fd9a1a301e7f",
+        "name": "Milesx520",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199520306409",
+        "name": "Milesx520",
+        "url": "https://steamcommunity.com/profiles/76561199520306409"
+      },
+      "twitch": {
+        "id": "932176078",
+        "name": "milesx520",
+        "url": "https://www.twitch.tv/milesx520"
+      },
+      "xbox": {
+        "id": "3070373817351524",
+        "name": "Milesx520",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Milesx520"
+      },
+      "youtube": {
+        "id": "UCXfM-IrgMtgZiobGTL9bMLg",
+        "name": "Mills520",
+        "url": "https://www.youtube.com/channel/UCXfM-IrgMtgZiobGTL9bMLg"
+      }
+    },
+    "legacy_username": "Milesx520#6272"
+  },
+  "622310483814252555": {
+    "id": 622310483814252555,
+    "name": "catvenomtop",
+    "nick": null,
+    "display_name": "CaT VeNoM TOP",
+    "global_name": "CaT VeNoM TOP",
+    "pronouns": "Venom",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "35jqeyjpno61kd817hu3d0byf",
+        "name": "\u300cCaT.Ve.ToP\u300d",
+        "url": "https://open.spotify.com/user/35jqeyjpno61kd817hu3d0byf"
+      },
+      "steam": {
+        "id": "76561198048281272",
+        "name": "\u300c\u0421aT VeNoM TOP\u300d",
+        "url": "https://steamcommunity.com/profiles/76561198048281272"
+      }
+    },
+    "legacy_username": "\u300cCaT VeNoM TOP\u300d#4005"
+  },
+  "708608292049518643": {
+    "id": 708608292049518643,
+    "name": "pawlaczento",
+    "nick": null,
+    "display_name": "pawlaczento",
+    "global_name": "pawlaczento",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":steamhappy::steamhappy::steamhappy::steamhappy::steamhappy:",
+    "guild_bio": null,
+    "display_bio": ":steamhappy::steamhappy::steamhappy::steamhappy::steamhappy:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199122892346",
+        "name": "kajko jajko",
+        "url": "https://steamcommunity.com/profiles/76561199122892346"
+      }
+    },
+    "legacy_username": "pawlaczento#6176"
   }
 }
