@@ -22154,5 +22154,62 @@
     ],
     "connections": {},
     "legacy_username": "TheGoodDoctor#4064"
+  },
+  "398604237195444235": {
+    "id": 398604237195444235,
+    "name": "pimpdino",
+    "nick": null,
+    "display_name": "Pimpdino",
+    "global_name": "Pimpdino",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "HELLO?!?!",
+    "guild_bio": null,
+    "display_bio": "HELLO?!?!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "sIy-YocjFPjAhf83pLLzlqEWttAIBduKwCuVNBqFawSanKLX-asa_ZybskI-rmdhvYtutADcyU7vnA",
+        "name": "Pimpdino",
+        "url": null
+      },
+      "riot_games": {
+        "id": "sIy-YocjFPjAhf83pLLzlqEWttAIBduKwCuVNBqFawSanKLX-asa_ZybskI-rmdhvYtutADcyU7vnA",
+        "name": "Pimpdino#NA1",
+        "url": null
+      },
+      "xbox": {
+        "id": "NTQ0Y2JmNDJhM2I1ODNlNWNmNDMxOGE0YzE2MmM4MTNlZGM4YmQ4NDgxNzczMGQyMzQ2ZmVkMTVmYjA5NGJhZg",
+        "name": "Psycho Ninja 3",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Psycho Ninja 3"
+      }
+    },
+    "legacy_username": null
+  },
+  "467402545686380565": {
+    "id": 467402545686380565,
+    "name": "_taruma",
+    "nick": null,
+    "display_name": "tarum",
+    "global_name": "tarum",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "um soldado d tiros j, um hacker da enter",
+    "guild_bio": null,
+    "display_bio": "um soldado d tiros j, um hacker da enter",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "tarum\u00e3#2749"
   }
 }
