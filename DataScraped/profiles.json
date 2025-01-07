@@ -19519,5 +19519,32 @@
     ],
     "connections": {},
     "legacy_username": "J0N1B0T#5487"
+  },
+  "920354395491811388": {
+    "id": 920354395491811388,
+    "name": "itzreall_",
+    "nick": null,
+    "display_name": "TheTa",
+    "global_name": "TheTa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Name: Majid",
+    "guild_bio": null,
+    "display_bio": "Name: Majid",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3146nqff2hycte3mntc22zaz5dim",
+        "name": "ItzReall",
+        "url": "https://open.spotify.com/user/3146nqff2hycte3mntc22zaz5dim"
+      }
+    },
+    "legacy_username": "ItzReall#7390"
   }
 }
