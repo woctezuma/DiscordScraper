@@ -21485,5 +21485,51 @@
       }
     },
     "legacy_username": "nekoPura_0011#5289"
+  },
+  "461314994219515904": {
+    "id": 461314994219515904,
+    "name": "krazzinator",
+    "nick": null,
+    "display_name": "Krazzinator",
+    "global_name": "Krazzinator",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Krazz#6253",
+        "name": "Krazz#6253",
+        "url": null
+      },
+      "epic_games": {
+        "id": "715df9d49a2a4a7a83cd9e369f64219b",
+        "name": "Krazzinator",
+        "url": null
+      },
+      "playstation": {
+        "id": "6750754609526360254",
+        "name": "Krazzinator",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197969384755",
+        "name": "Krazz",
+        "url": "https://steamcommunity.com/profiles/76561197969384755"
+      },
+      "xbox": {
+        "id": "3062262133501100",
+        "name": "Krazz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Krazz"
+      }
+    },
+    "legacy_username": "Krazzinator#6705"
   }
 }
