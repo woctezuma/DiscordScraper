@@ -21889,5 +21889,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "483998080568393729": {
+    "id": 483998080568393729,
+    "name": "lws2704",
+    "nick": null,
+    "display_name": "Lws",
+    "global_name": "Lws",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "UHS3td3bwMnMiuclq8rmyLf6D1s5aFHarMb4dQzEU9CoKU0rcoAAs6GQfmCO0Zm4JzE52f30YN8btQ",
+        "name": "Nic5878",
+        "url": null
+      },
+      "riot_games": {
+        "id": "UHS3td3bwMnMiuclq8rmyLf6D1s5aFHarMb4dQzEU9CoKU0rcoAAs6GQfmCO0Zm4JzE52f30YN8btQ",
+        "name": "Nic5878#LAS",
+        "url": null
+      },
+      "spotify": {
+        "id": "skmjupxgg3tt90x40wb6e8z70",
+        "name": "Lws",
+        "url": "https://open.spotify.com/user/skmjupxgg3tt90x40wb6e8z70"
+      },
+      "steam": {
+        "id": "76561199013442790",
+        "name": "Young-Cock",
+        "url": "https://steamcommunity.com/profiles/76561199013442790"
+      }
+    },
+    "legacy_username": "Lws#2704"
   }
 }
