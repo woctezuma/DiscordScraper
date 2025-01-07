@@ -21675,5 +21675,33 @@
       }
     },
     "legacy_username": "S GIRI#2019"
+  },
+  "943891305413640262": {
+    "id": 943891305413640262,
+    "name": "eilay28",
+    "nick": null,
+    "display_name": "sog",
+    "global_name": "sog",
+    "pronouns": "sog",
+    "guild_pronouns": null,
+    "bio": "the sog\n ",
+    "guild_bio": null,
+    "display_bio": "the sog\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "792103669",
+        "name": "Eilay_28",
+        "url": null
+      }
+    },
+    "legacy_username": "Eilay28#0001"
   }
 }
