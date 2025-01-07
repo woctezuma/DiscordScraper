@@ -22578,5 +22578,92 @@
       }
     },
     "legacy_username": "vNziie--#7777"
+  },
+  "1085321789539897395": {
+    "id": 1085321789539897395,
+    "name": "yousefmohmaed",
+    "nick": null,
+    "display_name": "YousefMohamed",
+    "global_name": "YousefMohamed",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Select me",
+    "guild_bio": null,
+    "display_bio": "Select me",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "YousefCarBo#6133"
+  },
+  "735212643865854104": {
+    "id": 735212643865854104,
+    "name": "mcfe",
+    "nick": null,
+    "display_name": "McFe",
+    "global_name": "McFe",
+    "pronouns": "Avid Boar enjoyer",
+    "guild_pronouns": null,
+    "bio": "<:ghg:1263840620791726131> \nyummy bread, exploding boars\nmy midnight is your <t:1731452400:t>",
+    "guild_bio": null,
+    "display_bio": "<:ghg:1263840620791726131> \nyummy bread, exploding boars\nmy midnight is your <t:1731452400:t>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl7",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "444866211",
+        "name": "mcfetusdeletus",
+        "url": "https://www.twitch.tv/mcfetusdeletus"
+      }
+    },
+    "legacy_username": "McFetusDeletus#9255"
+  },
+  "333887502647558144": {
+    "id": 333887502647558144,
+    "name": "junekyousuke",
+    "nick": null,
+    "display_name": "June Kyousuke",
+    "global_name": "June Kyousuke",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "467a4aee4bc9415498fc7d71208e768c",
+        "name": "xXKyousukeXx",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198160022394",
+        "name": "June Kyousuke",
+        "url": "https://steamcommunity.com/profiles/76561198160022394"
+      },
+      "youtube": {
+        "id": "UCiXXjRC1AM4XfkbS-MT6Xjw",
+        "name": "June Kyousuke",
+        "url": "https://www.youtube.com/channel/UCiXXjRC1AM4XfkbS-MT6Xjw"
+      }
+    },
+    "legacy_username": "June Kyousuke#6505"
   }
 }
