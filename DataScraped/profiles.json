@@ -21703,5 +21703,56 @@
       }
     },
     "legacy_username": "Eilay28#0001"
+  },
+  "781848485997051914": {
+    "id": 781848485997051914,
+    "name": "lil__shou",
+    "nick": null,
+    "display_name": "lil-shou",
+    "global_name": "lil-shou",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "2Zal1H9_ISdtDL_InwL5wXgdu-_CkaGsK3lW_092SkkEb4_kwkIjDWvmbSwp2F3g_yUl4sonyaa_nQ",
+        "name": "ali1380XiV#8601",
+        "url": null
+      },
+      "spotify": {
+        "id": "31koryykw2mcv46ps4xyb4xn6zoa",
+        "name": "alireza80_80",
+        "url": "https://open.spotify.com/user/31koryykw2mcv46ps4xyb4xn6zoa"
+      }
+    },
+    "legacy_username": "ali1380XiV#1042"
+  },
+  "1126871224119721994": {
+    "id": 1126871224119721994,
+    "name": "huss116",
+    "nick": null,
+    "display_name": "Huss116",
+    "global_name": "Huss116",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
