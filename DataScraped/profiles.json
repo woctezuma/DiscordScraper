@@ -19730,5 +19730,79 @@
     ],
     "connections": {},
     "legacy_username": "Farolin#4800"
+  },
+  "934496450304438312": {
+    "id": 934496450304438312,
+    "name": "wntermon",
+    "nick": null,
+    "display_name": "Wntermon",
+    "global_name": "Wntermon",
+    "pronouns": "tickspider",
+    "guild_pronouns": null,
+    "bio": "Broke Artist| | Awesome Doodler",
+    "guild_bio": null,
+    "display_bio": "Broke Artist| | Awesome Doodler",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "7669278816439597",
+        "name": "wntermon",
+        "url": "https://www.instagram.com/wntermon"
+      },
+      "spotify": {
+        "id": "31rdzqihgwdzsdmrnhue357yue2u",
+        "name": "Wntermon",
+        "url": "https://open.spotify.com/user/31rdzqihgwdzsdmrnhue357yue2u"
+      }
+    },
+    "legacy_username": null
+  },
+  "1292098980473475073": {
+    "id": 1292098980473475073,
+    "name": "crazy.fire",
+    "nick": null,
+    "display_name": "Crazy",
+    "global_name": "Crazy",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "<a:8673pogtasty:1322315402193141792>\n.gg/ligitmart",
+    "guild_bio": null,
+    "display_bio": "<a:8673pogtasty:1322315402193141792>\n.gg/ligitmart",
+    "banner": "https://cdn.discordapp.com/banners/1292098980473475073/a_1f31eeece177b4b70f01c47a5a85a0d6.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1292098980473475073/a_1f31eeece177b4b70f01c47a5a85a0d6.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f3c23bda040348a59ea875e6a6d0f454",
+        "name": "Crazyrizx",
+        "url": null
+      },
+      "riot_games": {
+        "id": "vHhFS2UAfsI08fn-Hfog38Zjodxoctds8JFjfF_5d3Hvy8pdgkOl3F6FdH7ujjZLZtwrAL_6-UgPeg",
+        "name": "Crazy#ftw",
+        "url": null
+      },
+      "spotify": {
+        "id": "31l3zg5lh5dx7uwufnawwz2mybfq",
+        "name": "Crazy",
+        "url": "https://open.spotify.com/user/31l3zg5lh5dx7uwufnawwz2mybfq"
+      },
+      "steam": {
+        "id": "76561199081664062",
+        "name": "crazygamer814747",
+        "url": "https://steamcommunity.com/profiles/76561199081664062"
+      }
+    },
+    "legacy_username": null
   }
 }
