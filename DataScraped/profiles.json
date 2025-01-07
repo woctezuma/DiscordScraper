@@ -20904,5 +20904,78 @@
       }
     },
     "legacy_username": "snealty#5241"
+  },
+  "163625292928122880": {
+    "id": 163625292928122880,
+    "name": "mercore",
+    "nick": null,
+    "display_name": "mercore",
+    "global_name": "mercore",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "mercore#1070"
+  },
+  "786167455193890856": {
+    "id": 786167455193890856,
+    "name": ".hanifi.",
+    "nick": null,
+    "display_name": "Hanifi",
+    "global_name": "Hanifi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Nefes alyor/veriyor",
+    "guild_bio": null,
+    "display_bio": "Nefes alyor/veriyor",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199166996196",
+        "name": "hanifi444",
+        "url": "https://steamcommunity.com/profiles/76561199166996196"
+      },
+      "xbox": {
+        "id": "3070422215623108",
+        "name": "Hanifi king44",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Hanifi king44"
+      }
+    },
+    "legacy_username": "Hanifi#7382"
+  },
+  "1278289224080031787": {
+    "id": 1278289224080031787,
+    "name": "exynos1380_",
+    "nick": null,
+    "display_name": "!exynos 1380",
+    "global_name": "!exynos 1380",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
