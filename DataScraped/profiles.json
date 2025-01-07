@@ -19138,5 +19138,62 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "681968380445851648": {
+    "id": 681968380445851648,
+    "name": "niann14ndayoff",
+    "nick": null,
+    "display_name": "()",
+    "global_name": "()",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\n(`)\n\n\n\n   (  )",
+    "guild_bio": null,
+    "display_bio": "\n(`)\n\n\n\n   (  )",
+    "banner": "https://cdn.discordapp.com/banners/681968380445851648/a_16aca0493c4c76f7eb5b9619f2771e2a.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/681968380445851648/a_16aca0493c4c76f7eb5b9619f2771e2a.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "788503491",
+        "name": "fancy_0417",
+        "url": "https://www.twitch.tv/fancy_0417"
+      }
+    },
+    "legacy_username": null
+  },
+  "1118675989971615794": {
+    "id": 1118675989971615794,
+    "name": "real_kumo",
+    "nick": null,
+    "display_name": "Kum",
+    "global_name": "Kum",
+    "pronouns": "she",
+    "guild_pronouns": null,
+    "bio": "Back to the finals baby!!!!!",
+    "guild_bio": null,
+    "display_bio": "Back to the finals baby!!!!!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "976347328",
+        "name": "kvmo__",
+        "url": "https://www.twitch.tv/kvmo__"
+      },
+      "youtube": {
+        "id": "UCkJSz8b3z1ayMSeTiBvIYPQ",
+        "name": "kumo",
+        "url": "https://www.youtube.com/channel/UCkJSz8b3z1ayMSeTiBvIYPQ"
+      }
+    },
+    "legacy_username": null
   }
 }
