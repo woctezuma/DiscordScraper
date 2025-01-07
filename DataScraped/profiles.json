@@ -19710,5 +19710,25 @@
     ],
     "connections": {},
     "legacy_username": "Dino.Daniel#9293"
+  },
+  "266355265320910848": {
+    "id": 266355265320910848,
+    "name": "farolin_",
+    "nick": null,
+    "display_name": "Farolin",
+    "global_name": "Farolin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "aaaaaaaa",
+    "guild_bio": null,
+    "display_bio": "aaaaaaaa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Farolin#4800"
   }
 }
