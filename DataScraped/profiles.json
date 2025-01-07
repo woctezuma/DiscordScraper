@@ -20049,5 +20049,88 @@
       }
     },
     "legacy_username": "CyberCorp#2956"
+  },
+  "468025428129349633": {
+    "id": 468025428129349633,
+    "name": "henoo2",
+    "nick": null,
+    "display_name": "/",
+    "global_name": "/",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\ubead\uc57c\ubead\uc57c#6587"
+  },
+  "741078272124649556": {
+    "id": 741078272124649556,
+    "name": "vianney_proplayer",
+    "nick": null,
+    "display_name": "vianney_proplayer",
+    "global_name": "vianney_proplayer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "L'histoire engendre les prophties, mais il n'existe pas d'histoire sans hros !",
+    "guild_bio": null,
+    "display_bio": "L'histoire engendre les prophties, mais il n'existe pas d'histoire sans hros !",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "595854320",
+        "name": "vianney_proplayer",
+        "url": "https://www.twitch.tv/vianney_proplayer"
+      },
+      "twitter": {
+        "id": "1316661186616754176",
+        "name": "vianneyproplay2",
+        "url": "https://twitter.com/vianneyproplay2"
+      },
+      "youtube": {
+        "id": "UCWyL4ag8D93O-ClgjQNSTMg",
+        "name": "Vianney Proplayer",
+        "url": "https://www.youtube.com/channel/UCWyL4ag8D93O-ClgjQNSTMg"
+      }
+    },
+    "legacy_username": "vianney_proplayer#4728"
+  },
+  "336429311626313728": {
+    "id": 336429311626313728,
+    "name": "watchyour6ix",
+    "nick": null,
+    "display_name": "Watchyour6ix",
+    "global_name": "Watchyour6ix",
+    "pronouns": "They/Them",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198330919955",
+        "name": "Watchyour6ix",
+        "url": "https://steamcommunity.com/profiles/76561198330919955"
+      }
+    },
+    "legacy_username": "Watchyour6ix#3254"
   }
 }
