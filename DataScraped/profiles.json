@@ -22505,5 +22505,78 @@
       }
     },
     "legacy_username": "Frog#8888"
+  },
+  "750789227440111668": {
+    "id": 750789227440111668,
+    "name": "_.kyle_",
+    "nick": null,
+    "display_name": "kyle",
+    "global_name": "kyle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Life is short don't waste your time on earth being an angry person, ignore people who make you unhappy and show appreciation for the ones who make you happy. Live the life that you want",
+    "guild_bio": null,
+    "display_bio": "Life is short don't waste your time on earth being an angry person, ignore people who make you unhappy and show appreciation for the ones who make you happy. Live the life that you want",
+    "banner": "https://cdn.discordapp.com/banners/750789227440111668/91436f0c7c28c8ac3536abb9719424f5.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/750789227440111668/91436f0c7c28c8ac3536abb9719424f5.png?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "550476809280421903": {
+    "id": 550476809280421903,
+    "name": "nziie3",
+    "nick": null,
+    "display_name": "vNziie--",
+    "global_name": "vNziie--",
+    "pronouns": "him",
+    "guild_pronouns": null,
+    "bio": " - HS Athletic Hype Media Producer\n - **Dev. Website: https://nziie.xyz**",
+    "guild_bio": null,
+    "display_bio": " - HS Athletic Hype Media Producer\n - **Dev. Website: https://nziie.xyz**",
+    "banner": "https://cdn.discordapp.com/banners/550476809280421903/d67db36bc2280510bc02c2b29ccbb09b.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/550476809280421903/d67db36bc2280510bc02c2b29ccbb09b.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "nziie.xyz",
+        "name": "nziie.xyz",
+        "url": null
+      },
+      "github": {
+        "id": "106406461",
+        "name": "Nzii3",
+        "url": "https://github.com/Nzii3"
+      },
+      "steam": {
+        "id": "76561199131064170",
+        "name": "Nzii3",
+        "url": "https://steamcommunity.com/profiles/76561199131064170"
+      },
+      "twitter": {
+        "id": "1502521828333346819",
+        "name": "4realnziie",
+        "url": "https://twitter.com/4realnziie"
+      },
+      "youtube": {
+        "id": "UClo5m-qppLZJNyAsx4022kQ",
+        "name": "Nzii3",
+        "url": "https://www.youtube.com/channel/UClo5m-qppLZJNyAsx4022kQ"
+      }
+    },
+    "legacy_username": "vNziie--#7777"
   }
 }
