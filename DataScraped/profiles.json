@@ -18841,5 +18841,115 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "323141834756980737": {
+    "id": 323141834756980737,
+    "name": "lucas_2306",
+    "nick": null,
+    "display_name": "Lukinhas 1",
+    "global_name": "Lukinhas 1",
+    "pronouns": "Ca/D\u00ea",
+    "guild_pronouns": null,
+    "bio": "Links aleatrios:\nhttps://matias.ma/nsfw/\nhttps://rentry.co/lukinhas1A",
+    "guild_bio": null,
+    "display_bio": "Links aleatrios:\nhttps://matias.ma/nsfw/\nhttps://rentry.co/lukinhas1A",
+    "banner": "https://cdn.discordapp.com/banners/323141834756980737/a_f2c8141565b3b9445477ad79fb02b439.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/323141834756980737/a_f2c8141565b3b9445477ad79fb02b439.gif?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "425435045",
+        "name": "lukinhasg4mer_",
+        "url": "https://www.twitch.tv/lukinhasg4mer_"
+      }
+    },
+    "legacy_username": "Lukinhas 1\u00b0#5385"
+  },
+  "267522751374426113": {
+    "id": 267522751374426113,
+    "name": "levigarciia",
+    "nick": null,
+    "display_name": "LeviG",
+    "global_name": "LeviG",
+    "pronouns": "22/07/2003",
+    "guild_pronouns": null,
+    "bio": "Designer & Programador",
+    "guild_bio": null,
+    "display_bio": "Designer & Programador",
+    "banner": "https://cdn.discordapp.com/banners/267522751374426113/a_5ce1bb220a658b9e4fdb13f33d44f709.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/267522751374426113/a_5ce1bb220a658b9e4fdb13f33d44f709.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl6",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d9498f632fb747e88e56b861600eb5a1",
+        "name": "KennyHeld",
+        "url": null
+      },
+      "instagram": {
+        "id": "24862057180109539",
+        "name": "levigarciia",
+        "url": "https://www.instagram.com/levigarciia"
+      },
+      "league_of_legends": {
+        "id": "PkXj3w-OutI8jweoQU6fQjITFZWuh7aQtJqDkz8Fp6fXJ5fpRqs9K3WBkXuKl0RoyzW8XgXgUSTH9g",
+        "name": "HighSense#DPI",
+        "url": null
+      },
+      "riot_games": {
+        "id": "PkXj3w-OutI8jweoQU6fQjITFZWuh7aQtJqDkz8Fp6fXJ5fpRqs9K3WBkXuKl0RoyzW8XgXgUSTH9g",
+        "name": "HighSense#DPI",
+        "url": null
+      },
+      "spotify": {
+        "id": "5yrxkmi4pnl6bxesbthmshm4n",
+        "name": "Levi",
+        "url": "https://open.spotify.com/user/5yrxkmi4pnl6bxesbthmshm4n"
+      },
+      "steam": {
+        "id": "76561199508887686",
+        "name": "LeviG",
+        "url": "https://steamcommunity.com/profiles/76561199508887686"
+      },
+      "xbox": {
+        "id": "NzQ2MWZjOTBiYzYwZWM4ZjllMWUzZTljYjU4MjQxYzdlZDg3NmQwYWZiNWEyYzI1ZjI0YmE5Y2Y4YWU4NGZiNg",
+        "name": "LgPeace",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LgPeace"
+      }
+    },
+    "legacy_username": "LeviG#9383"
+  },
+  "761898310490390548": {
+    "id": 761898310490390548,
+    "name": "foolgobhi",
+    "nick": null,
+    "display_name": "Industrial Grinder",
+    "global_name": "Industrial Grinder",
+    "pronouns": "Grind All(A)",
+    "guild_pronouns": null,
+    "bio": "Time to rise again\n\nhttps://discord.gg/black-magic\nhttps://discord.com/channels/1171476353544101950/1217370424963366963",
+    "guild_bio": null,
+    "display_bio": "Time to rise again\n\nhttps://discord.gg/black-magic\nhttps://discord.com/channels/1171476353544101950/1217370424963366963",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
