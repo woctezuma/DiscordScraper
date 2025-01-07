@@ -21078,5 +21078,79 @@
       }
     },
     "legacy_username": "Badman#7408"
+  },
+  "514907983512207362": {
+    "id": 514907983512207362,
+    "name": "imjustemad",
+    "nick": null,
+    "display_name": "emad",
+    "global_name": "emad",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198410363303",
+        "name": "emad",
+        "url": "https://steamcommunity.com/profiles/76561198410363303"
+      }
+    },
+    "legacy_username": "emad#0538"
+  },
+  "406629948510699521": {
+    "id": 406629948510699521,
+    "name": "etpanda",
+    "nick": null,
+    "display_name": "ETPanda",
+    "global_name": "ETPanda",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ETPanda#1829",
+        "name": "ETPanda#1829",
+        "url": null
+      },
+      "spotify": {
+        "id": "31j7k73akgfvpoyyz4o24d5ucqvi",
+        "name": "Lucas Mark",
+        "url": "https://open.spotify.com/user/31j7k73akgfvpoyyz4o24d5ucqvi"
+      },
+      "steam": {
+        "id": "76561199077832232",
+        "name": "ETPanda",
+        "url": "https://steamcommunity.com/profiles/76561199077832232"
+      },
+      "twitch": {
+        "id": "220104278",
+        "name": "etpandacub",
+        "url": "https://www.twitch.tv/etpandacub"
+      },
+      "xbox": {
+        "id": "3075008313559082",
+        "name": "xxyaboiluckxx",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=xxyaboiluckxx"
+      }
+    },
+    "legacy_username": "ETPanda#1848"
   }
 }
