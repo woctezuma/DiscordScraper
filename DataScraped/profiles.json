@@ -21754,5 +21754,122 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "164067513699794944": {
+    "id": 164067513699794944,
+    "name": "hauta__",
+    "nick": null,
+    "display_name": "hauta",
+    "global_name": "hauta",
+    "pronouns": "GOLD GOLD GOLD",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198085618615",
+        "name": "Hauta",
+        "url": "https://steamcommunity.com/profiles/76561198085618615"
+      }
+    },
+    "legacy_username": null
+  },
+  "188653635247407104": {
+    "id": 188653635247407104,
+    "name": "doancrula",
+    "nick": null,
+    "display_name": "Doancrula",
+    "global_name": "Doancrula",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/188653635247407104/a_651f8e0e9bbbfbdc55af5d1eb5d8a62d.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/188653635247407104/a_651f8e0e9bbbfbdc55af5d1eb5d8a62d.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Doancrula#2907",
+        "name": "Doancrula#2907",
+        "url": null
+      },
+      "playstation": {
+        "id": "5265142834299796379",
+        "name": "Doancrula_017",
+        "url": null
+      },
+      "spotify": {
+        "id": "11100521457",
+        "name": "Do\u011fancan Urul",
+        "url": "https://open.spotify.com/user/11100521457"
+      },
+      "steam": {
+        "id": "76561198043994816",
+        "name": "Doancrula",
+        "url": "https://steamcommunity.com/profiles/76561198043994816"
+      },
+      "twitch": {
+        "id": "14888619",
+        "name": "doancrula",
+        "url": "https://www.twitch.tv/doancrula"
+      },
+      "twitter": {
+        "id": "107999642",
+        "name": "DogancanUrul",
+        "url": "https://twitter.com/DogancanUrul"
+      },
+      "xbox": {
+        "id": "NTE1YjVhZDk2MWU2MTFjMGUzNThjMWM1Y2ZmZjMzMmMzOTRhZWMyMTdkODEyNGIwY2U2NThlZjliYzY5YzM2Mg",
+        "name": "Doancrula",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Doancrula"
+      },
+      "youtube": {
+        "id": "UCPr5GADgkiqNUCS5FFcdLkA",
+        "name": "Do\u011fancan Urul",
+        "url": "https://www.youtube.com/channel/UCPr5GADgkiqNUCS5FFcdLkA"
+      }
+    },
+    "legacy_username": "Doancrula#1734"
+  },
+  "537675615789121546": {
+    "id": 537675615789121546,
+    "name": "derpy3902",
+    "nick": null,
+    "display_name": "Miles Quaritch",
+    "global_name": "Miles Quaritch",
+    "pronouns": "he",
+    "guild_pronouns": null,
+    "bio": "for friends i am Derpy\nDM me the word \"banan\"",
+    "guild_bio": null,
+    "display_bio": "for friends i am Derpy\nDM me the word \"banan\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31xzrm5nqetoh2lcwjc6blj5pdp4",
+        "name": "Charles",
+        "url": "https://open.spotify.com/user/31xzrm5nqetoh2lcwjc6blj5pdp4"
+      }
+    },
+    "legacy_username": "Derpy#3902"
   }
 }
