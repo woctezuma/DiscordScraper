@@ -19977,5 +19977,77 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1004690418409160725": {
+    "id": 1004690418409160725,
+    "name": "its_mrdino",
+    "nick": null,
+    "display_name": "dino_",
+    "global_name": "dino_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "270590698452025345": {
+    "id": 270590698452025345,
+    "name": "po_p",
+    "nick": null,
+    "display_name": "PO_P",
+    "global_name": "PO_P",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "PO_P#9392"
+  },
+  "865543731230277642": {
+    "id": 865543731230277642,
+    "name": "cybercorp",
+    "nick": null,
+    "display_name": "CyberCorp",
+    "global_name": "CyberCorp",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198158031033",
+        "name": "criss",
+        "url": "https://steamcommunity.com/profiles/76561198158031033"
+      },
+      "twitch": {
+        "id": "770715055",
+        "name": "criss_strong_28",
+        "url": "https://www.twitch.tv/criss_strong_28"
+      }
+    },
+    "legacy_username": "CyberCorp#2956"
   }
 }
