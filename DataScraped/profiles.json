@@ -19416,5 +19416,33 @@
       }
     },
     "legacy_username": "JadedDragon#9627"
+  },
+  "825364371005374508": {
+    "id": 825364371005374508,
+    "name": "nabs_hi2",
+    "nick": null,
+    "display_name": "hyena",
+    "global_name": "hyena",
+    "pronouns": "Penguin \ud83d\udc27",
+    "guild_pronouns": null,
+    "bio": " \n\n\n\n\n\n\n\n\n\n\n\nwhy wanna know so much?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ni like penguin ",
+    "guild_bio": null,
+    "display_bio": " \n\n\n\n\n\n\n\n\n\n\n\nwhy wanna know so much?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ni like penguin ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "710083417",
+        "name": "semituki",
+        "url": "https://www.twitch.tv/semituki"
+      }
+    },
+    "legacy_username": "Hexi#2013"
   }
 }
