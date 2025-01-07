@@ -20132,5 +20132,54 @@
       }
     },
     "legacy_username": "Watchyour6ix#3254"
+  },
+  "1170643047894241335": {
+    "id": 1170643047894241335,
+    "name": "yadollah_turk",
+    "nick": null,
+    "display_name": "m.m.d",
+    "global_name": "m.m.d",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "424879024343613440": {
+    "id": 424879024343613440,
+    "name": "maryu_glyx",
+    "nick": null,
+    "display_name": "maryu",
+    "global_name": "maryu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "BTC, ETH  ",
+    "guild_bio": null,
+    "display_bio": "BTC, ETH  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1139690974",
+        "name": "Steffen Moriarty",
+        "url": "https://open.spotify.com/user/1139690974"
+      },
+      "steam": {
+        "id": "76561197980224944",
+        "name": "maryu",
+        "url": "https://steamcommunity.com/profiles/76561197980224944"
+      }
+    },
+    "legacy_username": "maryu#8778"
   }
 }
