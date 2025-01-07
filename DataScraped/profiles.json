@@ -19804,5 +19804,88 @@
       }
     },
     "legacy_username": null
+  },
+  "1040206691247075328": {
+    "id": 1040206691247075328,
+    "name": "kaidowin1489",
+    "nick": null,
+    "display_name": "kaidowin",
+    "global_name": "kaidowin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1064438413585035314": {
+    "id": 1064438413585035314,
+    "name": "__dark___shadow__",
+    "nick": null,
+    "display_name": "SHADOW",
+    "global_name": "SHADOW",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Mc name is Pix3lJump3r I might change it",
+    "guild_bio": null,
+    "display_bio": "Mc name is Pix3lJump3r I might change it",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "856278867973898280": {
+    "id": 856278867973898280,
+    "name": "hinakumo",
+    "nick": null,
+    "display_name": "hinakumo'",
+    "global_name": "hinakumo'",
+    "pronouns": "hehe",
+    "guild_pronouns": null,
+    "bio": "<:h1:1318861722055999538><:h2:1318861735767179274><:h3:1318861748429914174><:h4:1318861759682973757>   <:h5:1318863010692857916><:h6:1318863161503518771><:h7:1318863261168570388>",
+    "guild_bio": null,
+    "display_bio": "<:h1:1318861722055999538><:h2:1318861735767179274><:h3:1318861748429914174><:h4:1318861759682973757>   <:h5:1318863010692857916><:h6:1318863161503518771><:h7:1318863261168570388>",
+    "banner": "https://cdn.discordapp.com/banners/856278867973898280/a1823d9e9686a83e5d4fef352f806e72.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/856278867973898280/a1823d9e9686a83e5d4fef352f806e72.png?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "kjlhv8136symgly2dzk3gj9dj",
+        "name": "Okawa Dagenhart",
+        "url": "https://open.spotify.com/user/kjlhv8136symgly2dzk3gj9dj"
+      }
+    },
+    "legacy_username": null
+  },
+  "1326007161637310485": {
+    "id": 1326007161637310485,
+    "name": "sal1x.274",
+    "nick": null,
+    "display_name": "sal1x.274",
+    "global_name": "sal1x.274",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
