@@ -21931,5 +21931,170 @@
       }
     },
     "legacy_username": "Lws#2704"
+  },
+  "217819710392107008": {
+    "id": 217819710392107008,
+    "name": "athosmfr",
+    "nick": null,
+    "display_name": "AthosMFR",
+    "global_name": "AthosMFR",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198042894686",
+        "name": "savyooR.NS",
+        "url": "https://steamcommunity.com/profiles/76561198042894686"
+      }
+    },
+    "legacy_username": "AthosMFR#1437"
+  },
+  "556107002007388160": {
+    "id": 556107002007388160,
+    "name": "peterw18",
+    "nick": null,
+    "display_name": "peterw18",
+    "global_name": "peterw18",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "23029453",
+        "name": "peterw18",
+        "url": "https://github.com/peterw18"
+      },
+      "spotify": {
+        "id": "31k55zxpz4to6keikmr3xamk6xue",
+        "name": "Peter",
+        "url": "https://open.spotify.com/user/31k55zxpz4to6keikmr3xamk6xue"
+      }
+    },
+    "legacy_username": "peterw18#3612"
+  },
+  "104664437310361600": {
+    "id": 104664437310361600,
+    "name": "siroopfles",
+    "nick": null,
+    "display_name": "Siroopfles",
+    "global_name": "Siroopfles",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Wow",
+    "guild_bio": null,
+    "display_bio": "Wow",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ke1ep4rxemlfvvu99vxine7sn",
+        "name": "Djes Samuels",
+        "url": "https://open.spotify.com/user/ke1ep4rxemlfvvu99vxine7sn"
+      },
+      "steam": {
+        "id": "76561198108250546",
+        "name": "Siroopfles",
+        "url": "https://steamcommunity.com/profiles/76561198108250546"
+      },
+      "twitch": {
+        "id": "137579316",
+        "name": "siroopfles",
+        "url": "https://www.twitch.tv/siroopfles"
+      },
+      "twitter": {
+        "id": "4202387740",
+        "name": "Siroopfles",
+        "url": "https://twitter.com/Siroopfles"
+      },
+      "xbox": {
+        "id": "MTQ0ZjQwYWM4ZmQ3MjZhYWQyNGI5YzA1NDhlMDM2MWVkN2MyZWY4ZThhYmM4NzBhZmM0ZTRhNjEyNzIxZmQ5ZA",
+        "name": "SIroopfles",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SIroopfles"
+      },
+      "youtube": {
+        "id": "UCvZYP3exH9yYyJvdvL58SbQ",
+        "name": "Siroopfles",
+        "url": "https://www.youtube.com/channel/UCvZYP3exH9yYyJvdvL58SbQ"
+      }
+    },
+    "legacy_username": "Siroopfles#1711"
+  },
+  "569469970170511371": {
+    "id": 569469970170511371,
+    "name": "ajem8",
+    "nick": null,
+    "display_name": "luv4lotte",
+    "global_name": "luv4lotte",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Pfp is not mine, credits to @PT_CROW on X",
+    "guild_bio": null,
+    "display_bio": "Pfp is not mine, credits to @PT_CROW on X",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ajem \u2730#8860"
+  },
+  "612777499985838080": {
+    "id": 612777499985838080,
+    "name": "gabriielk",
+    "nick": null,
+    "display_name": "Gabriielk",
+    "global_name": "Gabriielk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198034971630",
+        "name": "Gabriielk",
+        "url": "https://steamcommunity.com/profiles/76561198034971630"
+      },
+      "xbox": {
+        "id": "3062347252889862",
+        "name": "Gabriielk",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gabriielk"
+      }
+    },
+    "legacy_username": "Gabriielk#4323"
   }
 }
