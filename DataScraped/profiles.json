@@ -22276,5 +22276,141 @@
       }
     },
     "legacy_username": null
+  },
+  "488748455641219097": {
+    "id": 488748455641219097,
+    "name": "6posnyasha",
+    "nick": null,
+    "display_name": ". 6",
+    "global_name": ". 6",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "- \n\n  \n\n ",
+    "guild_bio": null,
+    "display_bio": "- \n\n  \n\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "0fIp2AG6EuC-TDCDOlv50oULxo_xsvlgzeFoPs8whlEDVscz9K6pKxXU9jVoyZeZAHXeFtFnT4nv_w",
+        "name": "mamasaga#MamRu",
+        "url": null
+      },
+      "riot_games": {
+        "id": "0fIp2AG6EuC-TDCDOlv50oULxo_xsvlgzeFoPs8whlEDVscz9K6pKxXU9jVoyZeZAHXeFtFnT4nv_w",
+        "name": "mamasaga#MamRu",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "618763463",
+        "name": "Demianchik72",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ev4qplrd3tdvd5orqujixi4up4",
+        "name": "KauserFoTer",
+        "url": "https://open.spotify.com/user/31ev4qplrd3tdvd5orqujixi4up4"
+      },
+      "steam": {
+        "id": "76561199251469046",
+        "name": "6\u043f\u043e\u0437\u043d\u044f\u0448\u0430",
+        "url": "https://steamcommunity.com/profiles/76561199251469046"
+      },
+      "twitch": {
+        "id": "738433570",
+        "name": "kuaserfoter",
+        "url": "https://www.twitch.tv/kuaserfoter"
+      },
+      "xbox": {
+        "id": "3068375479685552",
+        "name": "KauserFoTerOff",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=KauserFoTerOff"
+      },
+      "youtube": {
+        "id": "UCq22FuLJy0UW4EBM9qqrViA",
+        "name": "6posnyasha",
+        "url": "https://www.youtube.com/channel/UCq22FuLJy0UW4EBM9qqrViA"
+      }
+    },
+    "legacy_username": "KauserFoTer#9308"
+  },
+  "1323606399296602162": {
+    "id": 1323606399296602162,
+    "name": "oukahades",
+    "nick": null,
+    "display_name": "ouka",
+    "global_name": "ouka",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "693543001103925309": {
+    "id": 693543001103925309,
+    "name": "iamcharlie318",
+    "nick": null,
+    "display_name": "Charlie",
+    "global_name": "Charlie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "iamcharlie#2758",
+        "name": "iamcharlie#2758",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198272316513",
+        "name": "Charlie",
+        "url": "https://steamcommunity.com/profiles/76561198272316513"
+      }
+    },
+    "legacy_username": "iamcharlie318#8914"
+  },
+  "1013107067315294321": {
+    "id": 1013107067315294321,
+    "name": "tornado_devalt",
+    "nick": null,
+    "display_name": "Zenex",
+    "global_name": "Zenex",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "def not a furry    wdym? :3\n-Fan of Stargate\n-Fan of AJR\n--Software engineer--\nprofessional concert lighting tech \nGo check me out on Roblox and Rec Room\nContact me: help@zen-rec.com\nam gay",
+    "guild_bio": null,
+    "display_bio": "def not a furry    wdym? :3\n-Fan of Stargate\n-Fan of AJR\n--Software engineer--\nprofessional concert lighting tech \nGo check me out on Roblox and Rec Room\nContact me: help@zen-rec.com\nam gay",
+    "banner": "https://cdn.discordapp.com/banners/1013107067315294321/a_8d552a40f73354375588881248b8a6a9.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1013107067315294321/a_8d552a40f73354375588881248b8a6a9.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "BittiVonProto#2829"
   }
 }
