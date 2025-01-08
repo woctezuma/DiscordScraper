@@ -24886,5 +24886,86 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1325831125272236073": {
+    "id": 1325831125272236073,
+    "name": "sierra._001",
+    "nick": null,
+    "display_name": "sierra",
+    "global_name": "sierra",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Look\nIf you had\nOne shot\nOr one opportunity\nTo seize everything you ever wanted\nIn one moment\nWould you capture it\nOr just let it slip?\n\n\nMain account locked ",
+    "guild_bio": null,
+    "display_bio": "Look\nIf you had\nOne shot\nOr one opportunity\nTo seize everything you ever wanted\nIn one moment\nWould you capture it\nOr just let it slip?\n\n\nMain account locked ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "crunchyroll": {
+        "id": "411d924c-b2a2-56ec-b0ee-8c99ff8ba32c",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "spotify": {
+        "id": "31fsbaywn4opqgypuafmoqnofkga",
+        "name": "Sierraxx",
+        "url": "https://open.spotify.com/user/31fsbaywn4opqgypuafmoqnofkga"
+      },
+      "steam": {
+        "id": "76561199815149114",
+        "name": "sierraxx",
+        "url": "https://steamcommunity.com/profiles/76561199815149114"
+      },
+      "youtube": {
+        "id": "UCDzOyuYizLUaOLB2uDUV58g",
+        "name": "Sierrax",
+        "url": "https://www.youtube.com/channel/UCDzOyuYizLUaOLB2uDUV58g"
+      }
+    },
+    "legacy_username": null
+  },
+  "604238087731544084": {
+    "id": 604238087731544084,
+    "name": "brainlyofficial",
+    "nick": null,
+    "display_name": "Brainly+",
+    "global_name": "Brainly+",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " World: https://brainly.com\n Poland: https://brainly.pl",
+    "guild_bio": null,
+    "display_bio": " World: https://brainly.com\n Poland: https://brainly.pl",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "brainly#0558"
+  },
+  "1299052401231265920": {
+    "id": 1299052401231265920,
+    "name": "yanfei_001_26666",
+    "nick": null,
+    "display_name": "yanfei",
+    "global_name": "yanfei",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "Every footstep echoes in the dark, but when you turn to look, its not your shadow that follows\"",
+    "guild_bio": null,
+    "display_bio": "Every footstep echoes in the dark, but when you turn to look, its not your shadow that follows\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
