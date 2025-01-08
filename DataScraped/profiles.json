@@ -24549,5 +24549,53 @@
       }
     },
     "legacy_username": "dorpato111#6849"
+  },
+  "976115361080557618": {
+    "id": 976115361080557618,
+    "name": "otacon_uwu",
+    "nick": null,
+    "display_name": "Otacon",
+    "global_name": "Otacon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "jsqwel6i3xuz0my5u0ajgemow",
+        "name": "black ops",
+        "url": "https://open.spotify.com/user/jsqwel6i3xuz0my5u0ajgemow"
+      }
+    },
+    "legacy_username": "FENRIR#2051"
+  },
+  "876837447139471381": {
+    "id": 876837447139471381,
+    "name": "magicspell1382",
+    "nick": null,
+    "display_name": "Magic(^_^ )Spell",
+    "global_name": "Magic(^_^ )Spell",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "      ",
+    "guild_bio": null,
+    "display_bio": "      ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "ARMIN#4442"
   }
 }
