@@ -26862,5 +26862,103 @@
     ],
     "connections": {},
     "legacy_username": "AK_AMIN#5891"
+  },
+  "850667740150497290": {
+    "id": 850667740150497290,
+    "name": "jacobgold115",
+    "nick": null,
+    "display_name": "Jacobgold115",
+    "global_name": "Jacobgold115",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jacobgold115#8014"
+  },
+  "286590414071398402": {
+    "id": 286590414071398402,
+    "name": ".balbulus",
+    "nick": null,
+    "display_name": "Balbulus",
+    "global_name": "Balbulus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1169222101301809241",
+        "name": "TheBalbulus",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198035550215",
+        "name": "t.i.p",
+        "url": "https://steamcommunity.com/profiles/76561198035550215"
+      },
+      "xbox": {
+        "id": "3073067748861934",
+        "name": "Balbulus",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Balbulus"
+      }
+    },
+    "legacy_username": "Balbulus#6188"
+  },
+  "728856595315949578": {
+    "id": 728856595315949578,
+    "name": "nicoledaycross",
+    "nick": null,
+    "display_name": "Don Nico",
+    "global_name": "Don Nico",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Your beauty never ever scared me",
+    "guild_bio": null,
+    "display_bio": "Your beauty never ever scared me",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "wUgcl16TpRVX-6H3sCnsWQpneuEcOm9NGkoX6yHeuDQ3jzgcS-GPqLgRHAiNQKWMjAq0kyzlsdtZWA",
+        "name": "Jigolo Elegante",
+        "url": null
+      },
+      "riot_games": {
+        "id": "wUgcl16TpRVX-6H3sCnsWQpneuEcOm9NGkoX6yHeuDQ3jzgcS-GPqLgRHAiNQKWMjAq0kyzlsdtZWA",
+        "name": "DonNico#SPFC",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ekh55dvamrs6wmq3xdp3bcnrja",
+        "name": "Nicole Dias Da Cruz Lima",
+        "url": "https://open.spotify.com/user/31ekh55dvamrs6wmq3xdp3bcnrja"
+      },
+      "youtube": {
+        "id": "UCHsuyRUpm-4QN6LSQ_YOxow",
+        "name": "Nicole Dias Da Cruz Lima",
+        "url": "https://www.youtube.com/channel/UCHsuyRUpm-4QN6LSQ_YOxow"
+      }
+    },
+    "legacy_username": "Don Nico#9217"
   }
 }
