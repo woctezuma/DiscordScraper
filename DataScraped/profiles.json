@@ -27243,5 +27243,148 @@
       }
     },
     "legacy_username": "DENKI#6969"
+  },
+  "474196784567025692": {
+    "id": 474196784567025692,
+    "name": ".alexismachine",
+    "nick": null,
+    "display_name": "alexismachine",
+    "global_name": "alexismachine",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " https://jhedmendoza.is-a.dev",
+    "guild_bio": null,
+    "display_bio": " https://jhedmendoza.is-a.dev",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198096430197",
+        "name": "alexismachine",
+        "url": "https://steamcommunity.com/profiles/76561198096430197"
+      }
+    },
+    "legacy_username": null
+  },
+  "872973537927913495": {
+    "id": 872973537927913495,
+    "name": "santiirepair",
+    "nick": null,
+    "display_name": "Santiago",
+    "global_name": "Santiago",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "94815926",
+        "name": "SantiiRepair",
+        "url": "https://github.com/SantiiRepair"
+      },
+      "twitch": {
+        "id": "714634562",
+        "name": "santiirepair",
+        "url": "https://www.twitch.tv/santiirepair"
+      }
+    },
+    "legacy_username": "SantiiRepair#4501"
+  },
+  "236590541687488512": {
+    "id": 236590541687488512,
+    "name": "wodash",
+    "nick": null,
+    "display_name": "Wodash",
+    "global_name": "Wodash",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/236590541687488512/9616888ed8608313b3261a6f6daef9c7.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/236590541687488512/9616888ed8608313b3261a6f6daef9c7.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "asaihttv",
+        "name": "WhatTheWoda",
+        "url": "https://www.reddit.com/u/WhatTheWoda"
+      },
+      "twitch": {
+        "id": "135345326",
+        "name": "whatthewoda",
+        "url": "https://www.twitch.tv/whatthewoda"
+      },
+      "twitter": {
+        "id": "1331894567797395456",
+        "name": "WhatWoda",
+        "url": "https://twitter.com/WhatWoda"
+      },
+      "youtube": {
+        "id": "UCFzXSUcYrxK6CzQ0Vzoey9g",
+        "name": "WhatTheWoda",
+        "url": "https://www.youtube.com/channel/UCFzXSUcYrxK6CzQ0Vzoey9g"
+      }
+    },
+    "legacy_username": "Wodash#7918"
+  },
+  "243313832406024194": {
+    "id": 243313832406024194,
+    "name": "gebabo",
+    "nick": null,
+    "display_name": "Gebabo",
+    "global_name": "Gebabo",
+    "pronouns": "Din/mamma",
+    "guild_pronouns": null,
+    "bio": "Hot and sexy\n\nLigma fucking balls",
+    "guild_bio": null,
+    "display_bio": "Hot and sexy\n\nLigma fucking balls",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "g4n0tmuatrrxkgtndzrdakn4h",
+        "name": "Gebabo",
+        "url": "https://open.spotify.com/user/g4n0tmuatrrxkgtndzrdakn4h"
+      },
+      "steam": {
+        "id": "76561198068518352",
+        "name": "D\u00f6nkey",
+        "url": "https://steamcommunity.com/profiles/76561198068518352"
+      },
+      "xbox": {
+        "id": "MjE5MTdkMzgyMjFhMDkwYmM4ZTViYTdmOTQ1MmEyNTQ2MDRkYTNmNzZmMWFjOTRiM2Y5MTY5YjI3ZWMxZmNhMw",
+        "name": "G3T0",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=G3T0"
+      },
+      "youtube": {
+        "id": "UCkQlza_aM_g87-3dbXCuV7Q",
+        "name": "Gebabo",
+        "url": "https://www.youtube.com/channel/UCkQlza_aM_g87-3dbXCuV7Q"
+      }
+    },
+    "legacy_username": "Gebabo#1973"
   }
 }
