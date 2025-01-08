@@ -26780,5 +26780,66 @@
       }
     },
     "legacy_username": "77_mec#7751"
+  },
+  "973079364788961360": {
+    "id": 973079364788961360,
+    "name": "thedaix01",
+    "nick": null,
+    "display_name": "TheDaix01",
+    "global_name": "TheDaix01",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "TheDaix01#1263",
+        "name": "TheDaix01#1263",
+        "url": null
+      },
+      "playstation": {
+        "id": "8430871467627079260",
+        "name": "TheDaix01",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199042189856",
+        "name": "TheDaix01",
+        "url": "https://steamcommunity.com/profiles/76561199042189856"
+      },
+      "xbox": {
+        "id": "ODZlNjAwNDllMDgzMGY0ZTg1MTdmZGE0Y2U3N2ZhNDFjYTgxOGM3NGE0MTc5MjM2ZTYwMTAzMDUwMmJhOWM2YQ",
+        "name": "TheDaix01",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TheDaix01"
+      }
+    },
+    "legacy_username": "TheDaix01#3063"
+  },
+  "1098963380196364429": {
+    "id": 1098963380196364429,
+    "name": "1vlad0",
+    "nick": null,
+    "display_name": "1vlad0",
+    "global_name": "1vlad0",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "1vlad0#9190"
   }
 }
