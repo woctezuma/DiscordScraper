@@ -25308,5 +25308,63 @@
       }
     },
     "legacy_username": "Zsolessz#5017"
+  },
+  "874724045659181120": {
+    "id": 874724045659181120,
+    "name": "donalsina",
+    "nick": null,
+    "display_name": "DonAlsina",
+    "global_name": "DonAlsina",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Todo normal por aca",
+    "guild_bio": null,
+    "display_bio": "Todo normal por aca",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UClbTqj5xk-BEVyD2YMkZ-Iw",
+        "name": "Don Alsina",
+        "url": "https://www.youtube.com/channel/UClbTqj5xk-BEVyD2YMkZ-Iw"
+      }
+    },
+    "legacy_username": "JIA#1212"
+  },
+  "1293655209532325901": {
+    "id": 1293655209532325901,
+    "name": "bon8tacos.",
+    "nick": null,
+    "display_name": "bon8tacos",
+    "global_name": "bon8tacos",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3078253474727029",
+        "name": "bon8tacos",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=bon8tacos"
+      },
+      "youtube": {
+        "id": "UCmIJR9qKkBmzyBRLiUU6N1Q",
+        "name": "Bon8tacos gaming",
+        "url": "https://www.youtube.com/channel/UCmIJR9qKkBmzyBRLiUU6N1Q"
+      }
+    },
+    "legacy_username": null
   }
 }
