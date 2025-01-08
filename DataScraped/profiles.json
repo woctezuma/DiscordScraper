@@ -25270,5 +25270,43 @@
     ],
     "connections": {},
     "legacy_username": "killerduck695#4351"
+  },
+  "428919175818379266": {
+    "id": 428919175818379266,
+    "name": "_zsolessz",
+    "nick": null,
+    "display_name": "Zsolessz",
+    "global_name": "Zsolessz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1197713340926123058",
+        "name": "zsolessz04",
+        "url": null
+      },
+      "spotify": {
+        "id": "plx0fxdd9nqaskzw0hx3olbfz",
+        "name": "Zsolti",
+        "url": "https://open.spotify.com/user/plx0fxdd9nqaskzw0hx3olbfz"
+      },
+      "xbox": {
+        "id": "3073248786403902",
+        "name": "BZsolessz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=BZsolessz"
+      }
+    },
+    "legacy_username": "Zsolessz#5017"
   }
 }
