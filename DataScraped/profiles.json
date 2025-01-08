@@ -25397,5 +25397,125 @@
       }
     },
     "legacy_username": "Boyrich#6373"
+  },
+  "361560173245890580": {
+    "id": 361560173245890580,
+    "name": "runeshift",
+    "nick": null,
+    "display_name": "Dane99",
+    "global_name": "Dane99",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Dane99#2843"
+  },
+  "938280957486694492": {
+    "id": 938280957486694492,
+    "name": "shlepavtazike",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": "ni/gers",
+    "guild_pronouns": null,
+    "bio": "   ,    \ncs2:https://goo.su/0ZWzY\nmain:https://goo.su/lln05\n               ",
+    "guild_bio": null,
+    "display_bio": "   ,    \ncs2:https://goo.su/0ZWzY\nmain:https://goo.su/lln05\n               ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f68b2e530f224a3f98c305cc4670eb70",
+        "name": "chel228_1",
+        "url": null
+      },
+      "riot_games": {
+        "id": "1NaBtEeKq15AYqENMqGCnC948X_Ll7R_wSUq2ENhwZSFKjycx7Jry5T5WjjeyZJ4wGk2bPc78AoG0A",
+        "name": "chel228#228",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3283515851",
+        "name": "chel228_2",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199545033331",
+        "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0443\u0442\u043a\u0438\u043d",
+        "url": "https://steamcommunity.com/profiles/76561199545033331"
+      },
+      "twitch": {
+        "id": "768917257",
+        "name": "chel22845676858",
+        "url": "https://www.twitch.tv/chel22845676858"
+      },
+      "xbox": {
+        "id": "YWNkNWZlMDc0YzNmYjIwZGY5M2ZjYzQ5Nzk5ZDczOWZhOGY2ZjI1YTUwMTI3YzZhYjQ5YzcyNzc3ZWQ3YTFjMA",
+        "name": "Ddd3224",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Ddd3224"
+      },
+      "youtube": {
+        "id": "UCA7YBkgU7mrZFH6mjHXjaZw",
+        "name": "\u0412\u041e\u0412\u0410 \u041f\u0418\u0420\u041e\u0413",
+        "url": "https://www.youtube.com/channel/UCA7YBkgU7mrZFH6mjHXjaZw"
+      }
+    },
+    "legacy_username": "\u0448\u043b\u0451\u043f\u0430 \u0432 \u0442\u0430\u0437\u0438\u043a\u0435#5826"
+  },
+  "802972753187045417": {
+    "id": 802972753187045417,
+    "name": "podari",
+    "nick": null,
+    "display_name": "PODARI",
+    "global_name": "PODARI",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "      ",
+    "guild_bio": null,
+    "display_bio": "      ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "5843488285776814",
+        "name": "am__aaj",
+        "url": "https://www.instagram.com/am__aaj"
+      },
+      "riot_games": {
+        "id": "kRpT3xQSrMMYvtrMDsdIaLitERpNC9af0bxXBpDPqrY4iCpqemQCSoj9EbL2eD4IpR47SOChainnAA",
+        "name": "KAPOOT#phub",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199057365701",
+        "name": "podari",
+        "url": "https://steamcommunity.com/profiles/76561199057365701"
+      },
+      "twitter": {
+        "id": "1518322574526144514",
+        "name": "AjStylew",
+        "url": "https://twitter.com/AjStylew"
+      }
+    },
+    "legacy_username": "PODARI#2230"
   }
 }
