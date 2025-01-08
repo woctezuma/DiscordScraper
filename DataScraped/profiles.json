@@ -23502,5 +23502,38 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "747718268386541618": {
+    "id": 747718268386541618,
+    "name": "wastedwizard101",
+    "nick": null,
+    "display_name": "wastedwizard",
+    "global_name": "wastedwizard",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "0f4792dbe2ae471c9f2b014a07a4e83a",
+        "name": "wizardwasted",
+        "url": null
+      },
+      "spotify": {
+        "id": "31qyclku3d7dvzga33v7n3rzu2hu",
+        "name": "wastedwizard",
+        "url": "https://open.spotify.com/user/31qyclku3d7dvzga33v7n3rzu2hu"
+      }
+    },
+    "legacy_username": "wastedwizard#2825"
   }
 }
