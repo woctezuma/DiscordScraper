@@ -25808,5 +25808,29 @@
       }
     },
     "legacy_username": "Lukyy#2389"
+  },
+  "1253355267131969608": {
+    "id": 1253355267131969608,
+    "name": "maxburgers.",
+    "nick": null,
+    "display_name": "Max burgers",
+    "global_name": "Max burgers",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "2580239654258833482",
+        "name": "dylan400",
+        "url": null
+      }
+    },
+    "legacy_username": null
   }
 }
