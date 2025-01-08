@@ -23257,5 +23257,25 @@
     ],
     "connections": {},
     "legacy_username": "thow#0003"
+  },
+  "313516935130251274": {
+    "id": 313516935130251274,
+    "name": "dxm4",
+    "nick": null,
+    "display_name": "DXM4",
+    "global_name": "DXM4",
+    "pronouns": "Trash Man",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "DXM4#3796"
   }
 }
