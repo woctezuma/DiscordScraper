@@ -23966,5 +23966,51 @@
     ],
     "connections": {},
     "legacy_username": "jamppa#6423"
+  },
+  "777793019201323028": {
+    "id": 777793019201323028,
+    "name": "youssefkassab.",
+    "nick": null,
+    "display_name": "youssef Kassab",
+    "global_name": "youssef Kassab",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "youssefkasab#2570",
+        "name": "youssefkasab#2570",
+        "url": null
+      },
+      "epic_games": {
+        "id": "1388a599aef3462b8a445ad40f8f1ad5",
+        "name": "Youssef Kassab1",
+        "url": null
+      },
+      "facebook": {
+        "id": "3447224105556209",
+        "name": "Youssef Kassab",
+        "url": null
+      },
+      "instagram": {
+        "id": "6130384016973896",
+        "name": "youssefkassab2008",
+        "url": "https://www.instagram.com/youssefkassab2008"
+      },
+      "steam": {
+        "id": "76561199474506772",
+        "name": "youssefkassab2008",
+        "url": "https://steamcommunity.com/profiles/76561199474506772"
+      }
+    },
+    "legacy_username": "youssef Kassab#3360"
   }
 }
