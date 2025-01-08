@@ -25517,5 +25517,45 @@
       }
     },
     "legacy_username": "PODARI#2230"
+  },
+  "403971395719135262": {
+    "id": 403971395719135262,
+    "name": "_vettis",
+    "nick": null,
+    "display_name": "vettis",
+    "global_name": "vettis",
+    "pronouns": "me/myself/I",
+    "guild_pronouns": null,
+    "bio": "I don't hate people unreasonably. I'm a fair-minded racist.",
+    "guild_bio": null,
+    "display_bio": "I don't hate people unreasonably. I'm a fair-minded racist.",
+    "banner": "https://cdn.discordapp.com/banners/403971395719135262/a_ed935475aaa6f185cf4e3c1c41ae95d2.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/403971395719135262/a_ed935475aaa6f185cf4e3c1c41ae95d2.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "eduxed",
+        "name": "Eetu",
+        "url": "https://open.spotify.com/user/eduxed"
+      },
+      "steam": {
+        "id": "76561198995088694",
+        "name": "vettis",
+        "url": "https://steamcommunity.com/profiles/76561198995088694"
+      },
+      "twitch": {
+        "id": "92942449",
+        "name": "etskari",
+        "url": "https://www.twitch.tv/etskari"
+      }
+    },
+    "legacy_username": "vettis#0001"
   }
 }
