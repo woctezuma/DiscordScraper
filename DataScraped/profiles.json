@@ -23797,5 +23797,48 @@
       }
     },
     "legacy_username": null
+  },
+  "709531586982576150": {
+    "id": 709531586982576150,
+    "name": "ghaz._",
+    "nick": null,
+    "display_name": "GhaZ",
+    "global_name": "GhaZ",
+    "pronouns": "icikiwir",
+    "guild_pronouns": null,
+    "bio": ":PepeHype:  `Anaknya Si Paling FrontEnd `\n\n***:frogwee: Hobi aku Garuk Garuk Biji halo aku Gaji :frogwee:***",
+    "guild_bio": null,
+    "display_bio": ":PepeHype:  `Anaknya Si Paling FrontEnd `\n\n***:frogwee: Hobi aku Garuk Garuk Biji halo aku Gaji :frogwee:***",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "162891738",
+        "name": "GhaziFinandhia",
+        "url": "https://github.com/GhaziFinandhia"
+      },
+      "riot_games": {
+        "id": "UKAts9s_Kld60TCGdub3Sb6EyYNKndJCciX8W8FdiL63M5TPOVkx7O1aprkgGLWkqgwTybYwMljsnw",
+        "name": "GhaZ#finan",
+        "url": null
+      },
+      "spotify": {
+        "id": "w43bit7sa8uh3u6obzas0ctlp",
+        "name": "Ghaz",
+        "url": "https://open.spotify.com/user/w43bit7sa8uh3u6obzas0ctlp"
+      },
+      "steam": {
+        "id": "76561199170745617",
+        "name": "GhaZ",
+        "url": "https://steamcommunity.com/profiles/76561199170745617"
+      }
+    },
+    "legacy_username": "Ghaz#6586"
   }
 }
