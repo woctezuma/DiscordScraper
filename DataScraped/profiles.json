@@ -24417,5 +24417,29 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1055889371460554833": {
+    "id": 1055889371460554833,
+    "name": "esupporter",
+    "nick": null,
+    "display_name": "funky little guy",
+    "global_name": "funky little guy",
+    "pronouns": "No\u00a7",
+    "guild_pronouns": null,
+    "bio": "\"Every human being has something of value that they brought to the table\"\n\nEspecially Hitler",
+    "guild_bio": null,
+    "display_bio": "\"Every human being has something of value that they brought to the table\"\n\nEspecially Hitler",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31h3mcjpslupz2vdlka3agtoqory",
+        "name": "God",
+        "url": "https://open.spotify.com/user/31h3mcjpslupz2vdlka3agtoqory"
+      }
+    },
+    "legacy_username": null
   }
 }
