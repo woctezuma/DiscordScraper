@@ -26707,5 +26707,78 @@
     ],
     "connections": {},
     "legacy_username": "Kaporal#3724"
+  },
+  "830077769995649085": {
+    "id": 830077769995649085,
+    "name": "ulfur_thorsten",
+    "nick": null,
+    "display_name": "Ulfur",
+    "global_name": "Ulfur",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Lyric#8220"
+  },
+  "1103812297052405763": {
+    "id": 1103812297052405763,
+    "name": "77_mec",
+    "nick": null,
+    "display_name": "Mec",
+    "global_name": "Mec",
+    "pronouns": "He/him, I guess",
+    "guild_pronouns": null,
+    "bio": "\"When playing Geometry Dash, if killing yourself does not cross your mind, then you are playing it wrong.\"\n\n- Sun Tzu, \"The Art of War.\"",
+    "guild_bio": null,
+    "display_bio": "\"When playing Geometry Dash, if killing yourself does not cross your mind, then you are playing it wrong.\"\n\n- Sun Tzu, \"The Art of War.\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "am7yqsuo1",
+        "name": "77_mec",
+        "url": "https://www.reddit.com/u/77_mec"
+      },
+      "spotify": {
+        "id": "31pfbi66uzxtzmrs6ncahtvyzinm",
+        "name": "Murphy",
+        "url": "https://open.spotify.com/user/31pfbi66uzxtzmrs6ncahtvyzinm"
+      },
+      "steam": {
+        "id": "76561199551515764",
+        "name": "Mec",
+        "url": "https://steamcommunity.com/profiles/76561199551515764"
+      },
+      "tiktok": {
+        "id": "44926395-a973-5b73-b032-7bb69c1a7d35",
+        "name": "murphycotton",
+        "url": "https://tiktok.com/@murphycotton"
+      },
+      "xbox": {
+        "id": "3072005112870274",
+        "name": "MecTheCool",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MecTheCool"
+      },
+      "youtube": {
+        "id": "UC4p2usnVDU8dMUktvvfBRFA",
+        "name": "Murphy Cotton",
+        "url": "https://www.youtube.com/channel/UC4p2usnVDU8dMUktvvfBRFA"
+      }
+    },
+    "legacy_username": "77_mec#7751"
   }
 }
