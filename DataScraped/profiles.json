@@ -25366,5 +25366,36 @@
       }
     },
     "legacy_username": null
+  },
+  "758538462487379988": {
+    "id": 758538462487379988,
+    "name": "boyrich17",
+    "nick": null,
+    "display_name": "Boyrich",
+    "global_name": "Boyrich",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198010394623",
+        "name": "Boyrich",
+        "url": "https://steamcommunity.com/profiles/76561198010394623"
+      },
+      "youtube": {
+        "id": "UCqMl9AQEsjFFocvxn-pH4dg",
+        "name": "Richard",
+        "url": "https://www.youtube.com/channel/UCqMl9AQEsjFFocvxn-pH4dg"
+      }
+    },
+    "legacy_username": "Boyrich#6373"
   }
 }
