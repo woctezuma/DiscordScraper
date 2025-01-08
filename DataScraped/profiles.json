@@ -27386,5 +27386,49 @@
       }
     },
     "legacy_username": "Gebabo#1973"
+  },
+  "512061132568133656": {
+    "id": 512061132568133656,
+    "name": "seujuca",
+    "nick": null,
+    "display_name": "Bruno Borges",
+    "global_name": "Bruno Borges",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Seu Juca#4623"
+  },
+  "763606242383364175": {
+    "id": 763606242383364175,
+    "name": "nicoleterese2",
+    "nick": null,
+    "display_name": "Nicole Terese2",
+    "global_name": "Nicole Terese2",
+    "pronouns": "Terese",
+    "guild_pronouns": null,
+    "bio": "Sharing my sunshine as I go ?  #BeKindKeepShine ?  ",
+    "guild_bio": null,
+    "display_bio": "Sharing my sunshine as I go ?  #BeKindKeepShine ?  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitter": {
+        "id": "1531690304465674241",
+        "name": "NicoleTerese2",
+        "url": "https://twitter.com/NicoleTerese2"
+      }
+    },
+    "legacy_username": null
   }
 }
