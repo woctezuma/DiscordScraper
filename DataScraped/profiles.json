@@ -25739,5 +25739,74 @@
       }
     },
     "legacy_username": "okay#7385"
+  },
+  "255346058790567946": {
+    "id": 255346058790567946,
+    "name": "funkey_",
+    "nick": null,
+    "display_name": "Funkey",
+    "global_name": "Funkey",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "freshfunkey#2786",
+        "name": "freshfunkey#2786",
+        "url": null
+      },
+      "riot_games": {
+        "id": "7_yootgtgfchuJi8eOtiY_kInn8irCO1JebILFKNAfxtx8bKwwJWxcPxFizFKJURTCrki5irfwz4Rg",
+        "name": "freshfunkey#5079",
+        "url": null
+      },
+      "spotify": {
+        "id": "11172801910",
+        "name": "freshfunkey",
+        "url": "https://open.spotify.com/user/11172801910"
+      },
+      "twitch": {
+        "id": "132965757",
+        "name": "funkey808",
+        "url": "https://www.twitch.tv/funkey808"
+      }
+    },
+    "legacy_username": "Funkey#1097"
+  },
+  "465137573128437761": {
+    "id": 465137573128437761,
+    "name": "_lukyyooo_",
+    "nick": null,
+    "display_name": "Lukyy",
+    "global_name": "Lukyy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"You don't get it, a million sorry's is not equal to one thank you\"",
+    "guild_bio": null,
+    "display_bio": "\"You don't get it, a million sorry's is not equal to one thank you\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198309570204",
+        "name": "Lukyy",
+        "url": "https://steamcommunity.com/profiles/76561198309570204"
+      }
+    },
+    "legacy_username": "Lukyy#2389"
   }
 }
