@@ -26538,5 +26538,55 @@
     ],
     "connections": {},
     "legacy_username": "Zdec#9004"
+  },
+  "1326640872208470049": {
+    "id": 1326640872208470049,
+    "name": "ishi_26638",
+    "nick": null,
+    "display_name": "Ishi",
+    "global_name": "Ishi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "700377305473613946": {
+    "id": 700377305473613946,
+    "name": ".cthullu",
+    "nick": null,
+    "display_name": "Cthullu",
+    "global_name": "Cthullu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197988404542",
+        "name": "Cthullu",
+        "url": "https://steamcommunity.com/profiles/76561197988404542"
+      },
+      "twitch": {
+        "id": "590547321",
+        "name": "cthullu__",
+        "url": "https://www.twitch.tv/cthullu__"
+      }
+    },
+    "legacy_username": "Cthullu#5092"
   }
 }
