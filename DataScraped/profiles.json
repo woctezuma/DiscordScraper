@@ -25061,5 +25061,93 @@
       }
     },
     "legacy_username": "matrix#6592"
+  },
+  "353723353141477388": {
+    "id": 353723353141477388,
+    "name": "_neomi",
+    "nick": null,
+    "display_name": "Moonlit",
+    "global_name": "Moonlit",
+    "pronouns": "They/Them",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/353723353141477388/4a77b71d9858a24a077d926ba11f235c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/353723353141477388/4a77b71d9858a24a077d926ba11f235c.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "xz2hh",
+        "name": "Miss_saissore",
+        "url": "https://www.reddit.com/u/Miss_saissore"
+      },
+      "spotify": {
+        "id": "80b4lhezpqxpbnctzfyexvzg0",
+        "name": "Neomi",
+        "url": "https://open.spotify.com/user/80b4lhezpqxpbnctzfyexvzg0"
+      },
+      "steam": {
+        "id": "76561197992401614",
+        "name": "Mushy Snugglebutt",
+        "url": "https://steamcommunity.com/profiles/76561197992401614"
+      },
+      "xbox": {
+        "id": "3072749224803970",
+        "name": "TemptingMite122",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TemptingMite122"
+      }
+    },
+    "legacy_username": "Neomi#5473"
+  },
+  "226129164502040586": {
+    "id": 226129164502040586,
+    "name": "talotee",
+    "nick": null,
+    "display_name": "Talote",
+    "global_name": "Talote",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Fortuss#1271",
+        "name": "Fortuss#1271",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "br_16713545",
+        "name": "tallisongtr",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198822139528",
+        "name": "BrownStonne",
+        "url": "https://steamcommunity.com/profiles/76561198822139528"
+      },
+      "twitch": {
+        "id": "123902328",
+        "name": "tallisongtr",
+        "url": "https://www.twitch.tv/tallisongtr"
+      },
+      "youtube": {
+        "id": "UCw43tL-hE7XEfV-XQv1udIw",
+        "name": "Tallison Miranda",
+        "url": "https://www.youtube.com/channel/UCw43tL-hE7XEfV-XQv1udIw"
+      }
+    },
+    "legacy_username": "Tallison Miranda#3798"
   }
 }
