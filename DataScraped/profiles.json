@@ -24441,5 +24441,25 @@
       }
     },
     "legacy_username": null
+  },
+  "329284208415604737": {
+    "id": 329284208415604737,
+    "name": "portal8639",
+    "nick": null,
+    "display_name": "PuyC",
+    "global_name": "PuyC",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Puyol#8639"
   }
 }
