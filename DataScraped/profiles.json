@@ -26259,5 +26259,108 @@
     ],
     "connections": {},
     "legacy_username": "___mark___#3745"
+  },
+  "542750206299734039": {
+    "id": 542750206299734039,
+    "name": "deformedsas",
+    "nick": null,
+    "display_name": "Deformisani SAS",
+    "global_name": "Deformisani SAS",
+    "pronouns": "yebettel. zamisli sve",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "167568342",
+        "name": "DeformedSAS",
+        "url": "https://github.com/DeformedSAS"
+      },
+      "steam": {
+        "id": "76561199468284152",
+        "name": "epic gamer",
+        "url": "https://steamcommunity.com/profiles/76561199468284152"
+      },
+      "twitch": {
+        "id": "523556492",
+        "name": "deformed_sas",
+        "url": "https://www.twitch.tv/deformed_sas"
+      }
+    },
+    "legacy_username": null
+  },
+  "512235391441436686": {
+    "id": 512235391441436686,
+    "name": "gege3173",
+    "nick": null,
+    "display_name": "Rodwell Dimitry",
+    "global_name": "Rodwell Dimitry",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "gege#3173"
+  },
+  "717409291400904834": {
+    "id": 717409291400904834,
+    "name": "xamo14",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "e7faa778-5be5-5200-8d6a-911c5a863f2b",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "epic_games": {
+        "id": "8cbc5e80eb6b47a9b14134a96c37164d",
+        "name": "Xamo631",
+        "url": null
+      },
+      "spotify": {
+        "id": "7qsb59iim314ezdfm8iormzul",
+        "name": "Juliancch",
+        "url": "https://open.spotify.com/user/7qsb59iim314ezdfm8iormzul"
+      },
+      "steam": {
+        "id": "76561199021667903",
+        "name": "Xamo",
+        "url": "https://steamcommunity.com/profiles/76561199021667903"
+      },
+      "xbox": {
+        "id": "3067711770040909",
+        "name": "JChamorro4952",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JChamorro4952"
+      }
+    },
+    "legacy_username": "X\u0338\u0304\u0314a\u0338\u031a\u031am\u0337\u0358\u0310o\u0336\u0342\u032e#5110"
   }
 }
