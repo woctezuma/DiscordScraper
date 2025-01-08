@@ -24012,5 +24012,66 @@
       }
     },
     "legacy_username": "youssef Kassab#3360"
+  },
+  "256122706838159365": {
+    "id": 256122706838159365,
+    "name": "nrsq",
+    "nick": null,
+    "display_name": "NrsQ",
+    "global_name": "NrsQ",
+    "pronouns": "Nick/Ga",
+    "guild_pronouns": null,
+    "bio": "Cze jestem Asia mam 12 lat\n\n\nDajcie zje pliska",
+    "guild_bio": null,
+    "display_bio": "Cze jestem Asia mam 12 lat\n\n\nDajcie zje pliska",
+    "banner": "https://cdn.discordapp.com/banners/256122706838159365/a_7a1c71d26e799e98fa3df02d92d906f0.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/256122706838159365/a_7a1c71d26e799e98fa3df02d92d906f0.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1185540367",
+        "name": "Pawe\u0142 Szumilas",
+        "url": "https://open.spotify.com/user/1185540367"
+      },
+      "steam": {
+        "id": "76561198079272565",
+        "name": "Rizzler",
+        "url": "https://steamcommunity.com/profiles/76561198079272565"
+      }
+    },
+    "legacy_username": "NrsQ#9075"
+  },
+  "775431074686697553": {
+    "id": 775431074686697553,
+    "name": "akaiiin",
+    "nick": null,
+    "display_name": "AKAIIIN",
+    "global_name": "AKAIIIN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199105362050",
+        "name": "AKAIIIN",
+        "url": "https://steamcommunity.com/profiles/76561199105362050"
+      }
+    },
+    "legacy_username": "AKAIIIN#5050"
   }
 }
