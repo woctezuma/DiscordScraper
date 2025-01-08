@@ -24721,5 +24721,170 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "753332776669020221": {
+    "id": 753332776669020221,
+    "name": "sajlas123456",
+    "nick": null,
+    "display_name": "sajlas123456",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "CoD: sajlas#5364476",
+    "guild_bio": null,
+    "display_bio": "CoD: sajlas#5364476",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2285225404176233332",
+        "name": "parzony-dziadek",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198430578269",
+        "name": "ebe ebeee || gamehag.com *******",
+        "url": "https://steamcommunity.com/profiles/76561198430578269"
+      }
+    },
+    "legacy_username": "sajlas123456#7873"
+  },
+  "1151136867098566759": {
+    "id": 1151136867098566759,
+    "name": "itsjustmeremember",
+    "nick": null,
+    "display_name": "Arun",
+    "global_name": "Arun",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "150463430430687233": {
+    "id": 150463430430687233,
+    "name": "codehusky",
+    "nick": null,
+    "display_name": "Loki",
+    "global_name": "Loki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**I do not add random people as friends!**\ni do a lot of stuff on my computer\n\nCheck out Magnus: Downfall, a sci-fi story Im working on, on a website I made. \nhttps://exogrid.net/",
+    "guild_bio": null,
+    "display_bio": "**I do not add random people as friends!**\ni do a lot of stuff on my computer\n\nCheck out Magnus: Downfall, a sci-fi story Im working on, on a website I made. \nhttps://exogrid.net/",
+    "banner": "https://cdn.discordapp.com/banners/150463430430687233/e1b51328469db8e7c4a0d6e364214168.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/150463430430687233/e1b51328469db8e7c4a0d6e364214168.png?size=512",
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed",
+      "verified_developer"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "exogrid.net",
+        "name": "exogrid.net",
+        "url": null
+      },
+      "github": {
+        "id": "6946558",
+        "name": "codeHusky",
+        "url": "https://github.com/codeHusky"
+      },
+      "spotify": {
+        "id": "lokio27",
+        "name": "codeHusky",
+        "url": "https://open.spotify.com/user/lokio27"
+      },
+      "twitch": {
+        "id": "764742458",
+        "name": "huskymomentz",
+        "url": "https://www.twitch.tv/huskymomentz"
+      },
+      "twitter": {
+        "id": "1016938753393332224",
+        "name": "codeHusky",
+        "url": "https://twitter.com/codeHusky"
+      },
+      "youtube": {
+        "id": "UCb6ZPtRllv-huCfzjO7Jccg",
+        "name": "codeHusky",
+        "url": "https://www.youtube.com/channel/UCb6ZPtRllv-huCfzjO7Jccg"
+      }
+    },
+    "legacy_username": "Loki#0069"
+  },
+  "991371032453713980": {
+    "id": 991371032453713980,
+    "name": "can5952",
+    "nick": null,
+    "display_name": "Can5899",
+    "global_name": "Can5899",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Can#5952"
+  },
+  "1326530482892046359": {
+    "id": 1326530482892046359,
+    "name": "okdashen_91008",
+    "nick": null,
+    "display_name": "okdashen",
+    "global_name": "okdashen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1121103967506673765": {
+    "id": 1121103967506673765,
+    "name": "yourwottt",
+    "nick": null,
+    "display_name": "(tokyo)",
+    "global_name": "(tokyo)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1121103967506673765/a_99487eda4f1ea589d8e3f023be6f2973.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1121103967506673765/a_99487eda4f1ea589d8e3f023be6f2973.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
