@@ -27430,5 +27430,107 @@
       }
     },
     "legacy_username": null
+  },
+  "832363181639729164": {
+    "id": 832363181639729164,
+    "name": "alixchu.",
+    "nick": null,
+    "display_name": "alixchu.",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "alixchu#7035"
+  },
+  "667170529907703819": {
+    "id": 667170529907703819,
+    "name": "chimerawntwaflz",
+    "nick": null,
+    "display_name": "Sugarz",
+    "global_name": "Sugarz",
+    "pronouns": "It/She|||Glitchy Little Android Chimera!",
+    "guild_pronouns": null,
+    "bio": "I love Milk, Space, Being Scene and Chillin with my Buddies! x3c\nhttps://chimeracorner.carrd.co/\nMy noon is your <t:1688004000:t>\npfp by my friend Subnootical :3\n\nFor your Phantomile...",
+    "guild_bio": null,
+    "display_bio": "I love Milk, Space, Being Scene and Chillin with my Buddies! x3c\nhttps://chimeracorner.carrd.co/\nMy noon is your <t:1688004000:t>\npfp by my friend Subnootical :3\n\nFor your Phantomile...",
+    "banner": "https://cdn.discordapp.com/banners/667170529907703819/5534b65b1da8da889c9e15a8f8ebf805.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/667170529907703819/5534b65b1da8da889c9e15a8f8ebf805.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:ww2lnahbfreh5rndwyzaanvn",
+        "name": "sugarzbunz.bsky.social",
+        "url": null
+      },
+      "ebay": {
+        "id": "K6cNNzo4RYC",
+        "name": "sugarzmouse",
+        "url": "https://www.ebay.com/usr/sugarzmouse"
+      },
+      "playstation": {
+        "id": "7324309378739872591",
+        "name": "P4R4N01D-N-DR01D",
+        "url": null
+      },
+      "spotify": {
+        "id": "12139916637",
+        "name": "Thermii",
+        "url": "https://open.spotify.com/user/12139916637"
+      },
+      "steam": {
+        "id": "76561198140317324",
+        "name": "Cinnabunny",
+        "url": "https://steamcommunity.com/profiles/76561198140317324"
+      },
+      "twitch": {
+        "id": "525706085",
+        "name": "honeypupz",
+        "url": "https://www.twitch.tv/honeypupz"
+      },
+      "xbox": {
+        "id": "3063786144196381",
+        "name": "SugarzBunz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SugarzBunz"
+      },
+      "youtube": {
+        "id": "UCX6AxCH9nFNesfR6pHeo31Q",
+        "name": "Cinnabunny",
+        "url": "https://www.youtube.com/channel/UCX6AxCH9nFNesfR6pHeo31Q"
+      }
+    },
+    "legacy_username": "Cinnabunny#6666"
+  },
+  "826218241956642847": {
+    "id": 826218241956642847,
+    "name": "marmalowl",
+    "nick": null,
+    "display_name": "marmalowl",
+    "global_name": "marmalowl",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "marmalowl#7258"
   }
 }
