@@ -24516,5 +24516,38 @@
       }
     },
     "legacy_username": "CrimsonDevil#0398"
+  },
+  "887728582909112320": {
+    "id": 887728582909112320,
+    "name": "dorpato111",
+    "nick": null,
+    "display_name": "Dorpato111",
+    "global_name": "Dorpato111",
+    "pronouns": "The end/is/never/The end/...",
+    "guild_pronouns": null,
+    "bio": "Hey  :D \n\n-Cumpleaos: <t:1737574800:R>\n-Intento de programador\n-Artista\n-Fan de Devil May Cry \n\nWhen haces tus momos en discord",
+    "guild_bio": null,
+    "display_bio": "Hey  :D \n\n-Cumpleaos: <t:1737574800:R>\n-Intento de programador\n-Artista\n-Fan de Devil May Cry \n\nWhen haces tus momos en discord",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1330342353",
+        "name": "dorpato1",
+        "url": null
+      },
+      "youtube": {
+        "id": "UCUow6Rr4opmVr_T5Kt9GYmw",
+        "name": "Dorpato111",
+        "url": "https://www.youtube.com/channel/UCUow6Rr4opmVr_T5Kt9GYmw"
+      }
+    },
+    "legacy_username": "dorpato111#6849"
   }
 }
