@@ -26978,5 +26978,28 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1018084437793198080": {
+    "id": 1018084437793198080,
+    "name": "lurxoo",
+    "nick": null,
+    "display_name": "Lurxoo_o",
+    "global_name": "Lurxoo_o",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Tw\u00f3jStaryBorowik#3515"
   }
 }
