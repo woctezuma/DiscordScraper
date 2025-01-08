@@ -24461,5 +24461,32 @@
     ],
     "connections": {},
     "legacy_username": "Puyol#8639"
+  },
+  "552123387439218689": {
+    "id": 552123387439218689,
+    "name": "ar.sh_ip",
+    "nick": null,
+    "display_name": "RicoDNX",
+    "global_name": "RicoDNX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198158307897",
+        "name": "AR.SH",
+        "url": "https://steamcommunity.com/profiles/76561198158307897"
+      }
+    },
+    "legacy_username": "Ar.sh_ip#3655"
   }
 }
