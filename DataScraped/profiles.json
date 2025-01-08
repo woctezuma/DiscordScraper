@@ -23571,5 +23571,80 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "659223562091102255": {
+    "id": 659223562091102255,
+    "name": "smoofbrain",
+    "nick": null,
+    "display_name": "smoothbrain",
+    "global_name": "smoothbrain",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "professional clown",
+    "guild_bio": null,
+    "display_bio": "professional clown",
+    "banner": "https://cdn.discordapp.com/banners/659223562091102255/2aa182c757a47179e47af40a15d1eb05.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/659223562091102255/2aa182c757a47179e47af40a15d1eb05.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "smoothbrain#8282"
+  },
+  "987408165060612158": {
+    "id": 987408165060612158,
+    "name": "jupiros",
+    "nick": null,
+    "display_name": "jupiros",
+    "global_name": "jupiros",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/987408165060612158/a_df48a025c6dd3f6553e7b02e2685dd43.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/987408165060612158/a_df48a025c6dd3f6553e7b02e2685dd43.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31svgmlthom65kedynkwm3fzxt7m",
+        "name": "mehdi jupiros",
+        "url": "https://open.spotify.com/user/31svgmlthom65kedynkwm3fzxt7m"
+      }
+    },
+    "legacy_username": null
+  },
+  "1008226485452144690": {
+    "id": 1008226485452144690,
+    "name": "hollowedtree77",
+    "nick": null,
+    "display_name": "TreeMann77",
+    "global_name": "TreeMann77",
+    "pronouns": "Patrick/Star",
+    "guild_pronouns": null,
+    "bio": "Warning: The following user contains scenes of graphic stupidity among one lifelong dumbass who tries to embarrass himself.",
+    "guild_bio": null,
+    "display_bio": "Warning: The following user contains scenes of graphic stupidity among one lifelong dumbass who tries to embarrass himself.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "HollowTree77#2976"
   }
 }
