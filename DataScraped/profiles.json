@@ -23189,5 +23189,52 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "96848785900068864": {
+    "id": 96848785900068864,
+    "name": "n.ll",
+    "nick": null,
+    "display_name": "Nell",
+    "global_name": "Nell",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "DMs welcome.",
+    "guild_bio": null,
+    "display_bio": "DMs welcome.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "603142239555944453": {
+    "id": 603142239555944453,
+    "name": "blib8099",
+    "nick": null,
+    "display_name": "African Blackman",
+    "global_name": "African Blackman",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3065292873728055",
+        "name": "Acklam Scrumt",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Acklam Scrumt"
+      }
+    },
+    "legacy_username": "blib#8099"
   }
 }
