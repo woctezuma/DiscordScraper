@@ -23277,5 +23277,76 @@
     ],
     "connections": {},
     "legacy_username": "DXM4#3796"
+  },
+  "232377530919682048": {
+    "id": 232377530919682048,
+    "name": ".k1kyo",
+    "nick": null,
+    "display_name": "K1kyo",
+    "global_name": "K1kyo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "There's nothing more than empty sheets",
+    "guild_bio": null,
+    "display_bio": "There's nothing more than empty sheets",
+    "banner": "https://cdn.discordapp.com/banners/232377530919682048/a_d58a7a774539d4b99d0489d6bca368fd.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/232377530919682048/a_d58a7a774539d4b99d0489d6bca368fd.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "K1kyo#1891",
+        "name": "K1kyo#1891",
+        "url": null
+      },
+      "riot_games": {
+        "id": "Ok7xbx1tDl9nwbTFpracFoIEGhpZWKow1x0DHtR2ZtfUrlSTteBIKFc37_dxiPev6ACa5TR02vRqyg",
+        "name": "Elsa d\u0119Arendelle#K1kyo",
+        "url": null
+      },
+      "spotify": {
+        "id": "21laci42tuvuxttgikgdiimgi",
+        "name": "Minami RenJi",
+        "url": "https://open.spotify.com/user/21laci42tuvuxttgikgdiimgi"
+      },
+      "steam": {
+        "id": "76561198346392104",
+        "name": "K1kyo",
+        "url": "https://steamcommunity.com/profiles/76561198346392104"
+      }
+    },
+    "legacy_username": "K1kyo#5029"
+  },
+  "579992643635904524": {
+    "id": 579992643635904524,
+    "name": "superslayer265",
+    "nick": null,
+    "display_name": "Superslayer265",
+    "global_name": "Superslayer265",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6112290944724344441",
+        "name": "superslayer260",
+        "url": null
+      }
+    },
+    "legacy_username": "Superslayer265#6691"
   }
 }
