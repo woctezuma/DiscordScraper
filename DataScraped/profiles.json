@@ -23840,5 +23840,131 @@
       }
     },
     "legacy_username": "Ghaz#6586"
+  },
+  "235659606351675403": {
+    "id": 235659606351675403,
+    "name": "sachi.nyan",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Sachinyan#1963",
+        "name": "Sachinyan#1963",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "jp_11420502",
+        "name": "\u5e78\u305b\u30cb\u30e3\u30f3\u30b3",
+        "url": null
+      },
+      "twitch": {
+        "id": "36004925",
+        "name": "link7448",
+        "url": "https://www.twitch.tv/link7448"
+      }
+    },
+    "legacy_username": "\u5e78\u30cb\u30e3\u30f3#6298"
+  },
+  "436151248111140865": {
+    "id": 436151248111140865,
+    "name": "aliyev.100",
+    "nick": null,
+    "display_name": "aliyev.99",
+    "global_name": "aliyev.99",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "aliyev.99#5279"
+  },
+  "86685089118826496": {
+    "id": 86685089118826496,
+    "name": "utherdoul",
+    "nick": null,
+    "display_name": "UtherDoul ",
+    "global_name": "UtherDoul ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " ",
+    "guild_bio": null,
+    "display_bio": " ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "doulWeapons#1224",
+        "name": "doulWeapons#1224",
+        "url": null
+      },
+      "spotify": {
+        "id": "doulweapons",
+        "name": "doulweapons",
+        "url": "https://open.spotify.com/user/doulweapons"
+      },
+      "steam": {
+        "id": "76561197960468328",
+        "name": "UtherDoul",
+        "url": "https://steamcommunity.com/profiles/76561197960468328"
+      },
+      "twitch": {
+        "id": "55303193",
+        "name": "doulweapons",
+        "url": "https://www.twitch.tv/doulweapons"
+      },
+      "xbox": {
+        "id": "zWL3CWdaV1r-7OdjbqTfh8cMkJyds5U2R6uhD2jC490",
+        "name": "doulWeapons",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=doulWeapons"
+      }
+    },
+    "legacy_username": "\ud83d\udc19UtherDoul\ud83e\udd91#7385"
+  },
+  "272635645493510154": {
+    "id": 272635645493510154,
+    "name": "jamppa62",
+    "nick": null,
+    "display_name": "jamppa",
+    "global_name": "jamppa",
+    "pronouns": "PASKA NAAMA",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "jamppa#6423"
   }
 }
