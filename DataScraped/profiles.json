@@ -24488,5 +24488,33 @@
       }
     },
     "legacy_username": "Ar.sh_ip#3655"
+  },
+  "586327696724852736": {
+    "id": 586327696724852736,
+    "name": "crimsondevil007",
+    "nick": null,
+    "display_name": "CrimsonDevil",
+    "global_name": "CrimsonDevil",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " Life is a lie ",
+    "guild_bio": null,
+    "display_bio": " Life is a lie ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "49252920",
+        "name": "CrimsonDevil333333",
+        "url": "https://github.com/CrimsonDevil333333"
+      }
+    },
+    "legacy_username": "CrimsonDevil#0398"
   }
 }
