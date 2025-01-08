@@ -24967,5 +24967,23 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1005165760689217706": {
+    "id": 1005165760689217706,
+    "name": "sparkling_rabbit_90673",
+    "nick": null,
+    "display_name": "R1",
+    "global_name": "R1",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
