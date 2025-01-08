@@ -24685,5 +24685,41 @@
       }
     },
     "legacy_username": "Litax#5972"
+  },
+  "1326520027301543936": {
+    "id": 1326520027301543936,
+    "name": "alencar616_99382",
+    "nick": null,
+    "display_name": "Alencar616",
+    "global_name": "Alencar616",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "716380617411133441": {
+    "id": 716380617411133441,
+    "name": "sulaco_vua",
+    "nick": null,
+    "display_name": "Sulaco_Vua",
+    "global_name": "Sulaco_Vua",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
