@@ -27532,5 +27532,27 @@
     ],
     "connections": {},
     "legacy_username": "marmalowl#7258"
+  },
+  "589009214106763264": {
+    "id": 589009214106763264,
+    "name": "menthol3741",
+    "nick": null,
+    "display_name": "Alaric Saltzman",
+    "global_name": "Alaric Saltzman",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Never ride faster than your guardian angel can fly.",
+    "guild_bio": null,
+    "display_bio": "Never ride faster than your guardian angel can fly.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Menthol#3741"
   }
 }
