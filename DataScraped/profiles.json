@@ -26518,5 +26518,25 @@
       }
     },
     "legacy_username": "odiv#9029"
+  },
+  "440584511772688386": {
+    "id": 440584511772688386,
+    "name": ".zdec",
+    "nick": null,
+    "display_name": "Zdec",
+    "global_name": "Zdec",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Zdec#9004"
   }
 }
