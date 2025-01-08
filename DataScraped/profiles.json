@@ -25832,5 +25832,25 @@
       }
     },
     "legacy_username": null
+  },
+  "548598157429178370": {
+    "id": 548598157429178370,
+    "name": "aleksa8310",
+    "nick": null,
+    "display_name": "Aleksa",
+    "global_name": "Aleksa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Kapa glavu cuva, a nakurnjak celu familiju!",
+    "guild_bio": null,
+    "display_bio": "Kapa glavu cuva, a nakurnjak celu familiju!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Aleksa#8310"
   }
 }
