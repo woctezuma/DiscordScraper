@@ -23734,5 +23734,42 @@
       }
     },
     "legacy_username": "Sunset#0911"
+  },
+  "432900753925865483": {
+    "id": 432900753925865483,
+    "name": ".teshin",
+    "nick": null,
+    "display_name": "Teshin",
+    "global_name": "Teshin",
+    "pronouns": "\u0628\u0627\u0639",
+    "guild_pronouns": null,
+    "bio": "INTJ\nThe less you care, the happier you will be.",
+    "guild_bio": null,
+    "display_bio": "INTJ\nThe less you care, the happier you will be.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "eYer4Qm64HZnVq0qtuWDA4dedK8eeYM1eZSn_VOQLyLcESxhQol1dtpny6-2D_AY5AJ6Cqa025timg",
+        "name": "TeshinDax10Zro#TenO",
+        "url": null
+      },
+      "riot_games": {
+        "id": "eYer4Qm64HZnVq0qtuWDA4dedK8eeYM1eZSn_VOQLyLcESxhQol1dtpny6-2D_AY5AJ6Cqa025timg",
+        "name": "TeshinDax10Zro#TenO",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198150641582",
+        "name": "teshin",
+        "url": "https://steamcommunity.com/profiles/76561198150641582"
+      }
+    },
+    "legacy_username": "Teshin#7376"
   }
 }
