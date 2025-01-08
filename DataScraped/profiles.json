@@ -24985,5 +24985,36 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1272942365887430796": {
+    "id": 1272942365887430796,
+    "name": "hinata258_23440",
+    "nick": null,
+    "display_name": "Hinata",
+    "global_name": "Hinata",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": " .   .  .      . .   .  . \ntrust must never be betrayed\nhope must never be squandered",
+    "guild_bio": null,
+    "display_bio": " .   .  .      . .   .  . \ntrust must never be betrayed\nhope must never be squandered",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "76fc78c2-31c3-59eb-a57f-70d6286f61a4",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "spotify": {
+        "id": "317v6abi6t2i5t4loprqbm5acrdu",
+        "name": "Hinata William",
+        "url": "https://open.spotify.com/user/317v6abi6t2i5t4loprqbm5acrdu"
+      }
+    },
+    "legacy_username": null
   }
 }
