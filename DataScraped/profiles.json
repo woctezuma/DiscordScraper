@@ -26239,5 +26239,25 @@
       }
     },
     "legacy_username": null
+  },
+  "796182768643997737": {
+    "id": 796182768643997737,
+    "name": "eightbitrambo",
+    "nick": null,
+    "display_name": "EightBitRambo",
+    "global_name": "EightBitRambo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "___mark___#3745"
   }
 }
