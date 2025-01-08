@@ -26079,5 +26079,92 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "262984048278896641": {
+    "id": 262984048278896641,
+    "name": "slyderrr",
+    "nick": null,
+    "display_name": "slydeR",
+    "global_name": "slydeR",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "315vvmwor7ep4vg4fwtrfgzliqy4",
+        "name": "slydeRRR",
+        "url": "https://open.spotify.com/user/315vvmwor7ep4vg4fwtrfgzliqy4"
+      },
+      "steam": {
+        "id": "76561198108144941",
+        "name": "SLDR \u273f waiting for beta",
+        "url": "https://steamcommunity.com/profiles/76561198108144941"
+      },
+      "twitch": {
+        "id": "76134808",
+        "name": "slyderrr_",
+        "url": "https://www.twitch.tv/slyderrr_"
+      },
+      "twitter": {
+        "id": "855935486",
+        "name": "slyde1R",
+        "url": "https://twitter.com/slyde1R"
+      }
+    },
+    "legacy_username": "slyde!R#3447"
+  },
+  "278883682310160384": {
+    "id": 278883682310160384,
+    "name": "highfiveturtle",
+    "nick": null,
+    "display_name": "highfiveturtle",
+    "global_name": "highfiveturtle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198001015469",
+        "name": "Angelo",
+        "url": "https://steamcommunity.com/profiles/76561198001015469"
+      }
+    },
+    "legacy_username": "highfiveturtle#1559"
+  },
+  "1178320904195936269": {
+    "id": 1178320904195936269,
+    "name": "batcraftman",
+    "nick": null,
+    "display_name": "Batcraftman",
+    "global_name": "Batcraftman",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Always Game with Razer.\n\nIf you did not you should realy watch The Dark Knight.\n\nVisit my server: The Batcrafters\nhttps://discord.gg/cfc3HfbA",
+    "guild_bio": null,
+    "display_bio": "Always Game with Razer.\n\nIf you did not you should realy watch The Dark Knight.\n\nVisit my server: The Batcrafters\nhttps://discord.gg/cfc3HfbA",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
