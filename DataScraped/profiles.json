@@ -23535,5 +23535,41 @@
       }
     },
     "legacy_username": "wastedwizard#2825"
+  },
+  "1256100592774938709": {
+    "id": 1256100592774938709,
+    "name": "olivera_duck",
+    "nick": null,
+    "display_name": "OliveDuck",
+    "global_name": "OliveDuck",
+    "pronouns": "Me/MySelf",
+    "guild_pronouns": null,
+    "bio": "Im an empty shell. Theres nothing inside me at all",
+    "guild_bio": null,
+    "display_bio": "Im an empty shell. Theres nothing inside me at all",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1153412564772978719": {
+    "id": 1153412564772978719,
+    "name": "heavenly_peacock_11057",
+    "nick": null,
+    "display_name": "mo",
+    "global_name": "mo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
