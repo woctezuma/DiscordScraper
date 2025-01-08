@@ -23348,5 +23348,159 @@
       }
     },
     "legacy_username": "Superslayer265#6691"
+  },
+  "656517362031394846": {
+    "id": 656517362031394846,
+    "name": "darthjimbolio",
+    "nick": null,
+    "display_name": "DarthJimbolio",
+    "global_name": "DarthJimbolio",
+    "pronouns": "I will consume all",
+    "guild_pronouns": null,
+    "bio": "dont care. CURSE OF RA                                              \n\n\n !\n",
+    "guild_bio": null,
+    "display_bio": "dont care. CURSE OF RA                                              \n\n\n !\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "yf79cm2b53bhl7v92gpegwqlm",
+        "name": "neversurrender7",
+        "url": "https://open.spotify.com/user/yf79cm2b53bhl7v92gpegwqlm"
+      },
+      "steam": {
+        "id": "76561199077748392",
+        "name": "jleddy0114",
+        "url": "https://steamcommunity.com/profiles/76561199077748392"
+      },
+      "twitch": {
+        "id": "496890455",
+        "name": "yourchoicestranger",
+        "url": "https://www.twitch.tv/yourchoicestranger"
+      },
+      "youtube": {
+        "id": "UCi1y_WZRAjviKQEJFZ1lByw",
+        "name": "neversurrender7",
+        "url": "https://www.youtube.com/channel/UCi1y_WZRAjviKQEJFZ1lByw"
+      }
+    },
+    "legacy_username": "The Enigmatic Cotton Eye Joe#0958"
+  },
+  "167851266758803456": {
+    "id": 167851266758803456,
+    "name": "clashmanthethird",
+    "nick": null,
+    "display_name": "yensid",
+    "global_name": "yensid",
+    "pronouns": "he/he/he/he/ha/ha/ha/ho/ho/ho!",
+    "guild_pronouns": null,
+    "bio": "my political opinion: i'm pro-death",
+    "guild_bio": null,
+    "display_bio": "my political opinion: i'm pro-death",
+    "banner": "https://cdn.discordapp.com/banners/167851266758803456/a_11f0ddc46c55f083d8916431f3338721.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/167851266758803456/a_11f0ddc46c55f083d8916431f3338721.gif?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "yensid megmas#8074"
+  },
+  "391294794703568897": {
+    "id": 391294794703568897,
+    "name": "s4it4ma",
+    "nick": null,
+    "display_name": "S4IT4M4",
+    "global_name": "S4IT4M4",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "7d688fb941c2437ea10847e9f9927955",
+        "name": "Andrefff",
+        "url": null
+      },
+      "spotify": {
+        "id": "s4kbkxe8uxtebukyjcoyqm9sd",
+        "name": "Andr\u00e9 SAITAMA",
+        "url": "https://open.spotify.com/user/s4kbkxe8uxtebukyjcoyqm9sd"
+      },
+      "twitch": {
+        "id": "420940277",
+        "name": "s4it4m4_",
+        "url": "https://www.twitch.tv/s4it4m4_"
+      },
+      "twitter": {
+        "id": "811942878410932226",
+        "name": "Saitama_Andre",
+        "url": "https://twitter.com/Saitama_Andre"
+      },
+      "xbox": {
+        "id": "3069315571968576",
+        "name": "Saitama5359",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Saitama5359"
+      }
+    },
+    "legacy_username": "\u0abd\u03b1I\u01ac\u03b1\u028d\u03b1\u72e0#2714"
+  },
+  "870196521386254336": {
+    "id": 870196521386254336,
+    "name": "buhts",
+    "nick": null,
+    "display_name": "buhts",
+    "global_name": "buhts",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "D:",
+    "guild_bio": null,
+    "display_bio": "D:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199194376894",
+        "name": "Buhts",
+        "url": "https://steamcommunity.com/profiles/76561199194376894"
+      }
+    },
+    "legacy_username": "buhts#1618"
+  },
+  "482993010460590080": {
+    "id": 482993010460590080,
+    "name": "va6405",
+    "nick": null,
+    "display_name": "va6405",
+    "global_name": "va6405",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
