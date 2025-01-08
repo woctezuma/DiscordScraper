@@ -23771,5 +23771,31 @@
       }
     },
     "legacy_username": "Teshin#7376"
+  },
+  "391188506854162433": {
+    "id": 391188506854162433,
+    "name": "azlankhid",
+    "nick": null,
+    "display_name": "Azlan",
+    "global_name": "Azlan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "1075250994",
+        "name": "azlankhid",
+        "url": "https://www.twitch.tv/azlankhid"
+      }
+    },
+    "legacy_username": null
   }
 }
