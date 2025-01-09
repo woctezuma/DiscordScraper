@@ -30028,5 +30028,111 @@
     ],
     "connections": {},
     "legacy_username": "ElighaN#8251"
+  },
+  "439524176299163649": {
+    "id": 439524176299163649,
+    "name": "pitchy360",
+    "nick": null,
+    "display_name": "pitchy",
+    "global_name": "pitchy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<t:1124344800:D>",
+    "guild_bio": null,
+    "display_bio": "<t:1124344800:D>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "87212166",
+        "name": "PitchyATree",
+        "url": "https://github.com/PitchyATree"
+      },
+      "league_of_legends": {
+        "id": "ljKVij9sVU0kiBXL3r6mCLcJCm8f4EsQXeGig8OHCsvbHQNpofbkLSYN4GJkY2GL29jkdy5emgthIw",
+        "name": "pitchy360#EUW",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "5429651576",
+        "name": "LeagueOfLegendMyDru9",
+        "url": null
+      },
+      "twitch": {
+        "id": "262960022",
+        "name": "pitchythetree",
+        "url": "https://www.twitch.tv/pitchythetree"
+      },
+      "youtube": {
+        "id": "UCwgdgcECjJXt0xEAUlz5NtQ",
+        "name": "PitchLol",
+        "url": "https://www.youtube.com/channel/UCwgdgcECjJXt0xEAUlz5NtQ"
+      }
+    },
+    "legacy_username": "\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df\u20df#3385"
+  },
+  "1020100006507724831": {
+    "id": 1020100006507724831,
+    "name": "michaeldors",
+    "nick": null,
+    "display_name": "Michael Dors",
+    "global_name": "Michael Dors",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "sometimes when im not busy with stuff i do some other stuff\n\nhttps://michaeldors.com",
+    "guild_bio": null,
+    "display_bio": "sometimes when im not busy with stuff i do some other stuff\n\nhttps://michaeldors.com",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "tarea.works",
+        "name": "tarea.works",
+        "url": null
+      },
+      "ebay": {
+        "id": "kx8uhujtqd2",
+        "name": "micdo_3580",
+        "url": "https://www.ebay.com/usr/micdo_3580"
+      },
+      "epic_games": {
+        "id": "7c4eb06e196242569386dc16e21c04f0",
+        "name": "GravityGames360",
+        "url": null
+      },
+      "github": {
+        "id": "115369454",
+        "name": "MichaelDors",
+        "url": "https://github.com/MichaelDors"
+      },
+      "steam": {
+        "id": "76561199141585090",
+        "name": "GravityGames360",
+        "url": "https://steamcommunity.com/profiles/76561199141585090"
+      },
+      "xbox": {
+        "id": "3078610802338141",
+        "name": "GravityGames360",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=GravityGames360"
+      },
+      "youtube": {
+        "id": "UCJlmMrdZa6T0EO-NpseUcRw",
+        "name": "Michael Dors",
+        "url": "https://www.youtube.com/channel/UCJlmMrdZa6T0EO-NpseUcRw"
+      }
+    },
+    "legacy_username": "MichaelD#1659"
   }
 }
