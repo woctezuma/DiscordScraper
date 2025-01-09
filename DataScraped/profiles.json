@@ -31064,5 +31064,127 @@
       }
     },
     "legacy_username": "happyfre#9858"
+  },
+  "765068510036099115": {
+    "id": 765068510036099115,
+    "name": "quangzz3",
+    "nick": null,
+    "display_name": "quangzz3",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "quangzz3#5526"
+  },
+  "1298031875973189706": {
+    "id": 1298031875973189706,
+    "name": "lockedash03z",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "He/Him - Clown/Idiot",
+    "guild_pronouns": null,
+    "bio": "  / 22 Years/ ADHD\nPersonal & ERP/RP Account\n- Art/Image/Video Creator&Design\n- Marketing Degree\n- YouTube Consultant\n\nhttps://www.furaffinity.net/gallery/furryestx/",
+    "guild_bio": null,
+    "display_bio": "  / 22 Years/ ADHD\nPersonal & ERP/RP Account\n- Art/Image/Video Creator&Design\n- Marketing Degree\n- YouTube Consultant\n\nhttps://www.furaffinity.net/gallery/furryestx/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:p3qqtsypgrnbcehqzc7zscuq",
+        "name": "furryestx.bsky.social",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "tTKIrkiWPUVSvXK_vptHDP-Or3yOqmejFJAxadhZg-FcZjNFnO6QJCEZ5jAF7cJk6y8sGSbdao5RtQ",
+        "name": "FurryestX#1004",
+        "url": null
+      },
+      "playstation": {
+        "id": "7222241479272279514",
+        "name": "FurryestX",
+        "url": null
+      },
+      "riot_games": {
+        "id": "tTKIrkiWPUVSvXK_vptHDP-Or3yOqmejFJAxadhZg-FcZjNFnO6QJCEZ5jAF7cJk6y8sGSbdao5RtQ",
+        "name": "FurryestX#1004",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198799208497",
+        "name": "FurryestX",
+        "url": "https://steamcommunity.com/profiles/76561198799208497"
+      },
+      "twitch": {
+        "id": "462552142",
+        "name": "furryest_x",
+        "url": "https://www.twitch.tv/furryest_x"
+      },
+      "twitter": {
+        "id": "1275359511830724609",
+        "name": "x_furryest",
+        "url": "https://twitter.com/x_furryest"
+      },
+      "xbox": {
+        "id": "3065037015658557",
+        "name": "FurryestX",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=FurryestX"
+      },
+      "youtube": {
+        "id": "UCx-vBwu1AHh5qpHWxaMPSsw",
+        "name": "FurryestX",
+        "url": "https://www.youtube.com/channel/UCx-vBwu1AHh5qpHWxaMPSsw"
+      }
+    },
+    "legacy_username": null
+  },
+  "708014079050252348": {
+    "id": 708014079050252348,
+    "name": "_ermen",
+    "nick": null,
+    "display_name": "Ermen",
+    "global_name": "Ermen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3435940099286336468",
+        "name": "Ermen-PY",
+        "url": null
+      },
+      "spotify": {
+        "id": "ermen-py",
+        "name": "Ermen",
+        "url": "https://open.spotify.com/user/ermen-py"
+      },
+      "steam": {
+        "id": "76561199051383891",
+        "name": "Ermen",
+        "url": "https://steamcommunity.com/profiles/76561199051383891"
+      }
+    },
+    "legacy_username": "Ermen#9901"
   }
 }
