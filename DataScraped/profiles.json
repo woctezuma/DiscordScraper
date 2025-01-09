@@ -30878,5 +30878,96 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "325632601509330944": {
+    "id": 325632601509330944,
+    "name": "xalvalar",
+    "nick": null,
+    "display_name": "t-blade",
+    "global_name": "t-blade",
+    "pronouns": "eXperimental Variable Airframe",
+    "guild_pronouns": null,
+    "bio": "> :. Yes, the hardworking blade guy\n> :. Daily Leaderboard Advocate\n> :. Arch Nemesis of speedrunners /j\n> :. Avoids sweats at all costs\n> :. Bnuy/Koala\n\n> :. pfp by @fuwazeeky",
+    "guild_bio": null,
+    "display_bio": "> :. Yes, the hardworking blade guy\n> :. Daily Leaderboard Advocate\n> :. Arch Nemesis of speedrunners /j\n> :. Avoids sweats at all costs\n> :. Bnuy/Koala\n\n> :. pfp by @fuwazeeky",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "t-blade#0327"
+  },
+  "688706568363180084": {
+    "id": 688706568363180084,
+    "name": "fkatar",
+    "nick": null,
+    "display_name": "Fkatar",
+    "global_name": "Fkatar",
+    "pronouns": "THEY / DON\u00b4T KNOW ME SON",
+    "guild_pronouns": null,
+    "bio": "Hammer Down",
+    "guild_bio": null,
+    "display_bio": "Hammer Down",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "sbb9dbtpp5fkjlc4cmg8dk6of",
+        "name": "Fkatar",
+        "url": "https://open.spotify.com/user/sbb9dbtpp5fkjlc4cmg8dk6of"
+      }
+    },
+    "legacy_username": "Fkatar#9832"
+  },
+  "623301885058744370": {
+    "id": 623301885058744370,
+    "name": "aka__ghost",
+    "nick": null,
+    "display_name": "GHOST",
+    "global_name": "GHOST",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/623301885058744370/28900a78a424ab0856fdd537f90e69d8.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/623301885058744370/28900a78a424ab0856fdd537f90e69d8.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "3d413a93cb1e483b836ce9ed76bfade8",
+        "name": "SOM-ARMY",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199060532365",
+        "name": "MALI-GHOST",
+        "url": "https://steamcommunity.com/profiles/76561199060532365"
+      },
+      "tiktok": {
+        "id": "d1b716bc-064f-5915-9564-dc7ce5c6bc9f",
+        "name": "som_gamers",
+        "url": "https://tiktok.com/@som_gamers"
+      },
+      "xbox": {
+        "id": "3068949611144872",
+        "name": "SomaliGaming",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SomaliGaming"
+      }
+    },
+    "legacy_username": null
   }
 }
