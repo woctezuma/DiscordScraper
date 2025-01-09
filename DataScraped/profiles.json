@@ -30785,5 +30785,36 @@
       }
     },
     "legacy_username": "Ur_cauz#8027"
+  },
+  "426443232923090953": {
+    "id": 426443232923090953,
+    "name": "n1geus",
+    "nick": null,
+    "display_name": "n1geus",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197961854919",
+        "name": "CS2 Beta Pls",
+        "url": "https://steamcommunity.com/profiles/76561197961854919"
+      },
+      "twitch": {
+        "id": "81161739",
+        "name": "sonofsaiyajin",
+        "url": "https://www.twitch.tv/sonofsaiyajin"
+      }
+    },
+    "legacy_username": "Nigeus#4910"
   }
 }
