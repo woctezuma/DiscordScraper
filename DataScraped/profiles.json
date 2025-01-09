@@ -27554,5 +27554,106 @@
     ],
     "connections": {},
     "legacy_username": "Menthol#3741"
+  },
+  "257345454528790529": {
+    "id": 257345454528790529,
+    "name": ".bobbee",
+    "nick": null,
+    "display_name": "Bob-Bee",
+    "global_name": "Bob-Bee",
+    "pronouns": "Im so tired.",
+    "guild_pronouns": null,
+    "bio": "You lost the game ",
+    "guild_bio": null,
+    "display_bio": "You lost the game ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Bob-Bee#3854"
+  },
+  "330927672530173952": {
+    "id": 330927672530173952,
+    "name": "itz_thatoneguy",
+    "nick": null,
+    "display_name": "iTz_ThatOneGuy",
+    "global_name": "iTz_ThatOneGuy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "4242da7ca4fc480cadf59987dcc60099",
+        "name": "iTz_ThatOneGuy",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198175969275",
+        "name": "iTz_xThatOneGuy",
+        "url": "https://steamcommunity.com/profiles/76561198175969275"
+      },
+      "twitch": {
+        "id": "87907875",
+        "name": "itz_xthatoneguy",
+        "url": "https://www.twitch.tv/itz_xthatoneguy"
+      },
+      "youtube": {
+        "id": "UC2RsgHmIgsxi2cvgfPsSLhg",
+        "name": "ThatOneGuy",
+        "url": "https://www.youtube.com/channel/UC2RsgHmIgsxi2cvgfPsSLhg"
+      }
+    },
+    "legacy_username": "iTz_xThatOneGuy#9656"
+  },
+  "768223911031734322": {
+    "id": 768223911031734322,
+    "name": "guesswhobingus",
+    "nick": null,
+    "display_name": "GuesswhoBingus",
+    "global_name": "GuesswhoBingus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hey guys number #1 virgin here",
+    "guild_bio": null,
+    "display_bio": "Hey guys number #1 virgin here",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199194029068",
+        "name": "Big Bingus",
+        "url": "https://steamcommunity.com/profiles/76561199194029068"
+      },
+      "tiktok": {
+        "id": "91557963-fb40-574a-842e-cd17358e38fe",
+        "name": "dapdapbingus",
+        "url": "https://tiktok.com/@dapdapbingus"
+      },
+      "xbox": {
+        "id": "3070735386429930",
+        "name": "Boxbingus",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Boxbingus"
+      }
+    },
+    "legacy_username": "GuesswhoBingus#6658"
   }
 }
