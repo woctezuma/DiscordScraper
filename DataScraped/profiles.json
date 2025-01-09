@@ -30816,5 +30816,47 @@
       }
     },
     "legacy_username": "Nigeus#4910"
+  },
+  "1316174057376583770": {
+    "id": 1316174057376583770,
+    "name": "galaxiie4",
+    "nick": null,
+    "display_name": "galaxiie4",
+    "global_name": "galaxiie4",
+    "pronouns": "big wo-boy",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "1etg9ob90t",
+        "name": "galaxiie4",
+        "url": "https://www.reddit.com/u/galaxiie4"
+      },
+      "steam": {
+        "id": "76561199809711322",
+        "name": "galaxiie4 [Janek]",
+        "url": "https://steamcommunity.com/profiles/76561199809711322"
+      },
+      "twitch": {
+        "id": "1215605587",
+        "name": "galaxiie4",
+        "url": "https://www.twitch.tv/galaxiie4"
+      },
+      "xbox": {
+        "id": "3067756508036745",
+        "name": "galaxiie4",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=galaxiie4"
+      }
+    },
+    "legacy_username": null
   }
 }
