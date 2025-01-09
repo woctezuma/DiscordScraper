@@ -28149,5 +28149,50 @@
       }
     },
     "legacy_username": null
+  },
+  "1084966406338130030": {
+    "id": 1084966406338130030,
+    "name": "thatortilla",
+    "nick": null,
+    "display_name": "G",
+    "global_name": "G",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199013905687",
+        "name": "Tortilla",
+        "url": "https://steamcommunity.com/profiles/76561199013905687"
+      }
+    },
+    "legacy_username": "thatortilla#9133"
+  },
+  "284885264093151233": {
+    "id": 284885264093151233,
+    "name": "otterluff",
+    "nick": null,
+    "display_name": "Otter",
+    "global_name": "Otter",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
