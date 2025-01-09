@@ -30708,5 +30708,35 @@
       }
     },
     "legacy_username": "lenbow#6289"
+  },
+  "676156762457374742": {
+    "id": 676156762457374742,
+    "name": "dudis",
+    "nick": null,
+    "display_name": "dudis",
+    "global_name": "dudis",
+    "pronouns": "any",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/676156762457374742/a_04ee3e7a0f1d3989748911e840c25828.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/676156762457374742/a_04ee3e7a0f1d3989748911e840c25828.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199095755744",
+        "name": "Dudis",
+        "url": "https://steamcommunity.com/profiles/76561199095755744"
+      }
+    },
+    "legacy_username": "dudis#0001"
   }
 }
