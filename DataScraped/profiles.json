@@ -31306,5 +31306,39 @@
       }
     },
     "legacy_username": null
+  },
+  "785558277080875059": {
+    "id": 785558277080875059,
+    "name": "madvalkyrieo7",
+    "nick": null,
+    "display_name": "Madelaine",
+    "global_name": "Madelaine",
+    "pronouns": "she/her, pathetic/spineless (/lyr)",
+    "guild_pronouns": null,
+    "bio": "big fan of boat pronouns",
+    "guild_bio": null,
+    "display_bio": "big fan of boat pronouns",
+    "banner": "https://cdn.discordapp.com/banners/785558277080875059/d0fa495a1e734734e014317aadb6b9d5.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/785558277080875059/d0fa495a1e734734e014317aadb6b9d5.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "396344dd-6901-577d-9643-3d9ae6de76e8",
+        "name": "Seven_aguliik",
+        "url": null
+      },
+      "spotify": {
+        "id": "explodingminecrafttnt",
+        "name": "MADValkyrieo7",
+        "url": "https://open.spotify.com/user/explodingminecrafttnt"
+      }
+    },
+    "legacy_username": "MADValkyrieo7#0707"
   }
 }
