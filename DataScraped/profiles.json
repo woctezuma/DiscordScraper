@@ -28417,5 +28417,25 @@
       }
     },
     "legacy_username": "noNhead#5104"
+  },
+  "552347307144642571": {
+    "id": 552347307144642571,
+    "name": "hunter0263",
+    "nick": null,
+    "display_name": "hunter",
+    "global_name": "hunter",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "hunter#3344"
   }
 }
