@@ -31252,5 +31252,59 @@
       }
     },
     "legacy_username": "Asthmathicc#1908"
+  },
+  "948458012572536833": {
+    "id": 948458012572536833,
+    "name": "souwestninja",
+    "nick": null,
+    "display_name": "Zenitharium",
+    "global_name": "Zenitharium",
+    "pronouns": "Big brain, I like calculus",
+    "guild_pronouns": null,
+    "bio": "Hello",
+    "guild_bio": null,
+    "display_bio": "Hello",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Souwestninja#9910"
+  },
+  "1017097218982944798": {
+    "id": 1017097218982944798,
+    "name": "lappi371",
+    "nick": null,
+    "display_name": "lappi371",
+    "global_name": "lappi371",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_roblox": {
+        "id": "7285033492",
+        "name": "lappi327",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199635416685",
+        "name": "lappi371",
+        "url": "https://steamcommunity.com/profiles/76561199635416685"
+      },
+      "xbox": {
+        "id": "3070972829762714",
+        "name": "lappi371",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=lappi371"
+      }
+    },
+    "legacy_username": null
   }
 }
