@@ -29518,5 +29518,91 @@
       }
     },
     "legacy_username": "\u566f\u54b3#8783"
+  },
+  "742860473887752222": {
+    "id": 742860473887752222,
+    "name": "hopa26",
+    "nick": null,
+    "display_name": "hopa267",
+    "global_name": "hopa267",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3068909143372437",
+        "name": "hopa267",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=hopa267"
+      }
+    },
+    "legacy_username": "hopa267#4677"
+  },
+  "747456717364920372": {
+    "id": 747456717364920372,
+    "name": "vipshp",
+    "nick": null,
+    "display_name": "vip&hp",
+    "global_name": "vip&hp",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "ko c j  xem c",
+    "guild_bio": null,
+    "display_bio": "ko c j  xem c",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "46o7zp2f421vsuavf64sojvhe",
+        "name": "vipshp",
+        "url": "https://open.spotify.com/user/46o7zp2f421vsuavf64sojvhe"
+      },
+      "steam": {
+        "id": "76561199088821262",
+        "name": "vipshp",
+        "url": "https://steamcommunity.com/profiles/76561199088821262"
+      },
+      "twitch": {
+        "id": "739233553",
+        "name": "kenduzz123",
+        "url": "https://www.twitch.tv/kenduzz123"
+      },
+      "youtube": {
+        "id": "UCz61RdhWmBOEb_4zh2aUz8w",
+        "name": "Huy Nguyen",
+        "url": "https://www.youtube.com/channel/UCz61RdhWmBOEb_4zh2aUz8w"
+      }
+    },
+    "legacy_username": "vip&hp#8544"
+  },
+  "1326917283074805811": {
+    "id": 1326917283074805811,
+    "name": "jgfh_90643",
+    "nick": null,
+    "display_name": "jgfh",
+    "global_name": "jgfh",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
