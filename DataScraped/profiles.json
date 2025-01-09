@@ -28683,5 +28683,65 @@
       }
     },
     "legacy_username": null
+  },
+  "1294560752232829069": {
+    "id": 1294560752232829069,
+    "name": "yoyobless",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "669969958272237589": {
+    "id": 669969958272237589,
+    "name": "calm_gxblackninja",
+    "nick": null,
+    "display_name": "Saaakkin",
+    "global_name": "Saaakkin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "J'aime jouer et sortir entre potes",
+    "guild_bio": null,
+    "display_bio": "J'aime jouer et sortir entre potes",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Calm_GxBlackNinja#4437"
+  },
+  "896666848098131998": {
+    "id": 896666848098131998,
+    "name": "lempereurdumonde",
+    "nick": null,
+    "display_name": "l'empereur",
+    "global_name": "l'empereur",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "l'empereur#5334"
   }
 }
