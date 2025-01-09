@@ -27830,5 +27830,97 @@
       }
     },
     "legacy_username": "Anthony_frfr#8794"
+  },
+  "630809952935608340": {
+    "id": 630809952935608340,
+    "name": ".3nov.",
+    "nick": null,
+    "display_name": "   .",
+    "global_name": "   .",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Too Sweet\n1:02  4:11\n                      ",
+    "guild_bio": null,
+    "display_bio": "Too Sweet\n1:02  4:11\n                      ",
+    "banner": "https://cdn.discordapp.com/banners/630809952935608340/a_13a69750946bd8f6718d4e3da8b4a622.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/630809952935608340/a_13a69750946bd8f6718d4e3da8b4a622.gif?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31v5c44syrymcdxtcdi3trmof5ly",
+        "name": "jk.3nov",
+        "url": "https://open.spotify.com/user/31v5c44syrymcdxtcdi3trmof5ly"
+      },
+      "twitch": {
+        "id": "558068804",
+        "name": "solaraloom",
+        "url": "https://www.twitch.tv/solaraloom"
+      }
+    },
+    "legacy_username": null
+  },
+  "745680648462663750": {
+    "id": 745680648462663750,
+    "name": "liama05",
+    "nick": null,
+    "display_name": "Liama05",
+    "global_name": "Liama05",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://youtu.be/dQw4w9WgXcQ  \n:Jammies:",
+    "guild_bio": null,
+    "display_bio": "https://youtu.be/dQw4w9WgXcQ  \n:Jammies:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31rztnv3knhhnnr2sxxypxhzgsj4",
+        "name": "Liama05",
+        "url": "https://open.spotify.com/user/31rztnv3knhhnnr2sxxypxhzgsj4"
+      },
+      "twitch": {
+        "id": "558579989",
+        "name": "liama0505",
+        "url": "https://www.twitch.tv/liama0505"
+      },
+      "xbox": {
+        "id": "NzhkNTVjMzIxODdhZDFmMjA1YTIyMTM0Y2NiZmU3YzM5YjczODY2MjQ1ZGUxZWU3Yjk0Y2VmMjdlODBiNGMwMg",
+        "name": "Liama05050",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Liama05050"
+      }
+    },
+    "legacy_username": "liama05#0859"
+  },
+  "1324826182860148837": {
+    "id": 1324826182860148837,
+    "name": "_.slice._",
+    "nick": null,
+    "display_name": "Slice",
+    "global_name": "Slice",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
