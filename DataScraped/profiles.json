@@ -30738,5 +30738,52 @@
       }
     },
     "legacy_username": "dudis#0001"
+  },
+  "983538163874144276": {
+    "id": 983538163874144276,
+    "name": "ur_cauz",
+    "nick": null,
+    "display_name": "cauz (A Bag)",
+    "global_name": "cauz (A Bag)",
+    "pronouns": "A Bag",
+    "guild_pronouns": null,
+    "bio": ":all_discord_badges_gif: Overthinking :all_discord_badges_gif:           ||https://discord.gg/bnrWsaJ5y9 ||",
+    "guild_bio": null,
+    "display_bio": ":all_discord_badges_gif: Overthinking :all_discord_badges_gif:           ||https://discord.gg/bnrWsaJ5y9 ||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "5220861361350441",
+        "name": "ur_cauz",
+        "url": "https://www.instagram.com/ur_cauz"
+      },
+      "reddit": {
+        "id": "97g18zwoh",
+        "name": "Ur_cauz",
+        "url": "https://www.reddit.com/u/Ur_cauz"
+      },
+      "spotify": {
+        "id": "3144tjk3dvtqffvckgujumysudji",
+        "name": "Ur_cauz",
+        "url": "https://open.spotify.com/user/3144tjk3dvtqffvckgujumysudji"
+      },
+      "steam": {
+        "id": "76561199498108049",
+        "name": "Ur_cauz",
+        "url": "https://steamcommunity.com/profiles/76561199498108049"
+      },
+      "youtube": {
+        "id": "UC2rb4KTw_2LX-krDevwCoBw",
+        "name": "Ur_cauz",
+        "url": "https://www.youtube.com/channel/UC2rb4KTw_2LX-krDevwCoBw"
+      }
+    },
+    "legacy_username": "Ur_cauz#8027"
   }
 }
