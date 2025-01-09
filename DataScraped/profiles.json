@@ -27922,5 +27922,58 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "791797807353823242": {
+    "id": 791797807353823242,
+    "name": "juddrogers",
+    "nick": null,
+    "display_name": "JuddRogers",
+    "global_name": "JuddRogers",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "JuddRogers#8847"
+  },
+  "549716894328815627": {
+    "id": 549716894328815627,
+    "name": "happythx",
+    "nick": null,
+    "display_name": "woah",
+    "global_name": "woah",
+    "pronouns": "lazy/lazier",
+    "guild_pronouns": null,
+    "bio": "Treasure what you have, for it will all be gone one day.\n\n",
+    "guild_bio": null,
+    "display_bio": "Treasure what you have, for it will all be gone one day.\n\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "bngegfa74d7zp1iey8789v2sr",
+        "name": "Horace Z.",
+        "url": "https://open.spotify.com/user/bngegfa74d7zp1iey8789v2sr"
+      },
+      "steam": {
+        "id": "76561198395215786",
+        "name": "horace-zeng",
+        "url": "https://steamcommunity.com/profiles/76561198395215786"
+      }
+    },
+    "legacy_username": "HappyThx#5469"
   }
 }
