@@ -29138,5 +29138,91 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "602525521271586817": {
+    "id": 602525521271586817,
+    "name": "rory_dk",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "All\u00e9",
+    "guild_pronouns": null,
+    "bio": " This user is under investigation by the FCC, FBI, FIB and Interpol for hacking the US nave, the Pentagon and France.\n\n`Certified professional Hacker`",
+    "guild_bio": null,
+    "display_bio": " This user is under investigation by the FCC, FBI, FIB and Interpol for hacking the US nave, the Pentagon and France.\n\n`Certified professional Hacker`",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4327000219242818744",
+        "name": "trekvart_sider",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198978844360",
+        "name": "rory",
+        "url": "https://steamcommunity.com/profiles/76561198978844360"
+      },
+      "xbox": {
+        "id": "OTQ1N2Q1ZTBmYWM3NzEyYjAxZWRlNTBjZjBmMDJmNzQzMjFhYjZlZGUyNWQyNDI3OTExMWMwYjE1MDBjMWRlOQ",
+        "name": "DeicticBroom235",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DeicticBroom235"
+      }
+    },
+    "legacy_username": "rory#6334"
+  },
+  "296560103837138945": {
+    "id": 296560103837138945,
+    "name": "tommy32109546",
+    "nick": null,
+    "display_name": "tommy32109546",
+    "global_name": "tommy32109546",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "youtube is https://www.youtube.com/@gamebeast4510",
+    "guild_bio": null,
+    "display_bio": "youtube is https://www.youtube.com/@gamebeast4510",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198047817626",
+        "name": "!CIDEM",
+        "url": "https://steamcommunity.com/profiles/76561198047817626"
+      },
+      "twitch": {
+        "id": "42348712",
+        "name": "tommy32109546",
+        "url": "https://www.twitch.tv/tommy32109546"
+      }
+    },
+    "legacy_username": "tommy32109546#3672"
+  },
+  "1326881533180514345": {
+    "id": 1326881533180514345,
+    "name": "samiah_14411",
+    "nick": null,
+    "display_name": "Samiah",
+    "global_name": "Samiah",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
