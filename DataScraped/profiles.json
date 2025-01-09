@@ -30584,5 +30584,52 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "857531471898869760": {
+    "id": 857531471898869760,
+    "name": "lqvvi",
+    "nick": null,
+    "display_name": "Lqvvi",
+    "global_name": "Lqvvi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Games games games I love it",
+    "guild_bio": null,
+    "display_bio": "Games games games I love it",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Lqvvi#2062"
+  },
+  "798940334771273808": {
+    "id": 798940334771273808,
+    "name": "demonhunter0016",
+    "nick": null,
+    "display_name": "demonhunter",
+    "global_name": "demonhunter",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "No comments",
+    "guild_bio": null,
+    "display_bio": "No comments",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "617j-d8dWHlcbHSHikyAEKGS7pChDaCFEANaegzZLsSkSlJvGKmSy9TW_IwtI7CoW_-cO2u6a0gf4w",
+        "name": "demonhunter#6032",
+        "url": null
+      }
+    },
+    "legacy_username": "iron_man#9480"
   }
 }
