@@ -31186,5 +31186,71 @@
       }
     },
     "legacy_username": "Ermen#9901"
+  },
+  "1004006806676316160": {
+    "id": 1004006806676316160,
+    "name": "hxmbt",
+    "nick": null,
+    "display_name": "Surbate",
+    "global_name": "Surbate",
+    "pronouns": "what's this for again?",
+    "guild_pronouns": null,
+    "bio": "Hey! I am Surbate\n\n Discord.JS Coder (Beginner)\n Moderator @ PikaNetwork\n Check out PikaNetwork Tier List: https://pntl.surbate.net\n About me: https://surbate.net",
+    "guild_bio": null,
+    "display_bio": "Hey! I am Surbate\n\n Discord.JS Coder (Beginner)\n Moderator @ PikaNetwork\n Check out PikaNetwork Tier List: https://pntl.surbate.net\n About me: https://surbate.net",
+    "banner": "https://cdn.discordapp.com/banners/1004006806676316160/68d0798cf17dafd95f8ec833bb910d77.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1004006806676316160/68d0798cf17dafd95f8ec833bb910d77.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31rblews3sbvjs5wgngmaoddu3u4",
+        "name": "hxmbt",
+        "url": "https://open.spotify.com/user/31rblews3sbvjs5wgngmaoddu3u4"
+      },
+      "youtube": {
+        "id": "UCP4i0g1FYB1-85HOd1x4OUg",
+        "name": "hxmbt",
+        "url": "https://www.youtube.com/channel/UCP4i0g1FYB1-85HOd1x4OUg"
+      }
+    },
+    "legacy_username": "hxmbt#1753"
+  },
+  "596083400062926868": {
+    "id": 596083400062926868,
+    "name": "el_kapitan.",
+    "nick": null,
+    "display_name": "El Kapitn.",
+    "global_name": "El Kapitn.",
+    "pronouns": "Dead/Pool.",
+    "guild_pronouns": null,
+    "bio": "<:DPsexy1:1165872350693183488><:DPsexy2:1165872423296581632><:DPsexy3:1165872513813860362><:DPsexy4:1165872959987130419>\nIt's beginning to look a lot like Christmas,\nEverywhere you go.",
+    "guild_bio": null,
+    "display_bio": "<:DPsexy1:1165872350693183488><:DPsexy2:1165872423296581632><:DPsexy3:1165872513813860362><:DPsexy4:1165872959987130419>\nIt's beginning to look a lot like Christmas,\nEverywhere you go.",
+    "banner": "https://cdn.discordapp.com/banners/596083400062926868/a_0bacee92ac07611e41d6baf3e1530f5d.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/596083400062926868/a_0bacee92ac07611e41d6baf3e1530f5d.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198143837618",
+        "name": "El Kapit\u00e1n",
+        "url": "https://steamcommunity.com/profiles/76561198143837618"
+      }
+    },
+    "legacy_username": "Asthmathicc#1908"
   }
 }
