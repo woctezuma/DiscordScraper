@@ -30152,5 +30152,90 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "348060443425767424": {
+    "id": 348060443425767424,
+    "name": "phantom6807",
+    "nick": null,
+    "display_name": "phntm",
+    "global_name": "phntm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197960320631",
+        "name": "phntm",
+        "url": "https://steamcommunity.com/profiles/76561197960320631"
+      }
+    },
+    "legacy_username": "Phantom#6807"
+  },
+  "766693456810606673": {
+    "id": 766693456810606673,
+    "name": "hundihund",
+    "nick": null,
+    "display_name": "HundiHund",
+    "global_name": "HundiHund",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "HundiHund66#2591",
+        "name": "HundiHund66#2591",
+        "url": null
+      },
+      "epic_games": {
+        "id": "2525c4d83aae4c0982936ffef9a8a6b1",
+        "name": "HundiHund66",
+        "url": null
+      },
+      "riot_games": {
+        "id": "ArTaeI1IlSaQLAgcL0TeZ1uAm8GYlS-F4paT-WmbzxK_-2m82uZLNz8ve4WzrhA_f7VMCDxmm5uRCg",
+        "name": "HundiHund66#5969",
+        "url": null
+      },
+      "spotify": {
+        "id": "prq8psomm621dejte3j1agkwv",
+        "name": "HUNDIHund66",
+        "url": "https://open.spotify.com/user/prq8psomm621dejte3j1agkwv"
+      },
+      "steam": {
+        "id": "76561199129612931",
+        "name": "hundihund66",
+        "url": "https://steamcommunity.com/profiles/76561199129612931"
+      },
+      "twitch": {
+        "id": "665873852",
+        "name": "hundihund66",
+        "url": "https://www.twitch.tv/hundihund66"
+      },
+      "xbox": {
+        "id": "3078503982636906",
+        "name": "HundiHund66",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HundiHund66"
+      }
+    },
+    "legacy_username": "HundiHund#2227"
   }
 }
