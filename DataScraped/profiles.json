@@ -31384,5 +31384,29 @@
       }
     },
     "legacy_username": "Y2Jabriel#5689"
+  },
+  "1250915985410752534": {
+    "id": 1250915985410752534,
+    "name": "blaze4235.",
+    "nick": null,
+    "display_name": "Blaze4235",
+    "global_name": "Blaze4235",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31de37jcedp57xr4cslf3tnq5ibu",
+        "name": "Arsen",
+        "url": "https://open.spotify.com/user/31de37jcedp57xr4cslf3tnq5ibu"
+      }
+    },
+    "legacy_username": null
   }
 }
