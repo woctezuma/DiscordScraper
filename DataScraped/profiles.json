@@ -30969,5 +30969,100 @@
       }
     },
     "legacy_username": null
+  },
+  "1053570359225487420": {
+    "id": 1053570359225487420,
+    "name": "midairgd",
+    "nick": null,
+    "display_name": "Midair",
+    "global_name": "Midair",
+    "pronouns": "\ud83c\uddf7\ud83c\uddf4",
+    "guild_pronouns": null,
+    "bio": "you may know me from Geode, UltraBot or YouTube\n\nnot accepting friend requests if its not for a valid reason",
+    "guild_bio": null,
+    "display_bio": "you may know me from Geode, UltraBot or YouTube\n\nnot accepting friend requests if its not for a valid reason",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "667bc744559a4d1bae956ce0e398b41a",
+        "name": "M16a1r",
+        "url": null
+      },
+      "github": {
+        "id": "130979602",
+        "name": "zMidair",
+        "url": "https://github.com/zMidair"
+      },
+      "reddit": {
+        "id": "16j20vn8zu",
+        "name": "zMidair",
+        "url": "https://www.reddit.com/u/zMidair"
+      },
+      "spotify": {
+        "id": "316aprsxhbcbu52n3jq4sa6pflje",
+        "name": "Midair",
+        "url": "https://open.spotify.com/user/316aprsxhbcbu52n3jq4sa6pflje"
+      },
+      "steam": {
+        "id": "76561199034487066",
+        "name": "Midair",
+        "url": "https://steamcommunity.com/profiles/76561199034487066"
+      },
+      "twitter": {
+        "id": "1688794542021996544",
+        "name": "M16a1r",
+        "url": "https://twitter.com/M16a1r"
+      },
+      "xbox": {
+        "id": "3071696118732476",
+        "name": "zMidair",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=zMidair"
+      },
+      "youtube": {
+        "id": "UC64QIe_2s2FB-mJCtKHRwAA",
+        "name": "Midair",
+        "url": "https://www.youtube.com/channel/UC64QIe_2s2FB-mJCtKHRwAA"
+      }
+    },
+    "legacy_username": "m16a1r#0671"
+  },
+  "688093200514154518": {
+    "id": 688093200514154518,
+    "name": "happyfre",
+    "nick": null,
+    "display_name": "happyfre",
+    "global_name": "happyfre",
+    "pronouns": "Clown/Slayer",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "102010068",
+        "name": "happyfre",
+        "url": null
+      },
+      "xbox": {
+        "id": "ZjY0MWIyOGEwNWUxZWFkNTRkZTFiNzU0M2UyZTNjMTBhYWU0NDJhNmY0OTg0MTI1MTg5ODQzN2Q5N2M4ZjExZg",
+        "name": "Happyfre1857",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Happyfre1857"
+      }
+    },
+    "legacy_username": "happyfre#9858"
   }
 }
