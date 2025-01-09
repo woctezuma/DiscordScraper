@@ -27975,5 +27975,25 @@
       }
     },
     "legacy_username": "HappyThx#5469"
+  },
+  "214986956227084288": {
+    "id": 214986956227084288,
+    "name": "doop73",
+    "nick": null,
+    "display_name": "doop73",
+    "global_name": "doop73",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "doop73#6299"
   }
 }
