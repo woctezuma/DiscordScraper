@@ -31340,5 +31340,49 @@
       }
     },
     "legacy_username": "MADValkyrieo7#0707"
+  },
+  "1268670622783901702": {
+    "id": 1268670622783901702,
+    "name": "vitalik_74992",
+    "nick": null,
+    "display_name": "Vitalik",
+    "global_name": "Vitalik",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "214438804377960453": {
+    "id": 214438804377960453,
+    "name": "y2jabriel",
+    "nick": null,
+    "display_name": "Y2Jabriel",
+    "global_name": "Y2Jabriel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "12174097542",
+        "name": "Jabriel Oliveira",
+        "url": "https://open.spotify.com/user/12174097542"
+      }
+    },
+    "legacy_username": "Y2Jabriel#5689"
   }
 }
