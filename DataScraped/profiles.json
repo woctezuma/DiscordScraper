@@ -30526,5 +30526,63 @@
       }
     },
     "legacy_username": "Nexus004#0551"
+  },
+  "952093762497155112": {
+    "id": 952093762497155112,
+    "name": "kot_1488",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "\u0448\u043b\u0451\u043f\u0430 \u0432 \u0432\u0430\u043d\u043d\u043e\u0439#0866"
+  },
+  "1325876971862757436": {
+    "id": 1325876971862757436,
+    "name": "frankyow_93951",
+    "nick": null,
+    "display_name": "FrankyOW",
+    "global_name": "FrankyOW",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1326640188939833420": {
+    "id": 1326640188939833420,
+    "name": "solaritheavali",
+    "nick": null,
+    "display_name": "Solari the Avali",
+    "global_name": "Solari the Avali",
+    "pronouns": "She/He/They",
+    "guild_pronouns": null,
+    "bio": "I'm 26\nI love Avali 3\nShe/He/They\nBisexual\nSingle\nVery cuddly likes affection\nI'm mute in groups very shy (social anxiety disorder)\nMy 10 AM is your <t:1736413200:t>",
+    "guild_bio": null,
+    "display_bio": "I'm 26\nI love Avali 3\nShe/He/They\nBisexual\nSingle\nVery cuddly likes affection\nI'm mute in groups very shy (social anxiety disorder)\nMy 10 AM is your <t:1736413200:t>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
