@@ -29768,5 +29768,87 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1170049408008724502": {
+    "id": 1170049408008724502,
+    "name": "lilwilly2242_34236",
+    "nick": null,
+    "display_name": "lilwilly",
+    "global_name": "lilwilly",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1004686185504976988": {
+    "id": 1004686185504976988,
+    "name": "_dernoob",
+    "nick": null,
+    "display_name": "Der noob",
+    "global_name": "Der noob",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Tesla Ist Scx&$\nTerror LKW Fahrer\nBodensee Rp Auf die 1",
+    "guild_bio": null,
+    "display_bio": "Tesla Ist Scx&$\nTerror LKW Fahrer\nBodensee Rp Auf die 1",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "der noob#5583"
+  },
+  "769143106665971713": {
+    "id": 769143106665971713,
+    "name": "hacios",
+    "nick": null,
+    "display_name": "Bart",
+    "global_name": "Bart",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Bart",
+    "guild_bio": null,
+    "display_bio": "Bart",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "89yrd7ib",
+        "name": "Haciost",
+        "url": "https://www.reddit.com/u/Haciost"
+      },
+      "steam": {
+        "id": "76561198169058602",
+        "name": "Hacios",
+        "url": "https://steamcommunity.com/profiles/76561198169058602"
+      },
+      "twitch": {
+        "id": "598999085",
+        "name": "haciost",
+        "url": "https://www.twitch.tv/haciost"
+      },
+      "xbox": {
+        "id": "MmMwYTNkY2EwMzUzNWE2ZjcwYWE2MGM4MWY5NzUxMzRiYzNmZGIyMzE2ZDBmMDRjZjZmMDBkYjg3M2EyY2U2YQ",
+        "name": "HAC\u0130OST",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HAC\u0130OST"
+      }
+    },
+    "legacy_username": null
   }
 }
