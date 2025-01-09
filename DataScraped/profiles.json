@@ -29380,5 +29380,69 @@
       }
     },
     "legacy_username": null
+  },
+  "750448265950134404": {
+    "id": 750448265950134404,
+    "name": "its__jeryy",
+    "nick": null,
+    "display_name": "Chernyy ",
+    "global_name": "Chernyy ",
+    "pronouns": "no e2ee on discord",
+    "guild_pronouns": null,
+    "bio": "- HOI4 !!1!!1!\n- RDR2 !!11!1\nGeschichts- und Geographie Fan\nhttps://discord.gg/NmqCQZtCJX\n ",
+    "guild_bio": null,
+    "display_bio": "- HOI4 !!1!!1!\n- RDR2 !!11!1\nGeschichts- und Geographie Fan\nhttps://discord.gg/NmqCQZtCJX\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "itsJeryy#2173",
+        "name": "itsJeryy#2173",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "u2-OkUoMCxlNIy3u4-pPaHMjW9kkNwlfypxa9-gH-WmBk-GsLmvtVhGlUX9Vh8F9BNy2dB3cp9-GEw",
+        "name": "itsJeryy#10001",
+        "url": null
+      },
+      "playstation": {
+        "id": "3495123551676595335",
+        "name": "its__Jeryy",
+        "url": null
+      },
+      "riot_games": {
+        "id": "u2-OkUoMCxlNIy3u4-pPaHMjW9kkNwlfypxa9-gH-WmBk-GsLmvtVhGlUX9Vh8F9BNy2dB3cp9-GEw",
+        "name": "itsJeryy#10001",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "7335424880",
+        "name": "itisjeryy",
+        "url": null
+      },
+      "spotify": {
+        "id": "fk4yla12bm1w894hdnal6tl31",
+        "name": "its__Jeryy",
+        "url": "https://open.spotify.com/user/fk4yla12bm1w894hdnal6tl31"
+      },
+      "steam": {
+        "id": "76561199140030729",
+        "name": "Chernyy",
+        "url": "https://steamcommunity.com/profiles/76561199140030729"
+      },
+      "twitch": {
+        "id": "512301927",
+        "name": "itisjeryy",
+        "url": "https://www.twitch.tv/itisjeryy"
+      }
+    },
+    "legacy_username": "its__Jeryy#0342"
   }
 }
