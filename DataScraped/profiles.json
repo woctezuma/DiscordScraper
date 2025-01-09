@@ -28823,5 +28823,79 @@
       }
     },
     "legacy_username": "vro#7435"
+  },
+  "558301747320455189": {
+    "id": 558301747320455189,
+    "name": "blazeofmoon",
+    "nick": null,
+    "display_name": "blazeofmoon",
+    "global_name": "blazeofmoon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "twitch.tv/blazeofmoon",
+    "guild_bio": null,
+    "display_bio": "twitch.tv/blazeofmoon",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31iqvzeepie2huzi3fwoqx6s3k7i",
+        "name": "Vladimir Lozgachev",
+        "url": "https://open.spotify.com/user/31iqvzeepie2huzi3fwoqx6s3k7i"
+      },
+      "steam": {
+        "id": "76561198005115702",
+        "name": "\u0413\u0430\u043d\u0433\u0430\u044e \u0437\u0430 \u0420\u043e\u0441\u0441\u0438\u044e",
+        "url": "https://steamcommunity.com/profiles/76561198005115702"
+      },
+      "twitch": {
+        "id": "75217773",
+        "name": "blazeofmoon",
+        "url": "https://www.twitch.tv/blazeofmoon"
+      },
+      "twitter": {
+        "id": "210744295",
+        "name": "blazeofmind",
+        "url": "https://twitter.com/blazeofmind"
+      },
+      "xbox": {
+        "id": "ZTU0YjcwMGMzMGYxYmUxNDMyMmRkZDU2YjhhYjQzNWIzODFkNmM0MTIzMDNiNmQyYzk4ZmIzOTE0NWRkMjBlMA",
+        "name": "blazeofmind",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=blazeofmind"
+      }
+    },
+    "legacy_username": "blazeofmoon#7344"
+  },
+  "231582479729819654": {
+    "id": 231582479729819654,
+    "name": "daspx",
+    "nick": null,
+    "display_name": "daspx",
+    "global_name": "daspx",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "59725103",
+        "name": "daspxo",
+        "url": "https://www.twitch.tv/daspxo"
+      }
+    },
+    "legacy_username": "daspx#1700"
   }
 }
