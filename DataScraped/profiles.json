@@ -29675,5 +29675,59 @@
       }
     },
     "legacy_username": "hazard09#9906"
+  },
+  "585063031822876672": {
+    "id": 585063031822876672,
+    "name": "shazm1",
+    "nick": null,
+    "display_name": "shazmone",
+    "global_name": "shazmone",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Shazm1#2810",
+        "name": "Shazm1#2810",
+        "url": null
+      },
+      "epic_games": {
+        "id": "9c35501196604f0c8c615d7a6d53e990",
+        "name": "Shazm.1",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198996817909",
+        "name": "shazmon+375",
+        "url": "https://steamcommunity.com/profiles/76561198996817909"
+      }
+    },
+    "legacy_username": "shazm1#4362"
+  },
+  "727645770853122058": {
+    "id": 727645770853122058,
+    "name": "mehztizho7984",
+    "nick": null,
+    "display_name": "MehZtiZho",
+    "global_name": "MehZtiZho",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
