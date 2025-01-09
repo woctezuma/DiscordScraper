@@ -30348,5 +30348,183 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "767612568213651507": {
+    "id": 767612568213651507,
+    "name": "notitssquirrel",
+    "nick": null,
+    "display_name": "notArdi",
+    "global_name": "notArdi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "notItssquirrel#0559"
+  },
+  "1062370141012246598": {
+    "id": 1062370141012246598,
+    "name": "itz_ey33",
+    "nick": null,
+    "display_name": "EY33",
+    "global_name": "EY33",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Safe team fortress 2",
+    "guild_bio": null,
+    "display_bio": "Safe team fortress 2",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "396383437834944512": {
+    "id": 396383437834944512,
+    "name": "tutins.",
+    "nick": null,
+    "display_name": "Tuti",
+    "global_name": "Tuti",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Tutins#2723"
+  },
+  "388077778714492928": {
+    "id": 388077778714492928,
+    "name": "leroy8156",
+    "nick": null,
+    "display_name": "Leroy",
+    "global_name": "Leroy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Leroy#8156"
+  },
+  "843914973142712320": {
+    "id": 843914973142712320,
+    "name": "punchabunchabuttons",
+    "nick": null,
+    "display_name": "punchabunchabuttons",
+    "global_name": "punchabunchabuttons",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://www.twitch.tv/punchabunchabuttons",
+    "guild_bio": null,
+    "display_bio": "https://www.twitch.tv/punchabunchabuttons",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "705671277",
+        "name": "punchabunchabuttons",
+        "url": "https://www.twitch.tv/punchabunchabuttons"
+      }
+    },
+    "legacy_username": "punchabunchabuttons#9059"
+  },
+  "453060088748572672": {
+    "id": 453060088748572672,
+    "name": "kiniwini.",
+    "nick": null,
+    "display_name": "reko",
+    "global_name": "reko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Brother of Kini-winki",
+    "guild_bio": null,
+    "display_bio": "Brother of Kini-winki",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "kini-wini#6879"
+  },
+  "449599757992591361": {
+    "id": 449599757992591361,
+    "name": "luismiis28",
+    "nick": null,
+    "display_name": "Luismiis28",
+    "global_name": "Luismiis28",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "698943399860109342": {
+    "id": 698943399860109342,
+    "name": "nexus004.",
+    "nick": null,
+    "display_name": "nexus004.",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6240858629591142878",
+        "name": "Nexus004",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199407601445",
+        "name": "ajomar.cruz",
+        "url": "https://steamcommunity.com/profiles/76561199407601445"
+      }
+    },
+    "legacy_username": "Nexus004#0551"
   }
 }
