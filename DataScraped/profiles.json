@@ -28478,5 +28478,75 @@
     ],
     "connections": {},
     "legacy_username": "koz#9179"
+  },
+  "297568535335403521": {
+    "id": 297568535335403521,
+    "name": "spotfish",
+    "nick": null,
+    "display_name": "Spotfish",
+    "global_name": "Spotfish",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "**28  USA**\nGenshin  NA: 616378707, WL: 9, AR: 60\nHSR  NA: 600321829, EQ: 6, TL: 70",
+    "guild_bio": null,
+    "display_bio": "**28  USA**\nGenshin  NA: 616378707, WL: 9, AR: 60\nHSR  NA: 600321829, EQ: 6, TL: 70",
+    "banner": "https://cdn.discordapp.com/banners/297568535335403521/a_ff5838be2180eb972bbbf1ceb6f04886.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/297568535335403521/a_ff5838be2180eb972bbbf1ceb6f04886.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Spotfish#1435",
+        "name": "Spotfish#1435",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018476199429",
+        "name": "Spotfish",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "5a9160dd-3fb3-5a10-95b4-bcfb93f42929",
+        "name": "Spotfish",
+        "url": null
+      },
+      "epic_games": {
+        "id": "678842fbeca84910ad2b74594d11f2d8",
+        "name": "Spotfish",
+        "url": null
+      },
+      "playstation": {
+        "id": "6502198246448604925",
+        "name": "spotfish711",
+        "url": null
+      },
+      "reddit": {
+        "id": "x5g0e",
+        "name": "spotfish711",
+        "url": "https://www.reddit.com/u/spotfish711"
+      },
+      "riot_games": {
+        "id": "Tnkj6nGVZ2RomerwfQ5mfwVUr31SNB231EzHJNb-q779EVs9MV-_amC99KcbO6MdPlKZKcUJ9YG8pA",
+        "name": "Spotfish#711",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198067842069",
+        "name": "Spotfish",
+        "url": "https://steamcommunity.com/profiles/76561198067842069"
+      },
+      "xbox": {
+        "id": "3073899775016242",
+        "name": "spotfish711",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=spotfish711"
+      }
+    },
+    "legacy_username": "Spotfish#8271"
   }
 }
