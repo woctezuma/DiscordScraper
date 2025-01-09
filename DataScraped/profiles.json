@@ -28613,5 +28613,25 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "898864909822079059": {
+    "id": 898864909822079059,
+    "name": "rucid4067",
+    "nick": null,
+    "display_name": "rucid",
+    "global_name": "rucid",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "rucid#4067"
   }
 }
