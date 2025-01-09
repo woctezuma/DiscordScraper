@@ -28743,5 +28743,85 @@
     ],
     "connections": {},
     "legacy_username": "l'empereur#5334"
+  },
+  "226094565612847115": {
+    "id": 226094565612847115,
+    "name": "takerusama",
+    "nick": null,
+    "display_name": "Takerusama",
+    "global_name": "Takerusama",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "premium"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "HdA8tYbrrIQcWANZKbP8t0K7jpuMSGqEx2Da4Jiup4YFUX6eMuYdgXX-rCNqJ0BJjX-EyxOMvFaCvQ",
+        "name": "Takerusama",
+        "url": null
+      },
+      "riot_games": {
+        "id": "HdA8tYbrrIQcWANZKbP8t0K7jpuMSGqEx2Da4Jiup4YFUX6eMuYdgXX-rCNqJ0BJjX-EyxOMvFaCvQ",
+        "name": "Takerusama#EUW",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198057988188",
+        "name": "Takerusama",
+        "url": "https://steamcommunity.com/profiles/76561198057988188"
+      }
+    },
+    "legacy_username": null
+  },
+  "131139560405991425": {
+    "id": 131139560405991425,
+    "name": "zbaies",
+    "nick": null,
+    "display_name": "vero",
+    "global_name": "vero",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Maybe one day Ill get too tired to keep fighting, but at least Ive tried for as long as I could. I will always appreciate the shared memories ",
+    "guild_bio": null,
+    "display_bio": "Maybe one day Ill get too tired to keep fighting, but at least Ive tried for as long as I could. I will always appreciate the shared memories ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "VLqZ5ZBeWfi_cLizz6kN9DKYix62xhXBgBdPu5sbxSbh_jsnfpMXaivQoBhkB5DqRyHz_IjiUvUbVQ",
+        "name": "zBaies#ttv",
+        "url": null
+      },
+      "spotify": {
+        "id": "iv3vzjuljtbio61gc7mbl1hvg",
+        "name": "vxro",
+        "url": "https://open.spotify.com/user/iv3vzjuljtbio61gc7mbl1hvg"
+      },
+      "steam": {
+        "id": "76561198295940284",
+        "name": "zBaies",
+        "url": "https://steamcommunity.com/profiles/76561198295940284"
+      },
+      "twitch": {
+        "id": "89119945",
+        "name": "zbaies",
+        "url": "https://www.twitch.tv/zbaies"
+      }
+    },
+    "legacy_username": "vro#7435"
   }
 }
