@@ -28194,5 +28194,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "468695975028981762": {
+    "id": 468695975028981762,
+    "name": "nugetoss",
+    "nick": null,
+    "display_name": "NuggetZ",
+    "global_name": "NuggetZ",
+    "pronouns": "Gender, pronounce not important",
+    "guild_pronouns": null,
+    "bio": "- Nugget/Jes/Haru/Huan\n- 23\n- I like Drawing and play games sometimes. ^^\n- Really Introvert/Have trust and social issues\n- Vietnamese/English ok",
+    "guild_bio": null,
+    "display_bio": "- Nugget/Jes/Haru/Huan\n- 23\n- I like Drawing and play games sometimes. ^^\n- Really Introvert/Have trust and social issues\n- Vietnamese/English ok",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "paypal": {
+        "id": "_-XZOyXyZCnGHWxLZWxh31-KPiRirw53emuviHfodsw",
+        "name": "Boi Phuong Tran",
+        "url": null
+      },
+      "playstation": {
+        "id": "342372001643195387",
+        "name": "chunky_spiral3",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198146765379",
+        "name": "NuggetZ",
+        "url": "https://steamcommunity.com/profiles/76561198146765379"
+      },
+      "twitch": {
+        "id": "171882160",
+        "name": "kitmast123",
+        "url": "https://www.twitch.tv/kitmast123"
+      }
+    },
+    "legacy_username": null
   }
 }
