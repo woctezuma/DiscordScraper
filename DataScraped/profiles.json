@@ -29279,5 +29279,82 @@
       }
     },
     "legacy_username": "danii#5471"
+  },
+  "309802982684491776": {
+    "id": 309802982684491776,
+    "name": "_claruxa",
+    "nick": null,
+    "display_name": "claruxa",
+    "global_name": "claruxa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "uxa#8323"
+  },
+  "754238109125967892": {
+    "id": 754238109125967892,
+    "name": "yuu07668",
+    "nick": null,
+    "display_name": "panties",
+    "global_name": "panties",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "vo894xt4v3kvh4jsdhr1pnst7",
+        "name": "Marky",
+        "url": "https://open.spotify.com/user/vo894xt4v3kvh4jsdhr1pnst7"
+      }
+    },
+    "legacy_username": "Yuu#6262"
+  },
+  "579912108611731468": {
+    "id": 579912108611731468,
+    "name": "regenor25",
+    "nick": null,
+    "display_name": "regenor25",
+    "global_name": "regenor25",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "draegenair#2628",
+        "name": "draegenair#2628",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198371044941",
+        "name": "regenor25",
+        "url": "https://steamcommunity.com/profiles/76561198371044941"
+      }
+    },
+    "legacy_username": null
   }
 }
