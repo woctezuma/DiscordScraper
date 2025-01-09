@@ -30858,5 +30858,25 @@
       }
     },
     "legacy_username": null
+  },
+  "1273153075657314379": {
+    "id": 1273153075657314379,
+    "name": "rindotsh",
+    "nick": null,
+    "display_name": "deeerlatro",
+    "global_name": "deeerlatro",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "\n\nONE QUINTILLION CHIPS",
+    "guild_bio": null,
+    "display_bio": "\n\nONE QUINTILLION CHIPS",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
