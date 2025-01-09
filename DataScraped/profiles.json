@@ -28593,5 +28593,25 @@
       }
     },
     "legacy_username": null
+  },
+  "786839089240211477": {
+    "id": 786839089240211477,
+    "name": "paradox2024_",
+    "nick": null,
+    "display_name": "Paradox",
+    "global_name": "Paradox",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
