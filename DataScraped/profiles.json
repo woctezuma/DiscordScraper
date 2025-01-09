@@ -27995,5 +27995,45 @@
     ],
     "connections": {},
     "legacy_username": "doop73#6299"
+  },
+  "222253871286845440": {
+    "id": 222253871286845440,
+    "name": "devastation5746",
+    "nick": null,
+    "display_name": "Devastation",
+    "global_name": "Devastation",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "sometimes i play games",
+    "guild_bio": null,
+    "display_bio": "sometimes i play games",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Devastation#5746"
+  },
+  "1006411591497035836": {
+    "id": 1006411591497035836,
+    "name": "0rion0011",
+    "nick": null,
+    "display_name": "*0rion*",
+    "global_name": "*0rion*",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "*0rion*#0011"
   }
 }
