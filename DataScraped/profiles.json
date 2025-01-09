@@ -29224,5 +29224,60 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1272962710941728809": {
+    "id": 1272962710941728809,
+    "name": "supeer.",
+    "nick": null,
+    "display_name": "Octobutt",
+    "global_name": "Octobutt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "lactose tolerant\n\ncurrent feeling:  , neutral\n\nhave shitposting tendencies\n\ndo talk to me (i dont judge(hopefully) )\n\nthats it.\n\nok\n\ngo\n\nnow",
+    "guild_bio": null,
+    "display_bio": "lactose tolerant\n\ncurrent feeling:  , neutral\n\nhave shitposting tendencies\n\ndo talk to me (i dont judge(hopefully) )\n\nthats it.\n\nok\n\ngo\n\nnow",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "a3e8b10730f649debb8dd9b188d39b06",
+        "name": "Supert699",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199736465696",
+        "name": "Supeer",
+        "url": "https://steamcommunity.com/profiles/76561199736465696"
+      }
+    },
+    "legacy_username": null
+  },
+  "115946065772937217": {
+    "id": 115946065772937217,
+    "name": "danimilio",
+    "nick": null,
+    "display_name": "dani",
+    "global_name": "dani",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "82930184",
+        "name": "danimilio",
+        "url": "https://www.twitch.tv/danimilio"
+      }
+    },
+    "legacy_username": "danii#5471"
   }
 }
