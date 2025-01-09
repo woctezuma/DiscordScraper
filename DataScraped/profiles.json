@@ -30631,5 +30631,82 @@
       }
     },
     "legacy_username": "iron_man#9480"
+  },
+  "696864659151650847": {
+    "id": 696864659151650847,
+    "name": "waffle5297",
+    "nick": null,
+    "display_name": "Waffle",
+    "global_name": "Waffle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Cuerpo ausente, mente presente",
+    "guild_bio": null,
+    "display_bio": "Cuerpo ausente, mente presente",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "98956d59dba34f5fb1282fec856c6ce9",
+        "name": "W4FFL3_1234",
+        "url": null
+      },
+      "reddit": {
+        "id": "spy9hje3",
+        "name": "Electronic-Waffle",
+        "url": "https://www.reddit.com/u/Electronic-Waffle"
+      },
+      "steam": {
+        "id": "76561198359405366",
+        "name": "Waffle \ud83e\uddc7",
+        "url": "https://steamcommunity.com/profiles/76561198359405366"
+      },
+      "twitch": {
+        "id": "270999393",
+        "name": "chemical_waffle",
+        "url": "https://www.twitch.tv/chemical_waffle"
+      }
+    },
+    "legacy_username": "Waffle#5297"
+  },
+  "852540883714048041": {
+    "id": 852540883714048041,
+    "name": "lenbow",
+    "nick": null,
+    "display_name": "lenbow",
+    "global_name": "lenbow",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "lennyboyxoxo",
+        "name": "lenbow",
+        "url": "https://open.spotify.com/user/lennyboyxoxo"
+      },
+      "steam": {
+        "id": "76561199287221737",
+        "name": "lenbow",
+        "url": "https://steamcommunity.com/profiles/76561199287221737"
+      },
+      "twitch": {
+        "id": "193392391",
+        "name": "lenbow_",
+        "url": "https://www.twitch.tv/lenbow_"
+      }
+    },
+    "legacy_username": "lenbow#6289"
   }
 }
