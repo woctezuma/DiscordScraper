@@ -32352,5 +32352,80 @@
       }
     },
     "legacy_username": "SlipSlot#4389"
+  },
+  "1027627258132844594": {
+    "id": 1027627258132844594,
+    "name": "bot_ikka_007",
+    "nick": null,
+    "display_name": "ALLU BACK",
+    "global_name": "ALLU BACK",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "HI ALL",
+    "guild_bio": null,
+    "display_bio": "HI ALL",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "41d97f9bc7454da6967d0794bec2189a",
+        "name": "BOT_X3",
+        "url": null
+      }
+    },
+    "legacy_username": "BOT X3#7149"
+  },
+  "640690403930013726": {
+    "id": 640690403930013726,
+    "name": "vklever",
+    "nick": null,
+    "display_name": "<>",
+    "global_name": "<>",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "VKlever#8058"
+  },
+  "594188366447378454": {
+    "id": 594188366447378454,
+    "name": "vanillagabriela",
+    "nick": null,
+    "display_name": "Vanilla",
+    "global_name": "Vanilla",
+    "pronouns": "The Lovers",
+    "guild_pronouns": null,
+    "bio": "u can call me Elaa/Vanii/Gabriel\n\n\nI'm depressed, almost died, but still a genius.\n\nAnw, feel free to dm me, or add me as a friend!",
+    "guild_bio": null,
+    "display_bio": "u can call me Elaa/Vanii/Gabriel\n\n\nI'm depressed, almost died, but still a genius.\n\nAnw, feel free to dm me, or add me as a friend!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "r1wbp76w0646y4l67ies7x4f2",
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/user/r1wbp76w0646y4l67ies7x4f2"
+      }
+    },
+    "legacy_username": "Vanilla#3956"
   }
 }
