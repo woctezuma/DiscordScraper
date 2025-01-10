@@ -32861,5 +32861,23 @@
       }
     },
     "legacy_username": "Cornflakes#5197"
+  },
+  "837578853794447371": {
+    "id": 837578853794447371,
+    "name": "frizz_493465",
+    "nick": null,
+    "display_name": "Frizz_49",
+    "global_name": "Frizz_49",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
