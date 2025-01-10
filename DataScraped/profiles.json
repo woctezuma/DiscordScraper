@@ -34269,5 +34269,45 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "483247245123256322": {
+    "id": 483247245123256322,
+    "name": "legend4ever3614",
+    "nick": null,
+    "display_name": "The Legend himself",
+    "global_name": "The Legend himself",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Legend4eveR#3614"
+  },
+  "762570468410523656": {
+    "id": 762570468410523656,
+    "name": "mastremo",
+    "nick": null,
+    "display_name": "Mastremo",
+    "global_name": "Mastremo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mastremo#3721"
   }
 }
