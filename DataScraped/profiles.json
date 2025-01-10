@@ -34012,5 +34012,110 @@
     ],
     "connections": {},
     "legacy_username": "santino#3486"
+  },
+  "515234943056740363": {
+    "id": 515234943056740363,
+    "name": "mellon.is.friend",
+    "nick": null,
+    "display_name": "Mellon.is.friend",
+    "global_name": "Mellon.is.friend",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"You should laugh every moment you live because you'll find it decidedly difficult afterwards.\"",
+    "guild_bio": null,
+    "display_bio": "\"You should laugh every moment you live because you'll find it decidedly difficult afterwards.\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5ed98c0ff4a244deb8c304a3732e5bc5",
+        "name": "Mellon_is_friend",
+        "url": null
+      },
+      "spotify": {
+        "id": "technicolordreams",
+        "name": "technicolordreams",
+        "url": "https://open.spotify.com/user/technicolordreams"
+      },
+      "steam": {
+        "id": "76561198102808074",
+        "name": "mellon_is_friend",
+        "url": "https://steamcommunity.com/profiles/76561198102808074"
+      },
+      "xbox": {
+        "id": "3078542995295884",
+        "name": "AilingZebra1",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AilingZebra1"
+      }
+    },
+    "legacy_username": "Mellon.is.friend#4019"
+  },
+  "879717170530099201": {
+    "id": 879717170530099201,
+    "name": "albed08",
+    "nick": null,
+    "display_name": "Albert E Dupree",
+    "global_name": "Albert E Dupree",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "1507566042964545540",
+        "name": "AlbertDupre08",
+        "url": "https://twitter.com/AlbertDupre08"
+      }
+    },
+    "legacy_username": "Albed08#7895"
+  },
+  "364244715501125636": {
+    "id": 364244715501125636,
+    "name": "erroneo",
+    "nick": null,
+    "display_name": "Erroneo",
+    "global_name": "Erroneo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hola",
+    "guild_bio": null,
+    "display_bio": "Hola",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31fnaudz6ek3cxgdxvl36xytjfwu",
+        "name": "Gabriel Soto",
+        "url": "https://open.spotify.com/user/31fnaudz6ek3cxgdxvl36xytjfwu"
+      },
+      "steam": {
+        "id": "76561198327996017",
+        "name": "Rango",
+        "url": "https://steamcommunity.com/profiles/76561198327996017"
+      },
+      "twitch": {
+        "id": "736799856",
+        "name": "gabswongg",
+        "url": "https://www.twitch.tv/gabswongg"
+      }
+    },
+    "legacy_username": "Erroneo#9237"
   }
 }
