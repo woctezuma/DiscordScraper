@@ -34309,5 +34309,110 @@
     ],
     "connections": {},
     "legacy_username": "Mastremo#3721"
+  },
+  "1281701812113641502": {
+    "id": 1281701812113641502,
+    "name": "pridengax",
+    "nick": null,
+    "display_name": ".",
+    "global_name": ".",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "    ",
+    "guild_bio": null,
+    "display_bio": "    ",
+    "banner": "https://cdn.discordapp.com/banners/1281701812113641502/a_182f9fdb7122ac79b5aa2d1f3d7668fc.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1281701812113641502/a_182f9fdb7122ac79b5aa2d1f3d7668fc.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1154718688050696243": {
+    "id": 1154718688050696243,
+    "name": "lovelychickens13",
+    "nick": null,
+    "display_name": "Solaf - !!",
+    "global_name": "Solaf - !!",
+    "pronouns": "Pfp / bnr by miy001",
+    "guild_pronouns": null,
+    "bio": ".\n          Solaf - She/Any\n         ESC / DW Fan!\n        FRQ           ASK\n            !",
+    "guild_bio": null,
+    "display_bio": ".\n          Solaf - She/Any\n         ESC / DW Fan!\n        FRQ           ASK\n            !",
+    "banner": "https://cdn.discordapp.com/banners/1154718688050696243/4107bd75703dd77e2d4bd892a14f9832.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1154718688050696243/4107bd75703dd77e2d4bd892a14f9832.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31xlckmvagihburtuwznig6s2zti",
+        "name": "Wrigglenightbugfan",
+        "url": "https://open.spotify.com/user/31xlckmvagihburtuwznig6s2zti"
+      },
+      "tiktok": {
+        "id": "ec953b5c-3bb3-5f5c-9746-40f9afb41814",
+        "name": "postaldudemylove",
+        "url": "https://tiktok.com/@postaldudemylove"
+      },
+      "twitter": {
+        "id": "1788894759148261376",
+        "name": "K44rijaFan358",
+        "url": "https://twitter.com/K44rijaFan358"
+      },
+      "youtube": {
+        "id": "UC1PtADk3SkoE_nBrM53mwAw",
+        "name": "SolafB\u203c\ufe0f",
+        "url": "https://www.youtube.com/channel/UC1PtADk3SkoE_nBrM53mwAw"
+      }
+    },
+    "legacy_username": null
+  },
+  "269452546114846730": {
+    "id": 269452546114846730,
+    "name": "kinesol",
+    "nick": null,
+    "display_name": "Kine",
+    "global_name": "Kine",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "_Be kind, the world is hard enough as it is._\n  _UTC+1_",
+    "guild_bio": null,
+    "display_bio": "_Be kind, the world is hard enough as it is._\n  _UTC+1_",
+    "banner": "https://cdn.discordapp.com/banners/269452546114846730/aaf66453d47cd26d9df8c2e949a72579.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/269452546114846730/aaf66453d47cd26d9df8c2e949a72579.png?size=512",
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198036633171",
+        "name": "k1ne-",
+        "url": "https://steamcommunity.com/profiles/76561198036633171"
+      },
+      "twitch": {
+        "id": "255157442",
+        "name": "kinesol",
+        "url": "https://www.twitch.tv/kinesol"
+      },
+      "twitter": {
+        "id": "969087529420054533",
+        "name": "KineAbsol",
+        "url": "https://twitter.com/KineAbsol"
+      }
+    },
+    "legacy_username": "Kine#0359"
   }
 }
