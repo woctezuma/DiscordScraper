@@ -32658,5 +32658,121 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "874629348672540722": {
+    "id": 874629348672540722,
+    "name": "mirduaz",
+    "nick": null,
+    "display_name": "[fmz]Mirduazio",
+    "global_name": "[fmz]Mirduazio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1319562822950326345": {
+    "id": 1319562822950326345,
+    "name": "casualorange1soda",
+    "nick": null,
+    "display_name": "orangecounty",
+    "global_name": "orangecounty",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1118474174072107028": {
+    "id": 1118474174072107028,
+    "name": "_majx",
+    "nick": null,
+    "display_name": "MajX",
+    "global_name": "MajX",
+    "pronouns": "Do not disturb means I'm online",
+    "guild_pronouns": null,
+    "bio": "I forgot my accounts password\nDiscord user since 2018\n\n6th December 2006",
+    "guild_bio": null,
+    "display_bio": "I forgot my accounts password\nDiscord user since 2018\n\n6th December 2006",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "y82rlfh0dnw2y1ox3wahmxl6x",
+        "name": "MajX",
+        "url": "https://open.spotify.com/user/y82rlfh0dnw2y1ox3wahmxl6x"
+      },
+      "steam": {
+        "id": "76561199531634522",
+        "name": "MajX",
+        "url": "https://steamcommunity.com/profiles/76561199531634522"
+      },
+      "twitch": {
+        "id": "620115789",
+        "name": "majxofficial",
+        "url": "https://www.twitch.tv/majxofficial"
+      },
+      "youtube": {
+        "id": "UCXRRtiC__Kr1hjPulaRSI_w",
+        "name": "MajX",
+        "url": "https://www.youtube.com/channel/UCXRRtiC__Kr1hjPulaRSI_w"
+      }
+    },
+    "legacy_username": "MajX#1835"
+  },
+  "886964762389413918": {
+    "id": 886964762389413918,
+    "name": "voniuc",
+    "nick": null,
+    "display_name": "x",
+    "global_name": "x",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Ig: mioc.alex",
+    "guild_bio": null,
+    "display_bio": "Ig: mioc.alex",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "hrgyt1r5p2wos5p4le3u1yi03",
+        "name": "\u1d00",
+        "url": "https://open.spotify.com/user/hrgyt1r5p2wos5p4le3u1yi03"
+      },
+      "steam": {
+        "id": "76561199055523609",
+        "name": "\u1d00\u029f\u1d07x\u0337\u1d1c\u1d1b\u1d22\u1d1c",
+        "url": "https://steamcommunity.com/profiles/76561199055523609"
+      },
+      "tiktok": {
+        "id": "416f2b9d-ca64-5215-aead-be9a187d9fa4",
+        "name": "alex_.good",
+        "url": "https://tiktok.com/@alex_.good"
+      }
+    },
+    "legacy_username": "Voniuc#8902"
   }
 }
