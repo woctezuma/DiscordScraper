@@ -32246,5 +32246,111 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "100183541807054848": {
+    "id": 100183541807054848,
+    "name": "slipslot",
+    "nick": null,
+    "display_name": "GT Warren",
+    "global_name": "GT Warren",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hey!\n\nMy name's Warren.\n\n<:GTface1:818533358836908123> Program Manager of Game Tester, Lionbridge\n<:OP:230749333006319617> Founder and Director of Opium Pulses Ltd.\n\nhttps://GameTester.gg",
+    "guild_bio": null,
+    "display_bio": "Hey!\n\nMy name's Warren.\n\n<:GTface1:818533358836908123> Program Manager of Game Tester, Lionbridge\n<:OP:230749333006319617> Founder and Director of Opium Pulses Ltd.\n\nhttps://GameTester.gg",
+    "banner": "https://cdn.discordapp.com/banners/100183541807054848/adf4311386a072ba7a962d85777e9f56.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/100183541807054848/adf4311386a072ba7a962d85777e9f56.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "SlipSlot#2424",
+        "name": "SlipSlot#2424",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018431326142",
+        "name": "SlipSlot",
+        "url": null
+      },
+      "epic_games": {
+        "id": "83d94b8f84f04f7f8cb757d1f01a3758",
+        "name": "Klowjow",
+        "url": null
+      },
+      "github": {
+        "id": "11255731",
+        "name": "SlipSlot",
+        "url": "https://github.com/SlipSlot"
+      },
+      "instagram": {
+        "id": "6032840540071092",
+        "name": "gametesterofficial",
+        "url": "https://www.instagram.com/gametesterofficial"
+      },
+      "league_of_legends": {
+        "id": "g2dr--0Ko8Mbq0Z1y28jfqKadcAdUxl_lXDG57YQoWmorq60IkwJmmnEkaoyf0rHZRBj9rJaWFO92g",
+        "name": "SlipSlot",
+        "url": null
+      },
+      "playstation": {
+        "id": "5511199166842713826",
+        "name": "Klowjow",
+        "url": null
+      },
+      "reddit": {
+        "id": "8fmyp",
+        "name": "SlipSlot",
+        "url": "https://www.reddit.com/u/SlipSlot"
+      },
+      "riot_games": {
+        "id": "g2dr--0Ko8Mbq0Z1y28jfqKadcAdUxl_lXDG57YQoWmorq60IkwJmmnEkaoyf0rHZRBj9rJaWFO92g",
+        "name": "SlipSlot#Slip",
+        "url": null
+      },
+      "skype": {
+        "id": "slipslot",
+        "name": "slipslot",
+        "url": "skype:slipslot?userinfo"
+      },
+      "spotify": {
+        "id": "113628095",
+        "name": "Warren Dance",
+        "url": "https://open.spotify.com/user/113628095"
+      },
+      "steam": {
+        "id": "76561198057252542",
+        "name": "SlipSlot",
+        "url": "https://steamcommunity.com/profiles/76561198057252542"
+      },
+      "twitch": {
+        "id": "54438690",
+        "name": "opiumpulses",
+        "url": "https://www.twitch.tv/opiumpulses"
+      },
+      "twitter": {
+        "id": "3956484688",
+        "name": "GameTesterNews",
+        "url": "https://twitter.com/GameTesterNews"
+      },
+      "xbox": {
+        "id": "3068105498979354",
+        "name": "SlipSlot",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SlipSlot"
+      },
+      "youtube": {
+        "id": "UCrp-C5ddLPz51ByhXHC34oA",
+        "name": "Game Tester",
+        "url": "https://www.youtube.com/channel/UCrp-C5ddLPz51ByhXHC34oA"
+      }
+    },
+    "legacy_username": "SlipSlot#4389"
   }
 }
