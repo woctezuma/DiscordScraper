@@ -33972,5 +33972,25 @@
       }
     },
     "legacy_username": "\u3042\u3044\u3061\u305a\u304d#3755"
+  },
+  "1019331817326772326": {
+    "id": 1019331817326772326,
+    "name": "andrewtate85",
+    "nick": null,
+    "display_name": "Andrew Tate",
+    "global_name": "Andrew Tate",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Andrew Tate#3471"
   }
 }
