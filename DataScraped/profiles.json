@@ -33891,5 +33891,31 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "734259732394672311": {
+    "id": 734259732394672311,
+    "name": ".krazy.marii",
+    "nick": null,
+    "display_name": "!Marii",
+    "global_name": "!Marii",
+    "pronouns": "Child of God",
+    "guild_pronouns": null,
+    "bio": "What is impossible with man is possible with God\n~Luke 18:27\n\n  ",
+    "guild_bio": null,
+    "display_bio": "What is impossible with man is possible with God\n~Luke 18:27\n\n  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "74dpike0zrgr78o04ylkeyc80",
+        "name": "DarkRio",
+        "url": "https://open.spotify.com/user/74dpike0zrgr78o04ylkeyc80"
+      }
+    },
+    "legacy_username": null
   }
 }
