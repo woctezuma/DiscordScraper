@@ -33617,5 +33617,64 @@
     ],
     "connections": {},
     "legacy_username": "NickWithBickDig#9304"
+  },
+  "829782533654315092": {
+    "id": 829782533654315092,
+    "name": "caveman_riffs",
+    "nick": null,
+    "display_name": "CAVEMAN_RIFFS",
+    "global_name": "CAVEMAN_RIFFS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "CAVEMAN_RIFFS#7107"
+  },
+  "856288940309872640": {
+    "id": 856288940309872640,
+    "name": "lilmamad",
+    "nick": null,
+    "display_name": "M v M v D",
+    "global_name": "M v M v D",
+    "pronouns": "Loyalty = Royalty",
+    "guild_pronouns": null,
+    "bio": "I do not believe in the god's existence. Man is master of his own faith, not the gods. The gods are man's creation, to give answers that they are too afraid to give themselves.",
+    "guild_bio": null,
+    "display_bio": "I do not believe in the god's existence. Man is master of his own faith, not the gods. The gods are man's creation, to give answers that they are too afraid to give themselves.",
+    "banner": "https://cdn.discordapp.com/banners/856288940309872640/a_e62bc159e843c976c5c17190ac4a4256.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/856288940309872640/a_e62bc159e843c976c5c17190ac4a4256.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3tqcbgecdnipfha67xiw46dvi",
+        "name": "TrupLiX",
+        "url": "https://open.spotify.com/user/3tqcbgecdnipfha67xiw46dvi"
+      },
+      "steam": {
+        "id": "76561197995064478",
+        "name": "\u2670  \u2067 \u2067 \u2670",
+        "url": "https://steamcommunity.com/profiles/76561197995064478"
+      },
+      "twitch": {
+        "id": "816745339",
+        "name": "truplixy",
+        "url": "https://www.twitch.tv/truplixy"
+      }
+    },
+    "legacy_username": null
   }
 }
