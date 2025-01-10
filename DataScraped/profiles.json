@@ -33149,5 +33149,103 @@
       }
     },
     "legacy_username": "Franzz#7661"
+  },
+  "1077553938846453861": {
+    "id": 1077553938846453861,
+    "name": "justjesse7676",
+    "nick": null,
+    "display_name": "Jesse",
+    "global_name": "Jesse",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "JustJesse#7676"
+  },
+  "493346803094257665": {
+    "id": 493346803094257665,
+    "name": "0xananth",
+    "nick": null,
+    "display_name": "ananth",
+    "global_name": "ananth",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "you already know me",
+    "guild_bio": null,
+    "display_bio": "you already know me",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d7c67967094d47029ab2887b2440024b",
+        "name": "Blacksquad-YT",
+        "url": null
+      },
+      "paypal": {
+        "id": "wpc-DZoRyGsIO4Nji96b9nwye9bOeZvo81H8aBUO6Z8",
+        "name": "Rajyalakshmi Durbha",
+        "url": null
+      },
+      "playstation": {
+        "id": "5769014919535940071",
+        "name": "ConeTray",
+        "url": null
+      },
+      "reddit": {
+        "id": "4jef02na",
+        "name": "Trikkstergaming",
+        "url": "https://www.reddit.com/u/Trikkstergaming"
+      },
+      "riot_games": {
+        "id": "eVyplV1qTZ9dCkUyQ9pTqB1gZXnB7VTOGD4LOtLaOa5puQj01k9NRl6VZBcT7nQ8fdsGi7xnMQRz2w",
+        "name": "voxale#3524",
+        "url": null
+      },
+      "spotify": {
+        "id": "rxx1jt4io83u6zavwfrhyi4jg",
+        "name": "Voxale",
+        "url": "https://open.spotify.com/user/rxx1jt4io83u6zavwfrhyi4jg"
+      },
+      "steam": {
+        "id": "76561199071606927",
+        "name": "Voxale",
+        "url": "https://steamcommunity.com/profiles/76561199071606927"
+      },
+      "twitch": {
+        "id": "475592442",
+        "name": "voxale_dev",
+        "url": "https://www.twitch.tv/voxale_dev"
+      },
+      "twitter": {
+        "id": "1328616360235167744",
+        "name": "_Voxale",
+        "url": "https://twitter.com/_Voxale"
+      },
+      "xbox": {
+        "id": "3072090271880033",
+        "name": "Ananth45",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Ananth45"
+      },
+      "youtube": {
+        "id": "UCfBvzfPdv1REagqRVdDQ99A",
+        "name": "Voxale Gaming",
+        "url": "https://www.youtube.com/channel/UCfBvzfPdv1REagqRVdDQ99A"
+      }
+    },
+    "legacy_username": "ananth#3524"
   }
 }
