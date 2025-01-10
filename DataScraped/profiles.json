@@ -31657,5 +31657,31 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "495125134747893770": {
+    "id": 495125134747893770,
+    "name": "night_lightt",
+    "nick": null,
+    "display_name": "Light",
+    "global_name": "Light",
+    "pronouns": "\u043f\u0440\u0435\u0441\u0442\u0438\u0434\u0438\u0436\u0438\u0442\u0430\u0442\u043e\u0440",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198928198516",
+        "name": "Night Light",
+        "url": "https://steamcommunity.com/profiles/76561198928198516"
+      }
+    },
+    "legacy_username": null
   }
 }
