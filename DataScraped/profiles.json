@@ -31593,5 +31593,31 @@
       }
     },
     "legacy_username": null
+  },
+  "782031711688982578": {
+    "id": 782031711688982578,
+    "name": "jr2dimon",
+    "nick": null,
+    "display_name": "DIMON",
+    "global_name": "DIMON",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "/ DIMON2#6115",
+    "guild_bio": null,
+    "display_bio": "/ DIMON2#6115",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199109682987",
+        "name": "Dimon",
+        "url": "https://steamcommunity.com/profiles/76561199109682987"
+      }
+    },
+    "legacy_username": "DIMON#6622"
   }
 }
