@@ -32879,5 +32879,65 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "979492845289365544": {
+    "id": 979492845289365544,
+    "name": "stef.cxsh",
+    "nick": null,
+    "display_name": "stef",
+    "global_name": "stef",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "dga0bgb5fkbjbshkdoof24w7j",
+        "name": "stef",
+        "url": "https://open.spotify.com/user/dga0bgb5fkbjbshkdoof24w7j"
+      },
+      "steam": {
+        "id": "76561199365454061",
+        "name": "stef",
+        "url": "https://steamcommunity.com/profiles/76561199365454061"
+      },
+      "xbox": {
+        "id": "3073931462050149",
+        "name": "ItzStefXbox",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ItzStefXbox"
+      }
+    },
+    "legacy_username": "stef#7404"
+  },
+  "809070375018823710": {
+    "id": 809070375018823710,
+    "name": "magne_plep2",
+    "nick": null,
+    "display_name": "Magne_Plep2",
+    "global_name": "Magne_Plep2",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Magne_Plep2#6806"
   }
 }
