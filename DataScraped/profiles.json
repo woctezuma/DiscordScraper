@@ -33676,5 +33676,26 @@
       }
     },
     "legacy_username": null
+  },
+  "950164348951752724": {
+    "id": 950164348951752724,
+    "name": "luca.exe_failed",
+    "nick": null,
+    "display_name": "Luca",
+    "global_name": "Luca",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Commission artist, just like DM me or something idfk\nLegally registered priest\nSleep\nI did not assist in the attacks on 9/11\nNumber 2 mantis shrimp glazer (only beaten by sage)",
+    "guild_bio": null,
+    "display_bio": "Commission artist, just like DM me or something idfk\nLegally registered priest\nSleep\nI did not assist in the attacks on 9/11\nNumber 2 mantis shrimp glazer (only beaten by sage)",
+    "banner": "https://cdn.discordapp.com/banners/950164348951752724/315415cf44ac196c512a37bf493ea206.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/950164348951752724/315415cf44ac196c512a37bf493ea206.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "luca.exe_failed#5073"
   }
 }
