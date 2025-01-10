@@ -31683,5 +31683,26 @@
       }
     },
     "legacy_username": null
+  },
+  "718010468999889016": {
+    "id": 718010468999889016,
+    "name": "dragons9488",
+    "nick": null,
+    "display_name": "Dragon",
+    "global_name": "Dragon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Dragons#1489"
   }
 }
