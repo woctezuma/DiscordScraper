@@ -34458,5 +34458,44 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1063231740396708000": {
+    "id": 1063231740396708000,
+    "name": "olsi_6",
+    "nick": null,
+    "display_name": "olsi",
+    "global_name": "olsi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "olsi#8627"
+  },
+  "1232253044209750127": {
+    "id": 1232253044209750127,
+    "name": "hi3430521",
+    "nick": null,
+    "display_name": "Hi343",
+    "global_name": "Hi343",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
