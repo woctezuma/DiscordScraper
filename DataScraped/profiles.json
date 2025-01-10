@@ -33332,5 +33332,133 @@
     ],
     "connections": {},
     "legacy_username": "MamMalego42#6969"
+  },
+  "793145415146143744": {
+    "id": 793145415146143744,
+    "name": "tamer_yes",
+    "nick": null,
+    "display_name": "Tamer",
+    "global_name": "Tamer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Tamer#2351"
+  },
+  "865525728794640426": {
+    "id": 865525728794640426,
+    "name": "42npc",
+    "nick": null,
+    "display_name": "NPC",
+    "global_name": "NPC",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1066001631138824353": {
+    "id": 1066001631138824353,
+    "name": "slevon8",
+    "nick": null,
+    "display_name": "Slevon",
+    "global_name": "Slevon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "8r2fb8ex",
+        "name": "Slevon8",
+        "url": "https://www.reddit.com/u/Slevon8"
+      },
+      "spotify": {
+        "id": "3137ntcner4fjmpdx63xgdlc3xp4",
+        "name": "Slevon8",
+        "url": "https://open.spotify.com/user/3137ntcner4fjmpdx63xgdlc3xp4"
+      },
+      "steam": {
+        "id": "76561199280914057",
+        "name": "Slevon8",
+        "url": "https://steamcommunity.com/profiles/76561199280914057"
+      },
+      "twitch": {
+        "id": "988396802",
+        "name": "slevon8",
+        "url": "https://www.twitch.tv/slevon8"
+      },
+      "twitter": {
+        "id": "1724406880259203072",
+        "name": "Slevon8",
+        "url": "https://twitter.com/Slevon8"
+      },
+      "youtube": {
+        "id": "UCivNQyC4GTNBGTA-pFDJBIQ",
+        "name": "Slevon8",
+        "url": "https://www.youtube.com/channel/UCivNQyC4GTNBGTA-pFDJBIQ"
+      }
+    },
+    "legacy_username": "Slevon8#1887"
+  },
+  "864140556808618014": {
+    "id": 864140556808618014,
+    "name": "kevinfeige.",
+    "nick": null,
+    "display_name": "Kevin Feige",
+    "global_name": "Kevin Feige",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":Haiylaaa:",
+    "guild_bio": null,
+    "display_bio": ":Haiylaaa:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "243881847f274c0c890b90b0619f68e5",
+        "name": "Avik Datta",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199074389357",
+        "name": "Avik",
+        "url": "https://steamcommunity.com/profiles/76561199074389357"
+      },
+      "twitch": {
+        "id": "768924119",
+        "name": "kevin_feige_",
+        "url": "https://www.twitch.tv/kevin_feige_"
+      }
+    },
+    "legacy_username": "Kevin Feige#9898"
   }
 }
