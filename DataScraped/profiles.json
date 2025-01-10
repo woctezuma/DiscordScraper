@@ -33096,5 +33096,58 @@
       }
     },
     "legacy_username": "JoeyTheMadScientist#6468"
+  },
+  "875073016734810142": {
+    "id": 875073016734810142,
+    "name": "franzz_.",
+    "nick": null,
+    "display_name": "Franzz",
+    "global_name": "Franzz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":discord:  : https://discord.gg/jkUuPrp5jX\n\n:twitchemoji: : https://www.twitch.tv/franzz2066",
+    "guild_bio": null,
+    "display_bio": ":discord:  : https://discord.gg/jkUuPrp5jX\n\n:twitchemoji: : https://www.twitch.tv/franzz2066",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5946f9344f134721b865dc68fe69663e",
+        "name": "Franzz.\u03a8",
+        "url": null
+      },
+      "instagram": {
+        "id": "24751651631114899",
+        "name": "_francee_._",
+        "url": "https://www.instagram.com/_francee_._"
+      },
+      "riot_games": {
+        "id": "U5nSOX8voAQ-xjSzwPkpi5Yypay2feg0LpktQ5yxH0ZS25HL1i39pWHIQDm1sfnJp7trw8MmaBzhdQ",
+        "name": "Franzz#7928",
+        "url": null
+      },
+      "spotify": {
+        "id": "31bmkjgflimjsady6jar7k7hl7iq",
+        "name": "Francesco",
+        "url": "https://open.spotify.com/user/31bmkjgflimjsady6jar7k7hl7iq"
+      },
+      "steam": {
+        "id": "76561199219240759",
+        "name": "Franzz",
+        "url": "https://steamcommunity.com/profiles/76561199219240759"
+      },
+      "twitch": {
+        "id": "743285953",
+        "name": "franzz2066",
+        "url": "https://www.twitch.tv/franzz2066"
+      }
+    },
+    "legacy_username": "Franzz#7661"
   }
 }
