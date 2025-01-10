@@ -31704,5 +31704,74 @@
     ],
     "connections": {},
     "legacy_username": "Dragons#1489"
+  },
+  "526299701553922059": {
+    "id": 526299701553922059,
+    "name": "thecodeking91",
+    "nick": null,
+    "display_name": "thecodeking91",
+    "global_name": "thecodeking91",
+    "pronouns": "KK7YHU",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "aaf1cbdc855248e187c362b99d669768",
+        "name": "The toy king91",
+        "url": null
+      },
+      "github": {
+        "id": "59570607",
+        "name": "Thetoyking91",
+        "url": "https://github.com/Thetoyking91"
+      },
+      "steam": {
+        "id": "76561199043886833",
+        "name": "thetoyking91",
+        "url": "https://steamcommunity.com/profiles/76561199043886833"
+      },
+      "xbox": {
+        "id": "ODQwMjYzNDdjZGJjZjVlOGFmYmRmOGQ0NzlhYmQyYTBmZGZkYTM3ZjE3NDFhYjA1Y2JmYzU1YjA5OGE4MWI2YQ",
+        "name": "The toy king91",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=The toy king91"
+      },
+      "youtube": {
+        "id": "UCAhdBISxmD7uxseqqpM9gxw",
+        "name": "The Toy King91",
+        "url": "https://www.youtube.com/channel/UCAhdBISxmD7uxseqqpM9gxw"
+      }
+    },
+    "legacy_username": "thecodeking91#9123"
+  },
+  "694206825859645510": {
+    "id": 694206825859645510,
+    "name": "atom4222",
+    "nick": null,
+    "display_name": "ATOM",
+    "global_name": "ATOM",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "ATOM#4222"
   }
 }
