@@ -34497,5 +34497,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "256110796990447617": {
+    "id": 256110796990447617,
+    "name": "daikolirico",
+    "nick": null,
+    "display_name": "Daikolirico",
+    "global_name": "Daikolirico",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "x9c3xjd2ee696g4uvpmbwa86x",
+        "name": "MiguelRoldane",
+        "url": "https://open.spotify.com/user/x9c3xjd2ee696g4uvpmbwa86x"
+      },
+      "steam": {
+        "id": "76561198295118013",
+        "name": "Daiko",
+        "url": "https://steamcommunity.com/profiles/76561198295118013"
+      },
+      "twitch": {
+        "id": "223551250",
+        "name": "miguelroldane",
+        "url": "https://www.twitch.tv/miguelroldane"
+      },
+      "xbox": {
+        "id": "YmFmNGNlN2MxNzljZmMxNTI0Y2RjMmRhN2IzZTk5OGI2YzUxNjRlMTUyN2ZhODNkMjdlYzU3ZjA3YTlhZjg3MA",
+        "name": "Daiko2872",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Daiko2872"
+      }
+    },
+    "legacy_username": "Daikolirico#6210"
   }
 }
