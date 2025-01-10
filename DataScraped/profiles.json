@@ -33759,5 +33759,119 @@
     ],
     "connections": {},
     "legacy_username": "Jennyfer#3149"
+  },
+  "677917307569307684": {
+    "id": 677917307569307684,
+    "name": "matschkee",
+    "nick": null,
+    "display_name": "Matschkee",
+    "global_name": "Matschkee",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "486182684",
+        "name": "matschkee",
+        "url": "https://www.twitch.tv/matschkee"
+      }
+    },
+    "legacy_username": "Matschkee#8916"
+  },
+  "1080176986518982696": {
+    "id": 1080176986518982696,
+    "name": "marcoorion",
+    "nick": null,
+    "display_name": "marcoorion",
+    "global_name": null,
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "Hey! Welcome to my profile!\nMy hobbies are ban speedruns and programming!\n\nAdd my bot! https://shorturl.at/DUys3",
+    "guild_bio": null,
+    "display_bio": "Hey! Welcome to my profile!\nMy hobbies are ban speedruns and programming!\n\nAdd my bot! https://shorturl.at/DUys3",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "c8576afc-648e-58f5-88cf-59a34756953a",
+        "name": "Marcoorion",
+        "url": null
+      },
+      "reddit": {
+        "id": "1ettphd1c6",
+        "name": "marcoorion",
+        "url": "https://www.reddit.com/u/marcoorion"
+      },
+      "unknown_roblox": {
+        "id": "3589111467",
+        "name": "marcoorion",
+        "url": null
+      },
+      "youtube": {
+        "id": "UCOnY2zRFfK5W7GE0U0M1iWQ",
+        "name": "marcoorion\ud83d\ude42",
+        "url": "https://www.youtube.com/channel/UCOnY2zRFfK5W7GE0U0M1iWQ"
+      }
+    },
+    "legacy_username": "promarc#9622"
+  },
+  "727220932094984333": {
+    "id": 727220932094984333,
+    "name": "onlydado",
+    "nick": null,
+    "display_name": "RealDado",
+    "global_name": "RealDado",
+    "pronouns": "FusionX Interactive CEO",
+    "guild_pronouns": null,
+    "bio": "> - `FusionX CEO`\n> - `Builder & Ui Maker`\n> https://discord.gg/Ap3gmAM8tg\n> https://nohello.net",
+    "guild_bio": null,
+    "display_bio": "> - `FusionX CEO`\n> - `Builder & Ui Maker`\n> https://discord.gg/Ap3gmAM8tg\n> https://nohello.net",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "232597b2c7c24b5da8dd368c119fb3c9",
+        "name": "Realdado1",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3604784551",
+        "name": "ClozxyDev",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199009632223",
+        "name": "RealDado \u30cd",
+        "url": "https://steamcommunity.com/profiles/76561199009632223"
+      },
+      "youtube": {
+        "id": "UCBY7etJ9OQvB04S45ZrZHQw",
+        "name": "RealDado",
+        "url": "https://www.youtube.com/channel/UCBY7etJ9OQvB04S45ZrZHQw"
+      }
+    },
+    "legacy_username": "OnlyDado#3345"
   }
 }
