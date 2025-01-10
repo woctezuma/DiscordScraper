@@ -31408,5 +31408,37 @@
       }
     },
     "legacy_username": null
+  },
+  "527330087864107011": {
+    "id": 527330087864107011,
+    "name": "thejammingxp",
+    "nick": null,
+    "display_name": "JamJam",
+    "global_name": "JamJam",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "7266262650",
+        "name": "thejammingxp",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198876476865",
+        "name": "JamJam",
+        "url": "https://steamcommunity.com/profiles/76561198876476865"
+      }
+    },
+    "legacy_username": null
   }
 }
