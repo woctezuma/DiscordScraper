@@ -33597,5 +33597,25 @@
       }
     },
     "legacy_username": "banannamonkevr#5672"
+  },
+  "780366568445050891": {
+    "id": 780366568445050891,
+    "name": "nickwithbickdig",
+    "nick": null,
+    "display_name": "NickWithBickDig",
+    "global_name": "NickWithBickDig",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "NickWithBickDig#9304"
   }
 }
