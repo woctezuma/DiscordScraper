@@ -33917,5 +33917,60 @@
       }
     },
     "legacy_username": null
+  },
+  "712880746573856828": {
+    "id": 712880746573856828,
+    "name": "seo.yeon",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\ud669\ud6c4",
+    "guild_pronouns": null,
+    "bio": "Seas are on fire and the moon's falling down\nSo I'm playing my lyre in the last rays of sun <a:stars:1121422364136190013>",
+    "guild_bio": null,
+    "display_bio": "Seas are on fire and the moon's falling down\nSo I'm playing my lyre in the last rays of sun <a:stars:1121422364136190013>",
+    "banner": "https://cdn.discordapp.com/banners/712880746573856828/a_ed7f398ffa345199c33e417b920111e1.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/712880746573856828/a_ed7f398ffa345199c33e417b920111e1.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "\uc11c\uc5f0#4376"
+  },
+  "1125965825266962454": {
+    "id": 1125965825266962454,
+    "name": "aichizuki",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\n       ",
+    "guild_bio": null,
+    "display_bio": "\n       ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ta6wmbtfa3hsq4gawez3zlg62m",
+        "name": "\u3042\u3044\u3061\u305a\u304d",
+        "url": "https://open.spotify.com/user/31ta6wmbtfa3hsq4gawez3zlg62m"
+      },
+      "steam": {
+        "id": "76561199523630782",
+        "name": "\udb40\udc73\u2067\u2067\u3042 \u3044\u3061\u305a\u304d",
+        "url": "https://steamcommunity.com/profiles/76561199523630782"
+      }
+    },
+    "legacy_username": "\u3042\u3044\u3061\u305a\u304d#3755"
   }
 }
