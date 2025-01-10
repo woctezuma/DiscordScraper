@@ -33060,5 +33060,41 @@
       }
     },
     "legacy_username": "Sledge#8090"
+  },
+  "382941850652246017": {
+    "id": 382941850652246017,
+    "name": "joeythemadscientist",
+    "nick": null,
+    "display_name": "Joey the Mad Scientist",
+    "global_name": "Joey the Mad Scientist",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "You ever go to the kitchen to do the dishes but you end up eating pistachios instead?",
+    "guild_bio": null,
+    "display_bio": "You ever go to the kitchen to do the dishes but you end up eating pistachios instead?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "ee280613d35b4d7397d857545818ebe4",
+        "name": "JoeyMadScientist",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198083314849",
+        "name": "joeythemadscientist",
+        "url": "https://steamcommunity.com/profiles/76561198083314849"
+      },
+      "xbox": {
+        "id": "3067203151815881",
+        "name": "JoeysMadScience",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JoeysMadScience"
+      }
+    },
+    "legacy_username": "JoeyTheMadScientist#6468"
   }
 }
