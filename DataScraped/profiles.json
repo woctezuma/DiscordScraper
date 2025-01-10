@@ -31773,5 +31773,77 @@
     ],
     "connections": {},
     "legacy_username": "ATOM#4222"
+  },
+  "699974632517664798": {
+    "id": 699974632517664798,
+    "name": "samo_83",
+    "nick": null,
+    "display_name": "Thunder",
+    "global_name": "Thunder",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "rick ross 85#9954"
+  },
+  "942683507665276948": {
+    "id": 942683507665276948,
+    "name": "diablofiftyseven",
+    "nick": null,
+    "display_name": "IAB57",
+    "global_name": "IAB57",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "bb01faa11297431eb4afa36d83b3ef67",
+        "name": "diablofiftyseven",
+        "url": null
+      },
+      "playstation": {
+        "id": "4869710409498917586",
+        "name": "diablofiftyseven",
+        "url": null
+      },
+      "spotify": {
+        "id": "31z2a274sk52xli4qsah33nji5ry",
+        "name": "diablofiftyseven",
+        "url": "https://open.spotify.com/user/31z2a274sk52xli4qsah33nji5ry"
+      },
+      "steam": {
+        "id": "76561199244183213",
+        "name": "diablofiftyseven",
+        "url": "https://steamcommunity.com/profiles/76561199244183213"
+      },
+      "twitter": {
+        "id": "1493126132551413760",
+        "name": "D1ABLO57",
+        "url": "https://twitter.com/D1ABLO57"
+      },
+      "xbox": {
+        "id": "3067132823743634",
+        "name": "D1ABLO57",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=D1ABLO57"
+      }
+    },
+    "legacy_username": null
   }
 }
