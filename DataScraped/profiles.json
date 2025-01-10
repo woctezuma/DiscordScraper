@@ -34117,5 +34117,73 @@
       }
     },
     "legacy_username": "Erroneo#9237"
+  },
+  "795010665441394739": {
+    "id": 795010665441394739,
+    "name": "leskyro28",
+    "nick": null,
+    "display_name": "Sbeve",
+    "global_name": "Sbeve",
+    "pronouns": "Sbeve de combat",
+    "guild_pronouns": null,
+    "bio": "ALL WORSHIP THE SBEVE, OUR MASTER",
+    "guild_bio": null,
+    "display_bio": "ALL WORSHIP THE SBEVE, OUR MASTER",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Leskyro28#2109",
+        "name": "Leskyro28#2109",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "9eb1a5b9-57a2-596a-8d47-48bfd0796ca6",
+        "name": "Leskyro28",
+        "url": null
+      },
+      "epic_games": {
+        "id": "d3581811cfcf4cff9b09773fd6045828",
+        "name": "Leskyro28",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "f4n_3vyw2j_7AXdOOI-AX1IslyLksjrhbzDmuVKtoIHYsGO_UnnMQCWFcVscmeaomnnPagMWcnXLgA",
+        "name": "endiro28",
+        "url": null
+      },
+      "riot_games": {
+        "id": "f4n_3vyw2j_7AXdOOI-AX1IslyLksjrhbzDmuVKtoIHYsGO_UnnMQCWFcVscmeaomnnPagMWcnXLgA",
+        "name": "leskyro28#2492",
+        "url": null
+      },
+      "spotify": {
+        "id": "932fuwm7abmdqn5ofzu4a4kp6",
+        "name": "Leskyro28",
+        "url": "https://open.spotify.com/user/932fuwm7abmdqn5ofzu4a4kp6"
+      },
+      "steam": {
+        "id": "76561199214943022",
+        "name": "leskyro28",
+        "url": "https://steamcommunity.com/profiles/76561199214943022"
+      },
+      "twitch": {
+        "id": "706312563",
+        "name": "leskyro285",
+        "url": "https://www.twitch.tv/leskyro285"
+      },
+      "xbox": {
+        "id": "3063007374023771",
+        "name": "Leskyro28",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Leskyro28"
+      }
+    },
+    "legacy_username": "Twitch_Leskyro285#6932"
   }
 }
