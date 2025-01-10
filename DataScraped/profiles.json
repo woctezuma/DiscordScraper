@@ -32602,5 +32602,43 @@
     ],
     "connections": {},
     "legacy_username": "Piliener#7578"
+  },
+  "1322383676159430697": {
+    "id": 1322383676159430697,
+    "name": "f12_bt",
+    "nick": null,
+    "display_name": "Joshua Samuel Asirraj D",
+    "global_name": "Joshua Samuel Asirraj D",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "235565248138969088": {
+    "id": 235565248138969088,
+    "name": "zaquito1223",
+    "nick": null,
+    "display_name": "Zaquito",
+    "global_name": "Zaquito",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Razac Aeternum#6552"
   }
 }
