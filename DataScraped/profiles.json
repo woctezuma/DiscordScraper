@@ -34539,5 +34539,88 @@
       }
     },
     "legacy_username": "Daikolirico#6210"
+  },
+  "680993381622874200": {
+    "id": 680993381622874200,
+    "name": "waver89",
+    "nick": null,
+    "display_name": "waver",
+    "global_name": "waver",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl8",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2507394904904630686",
+        "name": "gabriel-waver",
+        "url": null
+      }
+    },
+    "legacy_username": "waver#1234"
+  },
+  "715656386582806588": {
+    "id": 715656386582806588,
+    "name": "mad_duck_official",
+    "nick": null,
+    "display_name": "Mad_Duck",
+    "global_name": "Mad_Duck",
+    "pronouns": "microwave/egg",
+    "guild_pronouns": null,
+    "bio": "legalize nucular bombs",
+    "guild_bio": null,
+    "display_bio": "legalize nucular bombs",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "ebay": {
+        "id": "llyedtp8qse",
+        "name": "thisis_539",
+        "url": "https://www.ebay.com/usr/thisis_539"
+      }
+    },
+    "legacy_username": "Mad duck#3267"
+  },
+  "674975349288861699": {
+    "id": 674975349288861699,
+    "name": "ilin0715",
+    "nick": null,
+    "display_name": "ilin",
+    "global_name": "ilin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "1101101 1110101 1110010 1100100 1100001 1101011 1101001 1101100 1101100 1100001",
+    "guild_bio": null,
+    "display_bio": "1101101 1110101 1110010 1100100 1100001 1101011 1101001 1101100 1101100 1100001",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198008133954",
+        "name": "ilin",
+        "url": "https://steamcommunity.com/profiles/76561198008133954"
+      }
+    },
+    "legacy_username": "ilin#0715"
   }
 }
