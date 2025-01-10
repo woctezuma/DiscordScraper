@@ -31973,5 +31973,46 @@
       }
     },
     "legacy_username": "PandaRian#6007"
+  },
+  "1061594394584699010": {
+    "id": 1061594394584699010,
+    "name": "bearlysane6",
+    "nick": null,
+    "display_name": "Bear",
+    "global_name": "Bear",
+    "pronouns": "UwU/OwO",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "grizzlybear619",
+        "name": "grizzlybear619",
+        "url": "https://open.spotify.com/user/grizzlybear619"
+      },
+      "steam": {
+        "id": "76561198064333189",
+        "name": "Bearlysane",
+        "url": "https://steamcommunity.com/profiles/76561198064333189"
+      },
+      "twitch": {
+        "id": "429821219",
+        "name": "bearlysane6",
+        "url": "https://www.twitch.tv/bearlysane6"
+      },
+      "youtube": {
+        "id": "UCPR1iHZ6qAONvpOI1hnX15w",
+        "name": "Bearlysane",
+        "url": "https://www.youtube.com/channel/UCPR1iHZ6qAONvpOI1hnX15w"
+      }
+    },
+    "legacy_username": null
   }
 }
