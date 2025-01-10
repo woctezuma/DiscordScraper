@@ -32128,5 +32128,48 @@
     ],
     "connections": {},
     "legacy_username": "qiiq#4135"
+  },
+  "754957252326326272": {
+    "id": 754957252326326272,
+    "name": "vixnry",
+    "nick": null,
+    "display_name": "vixnry",
+    "global_name": "vixnry",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "b37d6f0f92104273a68095408ca233e3",
+        "name": "vixnry",
+        "url": null
+      },
+      "spotify": {
+        "id": "yxd77oyzmaiuzgt8y9gpe61y0",
+        "name": "vixnry",
+        "url": "https://open.spotify.com/user/yxd77oyzmaiuzgt8y9gpe61y0"
+      },
+      "steam": {
+        "id": "76561199809892832",
+        "name": "vixnry",
+        "url": "https://steamcommunity.com/profiles/76561199809892832"
+      },
+      "xbox": {
+        "id": "3069847065057255",
+        "name": "vixnry",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=vixnry"
+      }
+    },
+    "legacy_username": "CraftexperdPE#2367"
   }
 }
