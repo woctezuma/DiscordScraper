@@ -33534,5 +33534,68 @@
     ],
     "connections": {},
     "legacy_username": "hbrodie#8136"
+  },
+  "1094273526736900257": {
+    "id": 1094273526736900257,
+    "name": "darkopro",
+    "nick": null,
+    "display_name": "Darko CS:GO",
+    "global_name": "Darko CS:GO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "darko mark minecraft#9067"
+  },
+  "1107303772578906224": {
+    "id": 1107303772578906224,
+    "name": "_.deku._.",
+    "nick": null,
+    "display_name": "DEKU",
+    "global_name": "DEKU",
+    "pronouns": "Bi HE/HIM",
+    "guild_pronouns": null,
+    "bio": "Bi",
+    "guild_bio": null,
+    "display_bio": "Bi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "86277b56-229e-591c-88dd-dcc1308846af",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "playstation": {
+        "id": "2343623587857272090",
+        "name": "Bananboyvr",
+        "url": null
+      },
+      "spotify": {
+        "id": "31dhlm4vjb5cfynl2qieyhet2fqy",
+        "name": "Welcome to macdonalds",
+        "url": "https://open.spotify.com/user/31dhlm4vjb5cfynl2qieyhet2fqy"
+      },
+      "steam": {
+        "id": "76561199754439950",
+        "name": "masterportergt",
+        "url": "https://steamcommunity.com/profiles/76561199754439950"
+      }
+    },
+    "legacy_username": "banannamonkevr#5672"
   }
 }
