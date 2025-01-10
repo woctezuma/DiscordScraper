@@ -31845,5 +31845,133 @@
       }
     },
     "legacy_username": null
+  },
+  "1284086811001356414": {
+    "id": 1284086811001356414,
+    "name": "ctn_",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<:badgeStaff:1310111100418916523>       ***Playing Lofi Radio***",
+    "guild_bio": null,
+    "display_bio": "<:badgeStaff:1310111100418916523>       ***Playing Lofi Radio***",
+    "banner": "https://cdn.discordapp.com/banners/1284086811001356414/a_99ea193ac73118b751d2d128dfcaecb3.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1284086811001356414/a_99ea193ac73118b751d2d128dfcaecb3.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AELUDHPH7P4EMK3DQFYR6XP45KRQ",
+        "name": "Leaf Maple",
+        "url": null
+      },
+      "spotify": {
+        "id": "317muz7wrud5biqk2dyqxnkznl5e",
+        "name": "LazyLester",
+        "url": "https://open.spotify.com/user/317muz7wrud5biqk2dyqxnkznl5e"
+      },
+      "steam": {
+        "id": "76561199088146444",
+        "name": "w1Nter",
+        "url": "https://steamcommunity.com/profiles/76561199088146444"
+      },
+      "twitch": {
+        "id": "1047400551",
+        "name": "agent_iaa18",
+        "url": "https://www.twitch.tv/agent_iaa18"
+      },
+      "twitter": {
+        "id": "1829824866192932866",
+        "name": "agent_iaa18",
+        "url": "https://twitter.com/agent_iaa18"
+      },
+      "youtube": {
+        "id": "UCY75HUuHYkYRYZdioPy969w",
+        "name": "LazyLester",
+        "url": "https://www.youtube.com/channel/UCY75HUuHYkYRYZdioPy969w"
+      }
+    },
+    "legacy_username": null
+  },
+  "132208496023175168": {
+    "id": 132208496023175168,
+    "name": "pandarian",
+    "nick": null,
+    "display_name": "PandaRian",
+    "global_name": "PandaRian",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\\_()_/\nWarframe iGN: iAmHansuke\nhttps://www.youtube.com/watch?v=fTczCpIaLAU",
+    "guild_bio": null,
+    "display_bio": "\\_()_/\nWarframe iGN: iAmHansuke\nhttps://www.youtube.com/watch?v=fTczCpIaLAU",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MrCookie#2183",
+        "name": "MrCookie#2183",
+        "url": null
+      },
+      "epic_games": {
+        "id": "3ccc61450e11422a802d5a6c348d97d2",
+        "name": "RianChan",
+        "url": null
+      },
+      "facebook": {
+        "id": "1576012799160072",
+        "name": "Mereuta Cosmin",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "bXkDXz0msEK0z73WtzCF4eCsBz4a7uHOz-I2zHyXRsYnQPWJF7kwQEGqgKdWCYnHfZHXg5kXC5z9GA",
+        "name": "NatePurple",
+        "url": null
+      },
+      "riot_games": {
+        "id": "bXkDXz0msEK0z73WtzCF4eCsBz4a7uHOz-I2zHyXRsYnQPWJF7kwQEGqgKdWCYnHfZHXg5kXC5z9GA",
+        "name": "NatePurple#EUNE",
+        "url": null
+      },
+      "skype": {
+        "id": "adrian23290",
+        "name": "adrian23290",
+        "url": "skype:adrian23290?userinfo"
+      },
+      "spotify": {
+        "id": "7zinzrgrisx1baulz1fi327jg",
+        "name": "PandaRian",
+        "url": "https://open.spotify.com/user/7zinzrgrisx1baulz1fi327jg"
+      },
+      "steam": {
+        "id": "76561198022535798",
+        "name": "Eidorian \u6804\u52aa\u5229\u5b89",
+        "url": "https://steamcommunity.com/profiles/76561198022535798"
+      },
+      "twitch": {
+        "id": "233543002",
+        "name": "iamhansuke",
+        "url": "https://www.twitch.tv/iamhansuke"
+      },
+      "youtube": {
+        "id": "UCiw3khS_EHAsAHS4j9XlPsw",
+        "name": "\u30c3Rian",
+        "url": "https://www.youtube.com/channel/UCiw3khS_EHAsAHS4j9XlPsw"
+      }
+    },
+    "legacy_username": "PandaRian#6007"
   }
 }
