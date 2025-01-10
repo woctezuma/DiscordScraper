@@ -34622,5 +34622,49 @@
       }
     },
     "legacy_username": "ilin#0715"
+  },
+  "425308344908251136": {
+    "id": 425308344908251136,
+    "name": "bigsully",
+    "nick": null,
+    "display_name": "big sully",
+    "global_name": "big sully",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31zsmzxdi6cl6cqpctnxvspf6gk4",
+        "name": "Fr",
+        "url": "https://open.spotify.com/user/31zsmzxdi6cl6cqpctnxvspf6gk4"
+      }
+    },
+    "legacy_username": null
+  },
+  "1321944661614526607": {
+    "id": 1321944661614526607,
+    "name": "minnelic",
+    "nick": null,
+    "display_name": "Minnelic",
+    "global_name": "Minnelic",
+    "pronouns": "\ud83d\uddc3\ufe0f Namenlos",
+    "guild_pronouns": null,
+    "bio": "A theology enthusiast, web developer, and mysticism student.\nhttps://youtu.be/n6P0SitRwy8",
+    "guild_bio": null,
+    "display_bio": "A theology enthusiast, web developer, and mysticism student.\nhttps://youtu.be/n6P0SitRwy8",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
