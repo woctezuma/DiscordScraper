@@ -34185,5 +34185,89 @@
       }
     },
     "legacy_username": "Twitch_Leskyro285#6932"
+  },
+  "283267848011382787": {
+    "id": 283267848011382787,
+    "name": "portovaya",
+    "nick": null,
+    "display_name": "porty",
+    "global_name": "porty",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "GoldenMode#2566",
+        "name": "GoldenMode#2566",
+        "url": null
+      },
+      "riot_games": {
+        "id": "kb80c8JvYm8L8n4oTuwA1rwMGiyuAbHXsmFFWiua3C5yOeUhT8OaPrt89xxvfBWArJtbBZ78B6nLxQ",
+        "name": "PortovayaSh#luha",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198158029860",
+        "name": "portovaya",
+        "url": "https://steamcommunity.com/profiles/76561198158029860"
+      },
+      "twitch": {
+        "id": "697766087",
+        "name": "portovaya_",
+        "url": "https://www.twitch.tv/portovaya_"
+      },
+      "youtube": {
+        "id": "UC_pZFvn_TA6eZW2jCTrYd8A",
+        "name": "portovaya",
+        "url": "https://www.youtube.com/channel/UC_pZFvn_TA6eZW2jCTrYd8A"
+      }
+    },
+    "legacy_username": "portovaya#7943"
+  },
+  "469503987658391552": {
+    "id": 469503987658391552,
+    "name": "gremonki",
+    "nick": null,
+    "display_name": "GreMonki",
+    "global_name": "GreMonki",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Enjoyer of food and things.\npfp - Saint from Rain World (velvetmelody's design) https://youtu.be/r3dD191ARFw",
+    "guild_bio": null,
+    "display_bio": "Enjoyer of food and things.\npfp - Saint from Rain World (velvetmelody's design) https://youtu.be/r3dD191ARFw",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "767396675991240705": {
+    "id": 767396675991240705,
+    "name": ".zagred.",
+    "nick": null,
+    "display_name": "Aizenin",
+    "global_name": "Aizenin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Tired.",
+    "guild_bio": null,
+    "display_bio": "Tired.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
