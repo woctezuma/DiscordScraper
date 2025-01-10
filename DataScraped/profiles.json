@@ -32939,5 +32939,126 @@
     ],
     "connections": {},
     "legacy_username": "Magne_Plep2#6806"
+  },
+  "694374400472121364": {
+    "id": 694374400472121364,
+    "name": "frankdrebin5633",
+    "nick": null,
+    "display_name": "Frank Drebin",
+    "global_name": "Frank Drebin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "guild_bio": null,
+    "display_bio": "Like a midget at a urinal, I was going to have to stay on my toes.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "d9cmen93fp6z5526ekacehyc9",
+        "name": "KJ_FEAR",
+        "url": "https://open.spotify.com/user/d9cmen93fp6z5526ekacehyc9"
+      }
+    },
+    "legacy_username": "Frank Drebin#5633"
+  },
+  "819183197841522718": {
+    "id": 819183197841522718,
+    "name": "doomcat.png",
+    "nick": null,
+    "display_name": "Galaxy annihilator",
+    "global_name": "Galaxy annihilator",
+    "pronouns": "kitto catto",
+    "guild_pronouns": null,
+    "bio": "(  `3' ) <3 <3 <3",
+    "guild_bio": null,
+    "display_bio": "(  `3' ) <3 <3 <3",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "rbpu2u810230qjf36h3tmhy2p",
+        "name": "Ch\u00fa m\u1ec1u h\u1ecfn l\u1ea1n",
+        "url": "https://open.spotify.com/user/rbpu2u810230qjf36h3tmhy2p"
+      }
+    },
+    "legacy_username": "Huychi-Kaneshi#6317"
+  },
+  "642979654323666995": {
+    "id": 642979654323666995,
+    "name": "sledge03",
+    "nick": null,
+    "display_name": "Sledge",
+    "global_name": "Sledge",
+    "pronouns": "nigger",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Shiba03#2116",
+        "name": "Shiba03#2116",
+        "url": null
+      },
+      "epic_games": {
+        "id": "5aa1c75f200345f8a8bfc299c707c1ce",
+        "name": "shiba_333",
+        "url": null
+      },
+      "github": {
+        "id": "181150671",
+        "name": "shiba03ubi",
+        "url": "https://github.com/shiba03ubi"
+      },
+      "unknown_roblox": {
+        "id": "3598554588",
+        "name": "ShibaTheRealDog",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199180512867",
+        "name": "Russ1aN",
+        "url": "https://steamcommunity.com/profiles/76561199180512867"
+      },
+      "tiktok": {
+        "id": "13eb1baa-4190-518b-aafe-2a22fbde2dfa",
+        "name": "shiba03ubi8",
+        "url": "https://tiktok.com/@shiba03ubi8"
+      },
+      "twitch": {
+        "id": "837785932",
+        "name": "sledge2137",
+        "url": "https://www.twitch.tv/sledge2137"
+      },
+      "xbox": {
+        "id": "3064209141287953",
+        "name": "shiba039805",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=shiba039805"
+      },
+      "youtube": {
+        "id": "UCkdRm8_lP5fDpbqqYX6WwTA",
+        "name": "sledge",
+        "url": "https://www.youtube.com/channel/UCkdRm8_lP5fDpbqqYX6WwTA"
+      }
+    },
+    "legacy_username": "Sledge#8090"
   }
 }
