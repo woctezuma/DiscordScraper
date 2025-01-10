@@ -32774,5 +32774,92 @@
       }
     },
     "legacy_username": "Voniuc#8902"
+  },
+  "323844339430195201": {
+    "id": 323844339430195201,
+    "name": "juni.",
+    "nick": null,
+    "display_name": "juni",
+    "global_name": "juni",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "tk93a2zp1fifhr3kij2h2esep",
+        "name": "August",
+        "url": "https://open.spotify.com/user/tk93a2zp1fifhr3kij2h2esep"
+      }
+    },
+    "legacy_username": "juni.#8119"
+  },
+  "740699320294310002": {
+    "id": 740699320294310002,
+    "name": "cornflakes93_",
+    "nick": null,
+    "display_name": "CornFLaKeS",
+    "global_name": "CornFLaKeS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**   **",
+    "guild_bio": null,
+    "display_bio": "**   **",
+    "banner": "https://cdn.discordapp.com/banners/740699320294310002/a_ea8f09564800892f3006a9e260963ccf.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/740699320294310002/a_ea8f09564800892f3006a9e260963ccf.gif?size=512",
+    "badges": [
+      "guild_booster_lvl6",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "CornFLaKeS#21472",
+        "name": "CornFLaKeS#21472",
+        "url": null
+      },
+      "epic_games": {
+        "id": "939f448857b945eabcff190890b3e4aa",
+        "name": "CornFLaKeS_93",
+        "url": null
+      },
+      "playstation": {
+        "id": "6811194644223177283",
+        "name": "CornFLaKeS93_",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199353391515",
+        "name": "CornFLaKeS",
+        "url": "https://steamcommunity.com/profiles/76561199353391515"
+      },
+      "tiktok": {
+        "id": "e8c13300-f123-5a0a-aef5-ac27d15c7f87",
+        "name": "cornflakes93_",
+        "url": "https://tiktok.com/@cornflakes93_"
+      },
+      "twitch": {
+        "id": "563456225",
+        "name": "cornflakes93_",
+        "url": "https://www.twitch.tv/cornflakes93_"
+      },
+      "xbox": {
+        "id": "3065755154580249",
+        "name": "CornFLaKeS93526",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=CornFLaKeS93526"
+      }
+    },
+    "legacy_username": "Cornflakes#5197"
   }
 }
