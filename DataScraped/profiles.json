@@ -31619,5 +31619,25 @@
       }
     },
     "legacy_username": "DIMON#6622"
+  },
+  "196071857693130752": {
+    "id": 196071857693130752,
+    "name": "luke.s",
+    "nick": null,
+    "display_name": "T1m3Ha0",
+    "global_name": "T1m3Ha0",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Luke.S#2606"
   }
 }
