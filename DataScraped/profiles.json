@@ -35645,5 +35645,25 @@
       }
     },
     "legacy_username": null
+  },
+  "925772412124012585": {
+    "id": 925772412124012585,
+    "name": "torikushidesu",
+    "nick": null,
+    "display_name": "Tori-chan",
+    "global_name": "Tori-chan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Torikushi-desu#0391"
   }
 }
