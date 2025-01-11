@@ -35017,5 +35017,42 @@
     ],
     "connections": {},
     "legacy_username": "Elestar#4739"
+  },
+  "524429394517688320": {
+    "id": 524429394517688320,
+    "name": "skalley",
+    "nick": null,
+    "display_name": "Skalley",
+    "global_name": "Skalley",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  Im playing video games. How about yourself?",
+    "guild_bio": null,
+    "display_bio": "  Im playing video games. How about yourself?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "497104583",
+        "name": "skalleylive",
+        "url": "https://www.twitch.tv/skalleylive"
+      },
+      "twitter": {
+        "id": "1044822287923531777",
+        "name": "Skalley6",
+        "url": "https://twitter.com/Skalley6"
+      },
+      "youtube": {
+        "id": "UCniCiV-ktWAxUxKedQeeKdA",
+        "name": "Skalley",
+        "url": "https://www.youtube.com/channel/UCniCiV-ktWAxUxKedQeeKdA"
+      }
+    },
+    "legacy_username": "Skalley#1367"
   }
 }
