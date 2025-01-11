@@ -36849,5 +36849,54 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "642858251334975488": {
+    "id": 642858251334975488,
+    "name": "mokaboba",
+    "nick": null,
+    "display_name": "zina (mokaboba)",
+    "global_name": "zina (mokaboba)",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "<a:sparKles:832016308353892392> trying to bring comfort & coziness\n   \"right by you.\"\n  even my powerchair is cozy",
+    "guild_bio": null,
+    "display_bio": "<a:sparKles:832016308353892392> trying to bring comfort & coziness\n   \"right by you.\"\n  even my powerchair is cozy",
+    "banner": "https://cdn.discordapp.com/banners/642858251334975488/0106a7cdfe732cfc1c519789a6e82b86.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/642858251334975488/0106a7cdfe732cfc1c519789a6e82b86.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MokaBoba#1316",
+        "name": "MokaBoba#1316",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198993272539",
+        "name": "\u2665 zina \u2665",
+        "url": "https://steamcommunity.com/profiles/76561198993272539"
+      },
+      "twitch": {
+        "id": "222389471",
+        "name": "mokaboba",
+        "url": "https://www.twitch.tv/mokaboba"
+      },
+      "twitter": {
+        "id": "1135791561608839169",
+        "name": "MokaBobaCat",
+        "url": "https://twitter.com/MokaBobaCat"
+      },
+      "youtube": {
+        "id": "UCMTIAeizUxyAAjdq-rVZGsQ",
+        "name": "zina aka mokaboba",
+        "url": "https://www.youtube.com/channel/UCMTIAeizUxyAAjdq-rVZGsQ"
+      }
+    },
+    "legacy_username": "MokaBoba#9073"
   }
 }
