@@ -37194,5 +37194,97 @@
       }
     },
     "legacy_username": "Valzoa#9137"
+  },
+  "480357083229847552": {
+    "id": 480357083229847552,
+    "name": ".generationalgamer",
+    "nick": null,
+    "display_name": "Generational Gamer",
+    "global_name": "Generational Gamer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://linktr.ee/GenerationalGamer",
+    "guild_bio": null,
+    "display_bio": "https://linktr.ee/GenerationalGamer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "233672285",
+        "name": "generationalgamer110",
+        "url": "https://www.twitch.tv/generationalgamer110"
+      },
+      "twitter": {
+        "id": "1011945295398211584",
+        "name": "gengamer110",
+        "url": "https://twitter.com/gengamer110"
+      }
+    },
+    "legacy_username": null
+  },
+  "907364030589595649": {
+    "id": 907364030589595649,
+    "name": "amirkbr",
+    "nick": null,
+    "display_name": "Amirkbr",
+    "global_name": "Amirkbr",
+    "pronouns": ":]",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199568417590",
+        "name": "Amirkbr",
+        "url": "https://steamcommunity.com/profiles/76561199568417590"
+      },
+      "xbox": {
+        "id": "3072454685173732",
+        "name": "Amirkbr",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Amirkbr"
+      }
+    },
+    "legacy_username": null
+  },
+  "853716437348122634": {
+    "id": 853716437348122634,
+    "name": "jamesmsmsmsm",
+    "nick": null,
+    "display_name": "jamesmsmsm",
+    "global_name": "jamesmsmsm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "beauty is nothing but the beginning of terror, which we are still able to bear",
+    "guild_bio": null,
+    "display_bio": "beauty is nothing but the beginning of terror, which we are still able to bear",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3739770185632702326",
+        "name": "Jamesisnotcool9",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199147854130",
+        "name": "Jamesnotcool9",
+        "url": "https://steamcommunity.com/profiles/76561199147854130"
+      }
+    },
+    "legacy_username": "Jerrimington#8411"
   }
 }
