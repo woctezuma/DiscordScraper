@@ -35312,5 +35312,31 @@
       }
     },
     "legacy_username": "Wildsprite#1210"
+  },
+  "389515749967790091": {
+    "id": 389515749967790091,
+    "name": "4hootie",
+    "nick": null,
+    "display_name": "4hootie",
+    "global_name": "4hootie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "na_84859667",
+        "name": "4Hootie",
+        "url": null
+      }
+    },
+    "legacy_username": "4hootie#4541"
   }
 }
