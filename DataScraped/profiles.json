@@ -34931,5 +34931,66 @@
     ],
     "connections": {},
     "legacy_username": "CrockoWGlocko#4310"
+  },
+  "435253963298832384": {
+    "id": 435253963298832384,
+    "name": "cwooldridge",
+    "nick": null,
+    "display_name": "C Dub a Dub",
+    "global_name": "C Dub a Dub",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I am the C DubADub\nAlmighty Kaptain Chris\nof the Red Beard",
+    "guild_bio": null,
+    "display_bio": "I am the C DubADub\nAlmighty Kaptain Chris\nof the Red Beard",
+    "banner": "https://cdn.discordapp.com/banners/435253963298832384/a_de41c9a38710ecc12f2d0aa2045b8dff.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/435253963298832384/a_de41c9a38710ecc12f2d0aa2045b8dff.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "22jiv5ykx3nvakidsmobnlkuq",
+        "name": "Christopher Wooldridge",
+        "url": "https://open.spotify.com/user/22jiv5ykx3nvakidsmobnlkuq"
+      },
+      "xbox": {
+        "id": "3069020725236314",
+        "name": "deerslayer11pt",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=deerslayer11pt"
+      }
+    },
+    "legacy_username": "duketipkid#5532"
+  },
+  "864909739598544907": {
+    "id": 864909739598544907,
+    "name": "henrique091101",
+    "nick": null,
+    "display_name": "Henrique",
+    "global_name": "Henrique",
+    "pronouns": "11/09/2001",
+    "guild_pronouns": null,
+    "bio": "Sexo gostoso com sua mae",
+    "guild_bio": null,
+    "display_bio": "Sexo gostoso com sua mae",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199162030048",
+        "name": "oGaucho",
+        "url": "https://steamcommunity.com/profiles/76561199162030048"
+      }
+    },
+    "legacy_username": "Mighzin#2259"
   }
 }
