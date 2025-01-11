@@ -35572,5 +35572,45 @@
     ],
     "connections": {},
     "legacy_username": "axegnoll#3089"
+  },
+  "1248154590994497610": {
+    "id": 1248154590994497610,
+    "name": "wooshifam",
+    "nick": null,
+    "display_name": "TheOgWooshi",
+    "global_name": "TheOgWooshi",
+    "pronouns": "he",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "974872504667611136": {
+    "id": 974872504667611136,
+    "name": "xerenity00",
+    "nick": null,
+    "display_name": "Xerenity",
+    "global_name": "Xerenity",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Xerenity#8331"
   }
 }
