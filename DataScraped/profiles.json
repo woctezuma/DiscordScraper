@@ -37354,5 +37354,41 @@
     ],
     "connections": {},
     "legacy_username": "arnold#4972"
+  },
+  "1300185275003179010": {
+    "id": 1300185275003179010,
+    "name": "yatofx",
+    "nick": null,
+    "display_name": " !",
+    "global_name": " !",
+    "pronouns": "love you all",
+    "guild_pronouns": null,
+    "bio": "https://payhip.com/b/CQ4KI",
+    "guild_bio": null,
+    "display_bio": "https://payhip.com/b/CQ4KI",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1317886837955498036": {
+    "id": 1317886837955498036,
+    "name": "1686921",
+    "nick": null,
+    "display_name": "Shifu",
+    "global_name": "Shifu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
