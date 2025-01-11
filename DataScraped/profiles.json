@@ -35054,5 +35054,66 @@
       }
     },
     "legacy_username": "Skalley#1367"
+  },
+  "1112478358115209318": {
+    "id": 1112478358115209318,
+    "name": "huguito_19353.",
+    "nick": null,
+    "display_name": "huguitocs2",
+    "global_name": "huguitocs2",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "youtube": {
+        "id": "UCsbam-7UuBPfwcyHN1Zfg7A",
+        "name": "capitan_hugui",
+        "url": "https://www.youtube.com/channel/UCsbam-7UuBPfwcyHN1Zfg7A"
+      }
+    },
+    "legacy_username": null
+  },
+  "403015365568757781": {
+    "id": 403015365568757781,
+    "name": "wes1328",
+    "nick": null,
+    "display_name": "Wes1327",
+    "global_name": "Wes1327",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "tiktok": {
+        "id": "9f6c8d9c-33ba-5d10-8bfa-90fad20657ad",
+        "name": "wes1327",
+        "url": "https://tiktok.com/@wes1327"
+      },
+      "twitch": {
+        "id": "41418814",
+        "name": "wes1327",
+        "url": "https://www.twitch.tv/wes1327"
+      },
+      "twitter": {
+        "id": "69972345",
+        "name": "wes1327",
+        "url": "https://twitter.com/wes1327"
+      }
+    },
+    "legacy_username": null
   }
 }
