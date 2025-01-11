@@ -35552,5 +35552,25 @@
       }
     },
     "legacy_username": "ben_s36001#0616"
+  },
+  "397566269122936834": {
+    "id": 397566269122936834,
+    "name": "axegnoll",
+    "nick": null,
+    "display_name": "axegnoll",
+    "global_name": "axegnoll",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "axegnoll#3089"
   }
 }
