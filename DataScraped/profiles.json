@@ -36139,5 +36139,31 @@
       }
     },
     "legacy_username": null
+  },
+  "1185673768035684412": {
+    "id": 1185673768035684412,
+    "name": ".snapiyy",
+    "nick": null,
+    "display_name": "9N9 Luciid",
+    "global_name": "9N9 Luciid",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3071638664668554",
+        "name": "Spartan0646125",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Spartan0646125"
+      }
+    },
+    "legacy_username": null
   }
 }
