@@ -35193,5 +35193,25 @@
       }
     },
     "legacy_username": null
+  },
+  "770830549291499530": {
+    "id": 770830549291499530,
+    "name": "kiera_sparks",
+    "nick": null,
+    "display_name": "Kier",
+    "global_name": "Kier",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Spamcasso#0759"
   }
 }
