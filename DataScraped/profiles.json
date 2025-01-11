@@ -35338,5 +35338,88 @@
       }
     },
     "legacy_username": "4hootie#4541"
+  },
+  "651085946002866179": {
+    "id": 651085946002866179,
+    "name": "manavverma425",
+    "nick": null,
+    "display_name": "FeNiX",
+    "global_name": "FeNiX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "audiophile",
+    "guild_bio": null,
+    "display_bio": "audiophile",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:opocn6iohbx3rtu75oamducm",
+        "name": "manavverma425.bsky.social",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199041651805",
+        "name": "FeNiX",
+        "url": "https://steamcommunity.com/profiles/76561199041651805"
+      }
+    },
+    "legacy_username": "FeNiX#1993"
+  },
+  "792216420582817823": {
+    "id": 792216420582817823,
+    "name": "thesnipingcat",
+    "nick": null,
+    "display_name": "The Sniping Cat",
+    "global_name": "The Sniping Cat",
+    "pronouns": "cringe",
+    "guild_pronouns": null,
+    "bio": "I am a man go away",
+    "guild_bio": null,
+    "display_bio": "I am a man go away",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199170185423",
+        "name": "Boxing hoovy",
+        "url": "https://steamcommunity.com/profiles/76561199170185423"
+      },
+      "youtube": {
+        "id": "UCNUqM1DZqq2fBzJUwwqzFjg",
+        "name": "The Sniping Cat",
+        "url": "https://www.youtube.com/channel/UCNUqM1DZqq2fBzJUwwqzFjg"
+      }
+    },
+    "legacy_username": "The Sniping Cat#5988"
+  },
+  "1237917862245695559": {
+    "id": 1237917862245695559,
+    "name": "luiscage_",
+    "nick": null,
+    "display_name": "DarkKiot",
+    "global_name": "DarkKiot",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
