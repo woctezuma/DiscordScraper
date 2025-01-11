@@ -35612,5 +35612,38 @@
     ],
     "connections": {},
     "legacy_username": "Xerenity#8331"
+  },
+  "688751615574147095": {
+    "id": 688751615574147095,
+    "name": "its_zry",
+    "nick": null,
+    "display_name": "Zry",
+    "global_name": "Zry",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/688751615574147095/c116e93a4c7f50284b9cd9f565f38fbc.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/688751615574147095/c116e93a4c7f50284b9cd9f565f38fbc.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31g3g7tifhgkhxrdqwcorsamq6cm",
+        "name": "Zry",
+        "url": "https://open.spotify.com/user/31g3g7tifhgkhxrdqwcorsamq6cm"
+      },
+      "steam": {
+        "id": "76561199482904153",
+        "name": "Zry",
+        "url": "https://steamcommunity.com/profiles/76561199482904153"
+      }
+    },
+    "legacy_username": null
   }
 }
