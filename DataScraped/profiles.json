@@ -37066,5 +37066,133 @@
       }
     },
     "legacy_username": "killerinstinct#7754"
+  },
+  "967897187604369519": {
+    "id": 967897187604369519,
+    "name": "volitz",
+    "nick": null,
+    "display_name": "Volitz",
+    "global_name": "Volitz",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": " Hey, I'm Volitz!\n 17 | 18 in <t:1767852000:R>\n All Socials: https://solo.to/volitz-",
+    "guild_bio": null,
+    "display_bio": " Hey, I'm Volitz!\n 17 | 18 in <t:1767852000:R>\n All Socials: https://solo.to/volitz-",
+    "banner": "https://cdn.discordapp.com/banners/967897187604369519/a_1ece459dc077eba096e92c1bb163697c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/967897187604369519/a_1ece459dc077eba096e92c1bb163697c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Volitz#1601",
+        "name": "Volitz#1601",
+        "url": null
+      },
+      "github": {
+        "id": "116770397",
+        "name": "Volitz0",
+        "url": "https://github.com/Volitz0"
+      },
+      "playstation": {
+        "id": "8739249003630935590",
+        "name": "Volitz_",
+        "url": null
+      },
+      "reddit": {
+        "id": "4hx7z2uy3",
+        "name": "Volitz_",
+        "url": "https://www.reddit.com/u/Volitz_"
+      },
+      "riot_games": {
+        "id": "d8pVjUp2-uqDgpFomgHR4YeoXwHU6WP7v56Y7FBJuo0JR_YNgG4-dW_hPQciIpR-Fzw2NZX83CuZ6w",
+        "name": "volitz#10000",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199426730873",
+        "name": "voltitties",
+        "url": "https://steamcommunity.com/profiles/76561199426730873"
+      },
+      "tiktok": {
+        "id": "3380f9b6-db85-4cf9-a669-e0da23800129",
+        "name": "volitz_",
+        "url": "https://tiktok.com/@volitz_"
+      },
+      "twitch": {
+        "id": "743690872",
+        "name": "volitz_",
+        "url": "https://www.twitch.tv/volitz_"
+      },
+      "twitter": {
+        "id": "1502272134445424650",
+        "name": "Volitz_",
+        "url": "https://twitter.com/Volitz_"
+      },
+      "xbox": {
+        "id": "3067191056702659",
+        "name": "ImVolitz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ImVolitz"
+      },
+      "youtube": {
+        "id": "UC3ZXJB2S3KQF5HQl9KsOUJw",
+        "name": "Volitz",
+        "url": "https://www.youtube.com/channel/UC3ZXJB2S3KQF5HQl9KsOUJw"
+      }
+    },
+    "legacy_username": "Volitz#8008"
+  },
+  "226944202838114304": {
+    "id": 226944202838114304,
+    "name": "valzoa",
+    "nick": null,
+    "display_name": "Valzoa",
+    "global_name": "Valzoa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://retroachievements.org/user/Valzoa\n\n\"The woes of the world may be monstrous and many, but there's nothing like a few good friends to keep the misery at bay.\"",
+    "guild_bio": null,
+    "display_bio": "https://retroachievements.org/user/Valzoa\n\n\"The woes of the world may be monstrous and many, but there's nothing like a few good friends to keep the misery at bay.\"",
+    "banner": "https://cdn.discordapp.com/banners/226944202838114304/a_559c2007a4f723375662dfa4a77d07d3.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/226944202838114304/a_559c2007a4f723375662dfa4a77d07d3.gif?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "8550503858105349015",
+        "name": "Vuhlkyn",
+        "url": null
+      },
+      "spotify": {
+        "id": "vaqhmmllz7ysqwvfjyh9ykql3",
+        "name": "Vulkin",
+        "url": "https://open.spotify.com/user/vaqhmmllz7ysqwvfjyh9ykql3"
+      },
+      "steam": {
+        "id": "76561198034109326",
+        "name": "Valzoa",
+        "url": "https://steamcommunity.com/profiles/76561198034109326"
+      },
+      "twitch": {
+        "id": "815346874",
+        "name": "valzoa_lot",
+        "url": "https://www.twitch.tv/valzoa_lot"
+      },
+      "youtube": {
+        "id": "UC-B2XB70i4gVJe5nwHtUNRA",
+        "name": "Valzoa's Archive",
+        "url": "https://www.youtube.com/channel/UC-B2XB70i4gVJe5nwHtUNRA"
+      }
+    },
+    "legacy_username": "Valzoa#9137"
   }
 }
