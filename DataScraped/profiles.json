@@ -35992,5 +35992,74 @@
       }
     },
     "legacy_username": "RAJ#1900"
+  },
+  "543795307746426890": {
+    "id": 543795307746426890,
+    "name": "hellspeck",
+    "nick": null,
+    "display_name": "Hellspeck",
+    "global_name": "Hellspeck",
+    "pronouns": "Hell/Man",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1279792268829146",
+        "name": "Mehdi Acho",
+        "url": null
+      },
+      "reddit": {
+        "id": "8yrbnvyt",
+        "name": "SolidConsequence2765",
+        "url": "https://www.reddit.com/u/SolidConsequence2765"
+      },
+      "spotify": {
+        "id": "7c5dntfy40fmjpjkmmwgzswun",
+        "name": "M\u00a3HDI",
+        "url": "https://open.spotify.com/user/7c5dntfy40fmjpjkmmwgzswun"
+      },
+      "twitter": {
+        "id": "977637400385064961",
+        "name": "TJ_Acho",
+        "url": "https://twitter.com/TJ_Acho"
+      },
+      "xbox": {
+        "id": "3072009030622908",
+        "name": "AZRAELxRAINZ",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AZRAELxRAINZ"
+      },
+      "youtube": {
+        "id": "UCE8KNku4NOpc1ijZyaOJZWQ",
+        "name": "Mehdi Acho",
+        "url": "https://www.youtube.com/channel/UCE8KNku4NOpc1ijZyaOJZWQ"
+      }
+    },
+    "legacy_username": null
+  },
+  "760836956396847124": {
+    "id": 760836956396847124,
+    "name": "pramana96",
+    "nick": null,
+    "display_name": "pramana",
+    "global_name": "pramana",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
