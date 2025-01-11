@@ -37040,5 +37040,31 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "713851266077556799": {
+    "id": 713851266077556799,
+    "name": "killerinstinct7754",
+    "nick": null,
+    "display_name": "killerinstinct7754",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3066799655107034",
+        "name": "Opiso gato",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Opiso gato"
+      }
+    },
+    "legacy_username": "killerinstinct#7754"
   }
 }
