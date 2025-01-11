@@ -37390,5 +37390,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "918909149432152064": {
+    "id": 918909149432152064,
+    "name": "jopimo4",
+    "nick": null,
+    "display_name": "jopimo4",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "jopimo4#5099"
   }
 }
