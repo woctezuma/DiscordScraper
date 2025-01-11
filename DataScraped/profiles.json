@@ -36597,5 +36597,89 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "713333557850013766": {
+    "id": 713333557850013766,
+    "name": "takishao",
+    "nick": null,
+    "display_name": "takishao",
+    "global_name": "takishao",
+    "pronouns": "any pronouns.",
+    "guild_pronouns": null,
+    "bio": "<:999:1295144068493479946> **#1 Premium provider**\n<a:flymoney:1289525693889384548> **discounted lifetime prems acc** https://discord.gg/springies\n\ndiscord.gg/guildtag",
+    "guild_bio": null,
+    "display_bio": "<:999:1295144068493479946> **#1 Premium provider**\n<a:flymoney:1289525693889384548> **discounted lifetime prems acc** https://discord.gg/springies\n\ndiscord.gg/guildtag",
+    "banner": "https://cdn.discordapp.com/banners/713333557850013766/a_46f704cb153997de0043458f57cfb99a.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/713333557850013766/a_46f704cb153997de0043458f57cfb99a.gif?size=512",
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "premium"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "2095088950630136",
+        "name": "Takishao",
+        "url": null
+      },
+      "github": {
+        "id": "43603572",
+        "name": "Takishao",
+        "url": "https://github.com/Takishao"
+      },
+      "league_of_legends": {
+        "id": "0-DxbrgCM2WYQLGSC9aXJ7T5mTF_rLuDeVPzT0MfmctHaxhXRCcwz2MTs6yagekauhAs8uaSn4K4iQ",
+        "name": "Takishao",
+        "url": null
+      },
+      "spotify": {
+        "id": "r9hsffwl7opzl19fcgddysywc",
+        "name": "Takishao",
+        "url": "https://open.spotify.com/user/r9hsffwl7opzl19fcgddysywc"
+      },
+      "steam": {
+        "id": "76561199014228015",
+        "name": "Takishao",
+        "url": "https://steamcommunity.com/profiles/76561199014228015"
+      },
+      "youtube": {
+        "id": "UCDneu-NFuP90Otjm0uYjURg",
+        "name": "Takishao",
+        "url": "https://www.youtube.com/channel/UCDneu-NFuP90Otjm0uYjURg"
+      }
+    },
+    "legacy_username": null
+  },
+  "359101787996684290": {
+    "id": 359101787996684290,
+    "name": "dan.daman",
+    "nick": null,
+    "display_name": "DanDaMan",
+    "global_name": "DanDaMan",
+    "pronouns": "he/him/his",
+    "guild_pronouns": null,
+    "bio": "Fiat iustitia, pereat et mundus.",
+    "guild_bio": null,
+    "display_bio": "Fiat iustitia, pereat et mundus.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "dandaman1217",
+        "name": "dandaman1217",
+        "url": "https://open.spotify.com/user/dandaman1217"
+      },
+      "steam": {
+        "id": "76561198084038720",
+        "name": "DanDaMan",
+        "url": "https://steamcommunity.com/profiles/76561198084038720"
+      }
+    },
+    "legacy_username": "DanDaMan#0675"
   }
 }
