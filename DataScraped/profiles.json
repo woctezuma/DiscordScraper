@@ -36681,5 +36681,119 @@
       }
     },
     "legacy_username": "DanDaMan#0675"
+  },
+  "1245013842669342784": {
+    "id": 1245013842669342784,
+    "name": "ilbronazionale",
+    "nick": null,
+    "display_name": "PEPPEBRESCIA",
+    "global_name": "PEPPEBRESCIA",
+    "pronouns": "...",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "782642992011411517": {
+    "id": 782642992011411517,
+    "name": "xtm999",
+    "nick": null,
+    "display_name": "XTM999",
+    "global_name": "XTM999",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "antisocial",
+    "guild_bio": null,
+    "display_bio": "antisocial",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Demon\u00b9\u00b3#0921"
+  },
+  "720580213414559776": {
+    "id": 720580213414559776,
+    "name": "macieee68",
+    "nick": null,
+    "display_name": "maciee",
+    "global_name": "maciee",
+    "pronouns": "\u00a5/$",
+    "guild_pronouns": null,
+    "bio": "Strokin it rn",
+    "guild_bio": null,
+    "display_bio": "Strokin it rn",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "aei29ejt7fa6x0ig1yrdqprpt",
+        "name": "MACIEK",
+        "url": "https://open.spotify.com/user/aei29ejt7fa6x0ig1yrdqprpt"
+      },
+      "steam": {
+        "id": "76561199123020300",
+        "name": "maciekhaladyj656",
+        "url": "https://steamcommunity.com/profiles/76561199123020300"
+      },
+      "youtube": {
+        "id": "UC0MWXz0pUv7pL2UpBGHlggw",
+        "name": "maciee e",
+        "url": "https://www.youtube.com/channel/UC0MWXz0pUv7pL2UpBGHlggw"
+      }
+    },
+    "legacy_username": "JOE#5297"
+  },
+  "738456974622064732": {
+    "id": 738456974622064732,
+    "name": "radhauswife",
+    "nick": null,
+    "display_name": "Roo",
+    "global_name": "Roo",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "                \n                      she/her  30s  6v9\n                             ss..",
+    "guild_bio": null,
+    "display_bio": "                \n                      she/her  30s  6v9\n                             ss..",
+    "banner": "https://cdn.discordapp.com/banners/738456974622064732/a_299ca75a00128f5334dd94da31326294.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/738456974622064732/a_299ca75a00128f5334dd94da31326294.gif?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "roobarb#11788",
+        "name": "roobarb#11788",
+        "url": null
+      },
+      "spotify": {
+        "id": "88t5msjthf01uqp4yovbvbl7b",
+        "name": "Roo",
+        "url": "https://open.spotify.com/user/88t5msjthf01uqp4yovbvbl7b"
+      },
+      "steam": {
+        "id": "76561198976982771",
+        "name": "pizza rat",
+        "url": "https://steamcommunity.com/profiles/76561198976982771"
+      }
+    },
+    "legacy_username": "dunkaroo#0001"
   }
 }
