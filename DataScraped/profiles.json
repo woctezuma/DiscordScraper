@@ -35665,5 +35665,25 @@
     ],
     "connections": {},
     "legacy_username": "Torikushi-desu#0391"
+  },
+  "488711379164069899": {
+    "id": 488711379164069899,
+    "name": "adamalfath",
+    "nick": null,
+    "display_name": "adamalfath",
+    "global_name": "adamalfath",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "adamalfath#0255"
   }
 }
