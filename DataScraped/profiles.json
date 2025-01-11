@@ -35115,5 +35115,52 @@
       }
     },
     "legacy_username": null
+  },
+  "921040919715803166": {
+    "id": 921040919715803166,
+    "name": "nightmare2601",
+    "nick": null,
+    "display_name": "NIGHTMARE",
+    "global_name": "NIGHTMARE",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "NightMare#0610"
+  },
+  "1006776140414861332": {
+    "id": 1006776140414861332,
+    "name": "zettai_sha",
+    "nick": null,
+    "display_name": "Nya Neko",
+    "global_name": "Nya Neko",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "nya",
+    "guild_bio": null,
+    "display_bio": "nya",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCoCueLs2aBi7iUIeBN3MFwQ",
+        "name": "DK",
+        "url": "https://www.youtube.com/channel/UCoCueLs2aBi7iUIeBN3MFwQ"
+      }
+    },
+    "legacy_username": null
   }
 }
