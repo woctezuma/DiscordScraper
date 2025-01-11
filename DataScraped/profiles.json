@@ -36942,5 +36942,81 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "963202449093562399": {
+    "id": 963202449093562399,
+    "name": "karyos",
+    "nick": null,
+    "display_name": "Karyos",
+    "global_name": "Karyos",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Karyos#7237"
+  },
+  "1070316817647669288": {
+    "id": 1070316817647669288,
+    "name": "desdenho",
+    "nick": null,
+    "display_name": "naiver",
+    "global_name": "naiver",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"i don't wanna make it, i just wanna-\"",
+    "guild_bio": null,
+    "display_bio": "\"i don't wanna make it, i just wanna-\"",
+    "banner": "https://cdn.discordapp.com/banners/1070316817647669288/2ec72f9545db0f3771a27045a55d4d13.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1070316817647669288/2ec72f9545db0f3771a27045a55d4d13.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "mira#0116"
+  },
+  "768599360647856169": {
+    "id": 768599360647856169,
+    "name": ".voyan",
+    "nick": null,
+    "display_name": "voyan",
+    "global_name": "voyan",
+    "pronouns": "voyan",
+    "guild_pronouns": null,
+    "bio": "  \nFear for Fight\nSe h algo que temo\n me tornar um guerreiro sem temores.\n\nEl Verdugo\nHumanos erram. Demnios matam.",
+    "guild_bio": null,
+    "display_bio": "  \nFear for Fight\nSe h algo que temo\n me tornar um guerreiro sem temores.\n\nEl Verdugo\nHumanos erram. Demnios matam.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "3277554477",
+        "name": "0Pollus",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199216376021",
+        "name": "voyan",
+        "url": "https://steamcommunity.com/profiles/76561199216376021"
+      }
+    },
+    "legacy_username": "Voyan#2441"
   }
 }
