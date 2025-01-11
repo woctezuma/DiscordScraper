@@ -35421,5 +35421,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "294873454140850176": {
+    "id": 294873454140850176,
+    "name": "shadowray9230",
+    "nick": null,
+    "display_name": "shadowray",
+    "global_name": "shadowray",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "shadowray#9230"
+  },
+  "288383760817455117": {
+    "id": 288383760817455117,
+    "name": "promdeadhome",
+    "nick": null,
+    "display_name": "PROm",
+    "global_name": "PROm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198002564210",
+        "name": "\u042f\u0421\u041d\u0435\u041d\u042c\u041a\u041e",
+        "url": "https://steamcommunity.com/profiles/76561198002564210"
+      },
+      "youtube": {
+        "id": "UC4HFvhivRloU1AHGI0P78uQ",
+        "name": "\u041c\u041e\u041b\u0415\u041a\u0423\u0420\u042f\u0422\u041d\u0418\u041a",
+        "url": "https://www.youtube.com/channel/UC4HFvhivRloU1AHGI0P78uQ"
+      }
+    },
+    "legacy_username": "PROm#1212"
   }
 }
