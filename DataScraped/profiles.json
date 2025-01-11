@@ -36369,5 +36369,54 @@
       }
     },
     "legacy_username": "haku#3727"
+  },
+  "1051499714245316659": {
+    "id": 1051499714245316659,
+    "name": "marco.007.",
+    "nick": null,
+    "display_name": "Marco.007",
+    "global_name": "Marco.007",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "935686876059271209": {
+    "id": 935686876059271209,
+    "name": "maxtor_2000",
+    "nick": null,
+    "display_name": "Maxtor",
+    "global_name": "Maxtor",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "ammmmm tengo youtube:https://www.youtube.com/channel/UCPiLRLrGTSKDSB5hF_ackNA",
+    "guild_bio": null,
+    "display_bio": "ammmmm tengo youtube:https://www.youtube.com/channel/UCPiLRLrGTSKDSB5hF_ackNA",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2213520128981842202",
+        "name": "Maxtor_alvreyes",
+        "url": null
+      },
+      "xbox": {
+        "id": "3075895745058189",
+        "name": "MaxtorAlvreyes",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MaxtorAlvreyes"
+      }
+    },
+    "legacy_username": "M.S.V#6003"
   }
 }
