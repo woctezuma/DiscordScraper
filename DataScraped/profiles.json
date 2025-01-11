@@ -36287,5 +36287,87 @@
       }
     },
     "legacy_username": "Xon1300#3495"
+  },
+  "1242961492018729060": {
+    "id": 1242961492018729060,
+    "name": "julianator99",
+    "nick": null,
+    "display_name": "Julianator99",
+    "global_name": "Julianator99",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1325123357041229878": {
+    "id": 1325123357041229878,
+    "name": "drdeathray_05517",
+    "nick": null,
+    "display_name": "DrDeathray",
+    "global_name": "DrDeathray",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "192477264053534721": {
+    "id": 192477264053534721,
+    "name": "stonedmango",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Programmer\nBassist \nAspiring guitarist \npre-roll ads on twitch make you a scum\nGW2 player\ni respect everybody, except genshin impact and LoL players",
+    "guild_bio": null,
+    "display_bio": "Programmer\nBassist \nAspiring guitarist \npre-roll ads on twitch make you a scum\nGW2 player\ni respect everybody, except genshin impact and LoL players",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "i4pb1be7048ct66x5lyc9o9wc",
+        "name": "Stoned Mango",
+        "url": "https://open.spotify.com/user/i4pb1be7048ct66x5lyc9o9wc"
+      },
+      "tiktok": {
+        "id": "03e183d0-ecd3-5054-8325-a6ab80133fcb",
+        "name": "stoned.mango",
+        "url": "https://tiktok.com/@stoned.mango"
+      },
+      "twitch": {
+        "id": "476503521",
+        "name": "thestonedmango",
+        "url": "https://www.twitch.tv/thestonedmango"
+      },
+      "twitter": {
+        "id": "1590421274358124545",
+        "name": "stoned_mango",
+        "url": "https://twitter.com/stoned_mango"
+      },
+      "youtube": {
+        "id": "UCx_OtbYCQwqTIQWW-A9NvQA",
+        "name": "Stoned Mango (An)",
+        "url": "https://www.youtube.com/channel/UCx_OtbYCQwqTIQWW-A9NvQA"
+      }
+    },
+    "legacy_username": "haku#3727"
   }
 }
