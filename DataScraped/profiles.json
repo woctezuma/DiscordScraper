@@ -35472,5 +35472,43 @@
       }
     },
     "legacy_username": "PROm#1212"
+  },
+  "1281310922345938998": {
+    "id": 1281310922345938998,
+    "name": "theonetrueed",
+    "nick": null,
+    "display_name": "Theonetrueed",
+    "global_name": "Theonetrueed",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1114622651877568712": {
+    "id": 1114622651877568712,
+    "name": "remake0177",
+    "nick": null,
+    "display_name": "Remake",
+    "global_name": "Remake",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Remake#0177"
   }
 }
