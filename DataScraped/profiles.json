@@ -37018,5 +37018,27 @@
       }
     },
     "legacy_username": "Voyan#2441"
+  },
+  "450334052671684619": {
+    "id": 450334052671684619,
+    "name": "hachigo_yahiro",
+    "nick": null,
+    "display_name": "Hachi",
+    "global_name": "Hachi",
+    "pronouns": "Justice/Order",
+    "guild_pronouns": null,
+    "bio": "`Where the page should be,\nEmpty space and missing words\nA void in the code.`",
+    "guild_bio": null,
+    "display_bio": "`Where the page should be,\nEmpty space and missing words\nA void in the code.`",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
