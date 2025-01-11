@@ -36795,5 +36795,23 @@
       }
     },
     "legacy_username": "dunkaroo#0001"
+  },
+  "878126398479425597": {
+    "id": 878126398479425597,
+    "name": "daducko6505",
+    "nick": null,
+    "display_name": "Alez",
+    "global_name": "Alez",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
