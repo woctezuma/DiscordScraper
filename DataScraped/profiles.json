@@ -37286,5 +37286,52 @@
       }
     },
     "legacy_username": "Jerrimington#8411"
+  },
+  "216594236731031552": {
+    "id": 216594236731031552,
+    "name": "screampy",
+    "nick": null,
+    "display_name": "Screampy",
+    "global_name": "Screampy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Screampy#1915"
+  },
+  "1101691783571853442": {
+    "id": 1101691783571853442,
+    "name": "rolliepollie_012",
+    "nick": null,
+    "display_name": "Rolliepollie_012",
+    "global_name": "Rolliepollie_012",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Im a fly",
+    "guild_bio": null,
+    "display_bio": "Im a fly",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198879191219",
+        "name": "rolliepollie",
+        "url": "https://steamcommunity.com/profiles/76561198879191219"
+      }
+    },
+    "legacy_username": "Rolliepollie_012#5074"
   }
 }
