@@ -35685,5 +35685,129 @@
     ],
     "connections": {},
     "legacy_username": "adamalfath#0255"
+  },
+  "1065004602342265064": {
+    "id": 1065004602342265064,
+    "name": "pegenator",
+    "nick": null,
+    "display_name": "Pegenator",
+    "global_name": "Pegenator",
+    "pronouns": "he/his",
+    "guild_pronouns": null,
+    "bio": "`CELESTE PLAYER`\n184/202 berries \nMaybe 202 berries soon??",
+    "guild_bio": null,
+    "display_bio": "`CELESTE PLAYER`\n184/202 berries \nMaybe 202 berries soon??",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f6feb72b521a48f68bc92e47e92cfe93",
+        "name": "PegenatorFN",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3025299575",
+        "name": "pegutinor",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199232244227",
+        "name": "Pegenator",
+        "url": "https://steamcommunity.com/profiles/76561199232244227"
+      },
+      "twitch": {
+        "id": "841113950",
+        "name": "pegenator_",
+        "url": "https://www.twitch.tv/pegenator_"
+      },
+      "youtube": {
+        "id": "UC7U3F7jaFg_28bbZ9kXglvA",
+        "name": "Pegenator",
+        "url": "https://www.youtube.com/channel/UC7U3F7jaFg_28bbZ9kXglvA"
+      }
+    },
+    "legacy_username": "Pegenator#0001"
+  },
+  "795623890302533652": {
+    "id": 795623890302533652,
+    "name": "a.eaioos",
+    "nick": null,
+    "display_name": "a.ea",
+    "global_name": "a.ea",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "819148476042575874": {
+    "id": 819148476042575874,
+    "name": "crashure",
+    "nick": null,
+    "display_name": "Crashure",
+    "global_name": "Crashure",
+    "pronouns": "creature",
+    "guild_pronouns": null,
+    "bio": "La creatura",
+    "guild_bio": null,
+    "display_bio": "La creatura",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "1280e9747a2f41eea070db63114953f3",
+        "name": "ZeonXeonNeon",
+        "url": null
+      },
+      "facebook": {
+        "id": "122129329544392391",
+        "name": "Gleon Beon",
+        "url": null
+      },
+      "reddit": {
+        "id": "h10wytgsq",
+        "name": "hexagonhater",
+        "url": "https://www.reddit.com/u/hexagonhater"
+      },
+      "unknown_roblox": {
+        "id": "184491244",
+        "name": "mitchSpiderman",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198349907693",
+        "name": "Zeon-Xeon",
+        "url": "https://steamcommunity.com/profiles/76561198349907693"
+      },
+      "twitch": {
+        "id": "595995906",
+        "name": "crashur3",
+        "url": "https://www.twitch.tv/crashur3"
+      },
+      "youtube": {
+        "id": "UCs6kFvGgK4YaGNI42SeHqoA",
+        "name": "ZeonXeon",
+        "url": "https://www.youtube.com/channel/UCs6kFvGgK4YaGNI42SeHqoA"
+      }
+    },
+    "legacy_username": null
   }
 }
