@@ -37410,5 +37410,31 @@
     ],
     "connections": {},
     "legacy_username": "jopimo4#5099"
+  },
+  "216977685136670720": {
+    "id": 216977685136670720,
+    "name": "vegeta5924",
+    "nick": null,
+    "display_name": "vegeta5924",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "nlpyf7u3r19tbhsfpp1a7d4gx",
+        "name": "Dark",
+        "url": "https://open.spotify.com/user/nlpyf7u3r19tbhsfpp1a7d4gx"
+      }
+    },
+    "legacy_username": "vegeta#5924"
   }
 }
