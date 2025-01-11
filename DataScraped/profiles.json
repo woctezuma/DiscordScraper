@@ -36898,5 +36898,31 @@
       }
     },
     "legacy_username": "MokaBoba#9073"
+  },
+  "203855545445253120": {
+    "id": 203855545445253120,
+    "name": "miffy_milktea",
+    "nick": null,
+    "display_name": "nibo",
+    "global_name": "nibo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "129451299",
+        "name": "nibo4_10pa",
+        "url": "https://www.twitch.tv/nibo4_10pa"
+      }
+    },
+    "legacy_username": "nibo4_10pa#5972"
   }
 }
