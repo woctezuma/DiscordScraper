@@ -36061,5 +36061,34 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "457830720728072194": {
+    "id": 457830720728072194,
+    "name": "quicksc0p3r",
+    "nick": null,
+    "display_name": "XxXquicksc0p3r1337XxX",
+    "global_name": "XxXquicksc0p3r1337XxX",
+    "pronouns": "He/him (they/them)",
+    "guild_pronouns": null,
+    "bio": "My 12 PM is <t:1695193200:t> for you",
+    "guild_bio": null,
+    "display_bio": "My 12 PM is <t:1695193200:t> for you",
+    "banner": "https://cdn.discordapp.com/banners/457830720728072194/999ffd4c52380c0966c91cad33634aab.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/457830720728072194/999ffd4c52380c0966c91cad33634aab.png?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "github": {
+        "id": "80166934",
+        "name": "quicksc0p3r",
+        "url": "https://github.com/quicksc0p3r"
+      }
+    },
+    "legacy_username": "XxXquicksc0p3r1337XxX#0948"
   }
 }
