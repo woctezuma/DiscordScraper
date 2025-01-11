@@ -35261,5 +35261,56 @@
     ],
     "connections": {},
     "legacy_username": "\ud83d\udc51\u306d\u3053\u597d\u304d\u3060\u261c#0097"
+  },
+  "149009116935749632": {
+    "id": 149009116935749632,
+    "name": "wildsprite",
+    "nick": null,
+    "display_name": "Kitanashia",
+    "global_name": "Kitanashia",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "Im Jenna, \nIm a struggling Trans Woman (She/Her)\nI love video games(mostly MMOs) but retro games are a thing for me.\nDo not add me if your intent is to try to get me to buy a commission.",
+    "guild_bio": null,
+    "display_bio": "Im Jenna, \nIm a struggling Trans Woman (She/Her)\nI love video games(mostly MMOs) but retro games are a thing for me.\nDo not add me if your intent is to try to get me to buy a commission.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "9011447021722828734",
+        "name": "kitanashia",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198139839450",
+        "name": "kitanashia",
+        "url": "https://steamcommunity.com/profiles/76561198139839450"
+      },
+      "twitch": {
+        "id": "70629481",
+        "name": "kitanashia",
+        "url": "https://www.twitch.tv/kitanashia"
+      },
+      "twitter": {
+        "id": "36175356",
+        "name": "wildsprite",
+        "url": "https://twitter.com/wildsprite"
+      },
+      "xbox": {
+        "id": "MjRiYzAwMjEyYTM1MTU4YWUxMzRmYjViNDg4ZjY1OTgyZTFmYmY5MmE0NDdjNjZhNDk4NmJkMzU5ZTY3ZDhmZg",
+        "name": "Kitanashia",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Kitanashia"
+      },
+      "youtube": {
+        "id": "UCe78tU9F9M0kMrhvApjjCgQ",
+        "name": "Kitanashia Kiratani",
+        "url": "https://www.youtube.com/channel/UCe78tU9F9M0kMrhvApjjCgQ"
+      }
+    },
+    "legacy_username": "Wildsprite#1210"
   }
 }
