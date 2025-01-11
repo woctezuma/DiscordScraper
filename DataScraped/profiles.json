@@ -36230,5 +36230,62 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "874518819622760498": {
+    "id": 874518819622760498,
+    "name": "infamous_17",
+    "nick": null,
+    "display_name": "Infamous",
+    "global_name": "Infamous",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "4s5s3vao1w1ab4l2pt989yzhf",
+        "name": "Himangshu Chetia",
+        "url": "https://open.spotify.com/user/4s5s3vao1w1ab4l2pt989yzhf"
+      },
+      "twitch": {
+        "id": "487201905",
+        "name": "the_nightshade_ttv",
+        "url": "https://www.twitch.tv/the_nightshade_ttv"
+      }
+    },
+    "legacy_username": "Infamous(himu)#4543"
+  },
+  "516324095215009794": {
+    "id": 516324095215009794,
+    "name": "xon1300",
+    "nick": null,
+    "display_name": "xon1300",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "204746890",
+        "name": "xon1300",
+        "url": "https://www.twitch.tv/xon1300"
+      }
+    },
+    "legacy_username": "Xon1300#3495"
   }
 }
