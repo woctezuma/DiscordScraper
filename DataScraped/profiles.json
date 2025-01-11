@@ -37333,5 +37333,26 @@
       }
     },
     "legacy_username": "Rolliepollie_012#5074"
+  },
+  "407492938395025408": {
+    "id": 407492938395025408,
+    "name": "pallikarvat",
+    "nick": null,
+    "display_name": "arnold",
+    "global_name": "arnold",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "arnold#4972"
   }
 }
