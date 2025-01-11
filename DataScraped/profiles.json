@@ -36165,5 +36165,70 @@
       }
     },
     "legacy_username": null
+  },
+  "1128179747390767174": {
+    "id": 1128179747390767174,
+    "name": "redefa",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "A dude",
+    "guild_pronouns": null,
+    "bio": "\nCurrently learning: CSS, Python and Kotlin\nBecause I'm bored",
+    "guild_bio": null,
+    "display_bio": "\nCurrently learning: CSS, Python and Kotlin\nBecause I'm bored",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "115251726",
+        "name": "Redefa",
+        "url": "https://github.com/Redefa"
+      },
+      "spotify": {
+        "id": "31ezzd7jtpcd2m4c4gtbupmgehl4",
+        "name": "Redefa",
+        "url": "https://open.spotify.com/user/31ezzd7jtpcd2m4c4gtbupmgehl4"
+      },
+      "steam": {
+        "id": "76561199689700965",
+        "name": "Redefa",
+        "url": "https://steamcommunity.com/profiles/76561199689700965"
+      },
+      "twitter": {
+        "id": "1754488656260464640",
+        "name": "Redefa6",
+        "url": "https://twitter.com/Redefa6"
+      },
+      "xbox": {
+        "id": "3066020739347223",
+        "name": "Redefa8176",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Redefa8176"
+      }
+    },
+    "legacy_username": null
+  },
+  "1325273084344795219": {
+    "id": 1325273084344795219,
+    "name": "geraldisan07",
+    "nick": null,
+    "display_name": "Geraldi S",
+    "global_name": "Geraldi S",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
