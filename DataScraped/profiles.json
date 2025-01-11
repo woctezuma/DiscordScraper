@@ -36090,5 +36090,54 @@
       }
     },
     "legacy_username": "XxXquicksc0p3r1337XxX#0948"
+  },
+  "829772779250778123": {
+    "id": 829772779250778123,
+    "name": "floofloo44",
+    "nick": null,
+    "display_name": "Floo",
+    "global_name": "Floo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "Floofloo44#2170",
+        "name": "Floofloo44#2170",
+        "url": null
+      },
+      "epic_games": {
+        "id": "db76329fb5fa4c24a92fc97b2fd385a9",
+        "name": "floofloo44",
+        "url": null
+      },
+      "riot_games": {
+        "id": "qcSAupIH6kXl2D8pFxVOR7o0uAIsKbGclTGItms2nFKzOIExZflRArUGGJnfZu6SIoAH4dP_3atLRw",
+        "name": "Floofloo44#8116",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198014563634",
+        "name": "floofloo44",
+        "url": "https://steamcommunity.com/profiles/76561198014563634"
+      },
+      "twitch": {
+        "id": "73956405",
+        "name": "floofloo441",
+        "url": "https://www.twitch.tv/floofloo441"
+      },
+      "xbox": {
+        "id": "3075852016712697",
+        "name": "flooflo44",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=flooflo44"
+      }
+    },
+    "legacy_username": null
   }
 }
