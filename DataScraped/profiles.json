@@ -36418,5 +36418,51 @@
       }
     },
     "legacy_username": "M.S.V#6003"
+  },
+  "653952097317945366": {
+    "id": 653952097317945366,
+    "name": "kuba0765",
+    "nick": null,
+    "display_name": "Kuba",
+    "global_name": "Kuba",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3930841222339400194",
+        "name": "Kuba_Kubeczek",
+        "url": null
+      }
+    },
+    "legacy_username": "Kuba#0765"
+  },
+  "1230233203751784571": {
+    "id": 1230233203751784571,
+    "name": "hampter.zip",
+    "nick": null,
+    "display_name": "hampter.png",
+    "global_name": "hampter.png",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
