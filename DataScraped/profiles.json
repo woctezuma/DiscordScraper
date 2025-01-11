@@ -35809,5 +35809,41 @@
       }
     },
     "legacy_username": null
+  },
+  "1146821826455011328": {
+    "id": 1146821826455011328,
+    "name": "daggerloster",
+    "nick": null,
+    "display_name": "DaggerLoster",
+    "global_name": "DaggerLoster",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1194326216027676774": {
+    "id": 1194326216027676774,
+    "name": "binaisthename",
+    "nick": null,
+    "display_name": "Sabs",
+    "global_name": "Sabs",
+    "pronouns": "She / her",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
