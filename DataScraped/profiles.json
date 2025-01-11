@@ -35938,5 +35938,59 @@
     ],
     "connections": {},
     "legacy_username": "\u54c8\u58eb\u5947#1393"
+  },
+  "206531646101389312": {
+    "id": 206531646101389312,
+    "name": "rajgema",
+    "nick": null,
+    "display_name": "RAJ",
+    "global_name": "RAJ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "RAJGema#1570",
+        "name": "RAJGema#1570",
+        "url": null
+      },
+      "spotify": {
+        "id": "blahalb",
+        "name": "Rylee",
+        "url": "https://open.spotify.com/user/blahalb"
+      },
+      "steam": {
+        "id": "76561198082611547",
+        "name": "RAJ",
+        "url": "https://steamcommunity.com/profiles/76561198082611547"
+      },
+      "twitch": {
+        "id": "112259325",
+        "name": "rajgema",
+        "url": "https://www.twitch.tv/rajgema"
+      },
+      "twitter": {
+        "id": "1390897708378984450",
+        "name": "RAJGemu",
+        "url": "https://twitter.com/RAJGemu"
+      },
+      "xbox": {
+        "id": "OGFkMGFlNDMwOWRjNzhlM2IxZWFjOWJiMzQzYThjNjljODY5MTY2MThmM2JhODE5NjJlNTFhYmJiMGRlZThmOQ",
+        "name": "RAJGemu",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RAJGemu"
+      }
+    },
+    "legacy_username": "RAJ#1900"
   }
 }
