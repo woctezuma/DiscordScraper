@@ -37607,5 +37607,82 @@
       }
     },
     "legacy_username": "Yasfii_#1489"
+  },
+  "1314548456442036326": {
+    "id": 1314548456442036326,
+    "name": "tonygarhager",
+    "nick": null,
+    "display_name": "Tony Garhager",
+    "global_name": "Tony Garhager",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "462442284932136991": {
+    "id": 462442284932136991,
+    "name": "chobitsu",
+    "nick": null,
+    "display_name": "chi",
+    "global_name": "chi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/462442284932136991/2670e7cf3ebf793f04d367adf9f8ee0a.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/462442284932136991/2670e7cf3ebf793f04d367adf9f8ee0a.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "o979tr0nj7n4aeksfs3i0a2i9",
+        "name": "Chi",
+        "url": "https://open.spotify.com/user/o979tr0nj7n4aeksfs3i0a2i9"
+      },
+      "steam": {
+        "id": "76561199347929353",
+        "name": "Chi",
+        "url": "https://steamcommunity.com/profiles/76561199347929353"
+      }
+    },
+    "legacy_username": "kenshin#0140"
+  },
+  "1308739473617453107": {
+    "id": 1308739473617453107,
+    "name": "idkutellme231",
+    "nick": null,
+    "display_name": "Bruh",
+    "global_name": "Bruh",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "kqjpusnp8eh3vh4ydq4ju52it",
+        "name": "Bruh",
+        "url": "https://open.spotify.com/user/kqjpusnp8eh3vh4ydq4ju52it"
+      }
+    },
+    "legacy_username": null
   }
 }
