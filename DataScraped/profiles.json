@@ -38982,5 +38982,153 @@
       }
     },
     "legacy_username": null
+  },
+  "490817649375313920": {
+    "id": 490817649375313920,
+    "name": "lucaandrei007",
+    "nick": null,
+    "display_name": "Luci",
+    "global_name": "Luci",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "*Arunc cu banii, ncepe ploaia*",
+    "guild_bio": null,
+    "display_bio": "*Arunc cu banii, ncepe ploaia*",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "rmsvukd9phxfydk4nxd1tsg0a",
+        "name": "luca",
+        "url": "https://open.spotify.com/user/rmsvukd9phxfydk4nxd1tsg0a"
+      },
+      "steam": {
+        "id": "76561198860216596",
+        "name": "lucaandrei007",
+        "url": "https://steamcommunity.com/profiles/76561198860216596"
+      },
+      "xbox": {
+        "id": "3076582127015556",
+        "name": "lucaandrei07110",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=lucaandrei07110"
+      }
+    },
+    "legacy_username": "LUCAANDREI007#6596"
+  },
+  "422046811784478751": {
+    "id": 422046811784478751,
+    "name": "jedworth",
+    "nick": null,
+    "display_name": "jedworth",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "worship me.",
+    "guild_bio": null,
+    "display_bio": "worship me.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "jed115",
+        "name": "jed115",
+        "url": "https://open.spotify.com/user/jed115"
+      },
+      "xbox": {
+        "id": "3065126598968102",
+        "name": "JEDW0RTH",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JEDW0RTH"
+      }
+    },
+    "legacy_username": "choom#3794"
+  },
+  "234393819435630593": {
+    "id": 234393819435630593,
+    "name": "dyn3ic",
+    "nick": null,
+    "display_name": "dyn3ic",
+    "global_name": "dyn3ic",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3062364888942801",
+        "name": "Dyn3ic",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Dyn3ic"
+      }
+    },
+    "legacy_username": "dyn3ic#7456"
+  },
+  "641941533125246976": {
+    "id": 641941533125246976,
+    "name": "relife_01",
+    "nick": null,
+    "display_name": "mr Lam",
+    "global_name": "mr Lam",
+    "pronouns": ":3",
+    "guild_pronouns": null,
+    "bio": ":Rainbow_Floppa: :flabbergasted: :9630sukunapepekek:",
+    "guild_bio": null,
+    "display_bio": ":Rainbow_Floppa: :flabbergasted: :9630sukunapepekek:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "354f3fb8-0e93-58f7-9e73-4aa4a802054d",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "facebook": {
+        "id": "536786183765888",
+        "name": "Ng\u00f4 Gia Huy",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "489802195",
+        "name": "pielive16",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199142709849",
+        "name": "MOBPSI",
+        "url": "https://steamcommunity.com/profiles/76561199142709849"
+      },
+      "twitch": {
+        "id": "550668160",
+        "name": "denza002",
+        "url": "https://www.twitch.tv/denza002"
+      },
+      "xbox": {
+        "id": "3066889194686831",
+        "name": "Mobpsi01",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Mobpsi01"
+      }
+    },
+    "legacy_username": null
   }
 }
