@@ -40136,5 +40136,74 @@
       }
     },
     "legacy_username": null
+  },
+  "447632160443203584": {
+    "id": 447632160443203584,
+    "name": "justminty",
+    "nick": null,
+    "display_name": "tal   ",
+    "global_name": "tal   ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "> .    :oof:     .\n> . tal | minty",
+    "guild_bio": null,
+    "display_bio": "> .    :oof:     .\n> . tal | minty",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "155981983",
+        "name": "alse132",
+        "url": null
+      },
+      "spotify": {
+        "id": "hojznlgjfdm3c2gwuukk3y8p1",
+        "name": "tal",
+        "url": "https://open.spotify.com/user/hojznlgjfdm3c2gwuukk3y8p1"
+      },
+      "steam": {
+        "id": "76561199180526491",
+        "name": "tal.lv",
+        "url": "https://steamcommunity.com/profiles/76561199180526491"
+      },
+      "xbox": {
+        "id": "Y2Y1MWNhNTU0YTMwZTFkNDg2MmExZThiOWRjZjhmYzhhNjc3ZWE5MGNiMWNhNWVkNWM4MDE3YzFlNDlmYzdlZA",
+        "name": "MintyIsLost",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MintyIsLost"
+      }
+    },
+    "legacy_username": "justminty#1115"
+  },
+  "837774212143775835": {
+    "id": 837774212143775835,
+    "name": "narval4393",
+    "nick": null,
+    "display_name": "narvalsheen",
+    "global_name": "narvalsheen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Spaniard, 17. I think this acc will be deleted soon, so if you want to contact me USE ROBLOX (by chat message or normal message) @narvalsheen.",
+    "guild_bio": null,
+    "display_bio": "Spaniard, 17. I think this acc will be deleted soon, so if you want to contact me USE ROBLOX (by chat message or normal message) @narvalsheen.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31eli7l6jt4dadkdzglhmw5ltgqa",
+        "name": "El Narval",
+        "url": "https://open.spotify.com/user/31eli7l6jt4dadkdzglhmw5ltgqa"
+      }
+    },
+    "legacy_username": "Narval#4393"
   }
 }
