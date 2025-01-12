@@ -38088,5 +38088,121 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "268408308694515723": {
+    "id": 268408308694515723,
+    "name": "pinje",
+    "nick": null,
+    "display_name": "pinje",
+    "global_name": "pinje",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "98069681",
+        "name": "pinje0",
+        "url": "https://github.com/pinje0"
+      },
+      "spotify": {
+        "id": "21mxjp3gplpyos5ef7ung3iwq",
+        "name": "pinje",
+        "url": "https://open.spotify.com/user/21mxjp3gplpyos5ef7ung3iwq"
+      },
+      "steam": {
+        "id": "76561198208657816",
+        "name": "\u4eac\u90fd\u30ec\u30a4\u30f3",
+        "url": "https://steamcommunity.com/profiles/76561198208657816"
+      }
+    },
+    "legacy_username": null
+  },
+  "316412359952564224": {
+    "id": 316412359952564224,
+    "name": "tony.bamanaboni",
+    "nick": null,
+    "display_name": "Tony Bamanaboni",
+    "global_name": "Tony Bamanaboni",
+    "pronouns": "He/Him - They/Them - Womp/Womp - PLUG",
+    "guild_pronouns": null,
+    "bio": "Drum and Bassed DJ\nLevel 24\nmy website (link below) (updated 6-1-25)\nBi   (rizzin em with the autism) From \nI'm in VRChat alot feel free to add me @ TonyBamanabonNZ",
+    "guild_bio": null,
+    "display_bio": "Drum and Bassed DJ\nLevel 24\nmy website (link below) (updated 6-1-25)\nBi   (rizzin em with the autism) From \nI'm in VRChat alot feel free to add me @ TonyBamanabonNZ",
+    "banner": "https://cdn.discordapp.com/banners/316412359952564224/9b131133990cf18dfd5792dbe13c55b8.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/316412359952564224/9b131133990cf18dfd5792dbe13c55b8.png?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "waffle-stompers.ju.mp",
+        "name": "waffle-stompers.ju.mp",
+        "url": null
+      },
+      "epic_games": {
+        "id": "d3c2024b76bf4e3daa2b09c1fc8e4267",
+        "name": "TonyBamanaboniNZ",
+        "url": null
+      },
+      "playstation": {
+        "id": "2355664105835010324",
+        "name": "TonyBamanaboniNZ",
+        "url": null
+      },
+      "reddit": {
+        "id": "1873n4p",
+        "name": "TonyBamanaboniYT",
+        "url": "https://www.reddit.com/u/TonyBamanaboniYT"
+      },
+      "spotify": {
+        "id": "ianmarkjohnston2000",
+        "name": "Tony Bamanaboni",
+        "url": "https://open.spotify.com/user/ianmarkjohnston2000"
+      },
+      "steam": {
+        "id": "76561198242786126",
+        "name": "TonyBamanaboniNZ",
+        "url": "https://steamcommunity.com/profiles/76561198242786126"
+      },
+      "tiktok": {
+        "id": "fab1fb6b-d3ae-4737-a714-33817985d132",
+        "name": "tonybamanaboninz",
+        "url": "https://tiktok.com/@tonybamanaboninz"
+      },
+      "twitch": {
+        "id": "191374332",
+        "name": "tonybamanaboninz",
+        "url": "https://www.twitch.tv/tonybamanaboninz"
+      },
+      "twitter": {
+        "id": "794773081",
+        "name": "itzChickenWing",
+        "url": "https://twitter.com/itzChickenWing"
+      },
+      "xbox": {
+        "id": "3065109100424766",
+        "name": "TonyBamanabon10",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TonyBamanabon10"
+      },
+      "youtube": {
+        "id": "UC_hAlcBe3D8lNvWydSlODGw",
+        "name": "Tony Bamanaboni",
+        "url": "https://www.youtube.com/channel/UC_hAlcBe3D8lNvWydSlODGw"
+      }
+    },
+    "legacy_username": "TonyBamanaboniNZ#3113"
   }
 }
