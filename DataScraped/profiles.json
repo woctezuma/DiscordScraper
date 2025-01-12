@@ -40045,5 +40045,51 @@
       }
     },
     "legacy_username": "\u041a\u0438\u0441\u0448\u043e\u0442\u0410\u0446\u0435\u0440\u043e\u043b\u0430\u043e\u0440\u0438\u043e\u043d\u0425\u0430\u0440\u0442\u0430\u043d\u0434\u0435\u0440\u0431\u043b\u044d\u0439\u0434#1945"
+  },
+  "270254515326943232": {
+    "id": 270254515326943232,
+    "name": "h.dennis",
+    "nick": null,
+    "display_name": "N!tox",
+    "global_name": "N!tox",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5a8d0b1d9f51416c9bdbd0e7461d4bba",
+        "name": "Aromastoff",
+        "url": null
+      },
+      "spotify": {
+        "id": "1138970833",
+        "name": "Dennis Hdf",
+        "url": "https://open.spotify.com/user/1138970833"
+      },
+      "steam": {
+        "id": "76561198009124634",
+        "name": "N!t\u00ae0X",
+        "url": "https://steamcommunity.com/profiles/76561198009124634"
+      },
+      "twitch": {
+        "id": "208113902",
+        "name": "aromastoffdennis",
+        "url": "https://www.twitch.tv/aromastoffdennis"
+      },
+      "xbox": {
+        "id": "MTYyNTc5ZWEzMzg1NmEyZTQ2MzM3OWJlOTBkZTVkNjFhMDYyZWYwMTNjY2E4ZTM1NGFjNzEzNGEyMjk0OGZlYQ",
+        "name": "MuellFlutwelle",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MuellFlutwelle"
+      }
+    },
+    "legacy_username": "/\\/!t\u00aeoxDennis#4084"
   }
 }
