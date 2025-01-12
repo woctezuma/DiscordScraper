@@ -38675,5 +38675,56 @@
     ],
     "connections": {},
     "legacy_username": "Wrekriem#5771"
+  },
+  "319401215387500547": {
+    "id": 319401215387500547,
+    "name": "rain_rnb",
+    "nick": null,
+    "display_name": "Kornel(Rain_RNB)",
+    "global_name": "Kornel(Rain_RNB)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "'These Violent Delights Have Violent Ends'",
+    "guild_bio": null,
+    "display_bio": "'These Violent Delights Have Violent Ends'",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "0vHVAfNWIiaBN-WEy_wl1Z_Q3Kic9UetDQMhOKOGM6KgEYGXeWjFr5yED1TaZpP14WXDSC8Xe9byVQ",
+        "name": "RainRNB",
+        "url": null
+      },
+      "riot_games": {
+        "id": "0vHVAfNWIiaBN-WEy_wl1Z_Q3Kic9UetDQMhOKOGM6KgEYGXeWjFr5yED1TaZpP14WXDSC8Xe9byVQ",
+        "name": "RainRNB#EUNE",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198032232963",
+        "name": "Rain",
+        "url": "https://steamcommunity.com/profiles/76561198032232963"
+      },
+      "twitch": {
+        "id": "57198949",
+        "name": "it_is_r4in",
+        "url": "https://www.twitch.tv/it_is_r4in"
+      },
+      "xbox": {
+        "id": "3062820271874867",
+        "name": "RainForHire",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RainForHire"
+      },
+      "youtube": {
+        "id": "UC8E2LOBFZ-9Whs77hI72tTg",
+        "name": "Korn\u00e9l Sevinger",
+        "url": "https://www.youtube.com/channel/UC8E2LOBFZ-9Whs77hI72tTg"
+      }
+    },
+    "legacy_username": "Kornel(Rain_RNB)#2328"
   }
 }
