@@ -39870,5 +39870,61 @@
       }
     },
     "legacy_username": "FrenziedFerret#6690"
+  },
+  "1020582672105480192": {
+    "id": 1020582672105480192,
+    "name": "junebad",
+    "nick": null,
+    "display_name": "june",
+    "global_name": "june",
+    "pronouns": "she / her",
+    "guild_pronouns": null,
+    "bio": "my midnight is ur <t:1734710400:t>",
+    "guild_bio": null,
+    "display_bio": "my midnight is ur <t:1734710400:t>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "osh8q6yi5aymsav1936e7x3h5",
+        "name": "june",
+        "url": "https://open.spotify.com/user/osh8q6yi5aymsav1936e7x3h5"
+      },
+      "twitch": {
+        "id": "923668444",
+        "name": "j_uneee",
+        "url": "https://www.twitch.tv/j_uneee"
+      },
+      "youtube": {
+        "id": "UCB-D_E5wUlzpm9IvmSLEVkw",
+        "name": "June",
+        "url": "https://www.youtube.com/channel/UCB-D_E5wUlzpm9IvmSLEVkw"
+      }
+    },
+    "legacy_username": "chess#3352"
+  },
+  "365927394294497293": {
+    "id": 365927394294497293,
+    "name": "c24rny",
+    "nick": null,
+    "display_name": "C24RNY",
+    "global_name": "C24RNY",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
