@@ -37969,5 +37969,46 @@
       }
     },
     "legacy_username": "nasengan456#1786"
+  },
+  "292547156206944257": {
+    "id": 292547156206944257,
+    "name": "dbpag",
+    "nick": null,
+    "display_name": "PageOfABook",
+    "global_name": "PageOfABook",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "21m46i2bjdobnfzvlnzjr54ci",
+        "name": "David Page",
+        "url": "https://open.spotify.com/user/21m46i2bjdobnfzvlnzjr54ci"
+      },
+      "steam": {
+        "id": "76561198357883733",
+        "name": "dbpage03",
+        "url": "https://steamcommunity.com/profiles/76561198357883733"
+      },
+      "twitch": {
+        "id": "143379345",
+        "name": "bitsandabyte",
+        "url": "https://www.twitch.tv/bitsandabyte"
+      },
+      "xbox": {
+        "id": "3076477160938941",
+        "name": "dbpag",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=dbpag"
+      }
+    },
+    "legacy_username": "dbpag#8028"
   }
 }
