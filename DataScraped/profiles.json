@@ -38290,5 +38290,119 @@
       }
     },
     "legacy_username": "NekitTOP4IK#0001"
+  },
+  "1047549420520079400": {
+    "id": 1047549420520079400,
+    "name": "xxnpetra",
+    "nick": null,
+    "display_name": "H7 petra",
+    "global_name": "H7 petra",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "PetraSettan#6194"
+  },
+  "1046037777063608431": {
+    "id": 1046037777063608431,
+    "name": "fhc5637",
+    "nick": null,
+    "display_name": "JOHN",
+    "global_name": "JOHN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31hnq463uyamajyqvc7q7tqsswte",
+        "name": "FH C",
+        "url": "https://open.spotify.com/user/31hnq463uyamajyqvc7q7tqsswte"
+      },
+      "steam": {
+        "id": "76561199439706034",
+        "name": "FH C",
+        "url": "https://steamcommunity.com/profiles/76561199439706034"
+      }
+    },
+    "legacy_username": "FHC#5637"
+  },
+  "741158933326200832": {
+    "id": 741158933326200832,
+    "name": "ohfruits",
+    "nick": null,
+    "display_name": "OhFruits",
+    "global_name": "OhFruits",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "**Badlion Client**: ||https://badlion.net/referral/R2OXPV||\n**High Quality TTS**: \n||https://elevenlabs.io/?from=partnerclark1611||",
+    "guild_bio": null,
+    "display_bio": "**Badlion Client**: ||https://badlion.net/referral/R2OXPV||\n**High Quality TTS**: \n||https://elevenlabs.io/?from=partnerclark1611||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "89192990",
+        "name": "OhFruits",
+        "url": "https://github.com/OhFruits"
+      },
+      "twitch": {
+        "id": "696200795",
+        "name": "ohfruit",
+        "url": "https://www.twitch.tv/ohfruit"
+      },
+      "xbox": {
+        "id": "3075013781800039",
+        "name": "aFruits7904",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=aFruits7904"
+      },
+      "youtube": {
+        "id": "UCN8veIkXDk6ksDTMS-vLbSA",
+        "name": "OhFruits",
+        "url": "https://www.youtube.com/channel/UCN8veIkXDk6ksDTMS-vLbSA"
+      }
+    },
+    "legacy_username": "OhFruits#1234"
+  },
+  "1250264217026822200": {
+    "id": 1250264217026822200,
+    "name": "danielfdda",
+    "nick": null,
+    "display_name": "Danielfdda",
+    "global_name": "Danielfdda",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
