@@ -40091,5 +40091,50 @@
       }
     },
     "legacy_username": "/\\/!t\u00aeoxDennis#4084"
+  },
+  "1319990039807266849": {
+    "id": 1319990039807266849,
+    "name": "codix_404",
+    "nick": null,
+    "display_name": "CodiX_404",
+    "global_name": "CodiX_404",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1132586526107254834": {
+    "id": 1132586526107254834,
+    "name": "rajput_2k03_",
+    "nick": null,
+    "display_name": "Rajput_2K03_",
+    "global_name": "Rajput_2K03_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3074703265904443",
+        "name": "MasterXo6204",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MasterXo6204"
+      }
+    },
+    "legacy_username": null
   }
 }
