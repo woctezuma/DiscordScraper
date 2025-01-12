@@ -38849,5 +38849,81 @@
       }
     },
     "legacy_username": "Ekaloiiz3#5905"
+  },
+  "275510629438193665": {
+    "id": 275510629438193665,
+    "name": "vivianangel0",
+    "nick": null,
+    "display_name": "VivianAngel",
+    "global_name": "VivianAngel",
+    "pronouns": "Xe/(Xem/Xyr)/Xyr, It/Its, She/Her",
+    "guild_pronouns": null,
+    "bio": "Name: V.V.\n9 wonderful partners  \nLove board games & Cartoons\nVillain Simp uwu ",
+    "guild_bio": null,
+    "display_bio": "Name: V.V.\n9 wonderful partners  \nLove board games & Cartoons\nVillain Simp uwu ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5ee09335dd764c25aa3d0605457e57ef",
+        "name": "o_Vivian",
+        "url": null
+      },
+      "playstation": {
+        "id": "486056911981398474",
+        "name": "O_VivianAngel",
+        "url": null
+      },
+      "spotify": {
+        "id": "bymnqsuqogcykwqmo5asg13ub",
+        "name": "Des",
+        "url": "https://open.spotify.com/user/bymnqsuqogcykwqmo5asg13ub"
+      },
+      "steam": {
+        "id": "76561198425949433",
+        "name": "O-VivianZero",
+        "url": "https://steamcommunity.com/profiles/76561198425949433"
+      },
+      "twitch": {
+        "id": "229242057",
+        "name": "o_vivianangel01",
+        "url": "https://www.twitch.tv/o_vivianangel01"
+      },
+      "twitter": {
+        "id": "887977273126559744",
+        "name": "o_Vivian0",
+        "url": "https://twitter.com/o_Vivian0"
+      },
+      "xbox": {
+        "id": "3071141349306780",
+        "name": "Destiny5610",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Destiny5610"
+      }
+    },
+    "legacy_username": "VivianAngel#7091"
+  },
+  "598886753985757203": {
+    "id": 598886753985757203,
+    "name": "gaejasmang",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": "yabahibarahiyo",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
