@@ -39836,5 +39836,39 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "441206330812792845": {
+    "id": 441206330812792845,
+    "name": "frenziedferret_",
+    "nick": null,
+    "display_name": "FrenziedFerret",
+    "global_name": "FrenziedFerret",
+    "pronouns": "She/her",
+    "guild_pronouns": null,
+    "bio": "21\nDigital Hobby Artist that draws stuff\nhttps://frenziedferret.carrd.co/#",
+    "guild_bio": null,
+    "display_bio": "21\nDigital Hobby Artist that draws stuff\nhttps://frenziedferret.carrd.co/#",
+    "banner": "https://cdn.discordapp.com/banners/441206330812792845/a_6f75ea2136ae289e75c7ec568db4dcf1.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/441206330812792845/a_6f75ea2136ae289e75c7ec568db4dcf1.gif?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198197497774",
+        "name": "FrenziedFerret",
+        "url": "https://steamcommunity.com/profiles/76561198197497774"
+      },
+      "xbox": {
+        "id": "MzY1NWIwNzE5Yzg3YjQxNzIyZmQ0OTM3YTk5ZThmNWZmMzc1ODUwZmJjNGE1ZDhjNmQxOWE1YWRkN2NiMDk3OA",
+        "name": "PoppyShark3",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=PoppyShark3"
+      }
+    },
+    "legacy_username": "FrenziedFerret#6690"
   }
 }
