@@ -39265,5 +39265,117 @@
       }
     },
     "legacy_username": null
+  },
+  "222607759546253313": {
+    "id": 222607759546253313,
+    "name": "xeroxen4800",
+    "nick": null,
+    "display_name": "Neroxen",
+    "global_name": "Neroxen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Xeroxen#4800"
+  },
+  "817928833881210900": {
+    "id": 817928833881210900,
+    "name": "juzt_chill",
+    "nick": null,
+    "display_name": "Yuumeo",
+    "global_name": "Yuumeo",
+    "pronouns": "\ud83d\udc27\ud83d\udc38\ud83e\udd8d\ud83d\uddff\ud83d\udc3f\ufe0f\ud83e\udd85\ud83d\udc22\ud83e\udda7",
+    "guild_pronouns": null,
+    "bio": "M6W5 Miyabi no matter what ",
+    "guild_bio": null,
+    "display_bio": "M6W5 Miyabi no matter what ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl3",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "102964292892450",
+        "name": "Yuumeo Li\u00eamKhi\u1ebft M\u1ed9t\u0110\u1eddi",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "euMsvwifK3GN5BYA18AYCYQVVoe6OP8jV7pOeyrUs4w80AP2UnQyVnl1KufpOGApFAjvI-fAON4GbA",
+        "name": "Yuumeo#Silly",
+        "url": null
+      },
+      "riot_games": {
+        "id": "euMsvwifK3GN5BYA18AYCYQVVoe6OP8jV7pOeyrUs4w80AP2UnQyVnl1KufpOGApFAjvI-fAON4GbA",
+        "name": "Yuumeo#Silly",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "957974776",
+        "name": "Trinhbao1593VN",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199087128947",
+        "name": "trinhbao1593",
+        "url": "https://steamcommunity.com/profiles/76561199087128947"
+      },
+      "twitter": {
+        "id": "1461257360274767872",
+        "name": "Trinhbao1593VN",
+        "url": "https://twitter.com/Trinhbao1593VN"
+      },
+      "xbox": {
+        "id": "3072621527780730",
+        "name": "Prolmouse",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Prolmouse"
+      },
+      "youtube": {
+        "id": "UCNZO-g6zyR4FWN_bOYFOuAw",
+        "name": "Trinhbao1593VN",
+        "url": "https://www.youtube.com/channel/UCNZO-g6zyR4FWN_bOYFOuAw"
+      }
+    },
+    "legacy_username": "i hate LGBT#1947"
+  },
+  "1163904665855987814": {
+    "id": 1163904665855987814,
+    "name": "chillydog_55258",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Certified Yapper",
+    "guild_pronouns": null,
+    "bio": "\"See batman, when a quirky white boy bust it down sexual style he becomes goated with the suave.\" \"Joker you killed 7 people what the hell are you talking about?\"",
+    "guild_bio": null,
+    "display_bio": "\"See batman, when a quirky white boy bust it down sexual style he becomes goated with the suave.\" \"Joker you killed 7 people what the hell are you talking about?\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "313mvvykvuljlrvsjqgogew2fuoq",
+        "name": "ChillyDog284",
+        "url": "https://open.spotify.com/user/313mvvykvuljlrvsjqgogew2fuoq"
+      }
+    },
+    "legacy_username": null
   }
 }
