@@ -39552,5 +39552,41 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "426386381896417280": {
+    "id": 426386381896417280,
+    "name": "frankycranky24",
+    "nick": null,
+    "display_name": "FrankyCranky24",
+    "global_name": "FrankyCranky24",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3949411096233422790",
+        "name": "FrankyCranky24",
+        "url": null
+      },
+      "spotify": {
+        "id": "21nqa5guq55hb56rohs2giqty",
+        "name": "Franky Pauly",
+        "url": "https://open.spotify.com/user/21nqa5guq55hb56rohs2giqty"
+      },
+      "twitch": {
+        "id": "171896407",
+        "name": "frankycranky24",
+        "url": "https://www.twitch.tv/frankycranky24"
+      }
+    },
+    "legacy_username": "FrankyCranky24#7942"
   }
 }
