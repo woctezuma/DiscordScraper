@@ -40723,5 +40723,58 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "302803578081509377": {
+    "id": 302803578081509377,
+    "name": "purehalcyon",
+    "nick": null,
+    "display_name": "purehalcyon",
+    "global_name": "purehalcyon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198321219471",
+        "name": "purehalcyon",
+        "url": "https://steamcommunity.com/profiles/76561198321219471"
+      },
+      "twitch": {
+        "id": "217548263",
+        "name": "purehalcy0n",
+        "url": "https://www.twitch.tv/purehalcy0n"
+      }
+    },
+    "legacy_username": "purehalcyon#8129"
+  },
+  "1309960396324470880": {
+    "id": 1309960396324470880,
+    "name": "anthonuttyalt",
+    "nick": null,
+    "display_name": "AnthonuttyAlt",
+    "global_name": "AnthonuttyAlt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
