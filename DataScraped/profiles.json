@@ -37684,5 +37684,68 @@
       }
     },
     "legacy_username": null
+  },
+  "900458219414114345": {
+    "id": 900458219414114345,
+    "name": "akirazin1",
+    "nick": null,
+    "display_name": "Akirazin",
+    "global_name": "Akirazin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197995675575",
+        "name": "Akirazin [BR]",
+        "url": "https://steamcommunity.com/profiles/76561197995675575"
+      },
+      "twitch": {
+        "id": "871864547",
+        "name": "gakirazin",
+        "url": "https://www.twitch.tv/gakirazin"
+      }
+    },
+    "legacy_username": "Akirazin#1944"
+  },
+  "531478313965846530": {
+    "id": 531478313965846530,
+    "name": "gegethegamer",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": "#the-guy",
+    "guild_pronouns": null,
+    "bio": "      ,       .      ",
+    "guild_bio": null,
+    "display_bio": "      ,       .      ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "g9sizxlhfufwc9yqbdw15yti2",
+        "name": "grimmjow",
+        "url": "https://open.spotify.com/user/g9sizxlhfufwc9yqbdw15yti2"
+      },
+      "steam": {
+        "id": "76561198872670505",
+        "name": "gegethegamer87",
+        "url": "https://steamcommunity.com/profiles/76561198872670505"
+      }
+    },
+    "legacy_username": null
   }
 }
