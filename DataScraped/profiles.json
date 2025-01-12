@@ -40623,5 +40623,25 @@
       }
     },
     "legacy_username": "SuperGengar#0519"
+  },
+  "1046147856240742411": {
+    "id": 1046147856240742411,
+    "name": "ag_l_h_s_n_tz",
+    "nick": null,
+    "display_name": "p.diddy",
+    "global_name": "p.diddy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u300eAG\u300f\u2022 L H S N \u30c4#7472"
   }
 }
