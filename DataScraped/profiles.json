@@ -38925,5 +38925,62 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "721744542713511956": {
+    "id": 721744542713511956,
+    "name": "aj7596",
+    "nick": null,
+    "display_name": "AJ7596",
+    "global_name": "AJ7596",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "aj7596#5843"
+  },
+  "1195478466854928480": {
+    "id": 1195478466854928480,
+    "name": "guasto913",
+    "nick": null,
+    "display_name": "El Guasto",
+    "global_name": "El Guasto",
+    "pronouns": "Guasto",
+    "guild_pronouns": null,
+    "bio": "chercheur d'amis ",
+    "guild_bio": null,
+    "display_bio": "chercheur d'amis ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "151715a05df14c4593701664817acee5",
+        "name": "El Guasto",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199634881472",
+        "name": "El Guasto",
+        "url": "https://steamcommunity.com/profiles/76561199634881472"
+      },
+      "youtube": {
+        "id": "UCfj_vtSOF_DKAiPujevzxzw",
+        "name": "El Guasto",
+        "url": "https://www.youtube.com/channel/UCfj_vtSOF_DKAiPujevzxzw"
+      }
+    },
+    "legacy_username": null
   }
 }
