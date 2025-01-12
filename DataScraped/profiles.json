@@ -37747,5 +37747,36 @@
       }
     },
     "legacy_username": null
+  },
+  "590364175570567222": {
+    "id": 590364175570567222,
+    "name": "brenin.707",
+    "nick": null,
+    "display_name": "brenin.707",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197983663063",
+        "name": "Brenin77",
+        "url": "https://steamcommunity.com/profiles/76561197983663063"
+      },
+      "twitch": {
+        "id": "402118674",
+        "name": "brenin77",
+        "url": "https://www.twitch.tv/brenin77"
+      }
+    },
+    "legacy_username": "brenin#9707"
   }
 }
