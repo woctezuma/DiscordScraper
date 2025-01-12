@@ -37457,5 +37457,155 @@
     ],
     "connections": {},
     "legacy_username": "Jonas Pereira#5549"
+  },
+  "374887554962554881": {
+    "id": 374887554962554881,
+    "name": "seszar",
+    "nick": null,
+    "display_name": "seszar",
+    "global_name": "seszar",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/374887554962554881/a_40cd49e6f53eaabb44de3e3276d07d74.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/374887554962554881/a_40cd49e6f53eaabb44de3e3276d07d74.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6511696245576905",
+        "name": "seszar",
+        "url": "https://www.instagram.com/seszar"
+      },
+      "playstation": {
+        "id": "8259138084233293861",
+        "name": "seszaro",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198894717553",
+        "name": "seszar",
+        "url": "https://steamcommunity.com/profiles/76561198894717553"
+      },
+      "twitch": {
+        "id": "53172665",
+        "name": "kifzar",
+        "url": "https://www.twitch.tv/kifzar"
+      },
+      "twitter": {
+        "id": "610166163",
+        "name": "supermandrug",
+        "url": "https://twitter.com/supermandrug"
+      },
+      "xbox": {
+        "id": "3063924714492781",
+        "name": "seszar",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=seszar"
+      }
+    },
+    "legacy_username": "seszar#8611"
+  },
+  "309430655177981962": {
+    "id": 309430655177981962,
+    "name": "jami_dodger1",
+    "nick": null,
+    "display_name": "jami_dodger1",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198013218083",
+        "name": "It's Me Jamie",
+        "url": "https://steamcommunity.com/profiles/76561198013218083"
+      },
+      "xbox": {
+        "id": "3073678229798758",
+        "name": "jamidodger12766",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=jamidodger12766"
+      }
+    },
+    "legacy_username": "It's Me Jamie#0101"
+  },
+  "502214033986945025": {
+    "id": 502214033986945025,
+    "name": "rxtitan",
+    "nick": null,
+    "display_name": "RxTitan",
+    "global_name": "RxTitan",
+    "pronouns": "The Most Professional Nouns (She/Her)",
+    "guild_pronouns": null,
+    "bio": "just a silly little girl",
+    "guild_bio": null,
+    "display_bio": "just a silly little girl",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "z9xc6iyksrgs1p8ekhjqklyyn",
+        "name": "RxTitan",
+        "url": "https://open.spotify.com/user/z9xc6iyksrgs1p8ekhjqklyyn"
+      }
+    },
+    "legacy_username": "RxTitan#4310"
+  },
+  "653188525893877801": {
+    "id": 653188525893877801,
+    "name": "iixinnn",
+    "nick": null,
+    "display_name": "LiXinn_.",
+    "global_name": "LiXinn_.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "el fuego\n",
+    "guild_bio": null,
+    "display_bio": "el fuego\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "vq2tqnht82fzhebjth9g3wsl4",
+        "name": "ItzYasfi",
+        "url": "https://open.spotify.com/user/vq2tqnht82fzhebjth9g3wsl4"
+      },
+      "tiktok": {
+        "id": "04b9060e-2623-5b9a-a3c3-7438c9764506",
+        "name": "xxx.maii",
+        "url": "https://tiktok.com/@xxx.maii"
+      },
+      "youtube": {
+        "id": "UC31yUbscixNRt5uQXJKNM8Q",
+        "name": "Yasfii_",
+        "url": "https://www.youtube.com/channel/UC31yUbscixNRt5uQXJKNM8Q"
+      }
+    },
+    "legacy_username": "Yasfii_#1489"
   }
 }
