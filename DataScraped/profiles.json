@@ -40381,5 +40381,114 @@
       }
     },
     "legacy_username": null
+  },
+  "475241252011376641": {
+    "id": 475241252011376641,
+    "name": "pyro_soul",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "8f53532c7f184990b4186df7f997fb34",
+        "name": "E.N.D_O7",
+        "url": null
+      },
+      "instagram": {
+        "id": "9977932022247163",
+        "name": "shreyashgavad_07",
+        "url": "https://www.instagram.com/shreyashgavad_07"
+      },
+      "spotify": {
+        "id": "mhaex24of11dev8t4lhjd8e5p",
+        "name": "Shreyash",
+        "url": "https://open.spotify.com/user/mhaex24of11dev8t4lhjd8e5p"
+      },
+      "steam": {
+        "id": "76561198882961583",
+        "name": "Zoro",
+        "url": "https://steamcommunity.com/profiles/76561198882961583"
+      },
+      "twitter": {
+        "id": "1345639470381596673",
+        "name": "GavadShreyash",
+        "url": "https://twitter.com/GavadShreyash"
+      }
+    },
+    "legacy_username": "Pyro_Soul#2544"
+  },
+  "263326813940350976": {
+    "id": 263326813940350976,
+    "name": "johngohan",
+    "nick": null,
+    "display_name": "John",
+    "global_name": "John",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "the pc (:\nhttps://de.pcpartpicker.com/user/JohnGokuZ/saved/hdFkdC\n\nNo respect for greedy monetization schemes. Keep those gacha systems and microtransactions away!",
+    "guild_bio": null,
+    "display_bio": "the pc (:\nhttps://de.pcpartpicker.com/user/JohnGokuZ/saved/hdFkdC\n\nNo respect for greedy monetization schemes. Keep those gacha systems and microtransactions away!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "226502862887190529": {
+    "id": 226502862887190529,
+    "name": "saair1",
+    "nick": null,
+    "display_name": "RifterGabri",
+    "global_name": "RifterGabri",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Virtual Reality Enthusiast.\nProud owner of a Valve Index. Ready for the Deckard!! Always up to try new games and meet new people!",
+    "guild_bio": null,
+    "display_bio": "Virtual Reality Enthusiast.\nProud owner of a Valve Index. Ready for the Deckard!! Always up to try new games and meet new people!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198116277148",
+        "name": "RifterGabri",
+        "url": "https://steamcommunity.com/profiles/76561198116277148"
+      }
+    },
+    "legacy_username": null
+  },
+  "1277885980354940968": {
+    "id": 1277885980354940968,
+    "name": "geoeldemon",
+    "nick": null,
+    "display_name": "ig  certified stepper",
+    "global_name": "ig  certified stepper",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Im number one \nI die behind this \nHead tapper",
+    "guild_bio": null,
+    "display_bio": "Im number one \nI die behind this \nHead tapper",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
