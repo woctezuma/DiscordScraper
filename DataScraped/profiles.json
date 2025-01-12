@@ -40490,5 +40490,77 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "136599135909445642": {
+    "id": 136599135909445642,
+    "name": "trancingdeeper",
+    "nick": null,
+    "display_name": "trance",
+    "global_name": "trance",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "*(he/him)* \nevie from paladins fanatic. idiot guitarist and bassist.\nhttps://en.pronouns.page/@trance\npfp from splash_brush",
+    "guild_bio": null,
+    "display_bio": "*(he/him)* \nevie from paladins fanatic. idiot guitarist and bassist.\nhttps://en.pronouns.page/@trance\npfp from splash_brush",
+    "banner": "https://cdn.discordapp.com/banners/136599135909445642/f5c928bef2068c75e8ab684d95220d44.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/136599135909445642/f5c928bef2068c75e8ab684d95220d44.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "darkened_pieces",
+        "name": "trancingdeeper",
+        "url": "https://open.spotify.com/user/darkened_pieces"
+      },
+      "steam": {
+        "id": "76561198133193810",
+        "name": "trance",
+        "url": "https://steamcommunity.com/profiles/76561198133193810"
+      },
+      "twitch": {
+        "id": "85792301",
+        "name": "trancingdeeper",
+        "url": "https://www.twitch.tv/trancingdeeper"
+      },
+      "youtube": {
+        "id": "UCqiKpnRyqtxHNGGsRHnj-PQ",
+        "name": "TrancingDeeper",
+        "url": "https://www.youtube.com/channel/UCqiKpnRyqtxHNGGsRHnj-PQ"
+      }
+    },
+    "legacy_username": "trancingdeeper#3697"
+  },
+  "771345187497967626": {
+    "id": 771345187497967626,
+    "name": "tedon",
+    "nick": null,
+    "display_name": "tedon",
+    "global_name": "tedon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**https://tedonstore.com**",
+    "guild_bio": null,
+    "display_bio": "**https://tedonstore.com**",
+    "banner": "https://cdn.discordapp.com/banners/771345187497967626/bb97fc26defe1b6e142e5a57b72eb46a.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/771345187497967626/bb97fc26defe1b6e142e5a57b72eb46a.png?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCmD6GsSdSiVUmxnZ1co6pDQ",
+        "name": "tedonstore\u00ae",
+        "url": "https://www.youtube.com/channel/UCmD6GsSdSiVUmxnZ1co6pDQ"
+      }
+    },
+    "legacy_username": "tedon#6666"
   }
 }
