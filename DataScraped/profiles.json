@@ -40562,5 +40562,66 @@
       }
     },
     "legacy_username": "tedon#6666"
+  },
+  "408185018163265536": {
+    "id": 408185018163265536,
+    "name": "supergengar",
+    "nick": null,
+    "display_name": "ItzWillyX",
+    "global_name": "ItzWillyX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "2305603099670535",
+        "name": "William Carlson",
+        "url": null
+      },
+      "playstation": {
+        "id": "3301661292675134159",
+        "name": "ItzWillyX",
+        "url": null
+      },
+      "reddit": {
+        "id": "1i5ibfuh",
+        "name": "losewilliam",
+        "url": "https://www.reddit.com/u/losewilliam"
+      },
+      "spotify": {
+        "id": "1296901521",
+        "name": "William Carlson",
+        "url": "https://open.spotify.com/user/1296901521"
+      },
+      "steam": {
+        "id": "76561198265242813",
+        "name": "SuperGengar",
+        "url": "https://steamcommunity.com/profiles/76561198265242813"
+      },
+      "twitch": {
+        "id": "183877234",
+        "name": "ogsupergengar",
+        "url": "https://www.twitch.tv/ogsupergengar"
+      },
+      "xbox": {
+        "id": "3076120238802267",
+        "name": "xDaNKxLEMONZx",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=xDaNKxLEMONZx"
+      },
+      "youtube": {
+        "id": "UCyIsQ73exMqdeHjKY5OWy5g",
+        "name": "William Carlson",
+        "url": "https://www.youtube.com/channel/UCyIsQ73exMqdeHjKY5OWy5g"
+      }
+    },
+    "legacy_username": "SuperGengar#0519"
   }
 }
