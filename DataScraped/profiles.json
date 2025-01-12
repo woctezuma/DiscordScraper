@@ -39377,5 +39377,112 @@
       }
     },
     "legacy_username": null
+  },
+  "835414419482738709": {
+    "id": 835414419482738709,
+    "name": "persimwah",
+    "nick": null,
+    "display_name": "Persi",
+    "global_name": "Persi",
+    "pronouns": "fuck/with/any rhythm",
+    "guild_pronouns": null,
+    "bio": "FACEIT admin :3\nromance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romanc",
+    "guild_bio": null,
+    "display_bio": "FACEIT admin :3\nromance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romance romanc",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31tiwrpv7ov7epyddvq3dzu6rike",
+        "name": "persi",
+        "url": "https://open.spotify.com/user/31tiwrpv7ov7epyddvq3dzu6rike"
+      }
+    },
+    "legacy_username": null
+  },
+  "1064912072682508308": {
+    "id": 1064912072682508308,
+    "name": ".yetty",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "typhness#3876"
+  },
+  "376483448585453571": {
+    "id": 376483448585453571,
+    "name": "alemus",
+    "nick": null,
+    "display_name": "Alemus",
+    "global_name": "Alemus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a6a289ad79d64f49b42d31b01a4a0e19",
+        "name": "Elamus",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197994557217",
+        "name": "alemus",
+        "url": "https://steamcommunity.com/profiles/76561197994557217"
+      }
+    },
+    "legacy_username": "Alemus#5791"
+  },
+  "595406910094835713": {
+    "id": 595406910094835713,
+    "name": "danci2002",
+    "nick": null,
+    "display_name": "dancislava",
+    "global_name": "dancislava",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198929553902",
+        "name": "Dani",
+        "url": "https://steamcommunity.com/profiles/76561198929553902"
+      },
+      "tiktok": {
+        "id": "9bac887a-1755-5aed-b3c7-0185902a9847",
+        "name": "danci91",
+        "url": "https://tiktok.com/@danci91"
+      }
+    },
+    "legacy_username": "danci#1867"
   }
 }
