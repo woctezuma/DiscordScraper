@@ -40663,5 +40663,47 @@
     ],
     "connections": {},
     "legacy_username": "papel_debano#7389"
+  },
+  "296635734549331969": {
+    "id": 296635734549331969,
+    "name": "oreqr",
+    "nick": null,
+    "display_name": "OreQr",
+    "global_name": "OreQr",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "hostyard.eu",
+        "name": "hostyard.eu",
+        "url": null
+      },
+      "github": {
+        "id": "50458706",
+        "name": "OreQr",
+        "url": "https://github.com/OreQr"
+      },
+      "twitch": {
+        "id": "456443262",
+        "name": "oreqr",
+        "url": "https://www.twitch.tv/oreqr"
+      },
+      "youtube": {
+        "id": "UCjREBcU66SsSN9yPC_kpMOg",
+        "name": "OreQr",
+        "url": "https://www.youtube.com/channel/UCjREBcU66SsSN9yPC_kpMOg"
+      }
+    },
+    "legacy_username": "OreQr#3549"
   }
 }
