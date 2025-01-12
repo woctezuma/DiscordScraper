@@ -39484,5 +39484,73 @@
       }
     },
     "legacy_username": "danci#1867"
+  },
+  "298101715851411458": {
+    "id": 298101715851411458,
+    "name": "laricheltsy",
+    "nick": null,
+    "display_name": "LariCheltsy",
+    "global_name": "LariCheltsy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198125562949",
+        "name": "Talley Wacker",
+        "url": "https://steamcommunity.com/profiles/76561198125562949"
+      },
+      "xbox": {
+        "id": "YWI0MGEzYWJlZmQ0MDJiZGU3YTE2N2QwZmM1YjAyMGRiNjY0M2E4ZmYzZGI5OTJjMWEwNDJmYzQzZjgxZjE4Yw",
+        "name": "n3w6uy",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=n3w6uy"
+      }
+    },
+    "legacy_username": "lari-cheltsy#6194"
+  },
+  "1261801585789632639": {
+    "id": 1261801585789632639,
+    "name": "offjumpzz",
+    "nick": null,
+    "display_name": "Tony",
+    "global_name": "Tony",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1179799613054660669": {
+    "id": 1179799613054660669,
+    "name": "willyfish_95402",
+    "nick": null,
+    "display_name": "willyfish",
+    "global_name": "willyfish",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
