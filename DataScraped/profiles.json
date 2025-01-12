@@ -38817,5 +38817,37 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "319548282751680512": {
+    "id": 319548282751680512,
+    "name": "sudokubz",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Peace ",
+    "guild_bio": null,
+    "display_bio": "Peace ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "21kzqek2chtd3at5bqhtnvh2a",
+        "name": "21kzqek2chtd3at5bqhtnvh2a",
+        "url": "https://open.spotify.com/user/21kzqek2chtd3at5bqhtnvh2a"
+      },
+      "twitch": {
+        "id": "161427005",
+        "name": "colapepsiiz3",
+        "url": "https://www.twitch.tv/colapepsiiz3"
+      }
+    },
+    "legacy_username": "Ekaloiiz3#5905"
   }
 }
