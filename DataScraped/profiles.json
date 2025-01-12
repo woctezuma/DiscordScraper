@@ -40643,5 +40643,25 @@
     ],
     "connections": {},
     "legacy_username": "\u300eAG\u300f\u2022 L H S N \u30c4#7472"
+  },
+  "655539570808586262": {
+    "id": 655539570808586262,
+    "name": "papel_debano",
+    "nick": null,
+    "display_name": "papel_debano",
+    "global_name": "papel_debano",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "papel_debano#7389"
   }
 }
