@@ -37914,5 +37914,60 @@
     ],
     "connections": {},
     "legacy_username": "Yui Hirasawa#5157"
+  },
+  "1327682829433438280": {
+    "id": 1327682829433438280,
+    "name": "bursywur",
+    "nick": null,
+    "display_name": "bursywur",
+    "global_name": "bursywur",
+    "pronouns": "!!!",
+    "guild_pronouns": null,
+    "bio": ":p",
+    "guild_bio": null,
+    "display_bio": ":p",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "mxir3h66wevttyw3qir3svq0g",
+        "name": "Ilovemusic",
+        "url": "https://open.spotify.com/user/mxir3h66wevttyw3qir3svq0g"
+      },
+      "steam": {
+        "id": "76561199093747944",
+        "name": "burs",
+        "url": "https://steamcommunity.com/profiles/76561199093747944"
+      }
+    },
+    "legacy_username": null
+  },
+  "763140967845855262": {
+    "id": 763140967845855262,
+    "name": "nasenganred",
+    "nick": null,
+    "display_name": "nasengan456",
+    "global_name": "nasengan456",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198433381655",
+        "name": "nasengan456",
+        "url": "https://steamcommunity.com/profiles/76561198433381655"
+      }
+    },
+    "legacy_username": "nasengan456#1786"
   }
 }
