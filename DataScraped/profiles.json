@@ -39747,5 +39747,76 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "218887010163621888": {
+    "id": 218887010163621888,
+    "name": "flokox",
+    "nick": null,
+    "display_name": "Flokox",
+    "global_name": "Flokox",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "br_28671082",
+        "name": "Flokox",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198134469324",
+        "name": "Flokox",
+        "url": "https://steamcommunity.com/profiles/76561198134469324"
+      },
+      "twitch": {
+        "id": "444714162",
+        "name": "iiflokoxii",
+        "url": "https://www.twitch.tv/iiflokoxii"
+      }
+    },
+    "legacy_username": "Flokox#3128"
+  },
+  "1178579685614039160": {
+    "id": 1178579685614039160,
+    "name": "xori.jmd",
+    "nick": null,
+    "display_name": "xori",
+    "global_name": "xori",
+    "pronouns": "vaas",
+    "guild_pronouns": null,
+    "bio": "https://guns.lol/xorijmdp",
+    "guild_bio": null,
+    "display_bio": "https://guns.lol/xorijmdp",
+    "banner": "https://cdn.discordapp.com/banners/1178579685614039160/a_fd14e6f47ffc99755c5023fc94d80b33.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1178579685614039160/a_fd14e6f47ffc99755c5023fc94d80b33.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199510243135",
+        "name": "xori",
+        "url": "https://steamcommunity.com/profiles/76561199510243135"
+      },
+      "twitch": {
+        "id": "1076866295",
+        "name": "xorijmdp",
+        "url": "https://www.twitch.tv/xorijmdp"
+      }
+    },
+    "legacy_username": null
   }
 }
