@@ -38527,5 +38527,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "269426350631288833": {
+    "id": 269426350631288833,
+    "name": "azuuure",
+    "nick": null,
+    "display_name": "azure",
+    "global_name": "azure",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "cheese fiend, cheesecake lover, mango devourer  living life on auto-pilot mode!\n<a:d_blueheart:1125784040683884606>  -    <a:d_blueheart:1125784040683884606>",
+    "guild_bio": null,
+    "display_bio": "cheese fiend, cheesecake lover, mango devourer  living life on auto-pilot mode!\n<a:d_blueheart:1125784040683884606>  -    <a:d_blueheart:1125784040683884606>",
+    "banner": "https://cdn.discordapp.com/banners/269426350631288833/a_e3955d9bdbf9ddfe8e23575392917d95.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/269426350631288833/a_e3955d9bdbf9ddfe8e23575392917d95.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "azure#4101"
+  },
+  "1172162482077446245": {
+    "id": 1172162482077446245,
+    "name": "aloys_nugget",
+    "nick": null,
+    "display_name": "Loys",
+    "global_name": "Loys",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
