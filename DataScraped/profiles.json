@@ -40205,5 +40205,31 @@
       }
     },
     "legacy_username": "Narval#4393"
+  },
+  "478635533895991319": {
+    "id": 478635533895991319,
+    "name": "lionlych",
+    "nick": null,
+    "display_name": "Lion Lych",
+    "global_name": "Lion Lych",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199204257054",
+        "name": "LionLych",
+        "url": "https://steamcommunity.com/profiles/76561199204257054"
+      }
+    },
+    "legacy_username": "Lion Lych#3442"
   }
 }
