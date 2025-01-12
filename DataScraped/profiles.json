@@ -39130,5 +39130,45 @@
       }
     },
     "legacy_username": null
+  },
+  "490609256396095529": {
+    "id": 490609256396095529,
+    "name": "rdarren71",
+    "nick": null,
+    "display_name": "rdarren71",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "rdarren#8312"
+  },
+  "351801128641495040": {
+    "id": 351801128641495040,
+    "name": "switchblades1111",
+    "nick": null,
+    "display_name": "Oleksandr",
+    "global_name": "Oleksandr",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "switchblades#4117"
   }
 }
