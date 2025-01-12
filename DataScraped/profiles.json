@@ -40231,5 +40231,75 @@
       }
     },
     "legacy_username": "Lion Lych#3442"
+  },
+  "319270271800442880": {
+    "id": 319270271800442880,
+    "name": "xableer",
+    "nick": null,
+    "display_name": "Fahad",
+    "global_name": "Fahad",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "85458365",
+        "name": "sirfahad",
+        "url": "https://www.twitch.tv/sirfahad"
+      }
+    },
+    "legacy_username": "Fahad#9717"
+  },
+  "264650947999956992": {
+    "id": 264650947999956992,
+    "name": "david2177",
+    "nick": null,
+    "display_name": "david",
+    "global_name": "david",
+    "pronouns": "He/they",
+    "guild_pronouns": null,
+    "bio": "mint fantme is my idol ",
+    "guild_bio": null,
+    "display_bio": "mint fantme is my idol ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4213720416026722505",
+        "name": "eijuwolf",
+        "url": null
+      },
+      "spotify": {
+        "id": "mike2skummy",
+        "name": "eijuwolf",
+        "url": "https://open.spotify.com/user/mike2skummy"
+      },
+      "steam": {
+        "id": "76561199523335807",
+        "name": "eijuwolf",
+        "url": "https://steamcommunity.com/profiles/76561199523335807"
+      },
+      "twitch": {
+        "id": "118303729",
+        "name": "eijuwolf",
+        "url": "https://www.twitch.tv/eijuwolf"
+      }
+    },
+    "legacy_username": "david#8841"
   }
 }
