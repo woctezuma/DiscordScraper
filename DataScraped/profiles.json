@@ -39588,5 +39588,59 @@
       }
     },
     "legacy_username": "FrankyCranky24#7942"
+  },
+  "1228337970344361995": {
+    "id": 1228337970344361995,
+    "name": "pivv.post",
+    "nick": null,
+    "display_name": "[CET] ",
+    "global_name": "[CET] ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "1135375085",
+        "name": "pivontops",
+        "url": "https://www.twitch.tv/pivontops"
+      }
+    },
+    "legacy_username": null
+  },
+  "846441063064403978": {
+    "id": 846441063064403978,
+    "name": "shavushich",
+    "nick": null,
+    "display_name": "The Strongest",
+    "global_name": "The Strongest",
+    "pronouns": "Gojo Satoru",
+    "guild_pronouns": null,
+    "bio": "But no matter how many allies you have around you. When you die, you'll be alone.",
+    "guild_bio": null,
+    "display_bio": "But no matter how many allies you have around you. When you die, you'll be alone.",
+    "banner": "https://cdn.discordapp.com/banners/846441063064403978/a3f1d7ba62cbeed8c768c8e1877b5c23.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/846441063064403978/a3f1d7ba62cbeed8c768c8e1877b5c23.png?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199061700510",
+        "name": "Kiryusha",
+        "url": "https://steamcommunity.com/profiles/76561199061700510"
+      }
+    },
+    "legacy_username": "\u0428\u0430\u0432\u0443\u0448\u044b\u0447_)#0842"
   }
 }
