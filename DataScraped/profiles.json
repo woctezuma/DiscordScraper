@@ -39957,5 +39957,93 @@
       }
     },
     "legacy_username": "MensokoHamada#2455"
+  },
+  "1320494269303361599": {
+    "id": 1320494269303361599,
+    "name": "sethypoo212",
+    "nick": null,
+    "display_name": "SM",
+    "global_name": "SM",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "905748488762056715": {
+    "id": 905748488762056715,
+    "name": "frostttt__",
+    "nick": null,
+    "display_name": "oliebol",
+    "global_name": "oliebol",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Discord account back\nUsing this one now\nIf u wanna talk, dm",
+    "guild_bio": null,
+    "display_bio": "Discord account back\nUsing this one now\nIf u wanna talk, dm",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "frosst#4331"
+  },
+  "614411311895412736": {
+    "id": 614411311895412736,
+    "name": "xakypeumy",
+    "nick": null,
+    "display_name": "PomIDOR(_)",
+    "global_name": "PomIDOR(_)",
+    "pronouns": "\u15dc\u203f\u15dc",
+    "guild_pronouns": null,
+    "bio": "Respectful\nAmazing\nCaring\nIntelligent\nSweet\nTrusty",
+    "guild_bio": null,
+    "display_bio": "Respectful\nAmazing\nCaring\nIntelligent\nSweet\nTrusty",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "cfa1fcc9-1f65-58a6-be67-a29af036c433",
+        "name": "xakypeumy",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ee21c409ea9b49c9a18d79e13e9afc12",
+        "name": "X\u0430\u043a\u0443\u0440\u0435\u0439\u043c\u0443",
+        "url": null
+      },
+      "riot_games": {
+        "id": "I6uhD_gIU3fLmJz2bjAwyU6jEL5KnpsqP0u3TvizfgBfonEcWnic-j3G2cjGH8kM6mfpQXu3nCVXtw",
+        "name": "KoH4eHbIu 6a6yuH#5507",
+        "url": null
+      },
+      "spotify": {
+        "id": "w6pw6ysgnzhv4iydcjf22qbh2",
+        "name": "\u041a\u043e\u0442\u043e \u0411\u043b\u0435\u043f\u043e\u0441",
+        "url": "https://open.spotify.com/user/w6pw6ysgnzhv4iydcjf22qbh2"
+      },
+      "steam": {
+        "id": "76561198979529592",
+        "name": "jormungandon",
+        "url": "https://steamcommunity.com/profiles/76561198979529592"
+      }
+    },
+    "legacy_username": "\u041a\u0438\u0441\u0448\u043e\u0442\u0410\u0446\u0435\u0440\u043e\u043b\u0430\u043e\u0440\u0438\u043e\u043d\u0425\u0430\u0440\u0442\u0430\u043d\u0434\u0435\u0440\u0431\u043b\u044d\u0439\u0434#1945"
   }
 }
