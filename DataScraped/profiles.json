@@ -38404,5 +38404,128 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "888832467816034374": {
+    "id": 888832467816034374,
+    "name": "jassspoon",
+    "nick": null,
+    "display_name": "Jssspoon",
+    "global_name": "Jssspoon",
+    "pronouns": "He/He",
+    "guild_pronouns": null,
+    "bio": "Merry Muthafuckin' Xmas",
+    "guild_bio": null,
+    "display_bio": "Merry Muthafuckin' Xmas",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "djgamerjj",
+        "name": "Jasper\ud83d\udca8",
+        "url": "https://open.spotify.com/user/djgamerjj"
+      },
+      "steam": {
+        "id": "76561199210544797",
+        "name": "Jassspoon",
+        "url": "https://steamcommunity.com/profiles/76561199210544797"
+      }
+    },
+    "legacy_username": "0XID#5114"
+  },
+  "1247394064417034289": {
+    "id": 1247394064417034289,
+    "name": "meow69._",
+    "nick": null,
+    "display_name": "jk",
+    "global_name": "jk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1261168115404771343": {
+    "id": 1261168115404771343,
+    "name": "girlinamorgue",
+    "nick": null,
+    "display_name": "pasta",
+    "global_name": "pasta",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "I dont know what to put here ;-;",
+    "guild_bio": null,
+    "display_bio": "I dont know what to put here ;-;",
+    "banner": "https://cdn.discordapp.com/banners/1261168115404771343/9c36e6325a8a2ae480c639732e98b54f.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1261168115404771343/9c36e6325a8a2ae480c639732e98b54f.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1002115913518174289": {
+    "id": 1002115913518174289,
+    "name": "povelos_2137",
+    "nick": null,
+    "display_name": "Povelos_2137",
+    "global_name": "Povelos_2137",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31gg23dkyfmzapnbt5caz5yw3k2y",
+        "name": "Pawe\u0142ek\ud83c\udfa7\ud83d\udc4d",
+        "url": "https://open.spotify.com/user/31gg23dkyfmzapnbt5caz5yw3k2y"
+      },
+      "steam": {
+        "id": "76561199091419695",
+        "name": "skdvks",
+        "url": "https://steamcommunity.com/profiles/76561199091419695"
+      }
+    },
+    "legacy_username": "Povelos_2137#5534"
+  },
+  "821693295025586207": {
+    "id": 821693295025586207,
+    "name": "kajtus_8",
+    "nick": null,
+    "display_name": "kajtus",
+    "global_name": "kajtus",
+    "pronouns": "Sigma",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
