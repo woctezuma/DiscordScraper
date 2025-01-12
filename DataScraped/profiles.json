@@ -39642,5 +39642,110 @@
       }
     },
     "legacy_username": "\u0428\u0430\u0432\u0443\u0448\u044b\u0447_)#0842"
+  },
+  "454382502128254977": {
+    "id": 454382502128254977,
+    "name": "vortex66_",
+    "nick": null,
+    "display_name": "vortex66",
+    "global_name": "vortex66",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "vortex66#9256"
+  },
+  "258128992123617280": {
+    "id": 258128992123617280,
+    "name": "khoorluck",
+    "nick": null,
+    "display_name": "KHOORLUCK",
+    "global_name": "KHOORLUCK",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198121704361",
+        "name": "KHOORLUCK",
+        "url": "https://steamcommunity.com/profiles/76561198121704361"
+      },
+      "twitch": {
+        "id": "72311059",
+        "name": "khoorluck",
+        "url": "https://www.twitch.tv/khoorluck"
+      }
+    },
+    "legacy_username": "KHOORLUCK#3218"
+  },
+  "698572008589492255": {
+    "id": 698572008589492255,
+    "name": "p1nhosogostoso",
+    "nick": null,
+    "display_name": "P1nho",
+    "global_name": "P1nho",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "30/04 \natleta de atletismo, falo ingls. \nNo matem abelhas ",
+    "guild_bio": null,
+    "display_bio": "30/04 \natleta de atletismo, falo ingls. \nNo matem abelhas ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31fjithpfmsqlrp5ertwlthbn4da",
+        "name": "Macho",
+        "url": "https://open.spotify.com/user/31fjithpfmsqlrp5ertwlthbn4da"
+      },
+      "steam": {
+        "id": "76561199214529921",
+        "name": "felipeanerdri",
+        "url": "https://steamcommunity.com/profiles/76561199214529921"
+      },
+      "youtube": {
+        "id": "UCBZYpYRVJgN6X86_r7x42fQ",
+        "name": "pinho '-'",
+        "url": "https://www.youtube.com/channel/UCBZYpYRVJgN6X86_r7x42fQ"
+      }
+    },
+    "legacy_username": "P1nhoso\ud83c\udde7\ud83c\uddf7#8364"
+  },
+  "1323965632999587934": {
+    "id": 1323965632999587934,
+    "name": "nyeporon_89373",
+    "nick": null,
+    "display_name": "Nyeporon",
+    "global_name": "Nyeporon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
