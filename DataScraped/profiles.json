@@ -38587,5 +38587,93 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "156159600159096832": {
+    "id": 156159600159096832,
+    "name": "raymanx11",
+    "nick": null,
+    "display_name": "RaymanX11",
+    "global_name": "RaymanX11",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Games Programmer! | Currently studying\n\nVideogames, Anime, Manga, Warhammer 40k / Age of Sigmar and Dungeons & Dragons Hobbyist!\n\nFavourite All Time Character: Sonic and Rayman",
+    "guild_bio": null,
+    "display_bio": "Games Programmer! | Currently studying\n\nVideogames, Anime, Manga, Warhammer 40k / Age of Sigmar and Dungeons & Dragons Hobbyist!\n\nFavourite All Time Character: Sonic and Rayman",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "RaymanX11#1717",
+        "name": "RaymanX11#1717",
+        "url": null
+      },
+      "github": {
+        "id": "45545217",
+        "name": "RubenMateusPT",
+        "url": "https://github.com/RubenMateusPT"
+      },
+      "league_of_legends": {
+        "id": "WyVruLxQ0TVjmabikMF3EfMhfoYrXDp0UG9yVwYywrPOccwwGCUcqSrND4sGnaWSQtbKiwFc2ir_8w",
+        "name": "RaymanX11",
+        "url": null
+      },
+      "reddit": {
+        "id": "46tlnwtj",
+        "name": "RaymanX11X",
+        "url": "https://www.reddit.com/u/RaymanX11X"
+      },
+      "riot_games": {
+        "id": "WyVruLxQ0TVjmabikMF3EfMhfoYrXDp0UG9yVwYywrPOccwwGCUcqSrND4sGnaWSQtbKiwFc2ir_8w",
+        "name": "RaymanX11#EUW",
+        "url": null
+      },
+      "skype": {
+        "id": "raymanx11",
+        "name": "raymanx11",
+        "url": "skype:raymanx11?userinfo"
+      },
+      "spotify": {
+        "id": "11101295802",
+        "name": "R\u00faben Mateus",
+        "url": "https://open.spotify.com/user/11101295802"
+      },
+      "steam": {
+        "id": "76561198015687657",
+        "name": "RaymanX11",
+        "url": "https://steamcommunity.com/profiles/76561198015687657"
+      },
+      "xbox": {
+        "id": "3066419439951352",
+        "name": "RaymanX115266",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RaymanX115266"
+      }
+    },
+    "legacy_username": "RaymanX11#7145"
+  },
+  "145732675049750538": {
+    "id": 145732675049750538,
+    "name": "wrekriem",
+    "nick": null,
+    "display_name": "Wreck",
+    "global_name": "Wreck",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Wrekriem#5771"
   }
 }
