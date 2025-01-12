@@ -39170,5 +39170,100 @@
     ],
     "connections": {},
     "legacy_username": "switchblades#4117"
+  },
+  "806944852742635582": {
+    "id": 806944852742635582,
+    "name": "criipis",
+    "nick": null,
+    "display_name": "Criipis",
+    "global_name": "Criipis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "id7gfq9w",
+        "name": "Lazza1407",
+        "url": "https://www.reddit.com/u/Lazza1407"
+      },
+      "steam": {
+        "id": "76561198437004563",
+        "name": "Criipis",
+        "url": "https://steamcommunity.com/profiles/76561198437004563"
+      },
+      "youtube": {
+        "id": "UCccIBtR07TRtUMf56TfcoIg",
+        "name": "Lorenzo Lazzarini",
+        "url": "https://www.youtube.com/channel/UCccIBtR07TRtUMf56TfcoIg"
+      }
+    },
+    "legacy_username": "Criipis#4741"
+  },
+  "478982939716222977": {
+    "id": 478982939716222977,
+    "name": "nima_afshar",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "7374465059253443",
+        "name": "nima_af_game",
+        "url": "https://www.instagram.com/nima_af_game"
+      },
+      "twitch": {
+        "id": "170645377",
+        "name": "nima_afshar",
+        "url": "https://www.twitch.tv/nima_afshar"
+      }
+    },
+    "legacy_username": "Nima#0885"
+  },
+  "1070540287828570204": {
+    "id": 1070540287828570204,
+    "name": "lebom_games",
+    "nick": null,
+    "display_name": "Game_Grinder",
+    "global_name": "Game_Grinder",
+    "pronouns": "who cares abt my pronouns",
+    "guild_pronouns": null,
+    "bio": "call me \"hyper\" (as a name not a attribute) well... and as a attribute im pretty hyperactive",
+    "guild_bio": null,
+    "display_bio": "call me \"hyper\" (as a name not a attribute) well... and as a attribute im pretty hyperactive",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3072547652770238",
+        "name": "Beanyegdbd",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Beanyegdbd"
+      }
+    },
+    "legacy_username": null
   }
 }
