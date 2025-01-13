@@ -41868,5 +41868,59 @@
     ],
     "connections": {},
     "legacy_username": "\u273f \u05de\u05dc\u05d0\u05da \u05d4\u05de\u05d5\u05d5\u05ea#2088"
+  },
+  "758687479468523544": {
+    "id": 758687479468523544,
+    "name": "rega01220",
+    "nick": null,
+    "display_name": "rega",
+    "global_name": "rega",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1227632639809163340": {
+    "id": 1227632639809163340,
+    "name": "genijus03",
+    "nick": null,
+    "display_name": "Genijus03",
+    "global_name": "Genijus03",
+    "pronouns": "Martinas Gaming",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199504876034",
+        "name": "xanaxas",
+        "url": "https://steamcommunity.com/profiles/76561199504876034"
+      },
+      "twitch": {
+        "id": "1114942691",
+        "name": "genijus03",
+        "url": "https://www.twitch.tv/genijus03"
+      },
+      "youtube": {
+        "id": "UCysTkmHo6Sij94-P4D0aHCg",
+        "name": "Martinas Gaming",
+        "url": "https://www.youtube.com/channel/UCysTkmHo6Sij94-P4D0aHCg"
+      }
+    },
+    "legacy_username": null
   }
 }
