@@ -41529,5 +41529,56 @@
       }
     },
     "legacy_username": "DDevGamer#2191"
+  },
+  "487858835369885707": {
+    "id": 487858835369885707,
+    "name": "danh8eo",
+    "nick": null,
+    "display_name": "The Bear",
+    "global_name": "The Bear",
+    "pronouns": "DANH b\u00e9o",
+    "guild_pronouns": null,
+    "bio": "H h h.",
+    "guild_bio": null,
+    "display_bio": "H h h.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198417549362",
+        "name": "Sa1to_san",
+        "url": "https://steamcommunity.com/profiles/76561198417549362"
+      },
+      "youtube": {
+        "id": "UC_2XFPGsD53FT_DIQQckRNg",
+        "name": "Danh Tr\u1ea7n",
+        "url": "https://www.youtube.com/channel/UC_2XFPGsD53FT_DIQQckRNg"
+      }
+    },
+    "legacy_username": null
+  },
+  "719191839172722768": {
+    "id": 719191839172722768,
+    "name": "yellow1016",
+    "nick": null,
+    "display_name": "Yellow",
+    "global_name": "Yellow",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Yellow#9986"
   }
 }
