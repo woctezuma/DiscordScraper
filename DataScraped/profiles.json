@@ -42986,5 +42986,39 @@
       }
     },
     "legacy_username": null
+  },
+  "1170679445506498603": {
+    "id": 1170679445506498603,
+    "name": "matzepan_sn",
+    "nick": null,
+    "display_name": "matzepan",
+    "global_name": "matzepan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "StdteplanerParkbesitzerZivilisationsgrnderGebudevisionrLandbesiedlerFriedensaktivistSchnbauerItemsammlerWeltenbummlerCyberpsychoEinzelspielerRundenzhlerRennfahrer",
+    "guild_bio": null,
+    "display_bio": "StdteplanerParkbesitzerZivilisationsgrnderGebudevisionrLandbesiedlerFriedensaktivistSchnbauerItemsammlerWeltenbummlerCyberpsychoEinzelspielerRundenzhlerRennfahrer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "660145562ec74612ad93837c8724e46f",
+        "name": "matzepan.sn",
+        "url": null
+      },
+      "spotify": {
+        "id": "1139617485",
+        "name": "Matzepan",
+        "url": "https://open.spotify.com/user/1139617485"
+      },
+      "steam": {
+        "id": "76561198049731845",
+        "name": "matzepan",
+        "url": "https://steamcommunity.com/profiles/76561198049731845"
+      }
+    },
+    "legacy_username": null
   }
 }
