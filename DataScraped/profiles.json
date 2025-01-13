@@ -41714,5 +41714,46 @@
       }
     },
     "legacy_username": "FighterCZE#7052"
+  },
+  "1325613834597175327": {
+    "id": 1325613834597175327,
+    "name": "stormzilla_____",
+    "nick": null,
+    "display_name": "Stormzilla",
+    "global_name": "Stormzilla",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "804434793520955466": {
+    "id": 804434793520955466,
+    "name": "katimux",
+    "nick": null,
+    "display_name": "Kat",
+    "global_name": "Kat",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "I LOST SO MANY BETS\n\nAverage server ~~turker~~ lurker",
+    "guild_bio": null,
+    "display_bio": "I LOST SO MANY BETS\n\nAverage server ~~turker~~ lurker",
+    "banner": "https://cdn.discordapp.com/banners/804434793520955466/a_e454fccc3acd2edb01d5cd14ee008ca8.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/804434793520955466/a_e454fccc3acd2edb01d5cd14ee008ca8.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "KatimuX#6866"
   }
 }
