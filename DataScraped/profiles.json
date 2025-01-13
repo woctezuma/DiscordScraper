@@ -43930,5 +43930,158 @@
       }
     },
     "legacy_username": "Peedro#3028"
+  },
+  "953918798174486528": {
+    "id": 953918798174486528,
+    "name": "aureliusjohn200",
+    "nick": null,
+    "display_name": "Lordan Aures",
+    "global_name": "Lordan Aures",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Failure doesn't mean the game is over, it means try again with experience.",
+    "guild_bio": null,
+    "display_bio": "Failure doesn't mean the game is over, it means try again with experience.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "AnthonyWalker3948439#8485"
+  },
+  "813491313332584480": {
+    "id": 813491313332584480,
+    "name": "mojika13",
+    "nick": null,
+    "display_name": " Mojika13 ",
+    "global_name": " Mojika13 ",
+    "pronouns": "\ud83d\udebd \u0628\u0647 \u062c\u0647\u0627\u0646 \u0648\u0627\u0631\u0648\u0646\u0647 \u0628\u0646\u06af\u0631 \ud83d\udebd",
+    "guild_pronouns": null,
+    "bio": "     \n   \n \nhttps://www.aparat.com/mojika13/live\nhttps://twitch.tv/mojikaa13\n\nhttps://instagram.com/mojtaba.kaghazchi",
+    "guild_bio": null,
+    "display_bio": "     \n   \n \nhttps://www.aparat.com/mojika13/live\nhttps://twitch.tv/mojikaa13\n\nhttps://instagram.com/mojtaba.kaghazchi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "mojika133#2532",
+        "name": "mojika133#2532",
+        "url": null
+      },
+      "instagram": {
+        "id": "7660034927343348",
+        "name": "mojtaba.kaghazchi",
+        "url": "https://www.instagram.com/mojtaba.kaghazchi"
+      },
+      "steam": {
+        "id": "76561199145398745",
+        "name": "mojika13",
+        "url": "https://steamcommunity.com/profiles/76561199145398745"
+      },
+      "twitch": {
+        "id": "655265814",
+        "name": "mojikaa13",
+        "url": "https://www.twitch.tv/mojikaa13"
+      },
+      "twitter": {
+        "id": "1568225511767171072",
+        "name": "mojika1313",
+        "url": "https://twitter.com/mojika1313"
+      },
+      "youtube": {
+        "id": "UCkzc7LzL1BilTgtsPnMLzMA",
+        "name": "moji ka",
+        "url": "https://www.youtube.com/channel/UCkzc7LzL1BilTgtsPnMLzMA"
+      }
+    },
+    "legacy_username": "\ud835\udc0c\ud835\udc0e\ud835\udc09\ud835\udc08\ud835\udc0a\ud835\udc00\ud835\udfcf\ud835\udfd1#3773"
+  },
+  "1014864957013237840": {
+    "id": 1014864957013237840,
+    "name": "aureliiosbulk",
+    "nick": null,
+    "display_name": "Aurelius",
+    "global_name": "Aurelius",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "We fight not so that the world will remember us, but so that there will be a world to remember.",
+    "guild_bio": null,
+    "display_bio": "We fight not so that the world will remember us, but so that there will be a world to remember.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Dendizen#7128"
+  },
+  "993484295593275482": {
+    "id": 993484295593275482,
+    "name": "morgensfan400",
+    "nick": null,
+    "display_name": "Aures Khalifa",
+    "global_name": "Aures Khalifa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "the enemy of my enemy is my friend",
+    "guild_bio": null,
+    "display_bio": "the enemy of my enemy is my friend",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Zeni_zeni3000#1114"
+  },
+  "1119226910484992061": {
+    "id": 1119226910484992061,
+    "name": "baglama.",
+    "nick": null,
+    "display_name": "baglama.",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Baglama#4599"
+  },
+  "1185830919316176921": {
+    "id": 1185830919316176921,
+    "name": "charles96mp_55054",
+    "nick": null,
+    "display_name": "Charles Phantom",
+    "global_name": "Charles Phantom",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "When life gets hard, it means you just leveled up.",
+    "guild_bio": null,
+    "display_bio": "When life gets hard, it means you just leveled up.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
