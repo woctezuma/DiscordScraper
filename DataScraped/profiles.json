@@ -41407,5 +41407,56 @@
     ],
     "connections": {},
     "legacy_username": "Battler#8460"
+  },
+  "266176693641674752": {
+    "id": 266176693641674752,
+    "name": "saltmonkun",
+    "nick": null,
+    "display_name": "SaltmonKun",
+    "global_name": "SaltmonKun",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/266176693641674752/777b6ba2761181f6f62ace1390f5896b.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/266176693641674752/777b6ba2761181f6f62ace1390f5896b.png?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "SaltmonKun#1209"
+  },
+  "1007235632168435763": {
+    "id": 1007235632168435763,
+    "name": "olo12890",
+    "nick": null,
+    "display_name": "rozjebany groszek",
+    "global_name": "rozjebany groszek",
+    "pronouns": "Nik Fortnite shadow128901142",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3073512117027552",
+        "name": "shadow128901142",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=shadow128901142"
+      }
+    },
+    "legacy_username": "olo12890#7735"
   }
 }
