@@ -45283,5 +45283,32 @@
     ],
     "connections": {},
     "legacy_username": "Sabina#6243"
+  },
+  "771098913800978444": {
+    "id": 771098913800978444,
+    "name": "dielegende2024",
+    "nick": null,
+    "display_name": "zORn",
+    "global_name": "zORn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UC_m5jWjC2UOIoBzlZpQun3Q",
+        "name": "ZORNS GAMEHUB",
+        "url": "https://www.youtube.com/channel/UC_m5jWjC2UOIoBzlZpQun3Q"
+      }
+    },
+    "legacy_username": "DIE LEGENDE#2024"
   }
 }
