@@ -44670,5 +44670,90 @@
     ],
     "connections": {},
     "legacy_username": "KelvinPizza#5041"
+  },
+  "411919870746165258": {
+    "id": 411919870746165258,
+    "name": "arjay64",
+    "nick": null,
+    "display_name": "Arjay",
+    "global_name": "Arjay",
+    "pronouns": "he/him/his",
+    "guild_pronouns": null,
+    "bio": "professsional shitposter\nNJ\n ",
+    "guild_bio": null,
+    "display_bio": "professsional shitposter\nNJ\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:ibuhb5n2pm2eqywmtmc2lbfs",
+        "name": "arjay64.bsky.social",
+        "url": null
+      },
+      "epic_games": {
+        "id": "832cda3e4bae4dae9ece868693548cf7",
+        "name": "aRJay6464",
+        "url": null
+      },
+      "github": {
+        "id": "32419867",
+        "name": "arbaran",
+        "url": "https://github.com/arbaran"
+      },
+      "playstation": {
+        "id": "580561610351627147",
+        "name": "aRJay6464",
+        "url": null
+      },
+      "spotify": {
+        "id": "arcabaran",
+        "name": "Arjay",
+        "url": "https://open.spotify.com/user/arcabaran"
+      },
+      "steam": {
+        "id": "76561199057620511",
+        "name": "aRJay6464",
+        "url": "https://steamcommunity.com/profiles/76561199057620511"
+      },
+      "xbox": {
+        "id": "3078370109673942",
+        "name": "aRJay6464",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=aRJay6464"
+      },
+      "youtube": {
+        "id": "UCwRZe3oXRb7ybJthjNfoz5w",
+        "name": "Arjay Baran",
+        "url": "https://www.youtube.com/channel/UCwRZe3oXRb7ybJthjNfoz5w"
+      }
+    },
+    "legacy_username": "AAAAAA#4444"
+  },
+  "581959968089964554": {
+    "id": 581959968089964554,
+    "name": "gryphus7",
+    "nick": null,
+    "display_name": "RandomUser",
+    "global_name": "RandomUser",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Gryphus#7255"
   }
 }
