@@ -40776,5 +40776,131 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "489526571108007946": {
+    "id": 489526571108007946,
+    "name": "heropool",
+    "nick": null,
+    "display_name": "Herpool",
+    "global_name": "Herpool",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "If my mum had balls she would be my dad - Max Verstappen 4x World Champion",
+    "guild_bio": null,
+    "display_bio": "If my mum had balls she would be my dad - Max Verstappen 4x World Champion",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Heropool#1967",
+        "name": "Heropool#1967",
+        "url": null
+      },
+      "epic_games": {
+        "id": "7fb3fc70a4864913a218067e7df7d7b0",
+        "name": "Her\u00f6pool",
+        "url": null
+      },
+      "playstation": {
+        "id": "7952284983624412966",
+        "name": "Heropool18",
+        "url": null
+      },
+      "riot_games": {
+        "id": "RF7tr6VCLkrApJr3OYml_xxcXms0dAvE71bV3ZZHUEJUMkxkZwNO-maHsgsk-S1JvNHN2y044ZC4lw",
+        "name": "Heropool#999",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198887224789",
+        "name": "Heropool",
+        "url": "https://steamcommunity.com/profiles/76561198887224789"
+      },
+      "twitch": {
+        "id": "206562793",
+        "name": "hero_pool",
+        "url": "https://www.twitch.tv/hero_pool"
+      },
+      "xbox": {
+        "id": "3064142954297920",
+        "name": "Heropool2005",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Heropool2005"
+      },
+      "youtube": {
+        "id": "UC-Ize3mhXVpD9OYuEMRR3AQ",
+        "name": "Her\u00f6pool",
+        "url": "https://www.youtube.com/channel/UC-Ize3mhXVpD9OYuEMRR3AQ"
+      }
+    },
+    "legacy_username": "Heropool#7590"
+  },
+  "566049338824851456": {
+    "id": 566049338824851456,
+    "name": "moamedhagoo",
+    "nick": null,
+    "display_name": "Moamed",
+    "global_name": "Moamed",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "In search for something genuine",
+    "guild_bio": null,
+    "display_bio": "In search for something genuine",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "11rfbb5uel",
+        "name": "Moamed_Hagoo",
+        "url": "https://www.reddit.com/u/Moamed_Hagoo"
+      },
+      "steam": {
+        "id": "76561198955405815",
+        "name": "moamedhagoo",
+        "url": "https://steamcommunity.com/profiles/76561198955405815"
+      },
+      "xbox": {
+        "id": "3064122398842227",
+        "name": "moamedhagoo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=moamedhagoo"
+      }
+    },
+    "legacy_username": null
+  },
+  "570160603272839186": {
+    "id": 570160603272839186,
+    "name": "hotcheetos_",
+    "nick": null,
+    "display_name": "trflgr_lw",
+    "global_name": "trflgr_lw",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":takaWakuWaku::30yuh:\n\nhttps://www.instagram.com/jeanzforfree?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "guild_bio": null,
+    "display_bio": ":takaWakuWaku::30yuh:\n\nhttps://www.instagram.com/jeanzforfree?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198959339441",
+        "name": "BordT",
+        "url": "https://steamcommunity.com/profiles/76561198959339441"
+      }
+    },
+    "legacy_username": "HotCheetos#4179"
   }
 }
