@@ -42950,5 +42950,41 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "357566602042015765": {
+    "id": 357566602042015765,
+    "name": "avfie",
+    "nick": null,
+    "display_name": "Alfie",
+    "global_name": "Alfie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4671994546176236225",
+        "name": "gaming-alf",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "151298119",
+        "name": "GenericGamer925",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198799070814",
+        "name": "Alfie",
+        "url": "https://steamcommunity.com/profiles/76561198799070814"
+      }
+    },
+    "legacy_username": null
   }
 }
