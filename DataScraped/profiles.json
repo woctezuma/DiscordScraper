@@ -41755,5 +41755,118 @@
     ],
     "connections": {},
     "legacy_username": "KatimuX#6866"
+  },
+  "667904611650240513": {
+    "id": 667904611650240513,
+    "name": "coymacoy",
+    "nick": null,
+    "display_name": "COYMACOY",
+    "global_name": "COYMACOY",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f89c6a6fbe1c4582abcae930be87a774",
+        "name": "COYMACOY",
+        "url": null
+      },
+      "spotify": {
+        "id": "hi3379ywr9dm6kq8z9hlgh3tr",
+        "name": "Daffa Muhammad Hammam",
+        "url": "https://open.spotify.com/user/hi3379ywr9dm6kq8z9hlgh3tr"
+      },
+      "steam": {
+        "id": "76561198333688633",
+        "name": "COYMACOY",
+        "url": "https://steamcommunity.com/profiles/76561198333688633"
+      }
+    },
+    "legacy_username": "COYMACOY#5903"
+  },
+  "306224516617469953": {
+    "id": 306224516617469953,
+    "name": "saladkitty",
+    "nick": null,
+    "display_name": "BlueRose",
+    "global_name": "BlueRose",
+    "pronouns": "She/her/they/them/Pluralsystem",
+    "guild_pronouns": null,
+    "bio": "We're a weird multiversal thing.\nYou've possibly seen us around.\nWe've been places.\nA familiar face...\nBut why~?",
+    "guild_bio": null,
+    "display_bio": "We're a weird multiversal thing.\nYou've possibly seen us around.\nWe've been places.\nA familiar face...\nBut why~?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "saladkitty#1717",
+        "name": "saladkitty#1717",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ed201cbaeed24444abed01e1d0e696f2",
+        "name": "laxias",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197970825766",
+        "name": "Saladkitty",
+        "url": "https://steamcommunity.com/profiles/76561197970825766"
+      },
+      "twitch": {
+        "id": "125148977",
+        "name": "eishethel",
+        "url": "https://www.twitch.tv/eishethel"
+      },
+      "twitter": {
+        "id": "233515104",
+        "name": "salielle",
+        "url": "https://twitter.com/salielle"
+      },
+      "xbox": {
+        "id": "EBhPr_ux-NaDIWTOiGmHqagGUyX6JFinxL23YO7XpgE",
+        "name": "blueroseeisheth",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=blueroseeisheth"
+      }
+    },
+    "legacy_username": "saladkitty#4816"
+  },
+  "571632171769659402": {
+    "id": 571632171769659402,
+    "name": "axfoisse",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/571632171769659402/a_4df750a50bc93d0aa80ba7fafb61647c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/571632171769659402/a_4df750a50bc93d0aa80ba7fafb61647c.gif?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "\u273f \u05de\u05dc\u05d0\u05da \u05d4\u05de\u05d5\u05d5\u05ea#2088"
   }
 }
