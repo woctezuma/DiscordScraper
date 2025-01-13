@@ -44863,5 +44863,41 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "200758762854809609": {
+    "id": 200758762854809609,
+    "name": "azure.void",
+    "nick": null,
+    "display_name": "AzureVoid",
+    "global_name": "AzureVoid",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "masterchews",
+        "name": "Shaylan Morrison",
+        "url": "https://open.spotify.com/user/masterchews"
+      },
+      "steam": {
+        "id": "76561197972246943",
+        "name": "AzureVoid",
+        "url": "https://steamcommunity.com/profiles/76561197972246943"
+      },
+      "xbox": {
+        "id": "YjkwY2Q1NGE5ZmY5MTMxYzc2ZjAzNWQwMWE3YzYyMDEzMDVjZDRhMmYyYTE2MGQ1YTQyN2IxNDQxMDRjZDdiNg",
+        "name": "Azurescens",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Azurescens"
+      }
+    },
+    "legacy_username": "AzureVoid#4203"
   }
 }
