@@ -41458,5 +41458,25 @@
       }
     },
     "legacy_username": "olo12890#7735"
+  },
+  "970337049636921354": {
+    "id": 970337049636921354,
+    "name": "rose_dior",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "You look lonely....\nPlace me in my casket tonight,\nBecause I'm already dying inside...\nPale skin so cold to the touch,\nLike a rose in bloom when we blush...",
+    "guild_bio": null,
+    "display_bio": "You look lonely....\nPlace me in my casket tonight,\nBecause I'm already dying inside...\nPale skin so cold to the touch,\nLike a rose in bloom when we blush...",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
