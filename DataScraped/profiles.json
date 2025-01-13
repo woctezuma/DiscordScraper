@@ -44755,5 +44755,54 @@
     ],
     "connections": {},
     "legacy_username": "Gryphus#7255"
+  },
+  "362356890061111308": {
+    "id": 362356890061111308,
+    "name": "_yump",
+    "nick": null,
+    "display_name": "Yump",
+    "global_name": "Yump",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198336469229",
+        "name": "Yump",
+        "url": "https://steamcommunity.com/profiles/76561198336469229"
+      }
+    },
+    "legacy_username": "Yump#7376"
+  },
+  "492243112748646420": {
+    "id": 492243112748646420,
+    "name": "copyrighted__",
+    "nick": null,
+    "display_name": "copyright",
+    "global_name": "copyright",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "now playing glimpse of us \n 00:52 \n                  ",
+    "guild_bio": null,
+    "display_bio": "now playing glimpse of us \n 00:52 \n                  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "copyright#6757"
   }
 }
