@@ -41667,5 +41667,52 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "519200373886418988": {
+    "id": 519200373886418988,
+    "name": "fightercze",
+    "nick": null,
+    "display_name": "FighterCZE",
+    "global_name": "FighterCZE",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "1a4dc100ede849998fb7c9d9189947f7",
+        "name": "FighterCZE",
+        "url": null
+      },
+      "spotify": {
+        "id": "21srsazhjur2ccq4r4hwhkk2y",
+        "name": "Ond\u0159ej \u0160todt",
+        "url": "https://open.spotify.com/user/21srsazhjur2ccq4r4hwhkk2y"
+      },
+      "steam": {
+        "id": "76561198940783169",
+        "name": "FighterCZE",
+        "url": "https://steamcommunity.com/profiles/76561198940783169"
+      },
+      "twitch": {
+        "id": "189944038",
+        "name": "fighter_cze",
+        "url": "https://www.twitch.tv/fighter_cze"
+      },
+      "youtube": {
+        "id": "UCquhDb4H2NsOmCZefdiKU_g",
+        "name": "Ond\u0159ej \u0160todt",
+        "url": "https://www.youtube.com/channel/UCquhDb4H2NsOmCZefdiKU_g"
+      }
+    },
+    "legacy_username": "FighterCZE#7052"
   }
 }
