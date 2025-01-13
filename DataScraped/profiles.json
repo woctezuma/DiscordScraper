@@ -42513,5 +42513,64 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "785492680447623190": {
+    "id": 785492680447623190,
+    "name": "bombaguy69_xd",
+    "nick": null,
+    "display_name": "sexo",
+    "global_name": "sexo",
+    "pronouns": "sig/ma",
+    "guild_pronouns": null,
+    "bio": "I have gynophobia",
+    "guild_bio": null,
+    "display_bio": "I have gynophobia",
+    "banner": "https://cdn.discordapp.com/banners/785492680447623190/a_007f8a424613a9bf2ea2ed835cf6ffa0.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/785492680447623190/a_007f8a424613a9bf2ea2ed835cf6ffa0.gif?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1328402371977674845": {
+    "id": 1328402371977674845,
+    "name": "brave_flamingo_29341",
+    "nick": null,
+    "display_name": "k0",
+    "global_name": "k0",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "544229585349247002": {
+    "id": 544229585349247002,
+    "name": "echoesdm",
+    "nick": null,
+    "display_name": "tempu",
+    "global_name": "tempu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "EchoesDM#9756"
   }
 }
