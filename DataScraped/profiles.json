@@ -40971,5 +40971,31 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1150229777584767068": {
+    "id": 1150229777584767068,
+    "name": "yessir5645",
+    "nick": null,
+    "display_name": "Yes",
+    "global_name": "Yes",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "i want a mcflurry",
+    "guild_bio": null,
+    "display_bio": "i want a mcflurry",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCW3S2H7ELHjFJbyPqAMAVdg",
+        "name": "Yes",
+        "url": "https://www.youtube.com/channel/UCW3S2H7ELHjFJbyPqAMAVdg"
+      }
+    },
+    "legacy_username": null
   }
 }
