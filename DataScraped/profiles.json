@@ -44197,5 +44197,86 @@
     ],
     "connections": {},
     "legacy_username": "sam17#7994"
+  },
+  "189190435145646082": {
+    "id": 189190435145646082,
+    "name": "aklm",
+    "nick": null,
+    "display_name": "AKLM",
+    "global_name": "AKLM",
+    "pronouns": "O tal/Poderoso",
+    "guild_pronouns": null,
+    "bio": "Sic parvis magna",
+    "guild_bio": null,
+    "display_bio": "Sic parvis magna",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "71855391",
+        "name": "nutritionquest",
+        "url": "https://www.twitch.tv/nutritionquest"
+      }
+    },
+    "legacy_username": "AKLM#0865"
+  },
+  "1262113775218065609": {
+    "id": 1262113775218065609,
+    "name": "medxamin.",
+    "nick": null,
+    "display_name": "Medxamin",
+    "global_name": "Medxamin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "415369439874252801": {
+    "id": 415369439874252801,
+    "name": "zantagio9067",
+    "nick": null,
+    "display_name": "Zantagio",
+    "global_name": "Zantagio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Really gotta stop takin things so seriously. . \nhttps://www.youtube.com/watch?v=MX9LreOigJ8",
+    "guild_bio": null,
+    "display_bio": "Really gotta stop takin things so seriously. . \nhttps://www.youtube.com/watch?v=MX9LreOigJ8",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "metapotato101",
+        "name": "metapotato101",
+        "url": "https://open.spotify.com/user/metapotato101"
+      },
+      "steam": {
+        "id": "76561198143605554",
+        "name": "Zantagio",
+        "url": "https://steamcommunity.com/profiles/76561198143605554"
+      },
+      "youtube": {
+        "id": "UCwGMjekOlSupY99bkkZJt5Q",
+        "name": "Dumb Anime Nerd (AnimeNerd101)",
+        "url": "https://www.youtube.com/channel/UCwGMjekOlSupY99bkkZJt5Q"
+      }
+    },
+    "legacy_username": "Zantagio9067#7609"
   }
 }
