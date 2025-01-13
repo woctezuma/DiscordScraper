@@ -41310,5 +41310,81 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "379243135144034304": {
+    "id": 379243135144034304,
+    "name": "ebobalalala",
+    "nick": null,
+    "display_name": "Tox",
+    "global_name": "Tox",
+    "pronouns": "Tox",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/379243135144034304/a_80795ada3b720b0d5ad38ac95a93f391.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/379243135144034304/a_80795ada3b720b0d5ad38ac95a93f391.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c898eeab761c4e62b1ef2e49fd4ee391",
+        "name": "SHTO Tox",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199003319208",
+        "name": "Tox Players",
+        "url": "https://steamcommunity.com/profiles/76561199003319208"
+      },
+      "twitch": {
+        "id": "611370755",
+        "name": "tox1players",
+        "url": "https://www.twitch.tv/tox1players"
+      },
+      "youtube": {
+        "id": "UCO_n0esfAMS4V_LsbyPPh_g",
+        "name": "Tox Players",
+        "url": "https://www.youtube.com/channel/UCO_n0esfAMS4V_LsbyPPh_g"
+      }
+    },
+    "legacy_username": null
+  },
+  "717605391026094112": {
+    "id": 717605391026094112,
+    "name": "kuvioxx",
+    "nick": null,
+    "display_name": "MeatHook",
+    "global_name": "MeatHook",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Those who fall will be forgotten. Those who rise up? Their names will be remembered forever.",
+    "guild_bio": null,
+    "display_bio": "Those who fall will be forgotten. Those who rise up? Their names will be remembered forever.",
+    "banner": "https://cdn.discordapp.com/banners/717605391026094112/b352c7e55b67b0788674b9f10dbccc24.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/717605391026094112/b352c7e55b67b0788674b9f10dbccc24.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "KUVIOXX#1399",
+        "name": "KUVIOXX#1399",
+        "url": null
+      },
+      "xbox": {
+        "id": "3078627100913863",
+        "name": "quencys",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=quencys"
+      }
+    },
+    "legacy_username": "kuvioxx#0723"
   }
 }
