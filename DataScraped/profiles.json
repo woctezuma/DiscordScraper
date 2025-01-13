@@ -45310,5 +45310,36 @@
       }
     },
     "legacy_username": "DIE LEGENDE#2024"
+  },
+  "469197512012464179": {
+    "id": 469197512012464179,
+    "name": "magicznybudyn",
+    "nick": null,
+    "display_name": "MagicznyBudyn",
+    "global_name": "MagicznyBudyn",
+    "pronouns": "On Ono Tego BMW E46 Ca\u0142e Te",
+    "guild_pronouns": null,
+    "bio": "Wrum Wrum",
+    "guild_bio": null,
+    "display_bio": "Wrum Wrum",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198982523306",
+        "name": "Budy\u0144",
+        "url": "https://steamcommunity.com/profiles/76561198982523306"
+      },
+      "youtube": {
+        "id": "UC4cwQbmthx8q91-pUZjDLmQ",
+        "name": "MagicznyBudyn",
+        "url": "https://www.youtube.com/channel/UC4cwQbmthx8q91-pUZjDLmQ"
+      }
+    },
+    "legacy_username": "MagicznyBudyn#5561"
   }
 }
