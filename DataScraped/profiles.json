@@ -41988,5 +41988,52 @@
       }
     },
     "legacy_username": null
+  },
+  "564076912087924756": {
+    "id": 564076912087924756,
+    "name": "guildedflair",
+    "nick": null,
+    "display_name": "cyrus",
+    "global_name": "cyrus",
+    "pronouns": ",they/them  gay",
+    "guild_pronouns": null,
+    "bio": "Double major in media broadcast and cinema and screen studies",
+    "guild_bio": null,
+    "display_bio": "Double major in media broadcast and cinema and screen studies",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3067817561734123",
+        "name": "puglover6565",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=puglover6565"
+      }
+    },
+    "legacy_username": "GuildedFlair#4832"
+  },
+  "1327731526871420991": {
+    "id": 1327731526871420991,
+    "name": "henrihz00",
+    "nick": null,
+    "display_name": "Henri",
+    "global_name": "Henri",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1327731526871420991/a_85e806b9d19a314c50bbe647895c9108.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1327731526871420991/a_85e806b9d19a314c50bbe647895c9108.gif?size=512",
+    "badges": [
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
