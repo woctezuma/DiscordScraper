@@ -41478,5 +41478,56 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "310114634331848705": {
+    "id": 310114634331848705,
+    "name": "shiazu_",
+    "nick": null,
+    "display_name": "SH1AZ.z",
+    "global_name": "SH1AZ.z",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "SH1AZ\u016a.\u00c6z#4017"
+  },
+  "971983349918892032": {
+    "id": 971983349918892032,
+    "name": "ddevzone",
+    "nick": null,
+    "display_name": "DDev_zone",
+    "global_name": "DDev_zone",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31vjzzh7sswstb4npbr6ncifuxqq",
+        "name": "DDevGamer",
+        "url": "https://open.spotify.com/user/31vjzzh7sswstb4npbr6ncifuxqq"
+      },
+      "xbox": {
+        "id": "3063042709965541",
+        "name": "RecruitChip7016",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RecruitChip7016"
+      }
+    },
+    "legacy_username": "DDevGamer#2191"
   }
 }
