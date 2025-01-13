@@ -43020,5 +43020,219 @@
       }
     },
     "legacy_username": null
+  },
+  "642380793884311583": {
+    "id": 642380793884311583,
+    "name": "occupieddan",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\u271e",
+    "guild_pronouns": null,
+    "bio": "don't talk to me",
+    "guild_bio": null,
+    "display_bio": "don't talk to me",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "zun6479jarpergw1zxp5yhd10",
+        "name": "See? What had happen was.",
+        "url": "https://open.spotify.com/user/zun6479jarpergw1zxp5yhd10"
+      },
+      "steam": {
+        "id": "76561198999463542",
+        "name": "iL0vgam3rg1rls",
+        "url": "https://steamcommunity.com/profiles/76561198999463542"
+      },
+      "twitch": {
+        "id": "815728004",
+        "name": "tragicsingle",
+        "url": "https://www.twitch.tv/tragicsingle"
+      },
+      "xbox": {
+        "id": "3072482223946254",
+        "name": "StopDaYappin",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=StopDaYappin"
+      }
+    },
+    "legacy_username": "OCCUPIED DAN#4304"
+  },
+  "1187386605208621190": {
+    "id": 1187386605208621190,
+    "name": "ronaldoqutemov_77372",
+    "nick": null,
+    "display_name": "Ronaldoqut",
+    "global_name": "Ronaldoqut",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1032468841671966760": {
+    "id": 1032468841671966760,
+    "name": "c4ndy_we3d_2521",
+    "nick": null,
+    "display_name": "c4ndy_w3eb_",
+    "global_name": "c4ndy_w3eb_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "398104585526444032": {
+    "id": 398104585526444032,
+    "name": "pandaa73",
+    "nick": null,
+    "display_name": "panda",
+    "global_name": "panda",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1031622225679372370": {
+    "id": 1031622225679372370,
+    "name": "sportsydabiprism219164",
+    "nick": null,
+    "display_name": "S P O R T S Y (DabiPrism21)",
+    "global_name": "S P O R T S Y (DabiPrism21)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "954474320338513990": {
+    "id": 954474320338513990,
+    "name": "nickjones1564",
+    "nick": null,
+    "display_name": "nickJones",
+    "global_name": "nickJones",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "959513252482670592": {
+    "id": 959513252482670592,
+    "name": "__.thomas__",
+    "nick": null,
+    "display_name": "    ",
+    "global_name": "    ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ChristopherRoberts2492315#4713"
+  },
+  "959220567922311168": {
+    "id": 959220567922311168,
+    "name": "__george._",
+    "nick": null,
+    "display_name": "    ",
+    "global_name": "    ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ElizabethPhillips4894653#5719"
+  },
+  "1317885888742686730": {
+    "id": 1317885888742686730,
+    "name": "zerphir0n",
+    "nick": null,
+    "display_name": "zerphir0n",
+    "global_name": "zerphir0n",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "972772487685349376": {
+    "id": 972772487685349376,
+    "name": "vladwyne",
+    "nick": null,
+    "display_name": "vladwyne",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
