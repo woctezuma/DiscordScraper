@@ -41250,5 +41250,27 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "531143368529543209": {
+    "id": 531143368529543209,
+    "name": "narutoben10af",
+    "nick": null,
+    "display_name": "narutoben10af",
+    "global_name": "narutoben10af",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "narutoben10af#1422"
   }
 }
