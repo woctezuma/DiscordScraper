@@ -41160,5 +41160,74 @@
     ],
     "connections": {},
     "legacy_username": "Gremory#3589"
+  },
+  "852969082285457428": {
+    "id": 852969082285457428,
+    "name": "aya.sleep_",
+    "nick": null,
+    "display_name": "AYA.sleep_",
+    "global_name": "AYA.sleep_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "   \"\",    \"\".    ()..zzZZ\n\n:3 ( https://discord.gg/B7MdAU9D4p)",
+    "guild_bio": null,
+    "display_bio": "   \"\",    \"\".    ()..zzZZ\n\n:3 ( https://discord.gg/B7MdAU9D4p)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ugv3y2d5bs7x7v2lq2tbwzuz74",
+        "name": "AyaSleep",
+        "url": "https://open.spotify.com/user/31ugv3y2d5bs7x7v2lq2tbwzuz74"
+      },
+      "steam": {
+        "id": "76561199088871985",
+        "name": "\u30a2\u30e4",
+        "url": "https://steamcommunity.com/profiles/76561199088871985"
+      },
+      "twitch": {
+        "id": "885015880",
+        "name": "ayasleep",
+        "url": "https://www.twitch.tv/ayasleep"
+      },
+      "twitter": {
+        "id": "1547273812357435393",
+        "name": "AyaWantToSleep",
+        "url": "https://twitter.com/AyaWantToSleep"
+      }
+    },
+    "legacy_username": "AYA.sleep#9591"
+  },
+  "783187804787834910": {
+    "id": 783187804787834910,
+    "name": "mrname.",
+    "nick": null,
+    "display_name": "MrName",
+    "global_name": "MrName",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3077686514012903",
+        "name": "MrName4887",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MrName4887"
+      }
+    },
+    "legacy_username": "MrName#8273"
   }
 }
