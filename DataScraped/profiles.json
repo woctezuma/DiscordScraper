@@ -42423,5 +42423,57 @@
       }
     },
     "legacy_username": "GDatLand#2964"
+  },
+  "379246559659032587": {
+    "id": 379246559659032587,
+    "name": "makhluk_konstitusional",
+    "nick": null,
+    "display_name": "Makhluk_Konstitusional",
+    "global_name": "Makhluk_Konstitusional",
+    "pronouns": "20.3 cm SK C/34 Naval Gun",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "801175436755966",
+        "name": "Muhammad Rici Sawwuna",
+        "url": null
+      }
+    },
+    "legacy_username": "Makhluk_Konstitusional#4773"
+  },
+  "816381175953752105": {
+    "id": 816381175953752105,
+    "name": "rolov1",
+    "nick": null,
+    "display_name": "Rol",
+    "global_name": "Rol",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UC2TQmDeCj7ZvNsRwBHx7wqQ",
+        "name": "rolov",
+        "url": "https://www.youtube.com/channel/UC2TQmDeCj7ZvNsRwBHx7wqQ"
+      }
+    },
+    "legacy_username": "Rol#8838"
   }
 }
