@@ -42035,5 +42035,34 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1137611609842393138": {
+    "id": 1137611609842393138,
+    "name": "pyrostrike20",
+    "nick": null,
+    "display_name": "pyrostrike",
+    "global_name": "pyrostrike",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199669862296",
+        "name": "maxpyro20",
+        "url": "https://steamcommunity.com/profiles/76561199669862296"
+      },
+      "youtube": {
+        "id": "UCCaLd2iYX3Wky1P5P5eOnwg",
+        "name": "Pyrostrike",
+        "url": "https://www.youtube.com/channel/UCCaLd2iYX3Wky1P5P5eOnwg"
+      }
+    },
+    "legacy_username": null
   }
 }
