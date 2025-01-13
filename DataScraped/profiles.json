@@ -41386,5 +41386,26 @@
       }
     },
     "legacy_username": "kuvioxx#0723"
+  },
+  "765527662915092530": {
+    "id": 765527662915092530,
+    "name": "battler8460",
+    "nick": null,
+    "display_name": "Battler",
+    "global_name": "Battler",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hakomari, Umineko, Zaregoto also Trails series peak fiction",
+    "guild_bio": null,
+    "display_bio": "Hakomari, Umineko, Zaregoto also Trails series peak fiction",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Battler#8460"
   }
 }
