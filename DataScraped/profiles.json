@@ -40902,5 +40902,74 @@
       }
     },
     "legacy_username": "HotCheetos#4179"
+  },
+  "464598719136923648": {
+    "id": 464598719136923648,
+    "name": "123alexei",
+    "nick": null,
+    "display_name": "alexei",
+    "global_name": "alexei",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "280907036164620288": {
+    "id": 280907036164620288,
+    "name": "_kasane",
+    "nick": null,
+    "display_name": "Kasane",
+    "global_name": "Kasane",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "A horny wholesome dude",
+    "guild_bio": null,
+    "display_bio": "A horny wholesome dude",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "b3c28f49138744dcbb3aee422f2f599d",
+        "name": "Falkus1998",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198038658042",
+        "name": "Croquette Chat",
+        "url": "https://steamcommunity.com/profiles/76561198038658042"
+      }
+    },
+    "legacy_username": "Kasane#4411"
+  },
+  "1145990401359097947": {
+    "id": 1145990401359097947,
+    "name": "red_red308",
+    "nick": null,
+    "display_name": "511992",
+    "global_name": "511992",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
