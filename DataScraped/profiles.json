@@ -42475,5 +42475,43 @@
       }
     },
     "legacy_username": "Rol#8838"
+  },
+  "1166039336001732710": {
+    "id": 1166039336001732710,
+    "name": "il_tizio_23867",
+    "nick": null,
+    "display_name": "il cane bello",
+    "global_name": "il cane bello",
+    "pronouns": "BUCCOMINO",
+    "guild_pronouns": null,
+    "bio": "tutti gli EMO esplodono",
+    "guild_bio": null,
+    "display_bio": "tutti gli EMO esplodono",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1239861748622950442": {
+    "id": 1239861748622950442,
+    "name": "sultanele22",
+    "nick": null,
+    "display_name": "trelemorele",
+    "global_name": "trelemorele",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
