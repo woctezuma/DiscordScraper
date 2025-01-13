@@ -42166,5 +42166,62 @@
       }
     },
     "legacy_username": null
+  },
+  "1215606633745350696": {
+    "id": 1215606633745350696,
+    "name": "zhihang_lol",
+    "nick": null,
+    "display_name": "e",
+    "global_name": "e",
+    "pronouns": "gasian",
+    "guild_pronouns": null,
+    "bio": "And then our time concludes\nAnd far beyond the stars, we flew\nForever",
+    "guild_bio": null,
+    "display_bio": "And then our time concludes\nAnd far beyond the stars, we flew\nForever",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "486498675359612928": {
+    "id": 486498675359612928,
+    "name": "dominalucille",
+    "nick": null,
+    "display_name": "Dominya Ludile",
+    "global_name": "Dominya Ludile",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "Would you still love me if I was a Funko Pop? <:PleadingKitty:1203384570213441606>",
+    "guild_bio": null,
+    "display_bio": "Would you still love me if I was a Funko Pop? <:PleadingKitty:1203384570213441606>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3217557401352914542",
+        "name": "DominaLucille",
+        "url": null
+      },
+      "spotify": {
+        "id": "lucc9",
+        "name": "Lucille",
+        "url": "https://open.spotify.com/user/lucc9"
+      },
+      "steam": {
+        "id": "76561198042462884",
+        "name": "Domina",
+        "url": "https://steamcommunity.com/profiles/76561198042462884"
+      }
+    },
+    "legacy_username": "Lucille#7753"
   }
 }
