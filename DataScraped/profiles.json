@@ -41229,5 +41229,26 @@
       }
     },
     "legacy_username": "MrName#8273"
+  },
+  "1170612634962374696": {
+    "id": 1170612634962374696,
+    "name": "mistakeshappen",
+    "nick": null,
+    "display_name": "Mistakeshappen",
+    "global_name": "Mistakeshappen",
+    "pronouns": "walmart/bag",
+    "guild_pronouns": null,
+    "bio": "sigma sigma boy sigma boy",
+    "guild_bio": null,
+    "display_bio": "sigma sigma boy sigma boy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
