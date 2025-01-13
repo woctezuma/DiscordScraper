@@ -44278,5 +44278,162 @@
       }
     },
     "legacy_username": "Zantagio9067#7609"
+  },
+  "342741165025525774": {
+    "id": 342741165025525774,
+    "name": "eoa1508",
+    "nick": null,
+    "display_name": "eoa1508",
+    "global_name": "eoa1508",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "eoa150800",
+        "name": "eoa150800",
+        "url": "https://open.spotify.com/user/eoa150800"
+      },
+      "steam": {
+        "id": "76561198081231163",
+        "name": "eoa1508",
+        "url": "https://steamcommunity.com/profiles/76561198081231163"
+      },
+      "twitch": {
+        "id": "79975041",
+        "name": "eoa150800",
+        "url": "https://www.twitch.tv/eoa150800"
+      }
+    },
+    "legacy_username": "eoa1508#0153"
+  },
+  "639903422254022656": {
+    "id": 639903422254022656,
+    "name": "komunistkedy",
+    "nick": null,
+    "display_name": "KomnistKedy",
+    "global_name": "KomnistKedy",
+    "pronouns": "Our/We",
+    "guild_pronouns": null,
+    "bio": "Onward comrades!",
+    "guild_bio": null,
+    "display_bio": "Onward comrades!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "w89ax7leenm6gxn2u2afx8fzh",
+        "name": "Boran.kocaturk",
+        "url": "https://open.spotify.com/user/w89ax7leenm6gxn2u2afx8fzh"
+      },
+      "steam": {
+        "id": "76561198404515336",
+        "name": "Crimson Wolf",
+        "url": "https://steamcommunity.com/profiles/76561198404515336"
+      },
+      "twitch": {
+        "id": "641484688",
+        "name": "thickman47",
+        "url": "https://www.twitch.tv/thickman47"
+      }
+    },
+    "legacy_username": null
+  },
+  "90551053518401536": {
+    "id": 90551053518401536,
+    "name": "antgio",
+    "nick": null,
+    "display_name": "zzzAnt",
+    "global_name": "zzzAnt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "omyt6oaypetv16exhes3wt16s",
+        "name": "AntGio",
+        "url": "https://open.spotify.com/user/omyt6oaypetv16exhes3wt16s"
+      }
+    },
+    "legacy_username": "Ant#9654"
+  },
+  "433080094085480448": {
+    "id": 433080094085480448,
+    "name": "epicxchip",
+    "nick": null,
+    "display_name": "EpicxChip",
+    "global_name": "EpicxChip",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "beans",
+    "guild_bio": null,
+    "display_bio": "beans",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1266633314",
+        "name": "Billy Howard",
+        "url": "https://open.spotify.com/user/1266633314"
+      },
+      "steam": {
+        "id": "76561198027586469",
+        "name": "EpicxChip",
+        "url": "https://steamcommunity.com/profiles/76561198027586469"
+      },
+      "twitch": {
+        "id": "32170860",
+        "name": "epicxchipx",
+        "url": "https://www.twitch.tv/epicxchipx"
+      },
+      "xbox": {
+        "id": "3063970164009329",
+        "name": "EpicxChip",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=EpicxChip"
+      }
+    },
+    "legacy_username": "EpicxChip#5351"
+  },
+  "1058190858882650112": {
+    "id": 1058190858882650112,
+    "name": "dio_71",
+    "nick": null,
+    "display_name": "D71",
+    "global_name": "D71",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
