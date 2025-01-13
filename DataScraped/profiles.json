@@ -44083,5 +44083,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "841322795744886844": {
+    "id": 841322795744886844,
+    "name": "cat_biozs11",
+    "nick": null,
+    "display_name": "cat_biozs11",
+    "global_name": "cat_biozs11",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "um, hi",
+    "guild_bio": null,
+    "display_bio": "um, hi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "cat_biozs11#5055"
   }
 }
