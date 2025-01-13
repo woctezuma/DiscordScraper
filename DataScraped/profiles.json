@@ -41580,5 +41580,72 @@
     ],
     "connections": {},
     "legacy_username": "Yellow#9986"
+  },
+  "759684314756546570": {
+    "id": 759684314756546570,
+    "name": "maulnysuf",
+    "nick": null,
+    "display_name": "blinth",
+    "global_name": "blinth",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Drunkenness is nothing but voluntary madness.",
+    "guild_bio": null,
+    "display_bio": "Drunkenness is nothing but voluntary madness.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "9a3be9965718434b9723f1b5bea6f16a",
+        "name": "Blinth21",
+        "url": null
+      },
+      "spotify": {
+        "id": "31hxwjla6l3lmrgyfsazjvjfdece",
+        "name": "Maulana",
+        "url": "https://open.spotify.com/user/31hxwjla6l3lmrgyfsazjvjfdece"
+      },
+      "steam": {
+        "id": "76561199405087019",
+        "name": "Blinth21",
+        "url": "https://steamcommunity.com/profiles/76561199405087019"
+      },
+      "xbox": {
+        "id": "3064017667078230",
+        "name": "Blinth21",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Blinth21"
+      }
+    },
+    "legacy_username": "maulnysuf#1544"
+  },
+  "937359897568362566": {
+    "id": 937359897568362566,
+    "name": "grafit_bs",
+    "nick": null,
+    "display_name": "GRAFIT",
+    "global_name": "GRAFIT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199546499305",
+        "name": "GRAFIT",
+        "url": "https://steamcommunity.com/profiles/76561199546499305"
+      }
+    },
+    "legacy_username": null
   }
 }
