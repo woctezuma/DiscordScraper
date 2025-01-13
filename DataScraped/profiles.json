@@ -42355,5 +42355,73 @@
     ],
     "connections": {},
     "legacy_username": "Hawk_4U#4800"
+  },
+  "770885096688975903": {
+    "id": 770885096688975903,
+    "name": "cringeadctop",
+    "nick": null,
+    "display_name": "boban from bangladesh",
+    "global_name": "boban from bangladesh",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/770885096688975903/a_aaba02d4a15534654509cef381eca8bc.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/770885096688975903/a_aaba02d4a15534654509cef381eca8bc.gif?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "cringe adc top#8890"
+  },
+  "1162039267963441204": {
+    "id": 1162039267963441204,
+    "name": "ainan95",
+    "nick": null,
+    "display_name": "Ainan",
+    "global_name": "Ainan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "329624280478384130": {
+    "id": 329624280478384130,
+    "name": "aneukbaro",
+    "nick": null,
+    "display_name": "iwaku",
+    "global_name": "iwaku",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/329624280478384130/1b549e2142e160786c1275af6b70fc08.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/329624280478384130/1b549e2142e160786c1275af6b70fc08.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "236683271",
+        "name": "deelzero",
+        "url": "https://www.twitch.tv/deelzero"
+      }
+    },
+    "legacy_username": "GDatLand#2964"
   }
 }
