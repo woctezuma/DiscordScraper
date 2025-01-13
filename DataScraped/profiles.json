@@ -43856,5 +43856,79 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1325870736119693415": {
+    "id": 1325870736119693415,
+    "name": "dfhswws",
+    "nick": null,
+    "display_name": "dfhswws",
+    "global_name": "dfhswws",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1181980158861774920": {
+    "id": 1181980158861774920,
+    "name": "juski999",
+    "nick": null,
+    "display_name": "9",
+    "global_name": "9",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\nhttps://www.tiktok.com/@juski.fx",
+    "guild_bio": null,
+    "display_bio": "\nhttps://www.tiktok.com/@juski.fx",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "1638637807030657025",
+        "name": "thejuski_",
+        "url": "https://twitter.com/thejuski_"
+      }
+    },
+    "legacy_username": null
+  },
+  "412762027321196566": {
+    "id": 412762027321196566,
+    "name": "peedro364",
+    "nick": null,
+    "display_name": "Pedro",
+    "global_name": "Pedro",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "134579540",
+        "name": "filhoteh",
+        "url": "https://www.twitch.tv/filhoteh"
+      }
+    },
+    "legacy_username": "Peedro#3028"
   }
 }
