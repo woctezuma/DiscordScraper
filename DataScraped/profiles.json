@@ -42064,5 +42064,107 @@
       }
     },
     "legacy_username": null
+  },
+  "137880573761945600": {
+    "id": 137880573761945600,
+    "name": "yutsu",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<a:Warzi:895986967609749504>  :??/108(\nFFXIVplaytime: 106Day\n<a:1037892948555210803:1316401552591945729>",
+    "guild_bio": null,
+    "display_bio": "<a:Warzi:895986967609749504>  :??/108(\nFFXIVplaytime: 106Day\n<a:1037892948555210803:1316401552591945729>",
+    "banner": "https://cdn.discordapp.com/banners/137880573761945600/a_0d9d04228e06da65091f8c5332afe6ed.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/137880573761945600/a_0d9d04228e06da65091f8c5332afe6ed.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "11100661695",
+        "name": "Nyx Chiang",
+        "url": "https://open.spotify.com/user/11100661695"
+      },
+      "youtube": {
+        "id": "UCvT5b3KxvTG_xf8ffBJBVuA",
+        "name": "\u3086\u3064",
+        "url": "https://www.youtube.com/channel/UCvT5b3KxvTG_xf8ffBJBVuA"
+      }
+    },
+    "legacy_username": null
+  },
+  "1279452605977989215": {
+    "id": 1279452605977989215,
+    "name": "stylo_sixty9",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "fbd1ba5e655b412e8b4f84063520a6fc",
+        "name": "StyloNewbie",
+        "url": null
+      },
+      "facebook": {
+        "id": "1577891173090949",
+        "name": "Siam Islam",
+        "url": null
+      },
+      "spotify": {
+        "id": "31wtbfr5dx722suxzhvu62ysylp4",
+        "name": "StyloCREEPY",
+        "url": "https://open.spotify.com/user/31wtbfr5dx722suxzhvu62ysylp4"
+      },
+      "steam": {
+        "id": "76561199774437826",
+        "name": "FlirtySTYLO",
+        "url": "https://steamcommunity.com/profiles/76561199774437826"
+      }
+    },
+    "legacy_username": null
+  },
+  "884760632329637919": {
+    "id": 884760632329637919,
+    "name": "roots_of_man",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198170348813",
+        "name": "Roots of man",
+        "url": "https://steamcommunity.com/profiles/76561198170348813"
+      }
+    },
+    "legacy_username": null
   }
 }
