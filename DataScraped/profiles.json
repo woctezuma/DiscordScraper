@@ -44435,5 +44435,102 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "202946834736349184": {
+    "id": 202946834736349184,
+    "name": "joshenpai",
+    "nick": null,
+    "display_name": "joshenpai",
+    "global_name": "joshenpai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/202946834736349184/443a555968f3da8f94bcca7067315fc8.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/202946834736349184/443a555968f3da8f94bcca7067315fc8.png?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "joshenpai#1546",
+        "name": "joshenpai#1546",
+        "url": null
+      },
+      "playstation": {
+        "id": "4197602477118316961",
+        "name": "joshenpai",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198072379405",
+        "name": "Joshenpai",
+        "url": "https://steamcommunity.com/profiles/76561198072379405"
+      },
+      "xbox": {
+        "id": "NWUyMDkxOGIyYjZhNDljNWQ5NmIzZmJlNmNkOTRhYmZkM2Y3YTgyZDQwZWViZTMxNmY4YTY4MTEwNzczM2ZjOA",
+        "name": "Joshenpai",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Joshenpai"
+      }
+    },
+    "legacy_username": "joshenpai#1363"
+  },
+  "894542780095954965": {
+    "id": 894542780095954965,
+    "name": "seniormoe",
+    "nick": null,
+    "display_name": " S e n i o R ",
+    "global_name": " S e n i o R ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31zgm37x6m6wlvr4wdgemxue4a3m",
+        "name": "Senior-Mo",
+        "url": "https://open.spotify.com/user/31zgm37x6m6wlvr4wdgemxue4a3m"
+      },
+      "steam": {
+        "id": "76561199004615538",
+        "name": "\u2605\u2022 S e n i o R \u2022\u2605",
+        "url": "https://steamcommunity.com/profiles/76561199004615538"
+      }
+    },
+    "legacy_username": "SeniorMoe#7741"
+  },
+  "1231006470192107551": {
+    "id": 1231006470192107551,
+    "name": "cristinednc",
+    "nick": null,
+    "display_name": "cristine",
+    "global_name": "cristine",
+    "pronouns": "lebz",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
