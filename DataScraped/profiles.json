@@ -40997,5 +40997,41 @@
       }
     },
     "legacy_username": null
+  },
+  "1022671842311426099": {
+    "id": 1022671842311426099,
+    "name": "_kyjay_",
+    "nick": null,
+    "display_name": "KyJay",
+    "global_name": "KyJay",
+    "pronouns": "YEAH and No",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "21rw36zpbqkbibz6sdpmt5vcq",
+        "name": "Racel Gural",
+        "url": "https://open.spotify.com/user/21rw36zpbqkbibz6sdpmt5vcq"
+      },
+      "steam": {
+        "id": "76561198950143435",
+        "name": "KyJay",
+        "url": "https://steamcommunity.com/profiles/76561198950143435"
+      },
+      "tiktok": {
+        "id": "50f23e05-3ad6-5296-adda-8b1e08235e7f",
+        "name": "racelgural",
+        "url": "https://tiktok.com/@racelgural"
+      }
+    },
+    "legacy_username": "Kyahjaye#8432"
   }
 }
