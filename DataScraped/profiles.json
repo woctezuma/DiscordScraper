@@ -41033,5 +41033,31 @@
       }
     },
     "legacy_username": "Kyahjaye#8432"
+  },
+  "703275654262816818": {
+    "id": 703275654262816818,
+    "name": "floppernator",
+    "nick": null,
+    "display_name": "Floppernator",
+    "global_name": "Floppernator",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "for what do I do what I do?",
+    "guild_bio": null,
+    "display_bio": "for what do I do what I do?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "626802412",
+        "name": "floppernator",
+        "url": "https://www.twitch.tv/floppernator"
+      }
+    },
+    "legacy_username": "Floppernator#6495"
   }
 }
