@@ -41077,5 +41077,88 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "423688706545680395": {
+    "id": 423688706545680395,
+    "name": "scopefirst",
+    "nick": null,
+    "display_name": "Slay 4 Beer",
+    "global_name": "Slay 4 Beer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Blue Collar Gaming Owner\nBlue Collar Gaming Official Discord: https://discord.gg/fpGK3jTx\nBlue Collar Gaming Est:2020",
+    "guild_bio": null,
+    "display_bio": "Blue Collar Gaming Owner\nBlue Collar Gaming Official Discord: https://discord.gg/fpGK3jTx\nBlue Collar Gaming Est:2020",
+    "banner": "https://cdn.discordapp.com/banners/423688706545680395/722b9e8d7aeff035b7edbef2a2e34a94.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/423688706545680395/722b9e8d7aeff035b7edbef2a2e34a94.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Valhalla#12667",
+        "name": "Valhalla#12667",
+        "url": null
+      },
+      "playstation": {
+        "id": "7192270644136473698",
+        "name": "VesseloValhalla",
+        "url": null
+      },
+      "spotify": {
+        "id": "31lrhtmnqpd44pptzwm6zd3iyy3q",
+        "name": "Wyatt Cagle",
+        "url": "https://open.spotify.com/user/31lrhtmnqpd44pptzwm6zd3iyy3q"
+      },
+      "steam": {
+        "id": "76561199111729255",
+        "name": "Scope_First",
+        "url": "https://steamcommunity.com/profiles/76561199111729255"
+      },
+      "twitch": {
+        "id": "555313338",
+        "name": "vesselovalhalla",
+        "url": "https://www.twitch.tv/vesselovalhalla"
+      },
+      "twitter": {
+        "id": "1309518142734061571",
+        "name": "ValhallaVesselo",
+        "url": "https://twitter.com/ValhallaVesselo"
+      },
+      "xbox": {
+        "id": "MmM2ZmVkNmFhMjcyZjdmNTdlNjQwZTUyNDY0M2NkYzliMDNjZDJhODJmMDcwMmEzZjEyYTBkYzE5OWE5YzdiOQ",
+        "name": "Scope First5458",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Scope First5458"
+      },
+      "youtube": {
+        "id": "UCNXt3NLI0pOAHfIN0YwXzmQ",
+        "name": "Slay 4 Beer",
+        "url": "https://www.youtube.com/channel/UCNXt3NLI0pOAHfIN0YwXzmQ"
+      }
+    },
+    "legacy_username": "Scope SnD#2369"
+  },
+  "964219509063942175": {
+    "id": 964219509063942175,
+    "name": "gremory3589",
+    "nick": null,
+    "display_name": "Ruto",
+    "global_name": "Ruto",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Gremory#3589"
   }
 }
