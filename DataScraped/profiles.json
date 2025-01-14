@@ -46555,5 +46555,36 @@
     ],
     "connections": {},
     "legacy_username": "LINDOIVAN#6386"
+  },
+  "805739124790657024": {
+    "id": 805739124790657024,
+    "name": "002shadow",
+    "nick": null,
+    "display_name": "(SHADOW)",
+    "global_name": "(SHADOW)",
+    "pronouns": "(SHADOW)",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199007617256",
+        "name": "(SHADOW)",
+        "url": "https://steamcommunity.com/profiles/76561199007617256"
+      },
+      "xbox": {
+        "id": "3062632774263425",
+        "name": "SHADOW000011",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SHADOW000011"
+      }
+    },
+    "legacy_username": "Happy  24#7038"
   }
 }
