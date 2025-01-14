@@ -48110,5 +48110,26 @@
       }
     },
     "legacy_username": "DJ Preet#8448"
+  },
+  "402903820105154560": {
+    "id": 402903820105154560,
+    "name": "vpower982",
+    "nick": null,
+    "display_name": "V-power",
+    "global_name": "V-power",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "V-power#9702"
   }
 }
