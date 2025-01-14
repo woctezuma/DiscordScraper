@@ -45694,5 +45694,31 @@
       }
     },
     "legacy_username": null
+  },
+  "1130507227757821993": {
+    "id": 1130507227757821993,
+    "name": "drumurai",
+    "nick": null,
+    "display_name": "drumurai",
+    "global_name": "drumurai",
+    "pronouns": "Lord",
+    "guild_pronouns": null,
+    "bio": "Twitch https://www.twitch.tv/drumurai?sr=a",
+    "guild_bio": null,
+    "display_bio": "Twitch https://www.twitch.tv/drumurai?sr=a",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "463932092",
+        "name": "drumurai",
+        "url": "https://www.twitch.tv/drumurai"
+      }
+    },
+    "legacy_username": "drumurai#6687"
   }
 }
