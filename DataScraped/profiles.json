@@ -47948,5 +47948,26 @@
     ],
     "connections": {},
     "legacy_username": "mazi2o6#6799"
+  },
+  "513015708418965521": {
+    "id": 513015708418965521,
+    "name": "zuzubear",
+    "nick": null,
+    "display_name": "zuzubear",
+    "global_name": "zuzubear",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "zuzubear#3366"
   }
 }
