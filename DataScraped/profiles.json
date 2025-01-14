@@ -46586,5 +46586,102 @@
       }
     },
     "legacy_username": "Happy  24#7038"
+  },
+  "211174055297024000": {
+    "id": 211174055297024000,
+    "name": "zk5",
+    "nick": null,
+    "display_name": "Z-K5",
+    "global_name": "Z-K5",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Z-K5#0663"
+  },
+  "878334352096890891": {
+    "id": 878334352096890891,
+    "name": "angolano21",
+    "nick": null,
+    "display_name": "Luan",
+    "global_name": "Luan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7148023257597804502",
+        "name": "luanzi27",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199251225558",
+        "name": "Luan \ud83d\udc4d",
+        "url": "https://steamcommunity.com/profiles/76561199251225558"
+      },
+      "xbox": {
+        "id": "3076333477280025",
+        "name": "LuanZ3948",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LuanZ3948"
+      }
+    },
+    "legacy_username": "Blackzin#3899"
+  },
+  "1324473637348315251": {
+    "id": 1324473637348315251,
+    "name": "wildfridghoul",
+    "nick": null,
+    "display_name": "WildfridGhoul",
+    "global_name": "WildfridGhoul",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "b8ae236ae4ec4b41adcf77d9b9eba3e5",
+        "name": "WildfridGhoul",
+        "url": null
+      },
+      "playstation": {
+        "id": "2122997323649342920",
+        "name": "WildfridGhoul",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199809515370",
+        "name": "WildfridGhoul",
+        "url": "https://steamcommunity.com/profiles/76561199809515370"
+      },
+      "xbox": {
+        "id": "3073221490497426",
+        "name": "WildfridGhoul",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=WildfridGhoul"
+      }
+    },
+    "legacy_username": null
   }
 }
