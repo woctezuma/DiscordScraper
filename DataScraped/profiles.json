@@ -45459,5 +45459,103 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "755117592355799180": {
+    "id": 755117592355799180,
+    "name": "khodemmdi",
+    "nick": null,
+    "display_name": "MMDiii",
+    "global_name": "MMDiii",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "15bead81c3fe4baca9890db8bc3d1d2e",
+        "name": "ItsBullet\u30c4",
+        "url": null
+      },
+      "spotify": {
+        "id": "315glaqolpg4hilpgb6wbjgkcdum",
+        "name": "MMDYeep",
+        "url": "https://open.spotify.com/user/315glaqolpg4hilpgb6wbjgkcdum"
+      },
+      "steam": {
+        "id": "76561199489690178",
+        "name": "Yeep",
+        "url": "https://steamcommunity.com/profiles/76561199489690178"
+      },
+      "twitch": {
+        "id": "773288317",
+        "name": "itsyeep",
+        "url": "https://www.twitch.tv/itsyeep"
+      }
+    },
+    "legacy_username": "Yeep#4500"
+  },
+  "100662017576161280": {
+    "id": 100662017576161280,
+    "name": "cookieking",
+    "nick": null,
+    "display_name": "Cookieking",
+    "global_name": "Cookieking",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "/join Cookieking#5996",
+    "guild_bio": null,
+    "display_bio": "/join Cookieking#5996",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Cookieking#2318"
+  },
+  "288046357636186123": {
+    "id": 288046357636186123,
+    "name": "the_fabulous_sage",
+    "nick": null,
+    "display_name": "The~Fabulous~Sage",
+    "global_name": "The~Fabulous~Sage",
+    "pronouns": "She/her idrc",
+    "guild_pronouns": null,
+    "bio": "Depressed Baker",
+    "guild_bio": null,
+    "display_bio": "Depressed Baker",
+    "banner": "https://cdn.discordapp.com/banners/288046357636186123/a_80ea7b18230ebbbfa8ff5db75b21a487.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/288046357636186123/a_80ea7b18230ebbbfa8ff5db75b21a487.gif?size=512",
+    "badges": [
+      "guild_booster_lvl6",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "67hj0jpif1wn2qpsft8vzuepn",
+        "name": "Joyblu",
+        "url": "https://open.spotify.com/user/67hj0jpif1wn2qpsft8vzuepn"
+      },
+      "steam": {
+        "id": "76561198138787768",
+        "name": "~Sage~",
+        "url": "https://steamcommunity.com/profiles/76561198138787768"
+      }
+    },
+    "legacy_username": "The~Fabulous~Sage#0242"
   }
 }
