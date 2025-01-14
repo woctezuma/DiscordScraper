@@ -45638,5 +45638,61 @@
       }
     },
     "legacy_username": null
+  },
+  "1025090969437220864": {
+    "id": 1025090969437220864,
+    "name": "zachery3282",
+    "nick": null,
+    "display_name": "zachery",
+    "global_name": "zachery",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "survivor of the diddy party\njust jokes",
+    "guild_bio": null,
+    "display_bio": "survivor of the diddy party\njust jokes",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c96b7755eaf8428984e7ed1b1dd24842",
+        "name": "KICKRougewarrior",
+        "url": null
+      },
+      "playstation": {
+        "id": "194439179312236897",
+        "name": "gg_Fortnite4351",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199414209382",
+        "name": "zacherytitus2022",
+        "url": "https://steamcommunity.com/profiles/76561199414209382"
+      },
+      "tiktok": {
+        "id": "32e9cf3c-8e2b-4207-b689-0c4406155bde",
+        "name": "zachery titus",
+        "url": "https://tiktok.com/@zachery titus"
+      },
+      "twitch": {
+        "id": "599704198",
+        "name": "zacherytitus16",
+        "url": "https://www.twitch.tv/zacherytitus16"
+      },
+      "twitter": {
+        "id": "1317989881088516097",
+        "name": "ZacheryTitus",
+        "url": "https://twitter.com/ZacheryTitus"
+      },
+      "xbox": {
+        "id": "3062294543354388",
+        "name": "XxWhiskeyxX9844",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=XxWhiskeyxX9844"
+      }
+    },
+    "legacy_username": null
   }
 }
