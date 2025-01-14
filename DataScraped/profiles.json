@@ -48457,5 +48457,29 @@
       }
     },
     "legacy_username": "ExStAz#5009"
+  },
+  "475970269538811904": {
+    "id": 475970269538811904,
+    "name": "rotta_2",
+    "nick": null,
+    "display_name": "illu",
+    "global_name": "illu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3074707697344023",
+        "name": "Rotta2",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Rotta2"
+      }
+    },
+    "legacy_username": null
   }
 }
