@@ -49107,5 +49107,62 @@
       }
     },
     "legacy_username": "lucask84ever#7131"
+  },
+  "935596635059290172": {
+    "id": 935596635059290172,
+    "name": "4andr3ww",
+    "nick": null,
+    "display_name": "Ndr3ww",
+    "global_name": "Ndr3ww",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31jynu4hghjxydjxjapo36eaajgm",
+        "name": "Marius Andrei (Ch1nezuU)",
+        "url": "https://open.spotify.com/user/31jynu4hghjxydjxjapo36eaajgm"
+      },
+      "steam": {
+        "id": "76561199234681745",
+        "name": "\u0e4bNdr3ww",
+        "url": "https://steamcommunity.com/profiles/76561199234681745"
+      }
+    },
+    "legacy_username": "Ch1nezuU<3#5682"
+  },
+  "697942821759352902": {
+    "id": 697942821759352902,
+    "name": "shitty_toiletpaper",
+    "nick": null,
+    "display_name": "sourdough18",
+    "global_name": "sourdough18",
+    "pronouns": "Call me wtf you want",
+    "guild_pronouns": null,
+    "bio": "Weeduser ong",
+    "guild_bio": null,
+    "display_bio": "Weeduser ong",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3075315331171394",
+        "name": "hacker666180",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=hacker666180"
+      }
+    },
+    "legacy_username": null
   }
 }
