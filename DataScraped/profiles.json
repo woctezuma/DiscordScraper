@@ -48777,5 +48777,99 @@
     ],
     "connections": {},
     "legacy_username": "Turtles#6995"
+  },
+  "1092761870609420318": {
+    "id": 1092761870609420318,
+    "name": "marietveit07",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "She/her/hers",
+    "guild_pronouns": null,
+    "bio": "I love to hang with my friends\nI like to Watch movie and TV show \nMusic is fun to\nI like to play some Games with my Friends\nTech Lover\nAnd i am a Kind and a Simp",
+    "guild_bio": null,
+    "display_bio": "I love to hang with my friends\nI like to Watch movie and TV show \nMusic is fun to\nI like to play some Games with my Friends\nTech Lover\nAnd i am a Kind and a Simp",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "MariTveit07#2734",
+        "name": "MariTveit07#2734",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "55327f4d-d49e-5ff4-839c-875bbf80da51",
+        "name": "marietveit07",
+        "url": null
+      },
+      "epic_games": {
+        "id": "3369b238db3b48078aac48006c62950c",
+        "name": "\u30c8\u30f4\u30a7\u30a4\u30c8_\u30de\u30ea\u30fc",
+        "url": null
+      },
+      "facebook": {
+        "id": "413704031691670",
+        "name": "Marie Tveit",
+        "url": null
+      },
+      "github": {
+        "id": "139719763",
+        "name": "marietveit07",
+        "url": "https://github.com/marietveit07"
+      },
+      "paypal": {
+        "id": "7LK3kh4lWpU2ybQdQ8TGecZmTsjcJoVe66gpI8tVlFo",
+        "name": "Marie Tveit",
+        "url": null
+      },
+      "reddit": {
+        "id": "amutztxyk",
+        "name": "marie_tveit07",
+        "url": "https://www.reddit.com/u/marie_tveit07"
+      },
+      "unknown_roblox": {
+        "id": "536700968",
+        "name": "MarieTveit07",
+        "url": null
+      },
+      "spotify": {
+        "id": "31vbe5cpxusjar3yd2hprik7tm4e",
+        "name": "Marie Tveit",
+        "url": "https://open.spotify.com/user/31vbe5cpxusjar3yd2hprik7tm4e"
+      },
+      "steam": {
+        "id": "76561199499250501",
+        "name": "\u30de\u30ea\u30fc\u30fb\u30c8\u30f4\u30a7\u30a4\u30c8",
+        "url": "https://steamcommunity.com/profiles/76561199499250501"
+      },
+      "tiktok": {
+        "id": "3c4eb9b7-85b4-5312-adb6-d19bba8de441",
+        "name": "marietveit7",
+        "url": "https://tiktok.com/@marietveit7"
+      },
+      "twitch": {
+        "id": "896390222",
+        "name": "marie_tveit07",
+        "url": "https://www.twitch.tv/marie_tveit07"
+      },
+      "twitter": {
+        "id": "1635736688419897361",
+        "name": "MarieTveit07",
+        "url": "https://twitter.com/MarieTveit07"
+      },
+      "xbox": {
+        "id": "3070354417849214",
+        "name": "Marie Tveit",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Marie Tveit"
+      },
+      "youtube": {
+        "id": "UCCKOKPpq7c671e372qMNmxQ",
+        "name": "Marie Tveit",
+        "url": "https://www.youtube.com/channel/UCCKOKPpq7c671e372qMNmxQ"
+      }
+    },
+    "legacy_username": null
   }
 }
