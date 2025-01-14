@@ -45764,5 +45764,33 @@
       }
     },
     "legacy_username": "ADA GWEN#6565"
+  },
+  "653873447302070284": {
+    "id": 653873447302070284,
+    "name": "dadaaa",
+    "nick": null,
+    "display_name": "dadaaa",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Busy",
+    "guild_bio": null,
+    "display_bio": "Busy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "z4je8of840kqg1w28wk23u3r0",
+        "name": "alda",
+        "url": "https://open.spotify.com/user/z4je8of840kqg1w28wk23u3r0"
+      }
+    },
+    "legacy_username": "dadaaa#7588"
   }
 }
