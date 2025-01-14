@@ -48131,5 +48131,89 @@
     ],
     "connections": {},
     "legacy_username": "V-power#9702"
+  },
+  "267551414966812673": {
+    "id": 267551414966812673,
+    "name": "dimmahund",
+    "nick": null,
+    "display_name": "dimmahund",
+    "global_name": "dimmahund",
+    "pronouns": "i/er",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/267551414966812673/bfb8a78fcff09c94709106cb87f42056.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/267551414966812673/bfb8a78fcff09c94709106cb87f42056.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "eune_44349401",
+        "name": "masakratorix",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198138562928",
+        "name": "Szwed",
+        "url": "https://steamcommunity.com/profiles/76561198138562928"
+      },
+      "xbox": {
+        "id": "zjs6W5ZR7bL8VeMuGipg8U34t36oM61cwWLfZrge8kk",
+        "name": "ThatsLITwin",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ThatsLITwin"
+      },
+      "youtube": {
+        "id": "UC40jJIq5k5OVkyECEn_kmkQ",
+        "name": "Szwed",
+        "url": "https://www.youtube.com/channel/UC40jJIq5k5OVkyECEn_kmkQ"
+      }
+    },
+    "legacy_username": "dimmahund#3990"
+  },
+  "1098344988850532432": {
+    "id": 1098344988850532432,
+    "name": "mechanicalfarmer",
+    "nick": null,
+    "display_name": "mechanicalfarmer",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "mechanical farmer#1177"
+  },
+  "1229602048455217192": {
+    "id": 1229602048455217192,
+    "name": "alenieve_d",
+    "nick": null,
+    "display_name": "AleNieve",
+    "global_name": "AleNieve",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Estudiante de programacin, tcnico de computacin y gamer.",
+    "guild_bio": null,
+    "display_bio": "Estudiante de programacin, tcnico de computacin y gamer.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
