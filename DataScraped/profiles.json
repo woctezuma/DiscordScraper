@@ -49164,5 +49164,75 @@
       }
     },
     "legacy_username": null
+  },
+  "977623561042792569": {
+    "id": 977623561042792569,
+    "name": "gokusoupair",
+    "nick": null,
+    "display_name": "RiceFarmeri",
+    "global_name": "RiceFarmeri",
+    "pronouns": "\ud83c\udf5a\ud83c\udf5a\ud83c\udf5a",
+    "guild_pronouns": null,
+    "bio": "Big",
+    "guild_bio": null,
+    "display_bio": "Big",
+    "banner": "https://cdn.discordapp.com/banners/977623561042792569/a_ce75a304e0e6bfb4d07641eb803cca37.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/977623561042792569/a_ce75a304e0e6bfb4d07641eb803cca37.gif?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Gokusoupair#2887"
+  },
+  "1027502446882328588": {
+    "id": 1027502446882328588,
+    "name": "jyotish_21_",
+    "nick": null,
+    "display_name": "jyotish_21_",
+    "global_name": "jyotish_21_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "jyotish_21_#9322"
+  },
+  "929070591795925012": {
+    "id": 929070591795925012,
+    "name": "wonderiiiik",
+    "nick": null,
+    "display_name": "Wonderiiiik",
+    "global_name": "Wonderiiiik",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "lukasko.gasparik",
+        "name": "WonderBoy",
+        "url": "https://open.spotify.com/user/lukasko.gasparik"
+      }
+    },
+    "legacy_username": "Wonderiiiik#3602"
   }
 }
