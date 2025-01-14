@@ -45341,5 +45341,123 @@
       }
     },
     "legacy_username": "MagicznyBudyn#5561"
+  },
+  "1328536480729137204": {
+    "id": 1328536480729137204,
+    "name": "outrageous_avocado_61199",
+    "nick": null,
+    "display_name": "d",
+    "global_name": "d",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "401813393692033044": {
+    "id": 401813393692033044,
+    "name": "mrleynad",
+    "nick": null,
+    "display_name": "Danny",
+    "global_name": "Danny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "                  ... ..    *   .. . <a:dancingalienboy:1183921741488205834> . .* // <:R1:1252867793670504560>",
+    "guild_bio": null,
+    "display_bio": "                  ... ..    *   .. . <a:dancingalienboy:1183921741488205834> . .* // <:R1:1252867793670504560>",
+    "banner": "https://cdn.discordapp.com/banners/401813393692033044/e28281d2800e239e779595833c48024d.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/401813393692033044/e28281d2800e239e779595833c48024d.png?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "238069161169780736": {
+    "id": 238069161169780736,
+    "name": "cristavares",
+    "nick": null,
+    "display_name": "CrisTavares",
+    "global_name": "CrisTavares",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "@ me for faster answer\nPT guy",
+    "guild_bio": null,
+    "display_bio": "@ me for faster answer\nPT guy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "CrisTavares#6474"
+  },
+  "452100658619875348": {
+    "id": 452100658619875348,
+    "name": "eyz_4",
+    "nick": null,
+    "display_name": "Eyzor",
+    "global_name": "Eyzor",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\n;Z;\n\"Age is something that doesn't matter, unless you are a cheese.\" - Luis Buuel",
+    "guild_bio": null,
+    "display_bio": "\n;Z;\n\"Age is something that doesn't matter, unless you are a cheese.\" - Luis Buuel",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198387430782",
+        "name": "Eyzor",
+        "url": "https://steamcommunity.com/profiles/76561198387430782"
+      },
+      "twitch": {
+        "id": "219230881",
+        "name": "eyzor004",
+        "url": "https://www.twitch.tv/eyzor004"
+      }
+    },
+    "legacy_username": "Eyzor#5113"
+  },
+  "1279569773570818088": {
+    "id": 1279569773570818088,
+    "name": "bustedoutteeth",
+    "nick": null,
+    "display_name": "Kanny(comms open dm)",
+    "global_name": "Kanny(comms open dm)",
+    "pronouns": "\ud83d\udc89\ud83e\uddb7Splatterpunk is based\ud83e\uddb7\ud83d\udc89",
+    "guild_pronouns": null,
+    "bio": "It's not so simple my dear\nIt's not that easy\nYou want this change to happen\nAnd now you think you're done\nLook me in the eyes\nAnd face me when you say\n\"Please don't start the fire\"",
+    "guild_bio": null,
+    "display_bio": "It's not so simple my dear\nIt's not that easy\nYou want this change to happen\nAnd now you think you're done\nLook me in the eyes\nAnd face me when you say\n\"Please don't start the fire\"",
+    "banner": "https://cdn.discordapp.com/banners/1279569773570818088/a_dd785adeff46a2d0291d4b72102efe13.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1279569773570818088/a_dd785adeff46a2d0291d4b72102efe13.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
