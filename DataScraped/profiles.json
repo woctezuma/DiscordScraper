@@ -47286,5 +47286,176 @@
     ],
     "connections": {},
     "legacy_username": "Noah_MO_2000#6034"
+  },
+  "1067005349762191370": {
+    "id": 1067005349762191370,
+    "name": "katrinagames",
+    "nick": null,
+    "display_name": "KatrinaGames",
+    "global_name": "KatrinaGames",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "KatrinaGames#0476"
+  },
+  "871632198690803713": {
+    "id": 871632198690803713,
+    "name": "faa.reinheit",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) \ud83e\udef5",
+    "guild_pronouns": null,
+    "bio": "**I'M JUST A SHRIMP**    \n ",
+    "guild_bio": null,
+    "display_bio": "**I'M JUST A SHRIMP**    \n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "32a842e5b89441be9b85e515654e056d",
+        "name": "AiRactax",
+        "url": null
+      },
+      "spotify": {
+        "id": "36ddm64n8mh8fftgz7dj8cxka",
+        "name": "F4xsein",
+        "url": "https://open.spotify.com/user/36ddm64n8mh8fftgz7dj8cxka"
+      },
+      "steam": {
+        "id": "76561198845045804",
+        "name": "A R I A",
+        "url": "https://steamcommunity.com/profiles/76561198845045804"
+      }
+    },
+    "legacy_username": null
+  },
+  "711708677349834825": {
+    "id": 711708677349834825,
+    "name": "hairrysahn",
+    "nick": null,
+    "display_name": "hairrysahn",
+    "global_name": "hairrysahn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198060404910",
+        "name": "hairrysahn",
+        "url": "https://steamcommunity.com/profiles/76561198060404910"
+      }
+    },
+    "legacy_username": "Hairrysahn#2432"
+  },
+  "744157782160441405": {
+    "id": 744157782160441405,
+    "name": "moe_in",
+    "nick": null,
+    "display_name": "Moe",
+    "global_name": "Moe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "635476470",
+        "name": "Milgrde",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199389371615",
+        "name": "Moe",
+        "url": "https://steamcommunity.com/profiles/76561199389371615"
+      }
+    },
+    "legacy_username": null
+  },
+  "789840071963836417": {
+    "id": 789840071963836417,
+    "name": "kaltintasi",
+    "nick": null,
+    "display_name": "Q",
+    "global_name": "Q",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Q2077#6333"
+  },
+  "1023208199685410918": {
+    "id": 1023208199685410918,
+    "name": "jordani_321",
+    "nick": null,
+    "display_name": "Oskar 123",
+    "global_name": "Oskar 123",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "51c1cf1bba414dfea2c49a6c75a0f72a",
+        "name": "Michal_Buster",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199386212350",
+        "name": "Crazy Rizzler  CASE.GIFT",
+        "url": "https://steamcommunity.com/profiles/76561199386212350"
+      },
+      "xbox": {
+        "id": "3076933252615305",
+        "name": "SliverBuster323",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SliverBuster323"
+      }
+    },
+    "legacy_username": "\ud83d\udc7eTERMINATOR \ud83c\udfcb\ud83c\udffd#7305"
   }
 }
