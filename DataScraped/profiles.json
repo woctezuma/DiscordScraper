@@ -48755,5 +48755,27 @@
       }
     },
     "legacy_username": null
+  },
+  "841381741317849138": {
+    "id": 841381741317849138,
+    "name": "turtlescanflyiftheytry",
+    "nick": null,
+    "display_name": "Turtles",
+    "global_name": "Turtles",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "pro gamer trust",
+    "guild_bio": null,
+    "display_bio": "pro gamer trust",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Turtles#6995"
   }
 }
