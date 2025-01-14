@@ -48716,5 +48716,44 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1122289043510677544": {
+    "id": 1122289043510677544,
+    "name": "ai.void.",
+    "nick": null,
+    "display_name": "AI VOID",
+    "global_name": "AI VOID",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "crunchyroll": {
+        "id": "4cc85a6a-3060-5752-95b9-ec8812b959ae",
+        "name": "NoxR6_",
+        "url": null
+      },
+      "spotify": {
+        "id": "314gqbumglfkmtgpahclctmallje",
+        "name": "Fear",
+        "url": "https://open.spotify.com/user/314gqbumglfkmtgpahclctmallje"
+      },
+      "steam": {
+        "id": "76561199045650006",
+        "name": "AI VOID",
+        "url": "https://steamcommunity.com/profiles/76561199045650006"
+      },
+      "twitch": {
+        "id": "1217431174",
+        "name": "aivoidd",
+        "url": "https://www.twitch.tv/aivoidd"
+      }
+    },
+    "legacy_username": null
   }
 }
