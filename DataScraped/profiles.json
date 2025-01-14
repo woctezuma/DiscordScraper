@@ -47646,5 +47646,87 @@
       }
     },
     "legacy_username": "Chineseop#7470"
+  },
+  "923260349401161778": {
+    "id": 923260349401161778,
+    "name": "michal_shotmaker",
+    "nick": null,
+    "display_name": "Michal_Shotmaker aka CZITUCH",
+    "global_name": "Michal_Shotmaker aka CZITUCH",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "684121509",
+        "name": "mixal1273",
+        "url": "https://www.twitch.tv/mixal1273"
+      }
+    },
+    "legacy_username": "Micha\u0142_Shortmaker#6078"
+  },
+  "440482300535504907": {
+    "id": 440482300535504907,
+    "name": "alexthemain4",
+    "nick": null,
+    "display_name": "AlexTheMain4",
+    "global_name": "AlexTheMain4",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "AlexTheMain4#4524"
+  },
+  "957733978666840085": {
+    "id": 957733978666840085,
+    "name": "sir_ankka",
+    "nick": null,
+    "display_name": "Ankka",
+    "global_name": "Ankka",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "OI HELSINKI, OI HELSINKI\nON LAHEN ESIKAUPUNKI!",
+    "guild_bio": null,
+    "display_bio": "OI HELSINKI, OI HELSINKI\nON LAHEN ESIKAUPUNKI!",
+    "banner": "https://cdn.discordapp.com/banners/957733978666840085/8d9f74f7dc7fba481f20b94719f9e58a.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/957733978666840085/8d9f74f7dc7fba481f20b94719f9e58a.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl4",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "m80xgxtzs5ho8j91kcqfat9sc",
+        "name": "Duck",
+        "url": "https://open.spotify.com/user/m80xgxtzs5ho8j91kcqfat9sc"
+      },
+      "steam": {
+        "id": "76561198019963909",
+        "name": "Duck",
+        "url": "https://steamcommunity.com/profiles/76561198019963909"
+      }
+    },
+    "legacy_username": "Ankka#5895"
   }
 }
