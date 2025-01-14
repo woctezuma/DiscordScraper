@@ -47170,5 +47170,62 @@
       }
     },
     "legacy_username": null
+  },
+  "655218371427827713": {
+    "id": 655218371427827713,
+    "name": "bruhflix1",
+    "nick": null,
+    "display_name": "Infamous",
+    "global_name": "Infamous",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "hello! my name is dakota! it's wonderful to meet you all!\nI love making new friends!\nShoutout to kari, kaden, coral, kenny, and peck! you guys are the best :3\nI love you kenny <3 (12/13/24)",
+    "guild_bio": null,
+    "display_bio": "hello! my name is dakota! it's wonderful to meet you all!\nI love making new friends!\nShoutout to kari, kaden, coral, kenny, and peck! you guys are the best :3\nI love you kenny <3 (12/13/24)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Joey Swiggle#7651"
+  },
+  "1328761416395653195": {
+    "id": 1328761416395653195,
+    "name": "alter_38329",
+    "nick": null,
+    "display_name": "ALTER",
+    "global_name": "ALTER",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1195025179001225230": {
+    "id": 1195025179001225230,
+    "name": "katze0944",
+    "nick": null,
+    "display_name": "katze0944",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
