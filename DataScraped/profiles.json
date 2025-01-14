@@ -46396,5 +46396,27 @@
       }
     },
     "legacy_username": "\u3089\u3044\u3089\u3044#1577"
+  },
+  "1045056818382114906": {
+    "id": 1045056818382114906,
+    "name": ".malty.",
+    "nick": null,
+    "display_name": "Malty",
+    "global_name": "Malty",
+    "pronouns": "s",
+    "guild_pronouns": null,
+    "bio": "`dingaling dingo`",
+    "guild_bio": null,
+    "display_bio": "`dingaling dingo`",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "M_lty#9237"
   }
 }
