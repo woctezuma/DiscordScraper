@@ -48656,5 +48656,47 @@
       }
     },
     "legacy_username": "very bad#9810"
+  },
+  "387606055078723596": {
+    "id": 387606055078723596,
+    "name": "cardonnn",
+    "nick": null,
+    "display_name": "ricardo",
+    "global_name": "ricardo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "hhhhhhhh",
+    "guild_bio": null,
+    "display_bio": "hhhhhhhh",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "cardo#7269"
+  },
+  "692468670173020242": {
+    "id": 692468670173020242,
+    "name": "adri721",
+    "nick": null,
+    "display_name": "Adri",
+    "global_name": "Adri",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Adri\u00e1n.#7750"
   }
 }
