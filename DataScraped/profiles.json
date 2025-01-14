@@ -47600,5 +47600,51 @@
       }
     },
     "legacy_username": "HeathP#0001"
+  },
+  "275350287768748042": {
+    "id": 275350287768748042,
+    "name": "chineseop",
+    "nick": null,
+    "display_name": "Chineseop",
+    "global_name": "Chineseop",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Chineseop#4676",
+        "name": "Chineseop#4676",
+        "url": null
+      },
+      "reddit": {
+        "id": "sg2pe",
+        "name": "Chineseop",
+        "url": "https://www.reddit.com/u/Chineseop"
+      },
+      "steam": {
+        "id": "76561198104339720",
+        "name": "ChineseOP",
+        "url": "https://steamcommunity.com/profiles/76561198104339720"
+      },
+      "twitch": {
+        "id": "98722274",
+        "name": "chinese_op",
+        "url": "https://www.twitch.tv/chinese_op"
+      },
+      "twitter": {
+        "id": "535596332",
+        "name": "Wu_QiXin",
+        "url": "https://twitter.com/Wu_QiXin"
+      }
+    },
+    "legacy_username": "Chineseop#7470"
   }
 }
