@@ -47565,5 +47565,40 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "689206449552883831": {
+    "id": 689206449552883831,
+    "name": "heathpitt",
+    "nick": null,
+    "display_name": "Heath",
+    "global_name": "Heath",
+    "pronouns": "Good/Demo/Man",
+    "guild_pronouns": null,
+    "bio": "Aussie, and bloody proud of it\n\nMidnight for me is  <t:1716991200:t> for you \n\nNothing else to say, have a good one",
+    "guild_bio": null,
+    "display_bio": "Aussie, and bloody proud of it\n\nMidnight for me is  <t:1716991200:t> for you \n\nNothing else to say, have a good one",
+    "banner": "https://cdn.discordapp.com/banners/689206449552883831/95e5e32eacf6092cb6a748ca47fea8a7.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/689206449552883831/95e5e32eacf6092cb6a748ca47fea8a7.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "668028620",
+        "name": "DroppedTheCap",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199099245142",
+        "name": "Saxton Dale",
+        "url": "https://steamcommunity.com/profiles/76561199099245142"
+      }
+    },
+    "legacy_username": "HeathP#0001"
   }
 }
