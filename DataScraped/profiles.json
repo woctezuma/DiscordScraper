@@ -46999,5 +46999,25 @@
       }
     },
     "legacy_username": "Scoofy#5738"
+  },
+  "709881251577724978": {
+    "id": 709881251577724978,
+    "name": "jonbovi4",
+    "nick": null,
+    "display_name": "JonBovi4",
+    "global_name": "JonBovi4",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "JonBovi4#3185"
   }
 }
