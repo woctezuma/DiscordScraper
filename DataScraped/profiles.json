@@ -46924,5 +46924,48 @@
     ],
     "connections": {},
     "legacy_username": "catalin_te_temi_de_intuneric#5040"
+  },
+  "483997673335291924": {
+    "id": 483997673335291924,
+    "name": "crutix",
+    "nick": null,
+    "display_name": "crutix",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Crutix#6927"
+  },
+  "361077176524865546": {
+    "id": 361077176524865546,
+    "name": "ericmuchwano23",
+    "nick": null,
+    "display_name": "EricMuchwano23",
+    "global_name": "EricMuchwano23",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Who Dat",
+    "guild_bio": null,
+    "display_bio": "Who Dat",
+    "banner": "https://cdn.discordapp.com/banners/361077176524865546/a_a2ffcb5bbe7b7360995f04701965b1d3.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/361077176524865546/a_a2ffcb5bbe7b7360995f04701965b1d3.gif?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "\u269cEricMuchwano23\u269c#2990"
   }
 }
