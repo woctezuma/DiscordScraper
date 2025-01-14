@@ -48871,5 +48871,111 @@
       }
     },
     "legacy_username": null
+  },
+  "259713858078375936": {
+    "id": 259713858078375936,
+    "name": "lxon808",
+    "nick": null,
+    "display_name": "lxon",
+    "global_name": "lxon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198117763255",
+        "name": "peacekeeper",
+        "url": "https://steamcommunity.com/profiles/76561198117763255"
+      },
+      "twitch": {
+        "id": "118981882",
+        "name": "xchampiontester",
+        "url": "https://www.twitch.tv/xchampiontester"
+      }
+    },
+    "legacy_username": "lxon#5480"
+  },
+  "114874929916280841": {
+    "id": 114874929916280841,
+    "name": "ryca",
+    "nick": null,
+    "display_name": "RyCA",
+    "global_name": "RyCA",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/114874929916280841/bf40a6bbab352fef2b9b6f69dd4151d3.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/114874929916280841/bf40a6bbab352fef2b9b6f69dd4151d3.png?size=512",
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl8",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "jltinsley",
+        "name": "jltinsley",
+        "url": "https://open.spotify.com/user/jltinsley"
+      }
+    },
+    "legacy_username": "RyCA#5897"
+  },
+  "318777363423035394": {
+    "id": 318777363423035394,
+    "name": "saulgodamn",
+    "nick": null,
+    "display_name": "Felix",
+    "global_name": "Felix",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Sartoris#8717"
+  },
+  "286236892788424704": {
+    "id": 286236892788424704,
+    "name": "lureney",
+    "nick": null,
+    "display_name": "Lureney",
+    "global_name": "Lureney",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3075900343438365",
+        "name": "Demon ICOLI",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Demon ICOLI"
+      }
+    },
+    "legacy_username": "Lureney#7768"
   }
 }
