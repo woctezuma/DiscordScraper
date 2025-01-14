@@ -47969,5 +47969,146 @@
     ],
     "connections": {},
     "legacy_username": "zuzubear#3366"
+  },
+  "487280654938144783": {
+    "id": 487280654938144783,
+    "name": "rick04263",
+    "nick": null,
+    "display_name": "Rick",
+    "global_name": "Rick",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Rick#8318"
+  },
+  "660926016834764824": {
+    "id": 660926016834764824,
+    "name": "jiaab",
+    "nick": null,
+    "display_name": "imaccfuture",
+    "global_name": "imaccfuture",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "bitez#6621"
+  },
+  "235623776400834567": {
+    "id": 235623776400834567,
+    "name": "_playerx",
+    "nick": null,
+    "display_name": "PlayerX",
+    "global_name": "PlayerX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "49a19ffokjhlf8fm4kflpzigr",
+        "name": "PlayerX",
+        "url": "https://open.spotify.com/user/49a19ffokjhlf8fm4kflpzigr"
+      }
+    },
+    "legacy_username": "PlayerX#2981"
+  },
+  "579682828799967252": {
+    "id": 579682828799967252,
+    "name": "djpreet",
+    "nick": null,
+    "display_name": "DJ Preet",
+    "global_name": "DJ Preet",
+    "pronouns": "Buddy",
+    "guild_pronouns": null,
+    "bio": "ANDROID APPS MODDER, DJ PRODUCER/ARTIST, GRAPHICS DESIGNER, GAMER, STREAMER, GYMING",
+    "guild_bio": null,
+    "display_bio": "ANDROID APPS MODDER, DJ PRODUCER/ARTIST, GRAPHICS DESIGNER, GAMER, STREAMER, GYMING",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d412f0f023eb4c21be718c4fea8ec74c",
+        "name": "DJPREET",
+        "url": null
+      },
+      "facebook": {
+        "id": "813341345716731",
+        "name": "Preet Chauhan",
+        "url": null
+      },
+      "github": {
+        "id": "33035404",
+        "name": "PREETCHAUHAN",
+        "url": "https://github.com/PREETCHAUHAN"
+      },
+      "reddit": {
+        "id": "7lijuf31",
+        "name": "Unhappy-Willow-2424",
+        "url": "https://www.reddit.com/u/Unhappy-Willow-2424"
+      },
+      "spotify": {
+        "id": "31vhjtyelexnd43wxfgprzsklgde",
+        "name": "DJ Preet",
+        "url": "https://open.spotify.com/user/31vhjtyelexnd43wxfgprzsklgde"
+      },
+      "steam": {
+        "id": "76561198335210260",
+        "name": "DOreAMon",
+        "url": "https://steamcommunity.com/profiles/76561198335210260"
+      },
+      "twitch": {
+        "id": "474333680",
+        "name": "djpreet",
+        "url": "https://www.twitch.tv/djpreet"
+      },
+      "twitter": {
+        "id": "795731912337735680",
+        "name": "djpreet321",
+        "url": "https://twitter.com/djpreet321"
+      },
+      "xbox": {
+        "id": "aFtPGuh6fJw4oIdWZok2yPPd2B7AvvKkHewmqvIQ7IY",
+        "name": "SavoryDoor46281",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SavoryDoor46281"
+      },
+      "youtube": {
+        "id": "UCG1H5hlGfh8vkhB_dH2CeJA",
+        "name": "DJ JUNCTION",
+        "url": "https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA"
+      }
+    },
+    "legacy_username": "DJ Preet#8448"
   }
 }
