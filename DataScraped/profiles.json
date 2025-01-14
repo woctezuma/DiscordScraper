@@ -47227,5 +47227,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1305170999108567041": {
+    "id": 1305170999108567041,
+    "name": "mamat140_27446",
+    "nick": null,
+    "display_name": "Rahmat",
+    "global_name": "Rahmat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "716297365425750036": {
+    "id": 716297365425750036,
+    "name": "alter5543",
+    "nick": null,
+    "display_name": "ALTER",
+    "global_name": "ALTER",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ALTER#5543"
   }
 }
