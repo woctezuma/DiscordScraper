@@ -46864,5 +46864,45 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1166077229772582922": {
+    "id": 1166077229772582922,
+    "name": "fragustus_95364",
+    "nick": null,
+    "display_name": "Fragustus",
+    "global_name": "Fragustus",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "898967522861273098": {
+    "id": 898967522861273098,
+    "name": "sus0509",
+    "nick": null,
+    "display_name": "SUS",
+    "global_name": "SUS",
+    "pronouns": "Sussy",
+    "guild_pronouns": null,
+    "bio": "Very sus",
+    "guild_bio": null,
+    "display_bio": "Very sus",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "SUS#5351"
   }
 }
