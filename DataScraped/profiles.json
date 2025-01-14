@@ -45792,5 +45792,96 @@
       }
     },
     "legacy_username": "dadaaa#7588"
+  },
+  "244922260757020673": {
+    "id": 244922260757020673,
+    "name": "fueg0",
+    "nick": null,
+    "display_name": "Fueg0",
+    "global_name": "Fueg0",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "fu3g000",
+        "name": "Nick Fiorito",
+        "url": "https://open.spotify.com/user/fu3g000"
+      },
+      "steam": {
+        "id": "76561198137262690",
+        "name": "fueg0",
+        "url": "https://steamcommunity.com/profiles/76561198137262690"
+      }
+    },
+    "legacy_username": "Fueg0#2875"
+  },
+  "1314881212195541012": {
+    "id": 1314881212195541012,
+    "name": "anistan_007",
+    "nick": null,
+    "display_name": "Anistan_007",
+    "global_name": "Anistan_007",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "350859407044902912": {
+    "id": 350859407044902912,
+    "name": "questfrey",
+    "nick": null,
+    "display_name": "Frey",
+    "global_name": "Frey",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "When you DM me and idk you, pls explain why\n\nFavorite games (for now):\nRoblox: Fisch\nSplatoon 3\nMinecraft xbox one Edition: battle minigames",
+    "guild_bio": null,
+    "display_bio": "When you DM me and idk you, pls explain why\n\nFavorite games (for now):\nRoblox: Fisch\nSplatoon 3\nMinecraft xbox one Edition: battle minigames",
+    "banner": "https://cdn.discordapp.com/banners/350859407044902912/e87e96c3c87016c527a5d125101accab.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/350859407044902912/e87e96c3c87016c527a5d125101accab.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "185577524",
+        "name": "QuestFrey",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198989308284",
+        "name": "QuestFrey",
+        "url": "https://steamcommunity.com/profiles/76561198989308284"
+      },
+      "xbox": {
+        "id": "3070680621644310",
+        "name": "QuesterFrey",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=QuesterFrey"
+      }
+    },
+    "legacy_username": "Frey#7837"
   }
 }
