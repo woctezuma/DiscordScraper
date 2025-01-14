@@ -46459,5 +46459,23 @@
       }
     },
     "legacy_username": null
+  },
+  "1170074417582325870": {
+    "id": 1170074417582325870,
+    "name": "akatsuki_34640",
+    "nick": null,
+    "display_name": "Akatsuki",
+    "global_name": "Akatsuki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I can't find your silver lining, I don't mean to judge ",
+    "guild_bio": null,
+    "display_bio": "I can't find your silver lining, I don't mean to judge ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
