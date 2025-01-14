@@ -46904,5 +46904,25 @@
     ],
     "connections": {},
     "legacy_username": "SUS#5351"
+  },
+  "1080945840606171226": {
+    "id": 1080945840606171226,
+    "name": "catalin_te_temi_de_intuneric",
+    "nick": null,
+    "display_name": "catalin_te_temi_de_intuneric",
+    "global_name": "catalin_te_temi_de_intuneric",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "catalin_te_temi_de_intuneric#5040"
   }
 }
