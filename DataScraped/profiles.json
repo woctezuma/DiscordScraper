@@ -47457,5 +47457,113 @@
       }
     },
     "legacy_username": "\ud83d\udc7eTERMINATOR \ud83c\udfcb\ud83c\udffd#7305"
+  },
+  "350253467010334731": {
+    "id": 350253467010334731,
+    "name": "henritom",
+    "nick": null,
+    "display_name": "Henri",
+    "global_name": "Henri",
+    "pronouns": "Rat/tus",
+    "guild_pronouns": null,
+    "bio": " https://e-z.bio/henri",
+    "guild_bio": null,
+    "display_bio": " https://e-z.bio/henri",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Henri#11312",
+        "name": "Henri#11312",
+        "url": null
+      },
+      "epic_games": {
+        "id": "f72ab5e155304ec2abedc9ae3ba28edb",
+        "name": "HenriTom06",
+        "url": null
+      },
+      "github": {
+        "id": "74149975",
+        "name": "HenriTom",
+        "url": "https://github.com/HenriTom"
+      },
+      "reddit": {
+        "id": "788syq7c",
+        "name": "HenriTom",
+        "url": "https://www.reddit.com/u/HenriTom"
+      },
+      "steam": {
+        "id": "76561199023523127",
+        "name": "Henri",
+        "url": "https://steamcommunity.com/profiles/76561199023523127"
+      },
+      "twitch": {
+        "id": "484965421",
+        "name": "henriitom",
+        "url": "https://www.twitch.tv/henriitom"
+      },
+      "xbox": {
+        "id": "NjZjNDhjNDBiYTRiOTkzNDJkMjJjMzFlNWE1OTM0Y2NkZGIzMTA0NzJlMTIzYmU1MTE4MmRiNjY5ODc0NzIwNg",
+        "name": "Henri063021",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Henri063021"
+      },
+      "youtube": {
+        "id": "UC6Teq4DyLGlxYtiPH8gbINA",
+        "name": "Henri",
+        "url": "https://www.youtube.com/channel/UC6Teq4DyLGlxYtiPH8gbINA"
+      }
+    },
+    "legacy_username": "Henri#4615"
+  },
+  "386206738036293633": {
+    "id": 386206738036293633,
+    "name": "gallett_",
+    "nick": null,
+    "display_name": "Gallett",
+    "global_name": "Gallett",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "GALLET",
+    "guild_bio": null,
+    "display_bio": "GALLET",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UClKwHS2zflLheZFYEjN9sOg",
+        "name": "Gallet",
+        "url": "https://www.youtube.com/channel/UClKwHS2zflLheZFYEjN9sOg"
+      }
+    },
+    "legacy_username": "Gallett#7037"
+  },
+  "755414012392505484": {
+    "id": 755414012392505484,
+    "name": "van047504",
+    "nick": null,
+    "display_name": "vn",
+    "global_name": "vn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
