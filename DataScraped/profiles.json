@@ -46418,5 +46418,46 @@
     ],
     "connections": {},
     "legacy_username": "M_lty#9237"
+  },
+  "414367625045475330": {
+    "id": 414367625045475330,
+    "name": "usbgame",
+    "nick": null,
+    "display_name": "Abolfazl",
+    "global_name": "Abolfazl",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " https://soheilyfar.ir\nGaming Channel\nhttps://youtube.com/@USBGAME\nEducational Channel\nhttps://youtube.com/@abolfazlsoheily",
+    "guild_bio": null,
+    "display_bio": " https://soheilyfar.ir\nGaming Channel\nhttps://youtube.com/@USBGAME\nEducational Channel\nhttps://youtube.com/@abolfazlsoheily",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "github": {
+        "id": "67693042",
+        "name": "A-soheilyfar",
+        "url": "https://github.com/A-soheilyfar"
+      },
+      "spotify": {
+        "id": "lgl0lvt77fxbtinxad55dv40h",
+        "name": "usbgame",
+        "url": "https://open.spotify.com/user/lgl0lvt77fxbtinxad55dv40h"
+      },
+      "steam": {
+        "id": "76561198330927014",
+        "name": "USBGAME [YouTube]",
+        "url": "https://steamcommunity.com/profiles/76561198330927014"
+      },
+      "twitch": {
+        "id": "255697998",
+        "name": "usbgameir",
+        "url": "https://www.twitch.tv/usbgameir"
+      }
+    },
+    "legacy_username": null
   }
 }
