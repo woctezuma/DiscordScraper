@@ -46749,5 +46749,25 @@
       }
     },
     "legacy_username": "l1ttlemaN-#4811"
+  },
+  "1082268065850466314": {
+    "id": 1082268065850466314,
+    "name": "matvej2020",
+    "nick": null,
+    "display_name": "mandaka",
+    "global_name": "mandaka",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " ",
+    "guild_bio": null,
+    "display_bio": " ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "matvej#5174"
   }
 }
