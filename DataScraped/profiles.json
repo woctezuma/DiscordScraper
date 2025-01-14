@@ -46967,5 +46967,37 @@
     ],
     "connections": {},
     "legacy_username": "\u269cEricMuchwano23\u269c#2990"
+  },
+  "505792735970852874": {
+    "id": 505792735970852874,
+    "name": "scoofy.",
+    "nick": null,
+    "display_name": "Scoofy",
+    "global_name": "Scoofy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198799838580",
+        "name": "Scoofy",
+        "url": "https://steamcommunity.com/profiles/76561198799838580"
+      },
+      "xbox": {
+        "id": "3075387311072889",
+        "name": "Scoofy4364",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Scoofy4364"
+      }
+    },
+    "legacy_username": "Scoofy#5738"
   }
 }
