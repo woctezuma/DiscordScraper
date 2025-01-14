@@ -49234,5 +49234,32 @@
       }
     },
     "legacy_username": "Wonderiiiik#3602"
+  },
+  "478587239937343500": {
+    "id": 478587239937343500,
+    "name": "alexvmarques",
+    "nick": null,
+    "display_name": "lex",
+    "global_name": "lex",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "kippsterr",
+        "name": "kippsterr",
+        "url": "https://open.spotify.com/user/kippsterr"
+      }
+    },
+    "legacy_username": "\u0391lex#8541"
   }
 }
