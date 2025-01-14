@@ -46477,5 +46477,61 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1328684124726235177": {
+    "id": 1328684124726235177,
+    "name": "fedswfesa_64978",
+    "nick": null,
+    "display_name": "fedswfesa",
+    "global_name": "fedswfesa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "996631937731022928": {
+    "id": 996631937731022928,
+    "name": "mrhy",
+    "nick": null,
+    "display_name": "LeRoiDesAFK_",
+    "global_name": "LeRoiDesAFK_",
+    "pronouns": "Nerd, Autiste",
+    "guild_pronouns": null,
+    "bio": ".gg/mercyuhc \n-Serveur Discord pour faire des UHC Privates sur Uhcworld ou autres !",
+    "guild_bio": null,
+    "display_bio": ".gg/mercyuhc \n-Serveur Discord pour faire des UHC Privates sur Uhcworld ou autres !",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "7b0cotd8u1c9azf1f9htsmyip",
+        "name": "LeRoiDesAFK_",
+        "url": "https://open.spotify.com/user/7b0cotd8u1c9azf1f9htsmyip"
+      },
+      "steam": {
+        "id": "76561198998098645",
+        "name": "LeRoiDesAFK_",
+        "url": "https://steamcommunity.com/profiles/76561198998098645"
+      },
+      "twitch": {
+        "id": "606571135",
+        "name": "swiiiezyx_",
+        "url": "https://www.twitch.tv/swiiiezyx_"
+      }
+    },
+    "legacy_username": "LeRoiDesAFK_#4725"
   }
 }
