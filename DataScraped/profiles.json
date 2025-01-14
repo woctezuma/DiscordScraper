@@ -46273,5 +46273,41 @@
       }
     },
     "legacy_username": "Zurkzees#4861"
+  },
+  "879310631931625474": {
+    "id": 879310631931625474,
+    "name": "cafevincent",
+    "nick": null,
+    "display_name": "cafevincent",
+    "global_name": "cafevincent",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "834376623075360809": {
+    "id": 834376623075360809,
+    "name": "bernardokatainen",
+    "nick": null,
+    "display_name": "Bernardo Katainen",
+    "global_name": "Bernardo Katainen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
