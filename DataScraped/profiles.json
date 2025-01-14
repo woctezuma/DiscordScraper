@@ -45883,5 +45883,71 @@
       }
     },
     "legacy_username": "Frey#7837"
+  },
+  "622737657557942282": {
+    "id": 622737657557942282,
+    "name": "hypnotic_dude",
+    "nick": null,
+    "display_name": "Omm",
+    "global_name": "Omm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hey, there !",
+    "guild_bio": null,
+    "display_bio": "Hey, there !",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d404298d89a44fab93ba851fbb554b58",
+        "name": "hypnotic_dude",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ogr4yknzyiflyjescqljy27yye",
+        "name": "Omm",
+        "url": "https://open.spotify.com/user/31ogr4yknzyiflyjescqljy27yye"
+      },
+      "steam": {
+        "id": "76561199234310606",
+        "name": "Omm",
+        "url": "https://steamcommunity.com/profiles/76561199234310606"
+      },
+      "twitter": {
+        "id": "1086537418398851072",
+        "name": "hypnotic_dude_",
+        "url": "https://twitter.com/hypnotic_dude_"
+      },
+      "xbox": {
+        "id": "3070226350963469",
+        "name": "Omm25",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Omm25"
+      }
+    },
+    "legacy_username": "Omm#4761"
+  },
+  "751395971950444606": {
+    "id": 751395971950444606,
+    "name": "karuru0507",
+    "nick": null,
+    "display_name": "Karu",
+    "global_name": "Karu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Former MMORPG Healer. You'll be surprised at how far patience can take you to unexpected places.",
+    "guild_bio": null,
+    "display_bio": "Former MMORPG Healer. You'll be surprised at how far patience can take you to unexpected places.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Karu#6810"
   }
 }
