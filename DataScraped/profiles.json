@@ -48309,5 +48309,66 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "613784793066242048": {
+    "id": 613784793066242048,
+    "name": "monke___9001",
+    "nick": null,
+    "display_name": "Ramsus",
+    "global_name": "Ramsus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "gooba",
+    "guild_bio": null,
+    "display_bio": "gooba",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ramsus#4950"
+  },
+  "501329699734159361": {
+    "id": 501329699734159361,
+    "name": "khaso7765",
+    "nick": null,
+    "display_name": "4B 41",
+    "global_name": "4B 41",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "4B 41 - 7765#2643"
+  },
+  "615636614672023552": {
+    "id": 615636614672023552,
+    "name": "santid_dot_io",
+    "nick": null,
+    "display_name": "Santiago",
+    "global_name": "Santiago",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
