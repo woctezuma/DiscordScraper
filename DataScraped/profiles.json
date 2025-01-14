@@ -47050,5 +47050,125 @@
       }
     },
     "legacy_username": "AnakIlang#1255"
+  },
+  "721101296832217200": {
+    "id": 721101296832217200,
+    "name": "tyleristhebest",
+    "nick": null,
+    "display_name": "TyKaiNet",
+    "global_name": "TyKaiNet",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "        \nhttps://csstats.gg/player/76561198207601127 \n\nhttps://tracker.gg/valorant/profile/riot/TyKaiNet%232024/overview",
+    "guild_bio": null,
+    "display_bio": "        \nhttps://csstats.gg/player/76561198207601127 \n\nhttps://tracker.gg/valorant/profile/riot/TyKaiNet%232024/overview",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "545747946",
+        "name": "tylerlittleroo",
+        "url": "https://www.twitch.tv/tylerlittleroo"
+      },
+      "xbox": {
+        "id": "3067029826054461",
+        "name": "RainbowShip1863",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RainbowShip1863"
+      }
+    },
+    "legacy_username": null
+  },
+  "92275142645805056": {
+    "id": 92275142645805056,
+    "name": "misteremub",
+    "nick": null,
+    "display_name": "Emub",
+    "global_name": "Emub",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Emub#9328"
+  },
+  "774891176054358016": {
+    "id": 774891176054358016,
+    "name": "artostec",
+    "nick": null,
+    "display_name": "Artostec",
+    "global_name": "Artostec",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Local Fedora Guy",
+    "guild_bio": null,
+    "display_bio": "Local Fedora Guy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199400929097",
+        "name": "artostec",
+        "url": "https://steamcommunity.com/profiles/76561199400929097"
+      },
+      "twitter": {
+        "id": "1817170046252363776",
+        "name": "artostec",
+        "url": "https://twitter.com/artostec"
+      }
+    },
+    "legacy_username": "Artostec#1724"
+  },
+  "744513450298048513": {
+    "id": 744513450298048513,
+    "name": "ryn_gryndizz",
+    "nick": null,
+    "display_name": "Dhinio",
+    "global_name": "Dhinio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "tiktok": {
+        "id": "17da1377-ccd8-4d5d-80be-bda230fbb850",
+        "name": "zeryx68",
+        "url": "https://tiktok.com/@zeryx68"
+      },
+      "xbox": {
+        "id": "3067418414401602",
+        "name": "rayan68000",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=rayan68000"
+      },
+      "youtube": {
+        "id": "UCjA3ykrR1uImnd6_F5yaL2A",
+        "name": "Rayan Majid",
+        "url": "https://www.youtube.com/channel/UCjA3ykrR1uImnd6_F5yaL2A"
+      }
+    },
+    "legacy_username": null
   }
 }
