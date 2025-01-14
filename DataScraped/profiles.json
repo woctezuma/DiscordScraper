@@ -47019,5 +47019,36 @@
     ],
     "connections": {},
     "legacy_username": "JonBovi4#3185"
+  },
+  "735805381175148594": {
+    "id": 735805381175148594,
+    "name": "anakilang1255",
+    "nick": null,
+    "display_name": "AnakIlang",
+    "global_name": "AnakIlang",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Kang Tidur",
+    "guild_bio": null,
+    "display_bio": "Kang Tidur",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5cec8359cd2449a09b257123bdd31069",
+        "name": "MYBOY256",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199228707800",
+        "name": "AnakIlang",
+        "url": "https://steamcommunity.com/profiles/76561199228707800"
+      }
+    },
+    "legacy_username": "AnakIlang#1255"
   }
 }
