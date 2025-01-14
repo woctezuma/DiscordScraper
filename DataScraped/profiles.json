@@ -46769,5 +46769,64 @@
     ],
     "connections": {},
     "legacy_username": "matvej#5174"
+  },
+  "861874216789213184": {
+    "id": 861874216789213184,
+    "name": "itsropy",
+    "nick": null,
+    "display_name": "itsropy",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Valve Anticheat rajong",
+    "guild_bio": null,
+    "display_bio": "Valve Anticheat rajong",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3062565555212534",
+        "name": "RopyTM",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RopyTM"
+      }
+    },
+    "legacy_username": "Its.Ropy#3007"
+  },
+  "298424190435065867": {
+    "id": 298424190435065867,
+    "name": "bobonete.",
+    "nick": null,
+    "display_name": "Bogdan",
+    "global_name": "Bogdan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "21omdieoki6tnq7waq7kyxfqa",
+        "name": "Bogdan Leahu",
+        "url": "https://open.spotify.com/user/21omdieoki6tnq7waq7kyxfqa"
+      },
+      "xbox": {
+        "id": "3076407317652123",
+        "name": "Bobo6238",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Bobo6238"
+      }
+    },
+    "legacy_username": "bobonete#1217"
   }
 }
