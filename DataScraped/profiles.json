@@ -48977,5 +48977,135 @@
       }
     },
     "legacy_username": "Lureney#7768"
+  },
+  "800752344831885342": {
+    "id": 800752344831885342,
+    "name": "okrucaa",
+    "nick": null,
+    "display_name": "okrucaa",
+    "global_name": "okrucaa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "b4bd5333ecba439e9536a339edd2d1cc",
+        "name": "qwerttuyfgdrew",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198844449166",
+        "name": "sweedensen",
+        "url": "https://steamcommunity.com/profiles/76561198844449166"
+      }
+    },
+    "legacy_username": "okrucaa#4378"
+  },
+  "425181032057405441": {
+    "id": 425181032057405441,
+    "name": "lukas9111",
+    "nick": null,
+    "display_name": "Lukas",
+    "global_name": "Lukas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198370019420",
+        "name": "peep_",
+        "url": "https://steamcommunity.com/profiles/76561198370019420"
+      }
+    },
+    "legacy_username": "Lukas#2032"
+  },
+  "185470572749258752": {
+    "id": 185470572749258752,
+    "name": "lucask84ever",
+    "nick": null,
+    "display_name": "lucask84ever",
+    "global_name": "lucask84ever",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Lucask84ever#1368",
+        "name": "Lucask84ever#1368",
+        "url": null
+      },
+      "github": {
+        "id": "9367286",
+        "name": "lucask84ever",
+        "url": "https://github.com/lucask84ever"
+      },
+      "league_of_legends": {
+        "id": "rcWVNc82UukOoT9h7neR-4IBjE8vKOfUswcUerfNk7OqZAgd3ErUSO2RKcMYuCbsIfhWQcCJoXNy9g",
+        "name": "Lucask84ever#BR1",
+        "url": null
+      },
+      "riot_games": {
+        "id": "rcWVNc82UukOoT9h7neR-4IBjE8vKOfUswcUerfNk7OqZAgd3ErUSO2RKcMYuCbsIfhWQcCJoXNy9g",
+        "name": "Lucask84ever#BR1",
+        "url": null
+      },
+      "spotify": {
+        "id": "lucask84ever",
+        "name": "Lucas Angeli Lima",
+        "url": "https://open.spotify.com/user/lucask84ever"
+      },
+      "steam": {
+        "id": "76561198020209185",
+        "name": "Luc\u00e3o",
+        "url": "https://steamcommunity.com/profiles/76561198020209185"
+      },
+      "twitch": {
+        "id": "83539392",
+        "name": "lucask84ever_",
+        "url": "https://www.twitch.tv/lucask84ever_"
+      },
+      "twitter": {
+        "id": "61879029",
+        "name": "lucask84ever_",
+        "url": "https://twitter.com/lucask84ever_"
+      },
+      "xbox": {
+        "id": "NjJmNWQ4ZTAzNGFmZGRkZmQ2M2I4N2I5YWRjZDJhMDczYzJjNTlmMzkxOTI5NzUzZDhmM2Y0M2Q1ZDJiZDQ2Zg",
+        "name": "Lucask84ever",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Lucask84ever"
+      },
+      "youtube": {
+        "id": "UCIcGySy1-DEOXM9c_UlXlrw",
+        "name": "Lucask84ever",
+        "url": "https://www.youtube.com/channel/UCIcGySy1-DEOXM9c_UlXlrw"
+      }
+    },
+    "legacy_username": "lucask84ever#7131"
   }
 }
