@@ -46533,5 +46533,27 @@
       }
     },
     "legacy_username": "LeRoiDesAFK_#4725"
+  },
+  "1045827404419039293": {
+    "id": 1045827404419039293,
+    "name": "lindoivan",
+    "nick": null,
+    "display_name": "LINDOIVAN",
+    "global_name": "LINDOIVAN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "LINDOIVAN#6386"
   }
 }
