@@ -45720,5 +45720,49 @@
       }
     },
     "legacy_username": "drumurai#6687"
+  },
+  "715343099068547123": {
+    "id": 715343099068547123,
+    "name": "d3ciphr",
+    "nick": null,
+    "display_name": "d3ciphr",
+    "global_name": "d3ciphr",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "942149334970024038": {
+    "id": 942149334970024038,
+    "name": "adagwen",
+    "nick": null,
+    "display_name": "LEON",
+    "global_name": "LEON",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3069669534663416",
+        "name": "Prathushyan",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Prathushyan"
+      }
+    },
+    "legacy_username": "ADA GWEN#6565"
   }
 }
