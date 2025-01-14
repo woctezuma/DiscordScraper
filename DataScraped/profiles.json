@@ -46215,5 +46215,63 @@
       }
     },
     "legacy_username": "Maati#7336"
+  },
+  "757985112385388655": {
+    "id": 757985112385388655,
+    "name": "returnuwu",
+    "nick": null,
+    "display_name": "return",
+    "global_name": "return",
+    "pronouns": "cw/el",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "RETURN#7231"
+  },
+  "390766791690944523": {
+    "id": 390766791690944523,
+    "name": "zurkzees",
+    "nick": null,
+    "display_name": "Zurkzees",
+    "global_name": "Zurkzees",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "all animals are equal but some are more equal -Orwell",
+    "guild_bio": null,
+    "display_bio": "all animals are equal but some are more equal -Orwell",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c897dedc6e594111b0d47b783b75ef99",
+        "name": "ZurkZees43647",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198323626444",
+        "name": "Zurkzees",
+        "url": "https://steamcommunity.com/profiles/76561198323626444"
+      },
+      "xbox": {
+        "id": "3076215397634659",
+        "name": "Zurkzees7847",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Zurkzees7847"
+      }
+    },
+    "legacy_username": "Zurkzees#4861"
   }
 }
