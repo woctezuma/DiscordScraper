@@ -46683,5 +46683,71 @@
       }
     },
     "legacy_username": null
+  },
+  "580013909264695316": {
+    "id": 580013909264695316,
+    "name": "giusha111.",
+    "nick": null,
+    "display_name": "giusha111",
+    "global_name": "giusha111",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "giusha111#1703"
+  },
+  "303914541018906624": {
+    "id": 303914541018906624,
+    "name": "l1ttleman",
+    "nick": null,
+    "display_name": "l1ttlemaN-",
+    "global_name": "l1ttlemaN-",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "douyoruz seninle yalanyoruz sevginle severek leceiz GALATASARAY!",
+    "guild_bio": null,
+    "display_bio": "douyoruz seninle yalanyoruz sevginle severek leceiz GALATASARAY!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ilhannuysall",
+        "name": "ilhannuysall",
+        "url": "https://open.spotify.com/user/ilhannuysall"
+      },
+      "steam": {
+        "id": "76561198165669465",
+        "name": "l1ttlemaN-",
+        "url": "https://steamcommunity.com/profiles/76561198165669465"
+      },
+      "twitch": {
+        "id": "141053928",
+        "name": "l1ttleman_",
+        "url": "https://www.twitch.tv/l1ttleman_"
+      },
+      "twitter": {
+        "id": "709580389",
+        "name": "ilhannuysall",
+        "url": "https://twitter.com/ilhannuysall"
+      },
+      "youtube": {
+        "id": "UCwNSOQj7TAL3JyJU9BoRblw",
+        "name": "ilhan uysal",
+        "url": "https://www.youtube.com/channel/UCwNSOQj7TAL3JyJU9BoRblw"
+      }
+    },
+    "legacy_username": "l1ttlemaN-#4811"
   }
 }
