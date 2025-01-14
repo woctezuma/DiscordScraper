@@ -48399,5 +48399,63 @@
       }
     },
     "legacy_username": "vertigo#6664"
+  },
+  "511483091726893059": {
+    "id": 511483091726893059,
+    "name": "l3d4n",
+    "nick": null,
+    "display_name": "l3d4n",
+    "global_name": "l3d4n",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "l3d4n#1923"
+  },
+  "386837131890524168": {
+    "id": 386837131890524168,
+    "name": ".exstaz",
+    "nick": null,
+    "display_name": "Rares",
+    "global_name": "Rares",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ExStAz#21535",
+        "name": "ExStAz#21535",
+        "url": null
+      },
+      "epic_games": {
+        "id": "c49de017b8e9456db196f38f6336d3fe",
+        "name": "ExStAz1122",
+        "url": null
+      },
+      "xbox": {
+        "id": "3069029948053648",
+        "name": "LockablePrawn46",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LockablePrawn46"
+      }
+    },
+    "legacy_username": "ExStAz#5009"
   }
 }
