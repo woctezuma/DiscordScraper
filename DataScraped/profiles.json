@@ -52549,5 +52549,27 @@
     ],
     "connections": {},
     "legacy_username": "Davi 12310#0936"
+  },
+  "538440413212835851": {
+    "id": 538440413212835851,
+    "name": "wiurkari",
+    "nick": null,
+    "display_name": "cygan",
+    "global_name": "cygan",
+    "pronouns": "\u015bw/ir",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "wiurkari#6761"
   }
 }
