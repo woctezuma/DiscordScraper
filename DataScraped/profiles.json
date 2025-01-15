@@ -50801,5 +50801,59 @@
       }
     },
     "legacy_username": null
+  },
+  "419817764006526976": {
+    "id": 419817764006526976,
+    "name": "vidanna",
+    "nick": null,
+    "display_name": "Maxime Respicit",
+    "global_name": "Maxime Respicit",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "893032608886300682": {
+    "id": 893032608886300682,
+    "name": "crucivanl",
+    "nick": null,
+    "display_name": "Crucivan",
+    "global_name": "Crucivan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ikcby4c23ee6lt18zqzdkqyto",
+        "name": "Crucivan",
+        "url": "https://open.spotify.com/user/ikcby4c23ee6lt18zqzdkqyto"
+      },
+      "steam": {
+        "id": "76561199032284087",
+        "name": "CruciVanL",
+        "url": "https://steamcommunity.com/profiles/76561199032284087"
+      },
+      "xbox": {
+        "id": "OGRjOWI3NjJhNDI3OTA0MjA2MDU2ZDkyM2Y1NzJjNmVmMTEwMDFmOTg0MzU3NDFjNWFmOGJjZDJkODM3ZjI1Mg",
+        "name": "CruciVanL",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=CruciVanL"
+      }
+    },
+    "legacy_username": "Crucivan#7422"
   }
 }
