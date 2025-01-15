@@ -53440,5 +53440,54 @@
       }
     },
     "legacy_username": null
+  },
+  "1298349878493057045": {
+    "id": 1298349878493057045,
+    "name": "imbrockie.",
+    "nick": null,
+    "display_name": "AliTheBummy",
+    "global_name": "AliTheBummy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "301847561742974978": {
+    "id": 301847561742974978,
+    "name": "animeanne2641",
+    "nick": null,
+    "display_name": "Anne",
+    "global_name": "Anne",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "TTRPG nerd, movie buff, rambler\nJust a :3c kinda girl\n\nPlease no random DMs. Ask before you DM if I don't know you or I'm not responding.\n\nhttps://youtu.be/F3N8VJyrahM?si=s5PLlGDz4q1ERP8A",
+    "guild_bio": null,
+    "display_bio": "TTRPG nerd, movie buff, rambler\nJust a :3c kinda girl\n\nPlease no random DMs. Ask before you DM if I don't know you or I'm not responding.\n\nhttps://youtu.be/F3N8VJyrahM?si=s5PLlGDz4q1ERP8A",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198202889223",
+        "name": "AnimeAnne",
+        "url": "https://steamcommunity.com/profiles/76561198202889223"
+      },
+      "twitch": {
+        "id": "623240941",
+        "name": "animeanne_",
+        "url": "https://www.twitch.tv/animeanne_"
+      }
+    },
+    "legacy_username": "Anne#2641"
   }
 }
