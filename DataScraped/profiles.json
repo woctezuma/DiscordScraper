@@ -49821,5 +49821,59 @@
       }
     },
     "legacy_username": "velestiafoxTTV#4437"
+  },
+  "941922596675543060": {
+    "id": 941922596675543060,
+    "name": "d_ranger687",
+    "nick": null,
+    "display_name": "D_Ranger",
+    "global_name": "D_Ranger",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "I'm Canadian\n\nMy time zone is est/edt",
+    "guild_bio": null,
+    "display_bio": "I'm Canadian\n\nMy time zone is est/edt",
+    "banner": "https://cdn.discordapp.com/banners/941922596675543060/287e4ab728e81bbb664d33998817aca6.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/941922596675543060/287e4ab728e81bbb664d33998817aca6.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bungie": {
+        "id": "4611686018500678329",
+        "name": "DDestroyer_6879",
+        "url": null
+      },
+      "playstation": {
+        "id": "6444921905038354355",
+        "name": "DDestroyer_6879",
+        "url": null
+      },
+      "reddit": {
+        "id": "hzjg0ug0",
+        "name": "Decker687",
+        "url": "https://www.reddit.com/u/Decker687"
+      },
+      "spotify": {
+        "id": "31flodbx4jdmpbb4y2gvlxr7p3au",
+        "name": "Decker",
+        "url": "https://open.spotify.com/user/31flodbx4jdmpbb4y2gvlxr7p3au"
+      },
+      "steam": {
+        "id": "76561199394102199",
+        "name": "D_Ranger",
+        "url": "https://steamcommunity.com/profiles/76561199394102199"
+      },
+      "twitch": {
+        "id": "1003202209",
+        "name": "d_ranger687",
+        "url": "https://www.twitch.tv/d_ranger687"
+      }
+    },
+    "legacy_username": "D_Ranger#8911"
   }
 }
