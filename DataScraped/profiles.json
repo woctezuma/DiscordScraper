@@ -53351,5 +53351,94 @@
       }
     },
     "legacy_username": null
+  },
+  "893979446724395018": {
+    "id": 893979446724395018,
+    "name": "ariafoxi",
+    "nick": null,
+    "display_name": "Aria",
+    "global_name": "Aria",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "aryamehr2112#2474"
+  },
+  "1097798004490108938": {
+    "id": 1097798004490108938,
+    "name": "darktrm",
+    "nick": null,
+    "display_name": "Stroke",
+    "global_name": "Stroke",
+    "pronouns": "He/Him/His",
+    "guild_pronouns": null,
+    "bio": "Age: 20\nCountry: Australia\n\n\n\n\nI like playing TF2 and watching YouTube",
+    "guild_bio": null,
+    "display_bio": "Age: 20\nCountry: Australia\n\n\n\n\nI like playing TF2 and watching YouTube",
+    "banner": "https://cdn.discordapp.com/banners/1097798004490108938/a_1f538f9f7d2bc7f44964ea440b07eac5.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1097798004490108938/a_1f538f9f7d2bc7f44964ea440b07eac5.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "premium"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f4e417e7f60f4d37b01036e99ff6a965",
+        "name": "StrokeTMR",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198160811340",
+        "name": "Stroke",
+        "url": "https://steamcommunity.com/profiles/76561198160811340"
+      },
+      "xbox": {
+        "id": "3067539267944852",
+        "name": "StrokeMST",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=StrokeMST"
+      },
+      "youtube": {
+        "id": "UCHzWPUEUYnIr1d8wNd1dghA",
+        "name": "Stroke",
+        "url": "https://www.youtube.com/channel/UCHzWPUEUYnIr1d8wNd1dghA"
+      }
+    },
+    "legacy_username": null
+  },
+  "1315819000688676915": {
+    "id": 1315819000688676915,
+    "name": "theforgetful1",
+    "nick": null,
+    "display_name": "Oblitus Es",
+    "global_name": "Oblitus Es",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199679625484",
+        "name": "Oblitus Es",
+        "url": "https://steamcommunity.com/profiles/76561199679625484"
+      }
+    },
+    "legacy_username": null
   }
 }
