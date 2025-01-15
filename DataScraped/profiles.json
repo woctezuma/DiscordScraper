@@ -49875,5 +49875,45 @@
       }
     },
     "legacy_username": "D_Ranger#8911"
+  },
+  "439288276063617024": {
+    "id": 439288276063617024,
+    "name": "zerofetus",
+    "nick": null,
+    "display_name": "ZeroFetus",
+    "global_name": "ZeroFetus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Joswan#5813"
+  },
+  "1328935633938550854": {
+    "id": 1328935633938550854,
+    "name": "caskei012_47617",
+    "nick": null,
+    "display_name": "caskei012",
+    "global_name": "caskei012",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
