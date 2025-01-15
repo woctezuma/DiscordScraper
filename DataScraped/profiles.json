@@ -51704,5 +51704,32 @@
       }
     },
     "legacy_username": null
+  },
+  "1311896739413884931": {
+    "id": 1311896739413884931,
+    "name": "shiva.0941",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ugqimjec4qa3hqrmvrqjzazdbi",
+        "name": "Nagi",
+        "url": "https://open.spotify.com/user/31ugqimjec4qa3hqrmvrqjzazdbi"
+      }
+    },
+    "legacy_username": null
   }
 }
