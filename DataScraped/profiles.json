@@ -51379,5 +51379,61 @@
       }
     },
     "legacy_username": "has_harah#8711"
+  },
+  "1300860278220783667": {
+    "id": 1300860278220783667,
+    "name": "kongutheking",
+    "nick": null,
+    "display_name": "Jayprou",
+    "global_name": "Jayprou",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " Dm me to play\n Playing with someone else/ask me\n not playing\n Out/eating or doing normal things",
+    "guild_bio": null,
+    "display_bio": " Dm me to play\n Playing with someone else/ask me\n not playing\n Out/eating or doing normal things",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1047075685726078167",
+        "name": "Jayprouultra",
+        "url": null
+      },
+      "spotify": {
+        "id": "31p4fqmv74rsbitbkcwz7nff7ucu",
+        "name": "James",
+        "url": "https://open.spotify.com/user/31p4fqmv74rsbitbkcwz7nff7ucu"
+      },
+      "steam": {
+        "id": "76561199230219391",
+        "name": "jayprou",
+        "url": "https://steamcommunity.com/profiles/76561199230219391"
+      }
+    },
+    "legacy_username": null
+  },
+  "1113320320787546142": {
+    "id": 1113320320787546142,
+    "name": "ruri05611",
+    "nick": null,
+    "display_name": "Ruri",
+    "global_name": "Ruri",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ruri#0730"
   }
 }
