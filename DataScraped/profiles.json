@@ -52073,5 +52073,99 @@
       }
     },
     "legacy_username": null
+  },
+  "745583051794284631": {
+    "id": 745583051794284631,
+    "name": "devus1",
+    "nick": null,
+    "display_name": "Dave",
+    "global_name": "Dave",
+    "pronouns": "David",
+    "guild_pronouns": null,
+    "bio": "Sang-Woo! Sang-woo,im done playing this side...\n\nHas a server with great community and 60+ members!\nWe talk everyday.",
+    "guild_bio": null,
+    "display_bio": "Sang-Woo! Sang-woo,im done playing this side...\n\nHas a server with great community and 60+ members!\nWe talk everyday.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7940285200705081121",
+        "name": "DevusGaming733",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "1402873910",
+        "name": "Devus2020",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199017070744",
+        "name": "Dave",
+        "url": "https://steamcommunity.com/profiles/76561199017070744"
+      },
+      "xbox": {
+        "id": "3061538665841531",
+        "name": "Devus Gaming733",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Devus Gaming733"
+      },
+      "youtube": {
+        "id": "UCRHVlV1X3M2KCpoHuSo1qoA",
+        "name": "Devus Jambrik",
+        "url": "https://www.youtube.com/channel/UCRHVlV1X3M2KCpoHuSo1qoA"
+      }
+    },
+    "legacy_username": "Mr.Dave#6424"
+  },
+  "1006920920176271450": {
+    "id": 1006920920176271450,
+    "name": "ja8092",
+    "nick": null,
+    "display_name": "JA8092",
+    "global_name": "JA8092",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Chilling boi.",
+    "guild_bio": null,
+    "display_bio": "Chilling boi.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3062179509052532",
+        "name": "E1 FeNoMeNiTo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=E1 FeNoMeNiTo"
+      }
+    },
+    "legacy_username": "JA8092#4007"
+  },
+  "1313134002588090459": {
+    "id": 1313134002588090459,
+    "name": "ggersang",
+    "nick": null,
+    "display_name": "Ggersang",
+    "global_name": "Ggersang",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1313134002588090459/a_b2305625c436d78af2b9f4cc4d1087d6.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1313134002588090459/a_b2305625c436d78af2b9f4cc4d1087d6.gif?size=512",
+    "badges": [
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
