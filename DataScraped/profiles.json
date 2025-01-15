@@ -51666,5 +51666,43 @@
       }
     },
     "legacy_username": "Exdii#0988"
+  },
+  "1215874440198492311": {
+    "id": 1215874440198492311,
+    "name": "m1bob",
+    "nick": null,
+    "display_name": "bob",
+    "global_name": "bob",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5c5e22e9ab174301ba4691a2867299e0",
+        "name": "\u9759bob",
+        "url": null
+      },
+      "spotify": {
+        "id": "brutfc",
+        "name": "bob",
+        "url": "https://open.spotify.com/user/brutfc"
+      },
+      "steam": {
+        "id": "76561198126127001",
+        "name": "bob",
+        "url": "https://steamcommunity.com/profiles/76561198126127001"
+      }
+    },
+    "legacy_username": null
   }
 }
