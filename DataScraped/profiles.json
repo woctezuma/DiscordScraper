@@ -51897,5 +51897,32 @@
       }
     },
     "legacy_username": null
+  },
+  "493066243738304513": {
+    "id": 493066243738304513,
+    "name": "itz_gin",
+    "nick": null,
+    "display_name": "beau",
+    "global_name": "beau",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hiraya",
+    "guild_bio": null,
+    "display_bio": "Hiraya",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199081871572",
+        "name": "AmINA",
+        "url": "https://steamcommunity.com/profiles/76561199081871572"
+      }
+    },
+    "legacy_username": "Ginoshimo#4714"
   }
 }
