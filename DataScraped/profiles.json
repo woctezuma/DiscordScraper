@@ -52648,5 +52648,43 @@
       }
     },
     "legacy_username": "mtsRhea#2050"
+  },
+  "1317521690422546593": {
+    "id": 1317521690422546593,
+    "name": "bloatpainting",
+    "nick": null,
+    "display_name": "BloatPainting",
+    "global_name": "BloatPainting",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "412696017767759883": {
+    "id": 412696017767759883,
+    "name": "redefinedro",
+    "nick": null,
+    "display_name": "Redefined",
+    "global_name": "Redefined",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Redefined#5424"
   }
 }
