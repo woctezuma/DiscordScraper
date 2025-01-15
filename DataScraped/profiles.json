@@ -50341,5 +50341,77 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "618458246016925696": {
+    "id": 618458246016925696,
+    "name": "javazqq",
+    "nick": null,
+    "display_name": "javazqq",
+    "global_name": "javazqq",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "812446709015380049": {
+    "id": 812446709015380049,
+    "name": "theseventhflamesdesire",
+    "nick": null,
+    "display_name": "The Seventh Flame's Desire",
+    "global_name": "The Seventh Flame's Desire",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4873519912772949310",
+        "name": "AcetonicCalcite",
+        "url": null
+      }
+    },
+    "legacy_username": "The Seventh Flame's Desire#6407"
+  },
+  "711884137757278240": {
+    "id": 711884137757278240,
+    "name": "vantatree",
+    "nick": null,
+    "display_name": "VantaTree",
+    "global_name": "VantaTree",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "He/Him\nItch.io: https://vantatree.itch.io/\nGitHub: https://github.com/VantaTree/",
+    "guild_bio": null,
+    "display_bio": "He/Him\nItch.io: https://vantatree.itch.io/\nGitHub: https://github.com/VantaTree/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "82938904",
+        "name": "VantaTree",
+        "url": "https://github.com/VantaTree"
+      }
+    },
+    "legacy_username": "VantaTree#2609"
   }
 }
