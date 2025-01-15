@@ -53147,5 +53147,108 @@
       }
     },
     "legacy_username": "kevinbolero69#9695"
+  },
+  "562780085715861507": {
+    "id": 562780085715861507,
+    "name": "bradyisnotme",
+    "nick": null,
+    "display_name": "bradyisnotme",
+    "global_name": "bradyisnotme",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "5890168683811782187",
+        "name": "BradyisMe",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199018783899",
+        "name": "Brady is Not Me",
+        "url": "https://steamcommunity.com/profiles/76561199018783899"
+      },
+      "twitch": {
+        "id": "846731566",
+        "name": "sillysquad69",
+        "url": "https://www.twitch.tv/sillysquad69"
+      },
+      "xbox": {
+        "id": "3076529848530610",
+        "name": "BradyisNotMe",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=BradyisNotMe"
+      },
+      "youtube": {
+        "id": "UCdDNWiRyg8ihl2vWTn6QCnw",
+        "name": "Brady is Me",
+        "url": "https://www.youtube.com/channel/UCdDNWiRyg8ihl2vWTn6QCnw"
+      }
+    },
+    "legacy_username": "Brady is  Not Me#0641"
+  },
+  "183909766001721348": {
+    "id": 183909766001721348,
+    "name": "juppsy",
+    "nick": null,
+    "display_name": "Juppsy",
+    "global_name": "Juppsy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Co-Founder & CEO | NETHLAB\nDemiourgos Dev",
+    "guild_bio": null,
+    "display_bio": "Co-Founder & CEO | NETHLAB\nDemiourgos Dev",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Juppsy#2115",
+        "name": "Juppsy#2115",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198077771063",
+        "name": "Juppsy",
+        "url": "https://steamcommunity.com/profiles/76561198077771063"
+      },
+      "twitch": {
+        "id": "55446121",
+        "name": "juppsy",
+        "url": "https://www.twitch.tv/juppsy"
+      }
+    },
+    "legacy_username": "Juppsy#7333"
+  },
+  "1005932781282533588": {
+    "id": 1005932781282533588,
+    "name": "mister_akko",
+    "nick": null,
+    "display_name": "Mister_Akko",
+    "global_name": "Mister_Akko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mister_Akko#8489"
   }
 }
