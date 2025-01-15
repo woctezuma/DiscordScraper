@@ -52384,5 +52384,37 @@
       }
     },
     "legacy_username": "Busteriffic#2900"
+  },
+  "587877595794898944": {
+    "id": 587877595794898944,
+    "name": "stickng",
+    "nick": null,
+    "display_name": "stickng",
+    "global_name": "stickng",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3063471359035215",
+        "name": "FoCuS Slops",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=FoCuS Slops"
+      },
+      "youtube": {
+        "id": "UChfUtU99Oxa6TN17GGXDrGQ",
+        "name": "stickng",
+        "url": "https://www.youtube.com/channel/UChfUtU99Oxa6TN17GGXDrGQ"
+      }
+    },
+    "legacy_username": null
   }
 }
