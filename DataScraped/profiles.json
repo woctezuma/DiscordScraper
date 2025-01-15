@@ -51255,5 +51255,129 @@
       }
     },
     "legacy_username": "Wubby_Muchacho#6408"
+  },
+  "1186622052837367828": {
+    "id": 1186622052837367828,
+    "name": "realpsycho2512",
+    "nick": null,
+    "display_name": "thag",
+    "global_name": "thag",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "474670975061852184": {
+    "id": 474670975061852184,
+    "name": "luakev",
+    "nick": null,
+    "display_name": "kev",
+    "global_name": "kev",
+    "pronouns": "Christ/Follower",
+    "guild_pronouns": null,
+    "bio": "**https://plsdonate.me/kelbou205**\n\nI will NOT respond to random dms unless they are important",
+    "guild_bio": null,
+    "display_bio": "**https://plsdonate.me/kelbou205**\n\nI will NOT respond to random dms unless they are important",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "460143628359041024": {
+    "id": 460143628359041024,
+    "name": "marciosantos.",
+    "nick": null,
+    "display_name": "MarcioSantos",
+    "global_name": "MarcioSantos",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Nintendo Switch: 7964 - 0433 - 2119 \nPSN: marciosantos24\nXbox Live: marciosantos221",
+    "guild_bio": null,
+    "display_bio": "Nintendo Switch: 7964 - 0433 - 2119 \nPSN: marciosantos24\nXbox Live: marciosantos221",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "10156302016455479",
+        "name": "Marcio Da Silva Santos",
+        "url": null
+      },
+      "playstation": {
+        "id": "2788381216475923916",
+        "name": "marciosantos24",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198122802407",
+        "name": "Skold BR",
+        "url": "https://steamcommunity.com/profiles/76561198122802407"
+      },
+      "twitch": {
+        "id": "148279121",
+        "name": "machanicalstar",
+        "url": "https://www.twitch.tv/machanicalstar"
+      },
+      "twitter": {
+        "id": "11462582",
+        "name": "marciosantos",
+        "url": "https://twitter.com/marciosantos"
+      },
+      "xbox": {
+        "id": "QqgDaPeJ_N6CKT7uQ9Q4GG0IaTzsezSfYqTHzhnstP0",
+        "name": "Marciosantos221",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Marciosantos221"
+      }
+    },
+    "legacy_username": "MarcioSantos#3732"
+  },
+  "974594187758542888": {
+    "id": 974594187758542888,
+    "name": "malssss",
+    "nick": null,
+    "display_name": "Malss",
+    "global_name": "Malss",
+    "pronouns": "malesss",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199574569257",
+        "name": "Malss",
+        "url": "https://steamcommunity.com/profiles/76561199574569257"
+      },
+      "youtube": {
+        "id": "UCaK4vHuNTs2kySABbvgBWQg",
+        "name": "Malss",
+        "url": "https://www.youtube.com/channel/UCaK4vHuNTs2kySABbvgBWQg"
+      }
+    },
+    "legacy_username": "has_harah#8711"
   }
 }
