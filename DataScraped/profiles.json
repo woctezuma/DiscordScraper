@@ -53250,5 +53250,59 @@
     ],
     "connections": {},
     "legacy_username": "Mister_Akko#8489"
+  },
+  "433697961361408000": {
+    "id": 433697961361408000,
+    "name": "hvgvalent",
+    "nick": null,
+    "display_name": "HVG Valent",
+    "global_name": "HVG Valent",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "4",
+    "guild_bio": null,
+    "display_bio": "4",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Valent#5449"
+  },
+  "645864889415368715": {
+    "id": 645864889415368715,
+    "name": "binarytwin",
+    "nick": null,
+    "display_name": "SPY",
+    "global_name": "SPY",
+    "pronouns": "Intermediate GFX & VE.",
+    "guild_pronouns": null,
+    "bio": "Is that... could it be... PACIFIC.\nPACIFIC - [ Indecipherable ]\n\nImpossible energy, unleashed by a seismic event. The power to unmake an entire world. Interruption. Techtonica.",
+    "guild_bio": null,
+    "display_bio": "Is that... could it be... PACIFIC.\nPACIFIC - [ Indecipherable ]\n\nImpossible energy, unleashed by a seismic event. The power to unmake an entire world. Interruption. Techtonica.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "7abe41815cea45efb1312167464eeb60",
+        "name": "Binary Twin",
+        "url": null
+      },
+      "xbox": {
+        "id": "3070124458857201",
+        "name": "Binary Honor",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Binary Honor"
+      }
+    },
+    "legacy_username": null
   }
 }
