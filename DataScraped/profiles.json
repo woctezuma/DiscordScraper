@@ -49975,5 +49975,41 @@
     ],
     "connections": {},
     "legacy_username": "SimonGor#7630"
+  },
+  "363883855452700682": {
+    "id": 363883855452700682,
+    "name": "rockersands",
+    "nick": null,
+    "display_name": "Rocco",
+    "global_name": "Rocco",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Unity developer, singer, buhurt fighter, love board games, traveling and a lot of stuff hahah",
+    "guild_bio": null,
+    "display_bio": "Unity developer, singer, buhurt fighter, love board games, traveling and a lot of stuff hahah",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "la1_7983374",
+        "name": "rockersands",
+        "url": null
+      },
+      "spotify": {
+        "id": "12130571135",
+        "name": "Joaquin Frausto Alfaro",
+        "url": "https://open.spotify.com/user/12130571135"
+      },
+      "xbox": {
+        "id": "3077806994714176",
+        "name": "rockersands",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=rockersands"
+      }
+    },
+    "legacy_username": "rockersands#1961"
   }
 }
