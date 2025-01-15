@@ -49261,5 +49261,262 @@
       }
     },
     "legacy_username": "\u0391lex#8541"
+  },
+  "688566734009008298": {
+    "id": 688566734009008298,
+    "name": "beegs.",
+    "nick": null,
+    "display_name": "soup",
+    "global_name": "soup",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "7f771e478b0c47f590a0d84b773ce987",
+        "name": "\u30c4beegboi\u30c4",
+        "url": null
+      },
+      "spotify": {
+        "id": "31werd2bdqbokck5r7vbzdws7hqa",
+        "name": "\u30ed\u30da\u30b9\u30a8\u30a4\u30c9\u30ea\u30a2\u30f3",
+        "url": "https://open.spotify.com/user/31werd2bdqbokck5r7vbzdws7hqa"
+      },
+      "steam": {
+        "id": "76561199071513926",
+        "name": "beegboi",
+        "url": "https://steamcommunity.com/profiles/76561199071513926"
+      },
+      "twitch": {
+        "id": "502708864",
+        "name": "beegbxi",
+        "url": "https://www.twitch.tv/beegbxi"
+      },
+      "xbox": {
+        "id": "3074136276628617",
+        "name": "Beegboi501",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Beegboi501"
+      },
+      "youtube": {
+        "id": "UCUYclB1yakOjGawd5DB9EXQ",
+        "name": "beegboi501",
+        "url": "https://www.youtube.com/channel/UCUYclB1yakOjGawd5DB9EXQ"
+      }
+    },
+    "legacy_username": null
+  },
+  "809010315848450059": {
+    "id": 809010315848450059,
+    "name": "vecko_713",
+    "nick": null,
+    "display_name": "Vecko 713",
+    "global_name": "Vecko 713",
+    "pronouns": "She/her \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+    "guild_pronouns": null,
+    "bio": "Some how still alive",
+    "guild_bio": null,
+    "display_bio": "Some how still alive",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_roblox": {
+        "id": "3968793668",
+        "name": "Vee_713",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199737534632",
+        "name": "Vecko713",
+        "url": "https://steamcommunity.com/profiles/76561199737534632"
+      }
+    },
+    "legacy_username": null
+  },
+  "322140210404130818": {
+    "id": 322140210404130818,
+    "name": "reflxtions",
+    "nick": null,
+    "display_name": "xela",
+    "global_name": "xela",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "the blade is me",
+    "guild_bio": null,
+    "display_bio": "the blade is me",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "xela#1111"
+  },
+  "217655807863554048": {
+    "id": 217655807863554048,
+    "name": "chrumkavy",
+    "nick": null,
+    "display_name": "Matus",
+    "global_name": "Matus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "nwm",
+    "guild_bio": null,
+    "display_bio": "nwm",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Gnome#6685"
+  },
+  "1304994258306207816": {
+    "id": 1304994258306207816,
+    "name": "fmetro",
+    "nick": null,
+    "display_name": "fmetro",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "My humor is impeccable",
+    "guild_bio": null,
+    "display_bio": "My humor is impeccable",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "451738521334710272": {
+    "id": 451738521334710272,
+    "name": "iammerpix",
+    "nick": null,
+    "display_name": "Merpix",
+    "global_name": "Merpix",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "` 20` ` Germany`\n` Graphic Designer`\n https://merpix.de/",
+    "guild_bio": null,
+    "display_bio": "` 20` ` Germany`\n` Graphic Designer`\n https://merpix.de/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "merpix.de",
+        "name": "merpix.de",
+        "url": null
+      },
+      "twitch": {
+        "id": "425210933",
+        "name": "iammerpix",
+        "url": "https://www.twitch.tv/iammerpix"
+      },
+      "twitter": {
+        "id": "1089594760581525506",
+        "name": "iammerpix",
+        "url": "https://twitter.com/iammerpix"
+      },
+      "youtube": {
+        "id": "UCvn3tqsccpauMkTJpFyHZDg",
+        "name": "Merpix",
+        "url": "https://www.youtube.com/channel/UCvn3tqsccpauMkTJpFyHZDg"
+      }
+    },
+    "legacy_username": "Merpix#0914"
+  },
+  "402237482428661761": {
+    "id": 402237482428661761,
+    "name": "camgmckinney",
+    "nick": null,
+    "display_name": "SHUG",
+    "global_name": "SHUG",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "deadbywee98650#1498"
+  },
+  "700075380274495489": {
+    "id": 700075380274495489,
+    "name": "strob_",
+    "nick": null,
+    "display_name": "strob",
+    "global_name": "strob",
+    "pronouns": "she",
+    "guild_pronouns": null,
+    "bio": "what is wrong with me",
+    "guild_bio": null,
+    "display_bio": "what is wrong with me",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "nednc7ubcck2oax2r9clxa51v",
+        "name": "strob <3",
+        "url": "https://open.spotify.com/user/nednc7ubcck2oax2r9clxa51v"
+      },
+      "steam": {
+        "id": "76561199216588872",
+        "name": "<3",
+        "url": "https://steamcommunity.com/profiles/76561199216588872"
+      },
+      "twitter": {
+        "id": "1250781175683088389",
+        "name": "_strob_",
+        "url": "https://twitter.com/_strob_"
+      },
+      "xbox": {
+        "id": "3075407921240352",
+        "name": "Strob8238",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Strob8238"
+      },
+      "youtube": {
+        "id": "UCpBP1tphCJSLsvhJXnWcg9Q",
+        "name": "catberry",
+        "url": "https://www.youtube.com/channel/UCpBP1tphCJSLsvhJXnWcg9Q"
+      }
+    },
+    "legacy_username": "Str\u03b1wberry#1777"
   }
 }
