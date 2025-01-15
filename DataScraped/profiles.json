@@ -53304,5 +53304,23 @@
       }
     },
     "legacy_username": null
+  },
+  "1212399988102144051": {
+    "id": 1212399988102144051,
+    "name": "golden_chest_25711",
+    "nick": null,
+    "display_name": "Golden",
+    "global_name": "Golden",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
