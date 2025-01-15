@@ -51991,5 +51991,87 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "821589919792758784": {
+    "id": 821589919792758784,
+    "name": "ninjasquidy",
+    "nick": null,
+    "display_name": "Squid",
+    "global_name": "Squid",
+    "pronouns": "stop",
+    "guild_pronouns": null,
+    "bio": "I love flight simulators, tech and gaming. \nPhysical media is the best\nApple Park:\nhttps://discord.gg/WjmgR9WhV7\n\nRight to repair ",
+    "guild_bio": null,
+    "display_bio": "I love flight simulators, tech and gaming. \nPhysical media is the best\nApple Park:\nhttps://discord.gg/WjmgR9WhV7\n\nRight to repair ",
+    "banner": "https://cdn.discordapp.com/banners/821589919792758784/a_fa4d7a54f425827357877c6417e314f4.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/821589919792758784/a_fa4d7a54f425827357877c6417e314f4.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199083297257",
+        "name": "Squid",
+        "url": "https://steamcommunity.com/profiles/76561199083297257"
+      },
+      "xbox": {
+        "id": "MmE0NjkzM2ZlN2M4YTU2MWY4NTA5ZGYzZjdjZTBlNWIwZDNmMzlhMDRlNmEwNDRiNGY1NzJmNGYzZjk3ZGE0Nw",
+        "name": "IcyNinjaSquid",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=IcyNinjaSquid"
+      }
+    },
+    "legacy_username": "Squid#1039"
+  },
+  "628282284826427402": {
+    "id": 628282284826427402,
+    "name": "xxenee",
+    "nick": null,
+    "display_name": "xxenee",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "367837611534057472": {
+    "id": 367837611534057472,
+    "name": "hks27d",
+    "nick": null,
+    "display_name": "HKS 27D",
+    "global_name": "HKS 27D",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**Gaming**:\n**https://www.fairside.ro/discord/**\n\n**CS2 Modding & Tech**\n**https://www.fairside.ro/modders/**",
+    "guild_bio": null,
+    "display_bio": "**Gaming**:\n**https://www.fairside.ro/discord/**\n\n**CS2 Modding & Tech**\n**https://www.fairside.ro/modders/**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "github": {
+        "id": "51793958",
+        "name": "hks27d",
+        "url": "https://github.com/hks27d"
+      }
+    },
+    "legacy_username": null
   }
 }
