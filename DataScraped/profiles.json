@@ -53019,5 +53019,92 @@
       }
     },
     "legacy_username": null
+  },
+  "786148433856561195": {
+    "id": 786148433856561195,
+    "name": "janczepek",
+    "nick": null,
+    "display_name": "xyz",
+    "global_name": "xyz",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": " ",
+    "guild_bio": null,
+    "display_bio": " ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3066615733576216",
+        "name": "dzejsioo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=dzejsioo"
+      }
+    },
+    "legacy_username": "Ziemniak#5485"
+  },
+  "1021757584774004787": {
+    "id": 1021757584774004787,
+    "name": "frederik_94",
+    "nick": null,
+    "display_name": "Frederik_94",
+    "global_name": "Frederik_94",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Frederik_94#1912"
+  },
+  "227078985241067521": {
+    "id": 227078985241067521,
+    "name": "mooey_",
+    "nick": null,
+    "display_name": "Mooey",
+    "global_name": "Mooey",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/227078985241067521/de85fd75d69f511d8f002f6ffd456980.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/227078985241067521/de85fd75d69f511d8f002f6ffd456980.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "stewbelder",
+        "name": "stewbelder",
+        "url": "https://open.spotify.com/user/stewbelder"
+      },
+      "steam": {
+        "id": "76561198024357966",
+        "name": "Not Na'vi.Ritya Da",
+        "url": "https://steamcommunity.com/profiles/76561198024357966"
+      },
+      "twitch": {
+        "id": "158324558",
+        "name": "mooeytc",
+        "url": "https://www.twitch.tv/mooeytc"
+      }
+    },
+    "legacy_username": "Mooey#8655"
   }
 }
