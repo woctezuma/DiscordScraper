@@ -50873,5 +50873,106 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "617636809286877204": {
+    "id": 617636809286877204,
+    "name": "3mksoury",
+    "nick": null,
+    "display_name": "3MkSoUrY",
+    "global_name": "3MkSoUrY",
+    "pronouns": "he/him",
+    "guild_pronouns": "he/him",
+    "bio": "GAIN IN PAIN  ",
+    "guild_bio": null,
+    "display_bio": "GAIN IN PAIN  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "AbdoSoury#2694",
+        "name": "AbdoSoury#2694",
+        "url": null
+      },
+      "epic_games": {
+        "id": "253c23f6f05c49cf9289b69678cff892",
+        "name": "3Mk SoUrY",
+        "url": null
+      },
+      "spotify": {
+        "id": "abdalrahmanelj1",
+        "name": "Boody",
+        "url": "https://open.spotify.com/user/abdalrahmanelj1"
+      },
+      "steam": {
+        "id": "76561199105320044",
+        "name": "3MkSoUrY",
+        "url": "https://steamcommunity.com/profiles/76561199105320044"
+      },
+      "xbox": {
+        "id": "3074786657432351",
+        "name": "AmKSoUrY",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AmKSoUrY"
+      }
+    },
+    "legacy_username": null
+  },
+  "1189623096974528593": {
+    "id": 1189623096974528593,
+    "name": "nahzrima",
+    "nick": null,
+    "display_name": "2723",
+    "global_name": "2723",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "9qst3xzk7roxabyslgtod55ol",
+        "name": "L e m o n",
+        "url": "https://open.spotify.com/user/9qst3xzk7roxabyslgtod55ol"
+      },
+      "steam": {
+        "id": "76561199197643450",
+        "name": "Dead air",
+        "url": "https://steamcommunity.com/profiles/76561199197643450"
+      }
+    },
+    "legacy_username": null
+  },
+  "416995710530224128": {
+    "id": 416995710530224128,
+    "name": "dimontouch",
+    "nick": null,
+    "display_name": "Xavier",
+    "global_name": "Xavier",
+    "pronouns": "offtovisit/yourmother",
+    "guild_pronouns": null,
+    "bio": "in my yowza era",
+    "guild_bio": null,
+    "display_bio": "in my yowza era",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198146178781",
+        "name": "Xavier",
+        "url": "https://steamcommunity.com/profiles/76561198146178781"
+      }
+    },
+    "legacy_username": "dimontouch#2121"
   }
 }
