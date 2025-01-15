@@ -50610,5 +50610,94 @@
       }
     },
     "legacy_username": null
+  },
+  "1203839944515260439": {
+    "id": 1203839944515260439,
+    "name": "ttvtexordraco",
+    "nick": null,
+    "display_name": "TexorDracoVT",
+    "global_name": "TexorDracoVT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**Toda Masa Aumenta Su Volumen Segn Su Grado De Inclinacin.**\nMain Yuumi | Ex Master |\n\nMain ADC/SUP c:\nhttps://www.twitch.tv/texordracovt",
+    "guild_bio": null,
+    "display_bio": "**Toda Masa Aumenta Su Volumen Segn Su Grado De Inclinacin.**\nMain Yuumi | Ex Master |\n\nMain ADC/SUP c:\nhttps://www.twitch.tv/texordracovt",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "-lM8RWVq9Y7hS2AQPx6R30d6DyG2vO_2i35SLT_-v3YCvjgo-2X9WSM3fQGFdfwRXdGjd0jomwtIIA",
+        "name": "Pat\u0131tas De Yuumi#1904",
+        "url": null
+      },
+      "playstation": {
+        "id": "2876101152771141392",
+        "name": "TexorDracoVT",
+        "url": null
+      },
+      "riot_games": {
+        "id": "-lM8RWVq9Y7hS2AQPx6R30d6DyG2vO_2i35SLT_-v3YCvjgo-2X9WSM3fQGFdfwRXdGjd0jomwtIIA",
+        "name": "Pat\u0131tas De Yuumi#1904",
+        "url": null
+      },
+      "spotify": {
+        "id": "gfaloverlln",
+        "name": "Texeli1904",
+        "url": "https://open.spotify.com/user/gfaloverlln"
+      },
+      "steam": {
+        "id": "76561198424973809",
+        "name": "TexorDracoVT",
+        "url": "https://steamcommunity.com/profiles/76561198424973809"
+      },
+      "twitch": {
+        "id": "134188584",
+        "name": "texordracovt",
+        "url": "https://www.twitch.tv/texordracovt"
+      },
+      "twitter": {
+        "id": "1369374619451424772",
+        "name": "TexorOfficial",
+        "url": "https://twitter.com/TexorOfficial"
+      },
+      "xbox": {
+        "id": "3062817841343745",
+        "name": "TexorDraco",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TexorDraco"
+      }
+    },
+    "legacy_username": null
+  },
+  "892352892453928960": {
+    "id": 892352892453928960,
+    "name": "khalimov144",
+    "nick": null,
+    "display_name": "khalimov",
+    "global_name": "khalimov",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "nothing's true, everything's permitted\n\nOk You're Right, Sho Khosh\n\nIRGC is f'ing Terrorist\n\nType: HDMI",
+    "guild_bio": null,
+    "display_bio": "nothing's true, everything's permitted\n\nOk You're Right, Sho Khosh\n\nIRGC is f'ing Terrorist\n\nType: HDMI",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199629548216",
+        "name": "Khalimov144",
+        "url": "https://steamcommunity.com/profiles/76561199629548216"
+      }
+    },
+    "legacy_username": "Khalimov#4451"
   }
 }
