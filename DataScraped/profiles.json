@@ -52571,5 +52571,82 @@
     ],
     "connections": {},
     "legacy_username": "wiurkari#6761"
+  },
+  "1024740831619453018": {
+    "id": 1024740831619453018,
+    "name": "luckyducky1601",
+    "nick": null,
+    "display_name": "LuckyDucky",
+    "global_name": "LuckyDucky",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3077087295146783",
+        "name": "LuckyDucky1601",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LuckyDucky1601"
+      }
+    },
+    "legacy_username": "LuckyDucky1601#0533"
+  },
+  "196378815566446592": {
+    "id": 196378815566446592,
+    "name": "mtsrhea",
+    "nick": null,
+    "display_name": "m'rhea",
+    "global_name": "m'rhea",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "/mi/\nmy noon is <t:1675166400:t>\n https://pastebin.com/YfvV5tTt\nhttps://myanimelist.net/blog.php?eid=799291",
+    "guild_bio": null,
+    "display_bio": "/mi/\nmy noon is <t:1675166400:t>\n https://pastebin.com/YfvV5tTt\nhttps://myanimelist.net/blog.php?eid=799291",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "mutsurhea#2532",
+        "name": "mutsurhea#2532",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ad784c140a9d4c6b8cd86bb5cf2f205a",
+        "name": "mutsukiko",
+        "url": null
+      },
+      "reddit": {
+        "id": "5x2az",
+        "name": "mutsuto",
+        "url": "https://www.reddit.com/u/mutsuto"
+      },
+      "steam": {
+        "id": "76561198025259797",
+        "name": "m'rhea",
+        "url": "https://steamcommunity.com/profiles/76561198025259797"
+      },
+      "twitch": {
+        "id": "603044514",
+        "name": "mutsurhea",
+        "url": "https://www.twitch.tv/mutsurhea"
+      },
+      "twitter": {
+        "id": "1176195181537873920",
+        "name": "mtsRhea",
+        "url": "https://twitter.com/mtsRhea"
+      }
+    },
+    "legacy_username": "mtsRhea#2050"
   }
 }
