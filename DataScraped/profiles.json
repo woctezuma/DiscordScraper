@@ -50728,5 +50728,78 @@
       }
     },
     "legacy_username": "xandir#1580"
+  },
+  "292015768017567745": {
+    "id": 292015768017567745,
+    "name": "patrickguldborg",
+    "nick": null,
+    "display_name": "Guldborg",
+    "global_name": "Guldborg",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198976067927",
+        "name": "\u272aNielsen",
+        "url": "https://steamcommunity.com/profiles/76561198976067927"
+      }
+    },
+    "legacy_username": "Patrick Nielsen#4953"
+  },
+  "1197106513156771873": {
+    "id": 1197106513156771873,
+    "name": "a.k.r.2006_88949",
+    "nick": null,
+    "display_name": "A.K.R.2006",
+    "global_name": "A.K.R.2006",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1169924974652432406": {
+    "id": 1169924974652432406,
+    "name": "ammir_02",
+    "nick": null,
+    "display_name": "!             ",
+    "global_name": "!             ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "We were born to be real not to be perfect ",
+    "guild_bio": null,
+    "display_bio": "We were born to be real not to be perfect ",
+    "banner": "https://cdn.discordapp.com/banners/1169924974652432406/90e66058bcb1eb53045996043022b946.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1169924974652432406/90e66058bcb1eb53045996043022b946.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199565173334",
+        "name": "AmirDevil",
+        "url": "https://steamcommunity.com/profiles/76561199565173334"
+      }
+    },
+    "legacy_username": null
   }
 }
