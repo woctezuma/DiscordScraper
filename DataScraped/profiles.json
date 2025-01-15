@@ -51435,5 +51435,25 @@
     ],
     "connections": {},
     "legacy_username": "Ruri#0730"
+  },
+  "849575912424603669": {
+    "id": 849575912424603669,
+    "name": "marios2708",
+    "nick": null,
+    "display_name": "Kurushimi",
+    "global_name": "Kurushimi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Marios#2708"
   }
 }
