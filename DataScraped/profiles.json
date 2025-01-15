@@ -49915,5 +49915,65 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "728482633239232572": {
+    "id": 728482633239232572,
+    "name": "fosrex",
+    "nick": null,
+    "display_name": "FosRex",
+    "global_name": "FosRex",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fosrex#9258"
+  },
+  "881834545660448768": {
+    "id": 881834545660448768,
+    "name": "mika0708",
+    "nick": null,
+    "display_name": "miKa",
+    "global_name": "miKa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "miKa#0708"
+  },
+  "201330597816172544": {
+    "id": 201330597816172544,
+    "name": "simongor",
+    "nick": null,
+    "display_name": "SimonGor",
+    "global_name": "SimonGor",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "SimonGor#7630"
   }
 }
