@@ -50699,5 +50699,34 @@
       }
     },
     "legacy_username": "Khalimov#4451"
+  },
+  "909861481036783627": {
+    "id": 909861481036783627,
+    "name": "xandirr.",
+    "nick": null,
+    "display_name": "xandir",
+    "global_name": "xandir",
+    "pronouns": "WRLD",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/909861481036783627/a_1b33b177ab29dc5c9921c13ebdc8d590.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/909861481036783627/a_1b33b177ab29dc5c9921c13ebdc8d590.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "khp9z1bwejil87n4kwbyvbwbq",
+        "name": "xandir",
+        "url": "https://open.spotify.com/user/khp9z1bwejil87n4kwbyvbwbq"
+      }
+    },
+    "legacy_username": "xandir#1580"
   }
 }
