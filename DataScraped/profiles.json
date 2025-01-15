@@ -52832,5 +52832,116 @@
       }
     },
     "legacy_username": null
+  },
+  "273665585261445120": {
+    "id": 273665585261445120,
+    "name": "draidon",
+    "nick": null,
+    "display_name": "Draidon",
+    "global_name": "Draidon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3073250418544678",
+        "name": "Draidon9658",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Draidon9658"
+      }
+    },
+    "legacy_username": "Draidon#3208"
+  },
+  "178437287758004224": {
+    "id": 178437287758004224,
+    "name": "bjo_ern",
+    "nick": null,
+    "display_name": "BJO_ERN",
+    "global_name": "BJO_ERN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Real name: Bjrn/Bjoern",
+    "guild_bio": null,
+    "display_bio": "Real name: Bjrn/Bjoern",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "BObjoern#21305",
+        "name": "BObjoern#21305",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198327390656",
+        "name": "BJO_ERN",
+        "url": "https://steamcommunity.com/profiles/76561198327390656"
+      }
+    },
+    "legacy_username": "BJO_ERN#0889"
+  },
+  "493424062509481987": {
+    "id": 493424062509481987,
+    "name": "vladnblk",
+    "nick": null,
+    "display_name": "Vladnblk",
+    "global_name": "Vladnblk",
+    "pronouns": "Damn",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Vladnik#21367",
+        "name": "Vladnik#21367",
+        "url": null
+      },
+      "epic_games": {
+        "id": "aecd7512cd094cc7b3d8fdecc7d0b564",
+        "name": "Vladnblk",
+        "url": null
+      },
+      "riot_games": {
+        "id": "SvyXw_J7FA9pIc2k0mAaE8L1XbokkzosCMQ9JvjEVlhLV18FVpNnHUVIv7CWHSI4LxKoteNrO663hw",
+        "name": "Vladnblk#8257",
+        "url": null
+      },
+      "spotify": {
+        "id": "umotdxgp69lxmvv635fpzmjds",
+        "name": "Vladnik",
+        "url": "https://open.spotify.com/user/umotdxgp69lxmvv635fpzmjds"
+      },
+      "steam": {
+        "id": "76561199075620614",
+        "name": "\u0420\u044f\u0434\u043e\u0432\u043e\u0439 \u0417\u0430\u043b\u0443\u043f\u0430",
+        "url": "https://steamcommunity.com/profiles/76561199075620614"
+      },
+      "xbox": {
+        "id": "3063980703790123",
+        "name": "VlAdnblk",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=VlAdnblk"
+      }
+    },
+    "legacy_username": "Vladnik#9931"
   }
 }
