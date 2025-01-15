@@ -53322,5 +53322,34 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1220082606159429722": {
+    "id": 1220082606159429722,
+    "name": "shaetay10",
+    "nick": null,
+    "display_name": "Shaetay10",
+    "global_name": "Shaetay10",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198354883908",
+        "name": "Shaela1010",
+        "url": "https://steamcommunity.com/profiles/76561198354883908"
+      },
+      "xbox": {
+        "id": "3064399685465189",
+        "name": "TroddenTomcat86",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TroddenTomcat86"
+      }
+    },
+    "legacy_username": null
   }
 }
