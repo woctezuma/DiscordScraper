@@ -52686,5 +52686,120 @@
     ],
     "connections": {},
     "legacy_username": "Redefined#5424"
+  },
+  "756795422089150544": {
+    "id": 756795422089150544,
+    "name": "lolcat5590",
+    "nick": null,
+    "display_name": "Snailatron",
+    "global_name": "Snailatron",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "lolcat#5590"
+  },
+  "932721982737350727": {
+    "id": 932721982737350727,
+    "name": "cennethdk",
+    "nick": null,
+    "display_name": "Cennethdk",
+    "global_name": "Cennethdk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "The most painful thing isn't a cut or a broken nose. The most painful thing is seeing the people you made memories with slowly become memories.\n\nmy time <t:1708642800:t>",
+    "guild_bio": null,
+    "display_bio": "The most painful thing isn't a cut or a broken nose. The most painful thing is seeing the people you made memories with slowly become memories.\n\nmy time <t:1708642800:t>",
+    "banner": "https://cdn.discordapp.com/banners/932721982737350727/a_3c568d8faa924d291125d5da3c1cfa9f.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/932721982737350727/a_3c568d8faa924d291125d5da3c1cfa9f.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "6e1a6d81168141568fae96481c17358c",
+        "name": "Cenneth050",
+        "url": null
+      },
+      "playstation": {
+        "id": "20561712268974734",
+        "name": "Cenneth050",
+        "url": null
+      },
+      "spotify": {
+        "id": "cenneth03",
+        "name": "Cenneth DK",
+        "url": "https://open.spotify.com/user/cenneth03"
+      },
+      "steam": {
+        "id": "76561198405632563",
+        "name": "Cennethdk",
+        "url": "https://steamcommunity.com/profiles/76561198405632563"
+      }
+    },
+    "legacy_username": "Cennethdk#6868"
+  },
+  "913731461042040853": {
+    "id": 913731461042040853,
+    "name": "tron7483",
+    "nick": null,
+    "display_name": "TRON",
+    "global_name": "TRON",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "TRON#7483"
+  },
+  "1206124502753345617": {
+    "id": 1206124502753345617,
+    "name": "als02.",
+    "nick": null,
+    "display_name": "zerodois",
+    "global_name": "zerodois",
+    "pronouns": "tbm conhecido como LH",
+    "guild_pronouns": null,
+    "bio": "otaku, gamer, designer, bloopeiro (de frias), aspirante-a-msico e desocupado profissional.",
+    "guild_bio": null,
+    "display_bio": "otaku, gamer, designer, bloopeiro (de frias), aspirante-a-msico e desocupado profissional.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199554095585",
+        "name": "LH658",
+        "url": "https://steamcommunity.com/profiles/76561199554095585"
+      },
+      "youtube": {
+        "id": "UC7_AvO_4jPhBhXgld73qBkg",
+        "name": "ALS02",
+        "url": "https://www.youtube.com/channel/UC7_AvO_4jPhBhXgld73qBkg"
+      }
+    },
+    "legacy_username": null
   }
 }
