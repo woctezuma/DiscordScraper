@@ -52943,5 +52943,81 @@
       }
     },
     "legacy_username": "Vladnik#9931"
+  },
+  "341886024709963776": {
+    "id": 341886024709963776,
+    "name": "roekoe_",
+    "nick": null,
+    "display_name": "Roekoe_",
+    "global_name": "Roekoe_",
+    "pronouns": "ta (\u4ed6)",
+    "guild_pronouns": null,
+    "bio": "I speed BotW. (Soon again COPIUM)\n: 737927333\n: 702975145\n\n<:ta:1246228478622171247><:ta:1246228478622171247><:ta:1246228478622171247><:ta:1246228478622171247><:ta:1246228478622171247>",
+    "guild_bio": null,
+    "display_bio": "I speed BotW. (Soon again COPIUM)\n: 737927333\n: 702975145\n\n<:ta:1246228478622171247><:ta:1246228478622171247><:ta:1246228478622171247><:ta:1246228478622171247><:ta:1246228478622171247>",
+    "banner": "https://cdn.discordapp.com/banners/341886024709963776/00eab3b9226b4994425db995184e98ad.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/341886024709963776/00eab3b9226b4994425db995184e98ad.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198373677430",
+        "name": "Roekoe_",
+        "url": "https://steamcommunity.com/profiles/76561198373677430"
+      },
+      "twitch": {
+        "id": "240416537",
+        "name": "roekoe_",
+        "url": "https://www.twitch.tv/roekoe_"
+      },
+      "twitter": {
+        "id": "1293161176042541057",
+        "name": "Roekoe_",
+        "url": "https://twitter.com/Roekoe_"
+      },
+      "youtube": {
+        "id": "UC8xtdJDjE_IZomhuJNA-Vag",
+        "name": "Roekoe_",
+        "url": "https://www.youtube.com/channel/UC8xtdJDjE_IZomhuJNA-Vag"
+      }
+    },
+    "legacy_username": "Roekoe_#6784"
+  },
+  "619518707823280139": {
+    "id": 619518707823280139,
+    "name": "renogang1",
+    "nick": null,
+    "display_name": "drpxqq",
+    "global_name": "drpxqq",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198923494939",
+        "name": "renogang1",
+        "url": "https://steamcommunity.com/profiles/76561198923494939"
+      },
+      "tiktok": {
+        "id": "33051e36-6197-526b-b30e-1583d8b40603",
+        "name": "anuskota19",
+        "url": "https://tiktok.com/@anuskota19"
+      }
+    },
+    "legacy_username": null
   }
 }
