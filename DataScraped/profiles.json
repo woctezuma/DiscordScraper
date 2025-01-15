@@ -51089,5 +51089,171 @@
       }
     },
     "legacy_username": "VViktoriaa#5951"
+  },
+  "1093935497925099622": {
+    "id": 1093935497925099622,
+    "name": "med.khl31",
+    "nick": null,
+    "display_name": "med.khl31",
+    "global_name": "med.khl31",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3074064778463392",
+        "name": "SopranoTulip81",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SopranoTulip81"
+      }
+    },
+    "legacy_username": null
+  },
+  "320475105627078658": {
+    "id": 320475105627078658,
+    "name": "18warlords",
+    "nick": null,
+    "display_name": "chiiieeeraaa",
+    "global_name": "chiiieeeraaa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "let's play some game.",
+    "guild_bio": null,
+    "display_bio": "let's play some game.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198144848056",
+        "name": "Bets4.bet",
+        "url": "https://steamcommunity.com/profiles/76561198144848056"
+      },
+      "twitch": {
+        "id": "159885632",
+        "name": "howtobeyow",
+        "url": "https://www.twitch.tv/howtobeyow"
+      }
+    },
+    "legacy_username": "18Warlords#7991"
+  },
+  "1314914965257457764": {
+    "id": 1314914965257457764,
+    "name": "rehabrecordsondemand",
+    "nick": null,
+    "display_name": "rehabrecordsondemand",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1314914965257457764/16de2f8ee30e4f9bf0bd69e0639ee5fa.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1314914965257457764/16de2f8ee30e4f9bf0bd69e0639ee5fa.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "538051437800849408": {
+    "id": 538051437800849408,
+    "name": "ausiemusso",
+    "nick": null,
+    "display_name": "Ne-ro",
+    "global_name": "Ne-ro",
+    "pronouns": "He",
+    "guild_pronouns": null,
+    "bio": "artist",
+    "guild_bio": null,
+    "display_bio": "artist",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e8e0254a197f45d1838bd741a1ac0d04",
+        "name": "ausiemusso",
+        "url": null
+      },
+      "facebook": {
+        "id": "2779775312037813",
+        "name": "Nelson J. Lozada",
+        "url": null
+      },
+      "instagram": {
+        "id": "6262880307164489",
+        "name": "nelsonbynero",
+        "url": "https://www.instagram.com/nelsonbynero"
+      },
+      "steam": {
+        "id": "76561198999454603",
+        "name": "Nero",
+        "url": "https://steamcommunity.com/profiles/76561198999454603"
+      },
+      "tiktok": {
+        "id": "0b443604-26f2-5782-ab31-a2523f903ec7",
+        "name": "nerobygenshin",
+        "url": "https://tiktok.com/@nerobygenshin"
+      },
+      "twitch": {
+        "id": "112459179",
+        "name": "ausiemusso",
+        "url": "https://www.twitch.tv/ausiemusso"
+      },
+      "twitter": {
+        "id": "931295372928004098",
+        "name": "ausiemusso",
+        "url": "https://twitter.com/ausiemusso"
+      },
+      "xbox": {
+        "id": "3072199047595279",
+        "name": "NERODYON",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=NERODYON"
+      }
+    },
+    "legacy_username": "ausiemusso#2197"
+  },
+  "255647431943782402": {
+    "id": 255647431943782402,
+    "name": "wubby_muchacho",
+    "nick": null,
+    "display_name": "Wubby_Muchacho",
+    "global_name": "Wubby_Muchacho",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://www.twitch.tv/wubbymuchacho",
+    "guild_bio": null,
+    "display_bio": "https://www.twitch.tv/wubbymuchacho",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "532411888",
+        "name": "wubbymuchacho",
+        "url": "https://www.twitch.tv/wubbymuchacho"
+      }
+    },
+    "legacy_username": "Wubby_Muchacho#6408"
   }
 }
