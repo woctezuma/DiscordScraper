@@ -51037,5 +51037,31 @@
       }
     },
     "legacy_username": "Eyad#7434"
+  },
+  "835506726555222056": {
+    "id": 835506726555222056,
+    "name": "jiiichu",
+    "nick": null,
+    "display_name": "Jiichu",
+    "global_name": "Jiichu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ngqile",
+        "name": "Ng Qi Le",
+        "url": "https://open.spotify.com/user/ngqile"
+      }
+    },
+    "legacy_username": "jiichu#1016"
   }
 }
