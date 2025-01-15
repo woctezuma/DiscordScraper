@@ -50209,5 +50209,47 @@
       }
     },
     "legacy_username": "WoRmS#0935"
+  },
+  "852563048099086336": {
+    "id": 852563048099086336,
+    "name": "udw_ferdi",
+    "nick": null,
+    "display_name": "FERDISTREAMS",
+    "global_name": "FERDISTREAMS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"Gamers never die, they respawn.\"",
+    "guild_bio": null,
+    "display_bio": "\"Gamers never die, they respawn.\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31szhqpsfro6dq22kxdhnikpuy2i",
+        "name": "UDW_ FERDI",
+        "url": "https://open.spotify.com/user/31szhqpsfro6dq22kxdhnikpuy2i"
+      }
+    },
+    "legacy_username": null
+  },
+  "1328971306208596056": {
+    "id": 1328971306208596056,
+    "name": "pepito_16783",
+    "nick": null,
+    "display_name": "PePiTo",
+    "global_name": "PePiTo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
