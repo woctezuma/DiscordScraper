@@ -51924,5 +51924,72 @@
       }
     },
     "legacy_username": "Ginoshimo#4714"
+  },
+  "220724955120140288": {
+    "id": 220724955120140288,
+    "name": "gregoy1",
+    "nick": null,
+    "display_name": "gregoy1",
+    "global_name": "gregoy1",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "ututb",
+        "name": "gregoy",
+        "url": "https://www.reddit.com/u/gregoy"
+      },
+      "steam": {
+        "id": "76561198025135749",
+        "name": "gregoryteixeira",
+        "url": "https://steamcommunity.com/profiles/76561198025135749"
+      },
+      "twitch": {
+        "id": "118090694",
+        "name": "gregoy1",
+        "url": "https://www.twitch.tv/gregoy1"
+      },
+      "twitter": {
+        "id": "87254897",
+        "name": "gregpoi17",
+        "url": "https://twitter.com/gregpoi17"
+      },
+      "youtube": {
+        "id": "UCTXUcg9cH5f9BSr6Wdo5zNg",
+        "name": "Gregory Teixeira",
+        "url": "https://www.youtube.com/channel/UCTXUcg9cH5f9BSr6Wdo5zNg"
+      }
+    },
+    "legacy_username": "Greg#4179"
+  },
+  "128808013774454784": {
+    "id": 128808013774454784,
+    "name": "bof007",
+    "nick": null,
+    "display_name": "BOF007",
+    "global_name": "BOF007",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "`Note.txt                `\n> @me if you are talking to me in a server chat, I have all channels muted for my sanity's sake",
+    "guild_bio": null,
+    "display_bio": "`Note.txt                `\n> @me if you are talking to me in a server chat, I have all channels muted for my sanity's sake",
+    "banner": "https://cdn.discordapp.com/banners/128808013774454784/a_8f675bbec581c31af19617f823715942.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/128808013774454784/a_8f675bbec581c31af19617f823715942.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
