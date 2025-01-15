@@ -50855,5 +50855,23 @@
       }
     },
     "legacy_username": "Crucivan#7422"
+  },
+  "1276522428109033596": {
+    "id": 1276522428109033596,
+    "name": "el_cizar97",
+    "nick": null,
+    "display_name": "El_Cizar",
+    "global_name": "El_Cizar",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
