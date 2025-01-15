@@ -52434,5 +52434,59 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "398926541347880960": {
+    "id": 398926541347880960,
+    "name": "marse3194",
+    "nick": null,
+    "display_name": "marse3194",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "A day without sunshine is like, you know, night.",
+    "guild_bio": null,
+    "display_bio": "A day without sunshine is like, you know, night.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "46i2o28n",
+        "name": "bozo-IQ",
+        "url": "https://www.reddit.com/u/bozo-IQ"
+      },
+      "steam": {
+        "id": "76561199249965126",
+        "name": "Citrus",
+        "url": "https://steamcommunity.com/profiles/76561199249965126"
+      }
+    },
+    "legacy_username": "MarSE#3194"
+  },
+  "854217633818083358": {
+    "id": 854217633818083358,
+    "name": "hiposces",
+    "nick": null,
+    "display_name": "zach ",
+    "global_name": "zach ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "kizzy#0522"
   }
 }
