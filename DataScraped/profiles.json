@@ -51640,5 +51640,31 @@
       }
     },
     "legacy_username": "wataheill#0258"
+  },
+  "261263956008501259": {
+    "id": 261263956008501259,
+    "name": "exdii.",
+    "nick": null,
+    "display_name": "Exdii",
+    "global_name": "Exdii",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "EpicPants#22156",
+        "name": "EpicPants#22156",
+        "url": null
+      }
+    },
+    "legacy_username": "Exdii#0988"
   }
 }
