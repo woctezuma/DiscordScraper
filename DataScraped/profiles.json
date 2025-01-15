@@ -53106,5 +53106,46 @@
       }
     },
     "legacy_username": "Mooey#8655"
+  },
+  "405776373358264341": {
+    "id": 405776373358264341,
+    "name": "kevinbolero69",
+    "nick": null,
+    "display_name": "BoleroBcr",
+    "global_name": "BoleroBcr",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1166182515",
+        "name": "BoleroBCR",
+        "url": "https://open.spotify.com/user/1166182515"
+      },
+      "steam": {
+        "id": "76561198285552216",
+        "name": "kevinbolero96",
+        "url": "https://steamcommunity.com/profiles/76561198285552216"
+      },
+      "twitch": {
+        "id": "196438997",
+        "name": "kevinbolero96",
+        "url": "https://www.twitch.tv/kevinbolero96"
+      },
+      "youtube": {
+        "id": "UCIg2qRhnAFiMtdtbYPyJ8wQ",
+        "name": "Bolero BCR",
+        "url": "https://www.youtube.com/channel/UCIg2qRhnAFiMtdtbYPyJ8wQ"
+      }
+    },
+    "legacy_username": "kevinbolero69#9695"
   }
 }
