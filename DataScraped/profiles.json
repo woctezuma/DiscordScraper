@@ -53733,5 +53733,32 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "944024041445003281": {
+    "id": 944024041445003281,
+    "name": "scp_4357",
+    "nick": null,
+    "display_name": "SCP-4357",
+    "global_name": "SCP-4357",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3065756355196963",
+        "name": "SCP 43577074",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SCP 43577074"
+      }
+    },
+    "legacy_username": "unknownX#5293"
   }
 }
