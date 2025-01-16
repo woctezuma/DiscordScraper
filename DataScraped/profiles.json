@@ -54630,5 +54630,126 @@
     ],
     "connections": {},
     "legacy_username": "jumamik000#0871"
+  },
+  "761759516622323712": {
+    "id": 761759516622323712,
+    "name": "jvpacheco_",
+    "nick": null,
+    "display_name": "JvP",
+    "global_name": "JvP",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hi there! ",
+    "guild_bio": null,
+    "display_bio": "Hi there! ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jo\u00e3o Victor Pacheco#1097"
+  },
+  "682320647736656067": {
+    "id": 682320647736656067,
+    "name": "dualsito",
+    "nick": null,
+    "display_name": "Dualzera",
+    "global_name": "Dualzera",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "dual#6522"
+  },
+  "741443732334837832": {
+    "id": 741443732334837832,
+    "name": "why5949",
+    "nick": null,
+    "display_name": "{L.D.R}",
+    "global_name": "{L.D.R}",
+    "pronouns": "Dead/Bottom",
+    "guild_pronouns": null,
+    "bio": "COOKED on a new scale",
+    "guild_bio": null,
+    "display_bio": "COOKED on a new scale",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "57f37209aa0a45ff88e8937c516cf0f2",
+        "name": "CO01L",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "-YvH1f1If-QNBYPBMMU0ngLktly37rVTJb_rcZbpXYqJ13hzIsz7lX4n_2vn2nZzlOsFHzHpvPEVuA",
+        "name": "",
+        "url": null
+      },
+      "riot_games": {
+        "id": "-YvH1f1If-QNBYPBMMU0ngLktly37rVTJb_rcZbpXYqJ13hzIsz7lX4n_2vn2nZzlOsFHzHpvPEVuA",
+        "name": "f056da33-f16c-41f6-8714-b2f200bc9a19#OCE",
+        "url": null
+      },
+      "spotify": {
+        "id": "31h43vhjvyzbnfw73keg5nroloxe",
+        "name": "CO01L",
+        "url": "https://open.spotify.com/user/31h43vhjvyzbnfw73keg5nroloxe"
+      },
+      "steam": {
+        "id": "76561198832819244",
+        "name": "CO01L",
+        "url": "https://steamcommunity.com/profiles/76561198832819244"
+      },
+      "youtube": {
+        "id": "UChig-jED6QAPcwQYwlaVMCg",
+        "name": "Maker",
+        "url": "https://www.youtube.com/channel/UChig-jED6QAPcwQYwlaVMCg"
+      }
+    },
+    "legacy_username": "Why#5949"
+  },
+  "408652439739170817": {
+    "id": 408652439739170817,
+    "name": "superkire",
+    "nick": null,
+    "display_name": "superkire",
+    "global_name": "superkire",
+    "pronouns": "Ost/b\u00e5ge",
+    "guild_pronouns": null,
+    "bio": "```- Nr man festar, festar man och d festar man rejlt\n```\n\n|| Nr man r ung ska man dricka skumpa och filosofera om livet||",
+    "guild_bio": null,
+    "display_bio": "```- Nr man festar, festar man och d festar man rejlt\n```\n\n|| Nr man r ung ska man dricka skumpa och filosofera om livet||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "182282570",
+        "name": "syperkire",
+        "url": "https://www.twitch.tv/syperkire"
+      }
+    },
+    "legacy_username": "Superkire#5066"
   }
 }
