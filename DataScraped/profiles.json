@@ -55180,5 +55180,53 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "735178731726962718": {
+    "id": 735178731726962718,
+    "name": "umbra.wav",
+    "nick": null,
+    "display_name": "Umbra Fennec",
+    "global_name": "Umbra Fennec",
+    "pronouns": "he/him/hole",
+    "guild_pronouns": null,
+    "bio": "^^\n Bisexual but prefer men :3c \n switch but always be on top \n age: 23\n bday: Nov 4\n 167cm / 5'6ft | 70 kilos / 154 lbs",
+    "guild_bio": null,
+    "display_bio": "^^\n Bisexual but prefer men :3c \n switch but always be on top \n age: 23\n bday: Nov 4\n 167cm / 5'6ft | 70 kilos / 154 lbs",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bungie": {
+        "id": "4611686018527945855",
+        "name": "Umbra Fennec",
+        "url": null
+      },
+      "epic_games": {
+        "id": "c7507ebd1c144cd494b2a8a5f75f2f28",
+        "name": "Cato_xiii",
+        "url": null
+      },
+      "spotify": {
+        "id": "31wkjdqr5gkgycpc6ujr2dnlqm2i",
+        "name": "EmxtyEntity(Hxnz)",
+        "url": "https://open.spotify.com/user/31wkjdqr5gkgycpc6ujr2dnlqm2i"
+      },
+      "steam": {
+        "id": "76561198840661343",
+        "name": "Umbra Fennec",
+        "url": "https://steamcommunity.com/profiles/76561198840661343"
+      },
+      "xbox": {
+        "id": "3077095493027195",
+        "name": "Cato3940",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Cato3940"
+      }
+    },
+    "legacy_username": "Hazely2k#4042"
   }
 }
