@@ -54526,5 +54526,87 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1170224658092671001": {
+    "id": 1170224658092671001,
+    "name": "diessel014",
+    "nick": null,
+    "display_name": "8cho",
+    "global_name": "8cho",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1303315342285738060": {
+    "id": 1303315342285738060,
+    "name": "abdullahawannn",
+    "nick": null,
+    "display_name": "Abdullah Awan",
+    "global_name": "Abdullah Awan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "738596119394910208": {
+    "id": 738596119394910208,
+    "name": "elmarcsalvador",
+    "nick": null,
+    "display_name": "Marc Salvador",
+    "global_name": "Marc Salvador",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "> We all have limits, but none of us truly know how far we can go or what we're capable of. The key is never to be afraid to go that little bit further, to keep pushing.\n>  - Ayrton Senna",
+    "guild_bio": null,
+    "display_bio": "> We all have limits, but none of us truly know how far we can go or what we're capable of. The key is never to be afraid to go that little bit further, to keep pushing.\n>  - Ayrton Senna",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "72746950",
+        "name": "elmarcsalvador",
+        "url": "https://github.com/elmarcsalvador"
+      },
+      "instagram": {
+        "id": "6355875671171058",
+        "name": "elmarcsalvador",
+        "url": "https://www.instagram.com/elmarcsalvador"
+      },
+      "riot_games": {
+        "id": "4PgvMZ3xMWakrE0sOBHKAA5Uz0eZaLeWdAoehRrkD2I9TNUB8ncWT9Y1xBL32_R5ye8_3bwROkogJQ",
+        "name": "MarcSalvador#3533",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199103396186",
+        "name": "Marc Salvador",
+        "url": "https://steamcommunity.com/profiles/76561199103396186"
+      }
+    },
+    "legacy_username": "Marc Salvador#3533"
   }
 }
