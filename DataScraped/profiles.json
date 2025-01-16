@@ -56295,5 +56295,65 @@
       }
     },
     "legacy_username": null
+  },
+  "516653067303649290": {
+    "id": 516653067303649290,
+    "name": "heyoollie",
+    "nick": null,
+    "display_name": "ollie",
+    "global_name": "ollie",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "Howdy I'm Ollie. annoyingly serious and seriously annoying. ",
+    "guild_bio": null,
+    "display_bio": "Howdy I'm Ollie. annoyingly serious and seriously annoying. ",
+    "banner": "https://cdn.discordapp.com/banners/516653067303649290/96a30fc83c99bc939b5bbe789c6f4692.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/516653067303649290/96a30fc83c99bc939b5bbe789c6f4692.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "HeyoOllie#1905",
+        "name": "HeyoOllie#1905",
+        "url": null
+      },
+      "spotify": {
+        "id": "1215699576",
+        "name": "Olivia C",
+        "url": "https://open.spotify.com/user/1215699576"
+      },
+      "steam": {
+        "id": "76561198872708369",
+        "name": "OcarinaofThyme",
+        "url": "https://steamcommunity.com/profiles/76561198872708369"
+      }
+    },
+    "legacy_username": "HeyoOllie#9066"
+  },
+  "321393466854735883": {
+    "id": 321393466854735883,
+    "name": "snailer.",
+    "nick": null,
+    "display_name": "Snailer",
+    "global_name": "Snailer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Snailer#3648"
   }
 }
