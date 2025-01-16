@@ -55617,5 +55617,66 @@
     ],
     "connections": {},
     "legacy_username": "Edoardo#3217"
+  },
+  "1282005383724011520": {
+    "id": 1282005383724011520,
+    "name": "agiemer_28950",
+    "nick": null,
+    "display_name": "Agiemer",
+    "global_name": "Agiemer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199088252442",
+        "name": "Agiemer",
+        "url": "https://steamcommunity.com/profiles/76561199088252442"
+      }
+    },
+    "legacy_username": null
+  },
+  "587185629843161107": {
+    "id": 587185629843161107,
+    "name": "ashinkin",
+    "nick": null,
+    "display_name": "ashinkin",
+    "global_name": "ashinkin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "eve on top  ",
+    "guild_bio": null,
+    "display_bio": "eve on top  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "dguyoRtQNT_QqS8Y2pScIRSdOvn3XFYdhebFvfXkU2ETlqVoG6b6ZNot2YR8Jpbhjn989G_1_V6scg",
+        "name": "Artorias#eve",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ekvdgdr4ffnwozdkz2eqaxxtym",
+        "name": "Ashinkin",
+        "url": "https://open.spotify.com/user/31ekvdgdr4ffnwozdkz2eqaxxtym"
+      },
+      "steam": {
+        "id": "76561199510506102",
+        "name": "Ashinkin",
+        "url": "https://steamcommunity.com/profiles/76561199510506102"
+      }
+    },
+    "legacy_username": null
   }
 }
