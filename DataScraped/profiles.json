@@ -54941,5 +54941,36 @@
       }
     },
     "legacy_username": null
+  },
+  "708632796670722049": {
+    "id": 708632796670722049,
+    "name": "kvo89",
+    "nick": null,
+    "display_name": "Kvo",
+    "global_name": "Kvo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Mechanicus#1672",
+    "guild_bio": null,
+    "display_bio": "Mechanicus#1672",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "SEELE#21936",
+        "name": "SEELE#21936",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199009040565",
+        "name": "6\u041d\u041a-3\u0420",
+        "url": "https://steamcommunity.com/profiles/76561199009040565"
+      }
+    },
+    "legacy_username": "Kvo-89#1672"
   }
 }
