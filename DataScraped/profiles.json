@@ -55135,5 +55135,32 @@
       }
     },
     "legacy_username": "PinkCloud#1278"
+  },
+  "630310769963302932": {
+    "id": 630310769963302932,
+    "name": "umbralveil",
+    "nick": null,
+    "display_name": "Shadow",
+    "global_name": "Shadow",
+    "pronouns": "He / Him",
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCqGDj8VPX7aFsLYRU0COh9A",
+        "name": "\u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0417\u043c\u0435\u0439",
+        "url": "https://www.youtube.com/channel/UCqGDj8VPX7aFsLYRU0COh9A"
+      }
+    },
+    "legacy_username": "CyberSnake#8349"
   }
 }
