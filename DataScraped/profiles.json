@@ -54887,5 +54887,59 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "901258377424953354": {
+    "id": 901258377424953354,
+    "name": "sofaleaper",
+    "nick": null,
+    "display_name": "SofaLeaper",
+    "global_name": "SofaLeaper",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "lazyboy0284#1111",
+        "name": "lazyboy0284#1111",
+        "url": null
+      },
+      "epic_games": {
+        "id": "9e9941bc81204376a6725c3b351ab6d7",
+        "name": "SofaLeaper",
+        "url": null
+      },
+      "playstation": {
+        "id": "1255926697047562886",
+        "name": "SofaLeaper",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197997738072",
+        "name": "SofaLeaper",
+        "url": "https://steamcommunity.com/profiles/76561197997738072"
+      },
+      "twitch": {
+        "id": "736440797",
+        "name": "sofaleaper",
+        "url": "https://www.twitch.tv/sofaleaper"
+      },
+      "twitter": {
+        "id": "1451698219231195139",
+        "name": "SofaLeaper",
+        "url": "https://twitter.com/SofaLeaper"
+      },
+      "youtube": {
+        "id": "UCeLZLP4MB-dma7nrs5hQQVg",
+        "name": "SofaLeaper",
+        "url": "https://www.youtube.com/channel/UCeLZLP4MB-dma7nrs5hQQVg"
+      }
+    },
+    "legacy_username": null
   }
 }
