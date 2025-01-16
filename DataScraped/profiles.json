@@ -53685,5 +53685,35 @@
       }
     },
     "legacy_username": null
+  },
+  "524977322198302730": {
+    "id": 524977322198302730,
+    "name": "ykle",
+    "nick": null,
+    "display_name": "Kyle",
+    "global_name": "Kyle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Also known as **Nerty**\n<:symbol_batmanwhite:693133549468909620>",
+    "guild_bio": null,
+    "display_bio": "Also known as **Nerty**\n<:symbol_batmanwhite:693133549468909620>",
+    "banner": "https://cdn.discordapp.com/banners/524977322198302730/a_b5578433355988f013690e5654af5dcd.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/524977322198302730/a_b5578433355988f013690e5654af5dcd.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "musicmasterkyle",
+        "name": "Kyle",
+        "url": "https://open.spotify.com/user/musicmasterkyle"
+      }
+    },
+    "legacy_username": "Nerty#9509"
   }
 }
