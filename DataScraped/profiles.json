@@ -54506,5 +54506,25 @@
       }
     },
     "legacy_username": "Lumber#5305"
+  },
+  "885002333971415091": {
+    "id": 885002333971415091,
+    "name": "12944011",
+    "nick": null,
+    "display_name": "Codeine",
+    "global_name": "Codeine",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://www.wemimi.com/#/login/login?memberId=1700341509121622198 only for sigmas",
+    "guild_bio": null,
+    "display_bio": "https://www.wemimi.com/#/login/login?memberId=1700341509121622198 only for sigmas",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
