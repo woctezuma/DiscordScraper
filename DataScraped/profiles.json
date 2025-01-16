@@ -56513,5 +56513,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1061013517681049641": {
+    "id": 1061013517681049641,
+    "name": "lperdy",
+    "nick": null,
+    "display_name": "lperdy",
+    "global_name": "lperdy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "lperdy#3994"
   }
 }
