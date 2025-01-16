@@ -54274,5 +54274,31 @@
       }
     },
     "legacy_username": "Avocadoboi#6716"
+  },
+  "357455146076078081": {
+    "id": 357455146076078081,
+    "name": "_nub1",
+    "nick": null,
+    "display_name": "nub",
+    "global_name": "nub",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198162582644",
+        "name": "nub",
+        "url": "https://steamcommunity.com/profiles/76561198162582644"
+      }
+    },
+    "legacy_username": "nub#1591"
   }
 }
