@@ -54751,5 +54751,141 @@
       }
     },
     "legacy_username": "Superkire#5066"
+  },
+  "753688302565064845": {
+    "id": 753688302565064845,
+    "name": "jakubkoooo",
+    "nick": null,
+    "display_name": "Jakubkoooo",
+    "global_name": "Jakubkoooo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Jakubkoooo#3012"
+  },
+  "672536869829083156": {
+    "id": 672536869829083156,
+    "name": "miguelito07983",
+    "nick": null,
+    "display_name": "Miguelito",
+    "global_name": "Miguelito",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Chi sono",
+    "guild_bio": null,
+    "display_bio": "Chi sono",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "94841209317041c19576d43627ba7505",
+        "name": "CHRIX-BANANA",
+        "url": null
+      },
+      "playstation": {
+        "id": "1212732938243445403",
+        "name": "cHrIx-MaNdInGo09",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199143192511",
+        "name": "CHRIX-BANANA",
+        "url": "https://steamcommunity.com/profiles/76561199143192511"
+      }
+    },
+    "legacy_username": "Miguelito#6677"
+  },
+  "1271913122235551754": {
+    "id": 1271913122235551754,
+    "name": "john_john_john_john_jon",
+    "nick": null,
+    "display_name": "John",
+    "global_name": "John",
+    "pronouns": "John",
+    "guild_pronouns": null,
+    "bio": "Im John",
+    "guild_bio": null,
+    "display_bio": "Im John",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "reddit": {
+        "id": "bosejm1ik",
+        "name": "Upset-Drive-4129",
+        "url": "https://www.reddit.com/u/Upset-Drive-4129"
+      },
+      "spotify": {
+        "id": "31riog46c2vvtansm6jbbtyxeula",
+        "name": "Tristan Winneker",
+        "url": "https://open.spotify.com/user/31riog46c2vvtansm6jbbtyxeula"
+      },
+      "steam": {
+        "id": "76561199550662943",
+        "name": "pissjar",
+        "url": "https://steamcommunity.com/profiles/76561199550662943"
+      }
+    },
+    "legacy_username": null
+  },
+  "962993616484184064": {
+    "id": 962993616484184064,
+    "name": "zun4126",
+    "nick": null,
+    "display_name": "MrPeterGriffin",
+    "global_name": "MrPeterGriffin",
+    "pronouns": "MR DUKE",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3074677851169525",
+        "name": "YellowLemon4126",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=YellowLemon4126"
+      }
+    },
+    "legacy_username": "zun#6283"
+  },
+  "875381988637421648": {
+    "id": 875381988637421648,
+    "name": "peashooter16",
+    "nick": null,
+    "display_name": "PeaShooterHuy",
+    "global_name": "PeaShooterHuy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Siuuuu",
+    "guild_bio": null,
+    "display_bio": "Siuuuu",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
