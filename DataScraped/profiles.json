@@ -53489,5 +53489,26 @@
       }
     },
     "legacy_username": "Anne#2641"
+  },
+  "963037006324203570": {
+    "id": 963037006324203570,
+    "name": "arrg1a",
+    "nick": null,
+    "display_name": "nell",
+    "global_name": "nell",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/963037006324203570/8e134260959c7cd5a4a045be35b1f700.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/963037006324203570/8e134260959c7cd5a4a045be35b1f700.png?size=512",
+    "badges": [
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
