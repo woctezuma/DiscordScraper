@@ -56381,5 +56381,36 @@
       }
     },
     "legacy_username": "Lungo#5868"
+  },
+  "352510625089454081": {
+    "id": 352510625089454081,
+    "name": "themanasaur",
+    "nick": null,
+    "display_name": "The ManASaur",
+    "global_name": "The ManASaur",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "TheManASaur#1546",
+        "name": "TheManASaur#1546",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198117223531",
+        "name": "The ManASaur",
+        "url": "https://steamcommunity.com/profiles/76561198117223531"
+      }
+    },
+    "legacy_username": "The ManASaur#5585"
   }
 }
