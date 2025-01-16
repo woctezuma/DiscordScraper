@@ -54101,5 +54101,95 @@
       }
     },
     "legacy_username": "Chantal#3600"
+  },
+  "458834488433311754": {
+    "id": 458834488433311754,
+    "name": "ghostlyteddy",
+    "nick": null,
+    "display_name": "GhostlyTeddy",
+    "global_name": "GhostlyTeddy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I've been on the hills\n",
+    "guild_bio": null,
+    "display_bio": "I've been on the hills\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "GhostlyTeddy#1853"
+  },
+  "1051512828563050626": {
+    "id": 1051512828563050626,
+    "name": "faitergamefg",
+    "nick": null,
+    "display_name": "Faiter",
+    "global_name": "Faiter",
+    "pronouns": "Human/man",
+    "guild_pronouns": null,
+    "bio": "My favorite game is Project zomboid\nI love Minecraft, Fortnite, roblox, left for dead 2,S.T.A.L.K.E.R and etc...\n\nI also love playing tennis ",
+    "guild_bio": null,
+    "display_bio": "My favorite game is Project zomboid\nI love Minecraft, Fortnite, roblox, left for dead 2,S.T.A.L.K.E.R and etc...\n\nI also love playing tennis ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "888299630",
+        "name": "faitergamefg",
+        "url": "https://www.twitch.tv/faitergamefg"
+      }
+    },
+    "legacy_username": "FaitergameFG#7393"
+  },
+  "468374807109566464": {
+    "id": 468374807109566464,
+    "name": "cappuccino0730",
+    "nick": null,
+    "display_name": "Cappuccino",
+    "global_name": "Cappuccino",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Cappuccino#8477"
+  },
+  "1019641631919583384": {
+    "id": 1019641631919583384,
+    "name": "hhv123121",
+    "nick": null,
+    "display_name": "Hhv",
+    "global_name": "Hhv",
+    "pronouns": "stop/this/crap",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Hhv#7671"
   }
 }
