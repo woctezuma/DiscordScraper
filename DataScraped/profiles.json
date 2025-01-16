@@ -54300,5 +54300,39 @@
       }
     },
     "legacy_username": "nub#1591"
+  },
+  "232079022023114752": {
+    "id": 232079022023114752,
+    "name": "oniichan42793",
+    "nick": null,
+    "display_name": "Rhemar",
+    "global_name": "Rhemar",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "35th Fighter Wing\nhttps://www.facebook.com/NeOniichan/\nhttps://www.twitch.tv/rhemz_ttv",
+    "guild_bio": null,
+    "display_bio": "35th Fighter Wing\nhttps://www.facebook.com/NeOniichan/\nhttps://www.twitch.tv/rhemz_ttv",
+    "banner": "https://cdn.discordapp.com/banners/232079022023114752/a_9f2aa9e9df46be1145e51c166d078657.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/232079022023114752/a_9f2aa9e9df46be1145e51c166d078657.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "2443367172345514",
+        "name": "Rhemar Terada Baltazar",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198015290659",
+        "name": "the entire population of PH",
+        "url": "https://steamcommunity.com/profiles/76561198015290659"
+      }
+    },
+    "legacy_username": "Rhemz#3865"
   }
 }
