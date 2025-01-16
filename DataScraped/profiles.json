@@ -55228,5 +55228,105 @@
       }
     },
     "legacy_username": "Hazely2k#4042"
+  },
+  "613328382196973579": {
+    "id": 613328382196973579,
+    "name": "m0602m",
+    "nick": null,
+    "display_name": "m0602m",
+    "global_name": "m0602m",
+    "pronouns": "these/nuts",
+    "guild_pronouns": null,
+    "bio": "still trying to find out who asked",
+    "guild_bio": null,
+    "display_bio": "still trying to find out who asked",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "97f2066e758240ad83bf3db5b0524e15",
+        "name": "m0602m",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199106143885",
+        "name": "m0602m",
+        "url": "https://steamcommunity.com/profiles/76561199106143885"
+      },
+      "twitch": {
+        "id": "543052960",
+        "name": "m0602m",
+        "url": "https://www.twitch.tv/m0602m"
+      },
+      "xbox": {
+        "id": "OTM4NDNiZGZjZThmZjBlNWVlZmFhYjQxZjhkN2U0ZGFjYmMyMTdkNGNhODI1ODFhZmM1ZDAzNjI4N2UyZmVhNA",
+        "name": "m0602m",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=m0602m"
+      }
+    },
+    "legacy_username": "m0602m#6182"
+  },
+  "411623518980145162": {
+    "id": 411623518980145162,
+    "name": "masiedoodles",
+    "nick": null,
+    "display_name": "Masie",
+    "global_name": "Masie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " uwu ",
+    "guild_bio": null,
+    "display_bio": " uwu ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Masie#7104"
+  },
+  "771030743978868756": {
+    "id": 771030743978868756,
+    "name": "moning9706",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u0e2b\u0e21\u0e2d\u0e19\u0e2d\u0e34\u0e07#9706"
+  },
+  "1329214634145746954": {
+    "id": 1329214634145746954,
+    "name": "endanonado",
+    "nick": null,
+    "display_name": "endanonado",
+    "global_name": "endanonado",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
