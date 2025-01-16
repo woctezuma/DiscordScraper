@@ -53760,5 +53760,63 @@
       }
     },
     "legacy_username": "unknownX#5293"
+  },
+  "1079353422194688161": {
+    "id": 1079353422194688161,
+    "name": ".alexb23",
+    "nick": null,
+    "display_name": "MetalB1#0137",
+    "global_name": "MetalB1#0137",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "AlexB21#0133"
+  },
+  "807152031944540161": {
+    "id": 807152031944540161,
+    "name": "drfreakalicious",
+    "nick": null,
+    "display_name": "dr freak",
+    "global_name": "dr freak",
+    "pronouns": "those/who/know",
+    "guild_pronouns": null,
+    "bio": "mangos mangos ",
+    "guild_bio": null,
+    "display_bio": "mangos mangos ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "4cc3502c5f0b4fcd8c1f75a876ed7d2d",
+        "name": "Txnxlogy",
+        "url": null
+      },
+      "playstation": {
+        "id": "6999846508600949839",
+        "name": "UhTempest",
+        "url": null
+      },
+      "spotify": {
+        "id": "31royhqacgjttuz5vsiuyavf5gem",
+        "name": "Plutoes",
+        "url": "https://open.spotify.com/user/31royhqacgjttuz5vsiuyavf5gem"
+      }
+    },
+    "legacy_username": "blakey#2098"
   }
 }
