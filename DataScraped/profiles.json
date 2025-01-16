@@ -54211,5 +54211,37 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "239706796560875522": {
+    "id": 239706796560875522,
+    "name": "kudesn1kgnk",
+    "nick": null,
+    "display_name": "Kudesn1k#GNK",
+    "global_name": "Kudesn1k#GNK",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Kudesn1k#2493",
+        "name": "Kudesn1k#2493",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198150268009",
+        "name": "Kudesn1k#GNK",
+        "url": "https://steamcommunity.com/profiles/76561198150268009"
+      }
+    },
+    "legacy_username": "Kudesn1kGNK#1620"
   }
 }
