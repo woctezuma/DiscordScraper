@@ -53818,5 +53818,77 @@
       }
     },
     "legacy_username": "blakey#2098"
+  },
+  "887456166173630494": {
+    "id": 887456166173630494,
+    "name": "palladium_black",
+    "nick": null,
+    "display_name": "Palladium Black",
+    "global_name": "Palladium Black",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "518056508014198785": {
+    "id": 518056508014198785,
+    "name": "xizzyx",
+    "nick": null,
+    "display_name": "izzy",
+    "global_name": "izzy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "b3598c2c6245481bbb59daed78f8bd77",
+        "name": "izzy_1304",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199196537295",
+        "name": "izzy",
+        "url": "https://steamcommunity.com/profiles/76561199196537295"
+      },
+      "xbox": {
+        "id": "3073285640943398",
+        "name": "izzy4375",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=izzy4375"
+      }
+    },
+    "legacy_username": "\u00d7izzy\u00d7#0785"
+  },
+  "770775963175747624": {
+    "id": 770775963175747624,
+    "name": "moogoescow.calroins.com",
+    "nick": null,
+    "display_name": "MooGoesCow",
+    "global_name": "MooGoesCow",
+    "pronouns": "MooGoesCow",
+    "guild_pronouns": null,
+    "bio": "Feel free to contact me at moogoescow@calroins.com",
+    "guild_bio": null,
+    "display_bio": "Feel free to contact me at moogoescow@calroins.com",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
