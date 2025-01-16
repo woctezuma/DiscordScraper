@@ -55328,5 +55328,89 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "429828681246965763": {
+    "id": 429828681246965763,
+    "name": "skypinglost",
+    "nick": null,
+    "display_name": "skypinglost",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "not a native speaker of English\nUTC+8",
+    "guild_bio": null,
+    "display_bio": "not a native speaker of English\nUTC+8",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198073487883",
+        "name": "BlankBottle",
+        "url": "https://steamcommunity.com/profiles/76561198073487883"
+      },
+      "twitch": {
+        "id": "186192682",
+        "name": "blankbottle",
+        "url": "https://www.twitch.tv/blankbottle"
+      }
+    },
+    "legacy_username": "skyping#9543"
+  },
+  "393507887101640728": {
+    "id": 393507887101640728,
+    "name": "red_reaper",
+    "nick": null,
+    "display_name": "Red_Reaper",
+    "global_name": "Red_Reaper",
+    "pronouns": "L\u00e1 ele / L\u00e1 nele",
+    "guild_pronouns": null,
+    "bio": "Go Jhonny Go",
+    "guild_bio": null,
+    "display_bio": "Go Jhonny Go",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "3929d560f21f4224a6f3ad27734b5288",
+        "name": "Ceifador_Rubro",
+        "url": null
+      },
+      "playstation": {
+        "id": "4235405114223412809",
+        "name": "Ceifador_Rubro",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198407779761",
+        "name": "Ceifador_Rubro",
+        "url": "https://steamcommunity.com/profiles/76561198407779761"
+      },
+      "twitch": {
+        "id": "189478792",
+        "name": "ceifador_rubro",
+        "url": "https://www.twitch.tv/ceifador_rubro"
+      },
+      "xbox": {
+        "id": "3061473459993630",
+        "name": "levi12272619",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=levi12272619"
+      },
+      "youtube": {
+        "id": "UCPXv0orkBxwZFESb1Oi8V8A",
+        "name": "levi1227",
+        "url": "https://www.youtube.com/channel/UCPXv0orkBxwZFESb1Oi8V8A"
+      }
+    },
+    "legacy_username": "Red_Reaper#3920"
   }
 }
