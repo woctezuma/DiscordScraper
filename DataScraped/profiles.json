@@ -54412,5 +54412,36 @@
       }
     },
     "legacy_username": "Mason | A.#0001"
+  },
+  "877635421079740468": {
+    "id": 877635421079740468,
+    "name": "helinde.",
+    "nick": null,
+    "display_name": "Helinde",
+    "global_name": "Helinde",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Chocolate Mousse is Life",
+    "guild_bio": null,
+    "display_bio": "Chocolate Mousse is Life",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "hmzn82yhaa4gtnp3fcpokqegg",
+        "name": "Jax",
+        "url": "https://open.spotify.com/user/hmzn82yhaa4gtnp3fcpokqegg"
+      },
+      "steam": {
+        "id": "76561198061356992",
+        "name": "\u210c\ud835\udd22\ud835\udd29\ud835\udd26\ud835\udd2b\ud835\udd21\ud835\udd22",
+        "url": "https://steamcommunity.com/profiles/76561198061356992"
+      }
+    },
+    "legacy_username": "Helinde#6555"
   }
 }
