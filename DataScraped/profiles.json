@@ -55678,5 +55678,79 @@
       }
     },
     "legacy_username": null
+  },
+  "629318118010912786": {
+    "id": 629318118010912786,
+    "name": "opropriogaucho",
+    "nick": null,
+    "display_name": "Gacho",
+    "global_name": "Gacho",
+    "pronouns": "A\u00ed dento",
+    "guild_pronouns": null,
+    "bio": "Participo do PCC e CV e estou envolvido com faces criminosas ",
+    "guild_bio": null,
+    "display_bio": "Participo do PCC e CV e estou envolvido com faces criminosas ",
+    "banner": "https://cdn.discordapp.com/banners/629318118010912786/b376acb882b32abddc814bc3e981874e.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/629318118010912786/b376acb882b32abddc814bc3e981874e.png?size=512",
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "889524416470000515",
+        "name": "Ganso-Gostoso360",
+        "url": null
+      },
+      "reddit": {
+        "id": "etu3hag5",
+        "name": "Sakuma-kun360",
+        "url": "https://www.reddit.com/u/Sakuma-kun360"
+      },
+      "spotify": {
+        "id": "8n5qp0u3sui2bkt1vstvzul2r",
+        "name": "Sakuma_primordial",
+        "url": "https://open.spotify.com/user/8n5qp0u3sui2bkt1vstvzul2r"
+      },
+      "steam": {
+        "id": "76561198881278322",
+        "name": "Ga\u00fccho",
+        "url": "https://steamcommunity.com/profiles/76561198881278322"
+      },
+      "xbox": {
+        "id": "3061279338244475",
+        "name": "Sakuma360",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Sakuma360"
+      },
+      "youtube": {
+        "id": "UCT2l3evL9-yr359aenjCYxQ",
+        "name": "G4MEL3TE Plays",
+        "url": "https://www.youtube.com/channel/UCT2l3evL9-yr359aenjCYxQ"
+      }
+    },
+    "legacy_username": "Sakuma (Kazuma) Sincero#4590"
+  },
+  "364938942497292298": {
+    "id": 364938942497292298,
+    "name": "professormunchies",
+    "nick": null,
+    "display_name": "Professor Munchies",
+    "global_name": "Professor Munchies",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "professormunchies#4347"
   }
 }
