@@ -56737,5 +56737,43 @@
       }
     },
     "legacy_username": "xxgamerbubbaxx#7865"
+  },
+  "205120241863360512": {
+    "id": 205120241863360512,
+    "name": "stubbyknubs22",
+    "nick": null,
+    "display_name": "StubbyKnubs",
+    "global_name": "StubbyKnubs",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "early_supporter",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "d7dfa3a3-fc1f-579a-8fa5-46541f6206d6",
+        "name": "Stubbyknubs",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "na_83161109",
+        "name": "jdukart",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198032437346",
+        "name": "Stubbyknubs22",
+        "url": "https://steamcommunity.com/profiles/76561198032437346"
+      }
+    },
+    "legacy_username": "StubbyKnubs22#7850"
   }
 }
