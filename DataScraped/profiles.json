@@ -56666,5 +56666,76 @@
       }
     },
     "legacy_username": "Zets~#9144"
+  },
+  "417105036061966346": {
+    "id": 417105036061966346,
+    "name": "vilssy",
+    "nick": null,
+    "display_name": "Vilsy",
+    "global_name": "Vilsy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "296059170027732993": {
+    "id": 296059170027732993,
+    "name": "xxgamerbubbaxx",
+    "nick": null,
+    "display_name": "xxgamerbubbaxx",
+    "global_name": "xxgamerbubbaxx",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "xxgamerbubba#1371",
+        "name": "xxgamerbubba#1371",
+        "url": null
+      },
+      "facebook": {
+        "id": "1505231796709291",
+        "name": "Jeremy Rost",
+        "url": null
+      },
+      "spotify": {
+        "id": "h0vpouv58d2huaagvzme96vob",
+        "name": "Jeremyrost2004",
+        "url": "https://open.spotify.com/user/h0vpouv58d2huaagvzme96vob"
+      },
+      "steam": {
+        "id": "76561198360278531",
+        "name": "xxgamerbubbaxx",
+        "url": "https://steamcommunity.com/profiles/76561198360278531"
+      },
+      "xbox": {
+        "id": "3067605567561954",
+        "name": "xgamerbubbax875",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=xgamerbubbax875"
+      },
+      "youtube": {
+        "id": "UCEqH69buIKSZu4zHH1lQW8Q",
+        "name": "Xxgamerbubbaxx",
+        "url": "https://www.youtube.com/channel/UCEqH69buIKSZu4zHH1lQW8Q"
+      }
+    },
+    "legacy_username": "xxgamerbubbaxx#7865"
   }
 }
