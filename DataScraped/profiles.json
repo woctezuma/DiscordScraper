@@ -53890,5 +53890,48 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "977036354112348160": {
+    "id": 977036354112348160,
+    "name": "apnugroho",
+    "nick": null,
+    "display_name": "Adi Prasetyo Nugroho",
+    "global_name": "Adi Prasetyo Nugroho",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "APN#1100"
+  },
+  "443027427254337536": {
+    "id": 443027427254337536,
+    "name": "soulikinz",
+    "nick": null,
+    "display_name": "soul",
+    "global_name": "soul",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/443027427254337536/95ed34633bd0b02adfbddc763cce175b.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/443027427254337536/95ed34633bd0b02adfbddc763cce175b.png?size=512",
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "soulikinz#7238"
   }
 }
