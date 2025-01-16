@@ -55901,5 +55901,120 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1086421017938890763": {
+    "id": 1086421017938890763,
+    "name": "fanopeia",
+    "nick": null,
+    "display_name": "Logopeia",
+    "global_name": "Logopeia",
+    "pronouns": "Melopeia",
+    "guild_pronouns": null,
+    "bio": "\"Chegou um tempo em que no adianta morrer.\nChegou um tempo em que a vida  uma ordem.\nA vida apenas, sem mistificao.\"\n\n Drummond, em *os ombros suportam o mundo* (Sentimento do mundo).",
+    "guild_bio": null,
+    "display_bio": "\"Chegou um tempo em que no adianta morrer.\nChegou um tempo em que a vida  uma ordem.\nA vida apenas, sem mistificao.\"\n\n Drummond, em *os ombros suportam o mundo* (Sentimento do mundo).",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "wz1k94zz8x7gxlnr3lcsyz10a",
+        "name": "Melopeia",
+        "url": "https://open.spotify.com/user/wz1k94zz8x7gxlnr3lcsyz10a"
+      },
+      "steam": {
+        "id": "76561198809347572",
+        "name": "Fanopeia",
+        "url": "https://steamcommunity.com/profiles/76561198809347572"
+      },
+      "xbox": {
+        "id": "3075164965562386",
+        "name": "Fanopeia",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Fanopeia"
+      }
+    },
+    "legacy_username": null
+  },
+  "1329543557593174016": {
+    "id": 1329543557593174016,
+    "name": "sinki_40374",
+    "nick": null,
+    "display_name": "sinki",
+    "global_name": "sinki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1244281081113612362": {
+    "id": 1244281081113612362,
+    "name": "rottedoutside",
+    "nick": null,
+    "display_name": "Tony",
+    "global_name": "Tony",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1244281081113612362/a04080cca6355411324e0d80f4a32388.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1244281081113612362/a04080cca6355411324e0d80f4a32388.png?size=512",
+    "badges": [
+      "hypesquad_house_2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "4711376281",
+        "name": "GIazedCupcake",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199163070083",
+        "name": "Tony",
+        "url": "https://steamcommunity.com/profiles/76561199163070083"
+      }
+    },
+    "legacy_username": null
+  },
+  "288359501923352587": {
+    "id": 288359501923352587,
+    "name": "samaubica",
+    "nick": null,
+    "display_name": "God of death",
+    "global_name": "God of death",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198182745234",
+        "name": "\u5931\u308f\u308c\u305f\u9b42",
+        "url": "https://steamcommunity.com/profiles/76561198182745234"
+      }
+    },
+    "legacy_username": "God of death#1294"
   }
 }
