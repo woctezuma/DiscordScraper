@@ -56533,5 +56533,34 @@
     ],
     "connections": {},
     "legacy_username": "lperdy#3994"
+  },
+  "482247356247703553": {
+    "id": 482247356247703553,
+    "name": "hipposzn",
+    "nick": null,
+    "display_name": "hipposzn",
+    "global_name": "hipposzn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198393703619",
+        "name": "hipposzn",
+        "url": "https://steamcommunity.com/profiles/76561198393703619"
+      }
+    },
+    "legacy_username": "hipposzn#7648"
   }
 }
