@@ -56197,5 +56197,103 @@
       }
     },
     "legacy_username": "oR$on#9073"
+  },
+  "201769008284827649": {
+    "id": 201769008284827649,
+    "name": "psykhe1",
+    "nick": null,
+    "display_name": "Psykhe",
+    "global_name": "Psykhe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "la2_110499",
+        "name": "Psykh\u00e9",
+        "url": null
+      },
+      "spotify": {
+        "id": "flasherow",
+        "name": "flasherow",
+        "url": "https://open.spotify.com/user/flasherow"
+      },
+      "twitch": {
+        "id": "50743304",
+        "name": "psykhelol",
+        "url": "https://www.twitch.tv/psykhelol"
+      }
+    },
+    "legacy_username": "Psykh\u00e9#7956"
+  },
+  "890325888686784522": {
+    "id": 890325888686784522,
+    "name": "srlorenez",
+    "nick": null,
+    "display_name": "SrLorenez",
+    "global_name": "SrLorenez",
+    "pronouns": "I/Me/Myself",
+    "guild_pronouns": null,
+    "bio": ":b",
+    "guild_bio": null,
+    "display_bio": ":b",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "faxw2gv41vn4cctpsdgrrbeih",
+        "name": "Chernan",
+        "url": "https://open.spotify.com/user/faxw2gv41vn4cctpsdgrrbeih"
+      },
+      "steam": {
+        "id": "76561199543174502",
+        "name": "SrLorenez",
+        "url": "https://steamcommunity.com/profiles/76561199543174502"
+      }
+    },
+    "legacy_username": "Hern\u00e1n#4180"
+  },
+  "1064452149918048276": {
+    "id": 1064452149918048276,
+    "name": "rop7237",
+    "nick": null,
+    "display_name": "rop7237",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "27fedaae29ec4367b4c2dbaa66076d00",
+        "name": "Nwop m",
+        "url": null
+      },
+      "playstation": {
+        "id": "1155860603919475536",
+        "name": "M-F-OX",
+        "url": null
+      }
+    },
+    "legacy_username": null
   }
 }
