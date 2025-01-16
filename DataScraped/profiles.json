@@ -55837,5 +55837,49 @@
       }
     },
     "legacy_username": "Timych#2817"
+  },
+  "162686297914343425": {
+    "id": 162686297914343425,
+    "name": "roswellcrash",
+    "nick": null,
+    "display_name": "Roswell Crash",
+    "global_name": "Roswell Crash",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Check out my Discord https://discord.gg/9trmbGca86",
+    "guild_bio": null,
+    "display_bio": "Check out my Discord https://discord.gg/9trmbGca86",
+    "banner": "https://cdn.discordapp.com/banners/162686297914343425/52e9601ac807081f64448f1d19c55642.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/162686297914343425/52e9601ac807081f64448f1d19c55642.png?size=512",
+    "badges": [
+      "early_supporter",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "6cdda3b677f24139a7e5bbdc25a48089",
+        "name": "Roswell Crash",
+        "url": null
+      },
+      "facebook": {
+        "id": "10213462417008447",
+        "name": "Chris Murray",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198015575552",
+        "name": "Roswell Crash",
+        "url": "https://steamcommunity.com/profiles/76561198015575552"
+      },
+      "xbox": {
+        "id": "3067087319162232",
+        "name": "Roswell Crash",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Roswell Crash"
+      }
+    },
+    "legacy_username": "RoswellCrash#1337"
   }
 }
