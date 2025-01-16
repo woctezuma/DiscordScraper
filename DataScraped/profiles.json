@@ -56412,5 +56412,25 @@
       }
     },
     "legacy_username": "The ManASaur#5585"
+  },
+  "257250362203832320": {
+    "id": 257250362203832320,
+    "name": "hootlook",
+    "nick": null,
+    "display_name": "DK20",
+    "global_name": "DK20",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Hootlook#7984"
   }
 }
