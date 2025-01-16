@@ -53510,5 +53510,95 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "278161230726955009": {
+    "id": 278161230726955009,
+    "name": "fygodxy",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "75n2f9zlk67zj83n8tdxxlv9q",
+        "name": "fygodxy",
+        "url": "https://open.spotify.com/user/75n2f9zlk67zj83n8tdxxlv9q"
+      },
+      "steam": {
+        "id": "76561198113927253",
+        "name": "nyaaaaan",
+        "url": "https://steamcommunity.com/profiles/76561198113927253"
+      }
+    },
+    "legacy_username": "\u0432\u0438\u0442\u0430\u043b\u0438\u043a#6003"
+  },
+  "597037201942904833": {
+    "id": 597037201942904833,
+    "name": "lc4ro",
+    "nick": null,
+    "display_name": "Oraci",
+    "global_name": "Oraci",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "I said I dont like change\nBut Im not afraid\n\npraise the banana",
+    "guild_bio": null,
+    "display_bio": "I said I dont like change\nBut Im not afraid\n\npraise the banana",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "kcbp4coboc4qxv8gfneijpu8y",
+        "name": "lc4ro",
+        "url": "https://open.spotify.com/user/kcbp4coboc4qxv8gfneijpu8y"
+      },
+      "steam": {
+        "id": "76561199062464572",
+        "name": "lc4ro",
+        "url": "https://steamcommunity.com/profiles/76561199062464572"
+      }
+    },
+    "legacy_username": "Oraci#8912"
+  },
+  "1215320989185998868": {
+    "id": 1215320989185998868,
+    "name": "mvmntsavant",
+    "nick": null,
+    "display_name": "HP5+",
+    "global_name": "HP5+",
+    "pronouns": "him.",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198209388563",
+        "name": "HP5+",
+        "url": "https://steamcommunity.com/profiles/76561198209388563"
+      }
+    },
+    "legacy_username": null
   }
 }
