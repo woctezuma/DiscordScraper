@@ -54334,5 +54334,83 @@
       }
     },
     "legacy_username": "Rhemz#3865"
+  },
+  "798943782702678028": {
+    "id": 798943782702678028,
+    "name": "whcrew",
+    "nick": null,
+    "display_name": "whcrew",
+    "global_name": "whcrew",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "whcrew#3463"
+  },
+  "1264144727763062799": {
+    "id": 1264144727763062799,
+    "name": "yul08081",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "-when i was young-\nhttps://www.youtube.com/watch?v=1-N9DZl2ER4",
+    "guild_bio": null,
+    "display_bio": "-when i was young-\nhttps://www.youtube.com/watch?v=1-N9DZl2ER4",
+    "banner": "https://cdn.discordapp.com/banners/1264144727763062799/4e8f9fec6ca3ded59d40b5371d1a2d75.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1264144727763062799/4e8f9fec6ca3ded59d40b5371d1a2d75.png?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "premium"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCW8yY_kRfwUlXD8auYsND_Q",
+        "name": "\ub77c\uba74\ub545",
+        "url": "https://www.youtube.com/channel/UCW8yY_kRfwUlXD8auYsND_Q"
+      }
+    },
+    "legacy_username": null
+  },
+  "790341628446900224": {
+    "id": 790341628446900224,
+    "name": "mason_a.",
+    "nick": null,
+    "display_name": "Mason A.",
+    "global_name": "Mason A.",
+    "pronouns": "Mason",
+    "guild_pronouns": null,
+    "bio": "> -  Join mijn Community server: https://discord.gg/HT8DqCPk2e.\n> - <:Developer:1086063512855523401> Developer Discord Bot/Discord.\n> \n> Join Vrederust Roleplay\n> discord.gg/JK5ws556uJ",
+    "guild_bio": null,
+    "display_bio": "> -  Join mijn Community server: https://discord.gg/HT8DqCPk2e.\n> - <:Developer:1086063512855523401> Developer Discord Bot/Discord.\n> \n> Join Vrederust Roleplay\n> discord.gg/JK5ws556uJ",
+    "banner": "https://cdn.discordapp.com/banners/790341628446900224/a_efaf3c61fa5ea22b0cec50a067303bd3.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/790341628446900224/a_efaf3c61fa5ea22b0cec50a067303bd3.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199195818389",
+        "name": "Mason-NL",
+        "url": "https://steamcommunity.com/profiles/76561199195818389"
+      }
+    },
+    "legacy_username": "Mason | A.#0001"
   }
 }
