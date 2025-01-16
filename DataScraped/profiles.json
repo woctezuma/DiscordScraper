@@ -54064,5 +54064,42 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "263790631476789249": {
+    "id": 263790631476789249,
+    "name": "chantaltoch",
+    "nick": null,
+    "display_name": "Chantal",
+    "global_name": "Chantal",
+    "pronouns": "Her Majesty",
+    "guild_pronouns": null,
+    "bio": "'  ?\n '  . \n         .",
+    "guild_bio": null,
+    "display_bio": "'  ?\n '  . \n         .",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198014852583",
+        "name": "ChantalToch",
+        "url": "https://steamcommunity.com/profiles/76561198014852583"
+      },
+      "tiktok": {
+        "id": "75fc7478-20fc-4e59-b0d1-6654df77df46",
+        "name": "chantaltoch",
+        "url": "https://tiktok.com/@chantaltoch"
+      },
+      "xbox": {
+        "id": "ZWJiYzE2N2Q3NjQyMjc1M2ZkZDU4YWIwZWY3ZTMwZmJhODJhYjE0NTA5YTc5OGM3Mzc2MmIyMTE2MGIzOWY4MQ",
+        "name": "ChantalToch",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ChantalToch"
+      }
+    },
+    "legacy_username": "Chantal#3600"
   }
 }
