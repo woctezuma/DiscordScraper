@@ -54608,5 +54608,27 @@
       }
     },
     "legacy_username": "Marc Salvador#3533"
+  },
+  "725275420705947668": {
+    "id": 725275420705947668,
+    "name": "jumamik",
+    "nick": null,
+    "display_name": "Jumamik",
+    "global_name": "Jumamik",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://www.youtube.com/watch?v=Im3Kp5W3Haw",
+    "guild_bio": null,
+    "display_bio": "https://www.youtube.com/watch?v=Im3Kp5W3Haw",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "jumamik000#0871"
   }
 }
