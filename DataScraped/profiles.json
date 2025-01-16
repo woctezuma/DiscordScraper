@@ -55508,5 +55508,114 @@
     ],
     "connections": {},
     "legacy_username": "\u2606kilorda\u2606#0564"
+  },
+  "1100055685930172517": {
+    "id": 1100055685930172517,
+    "name": "kscgaming_z",
+    "nick": null,
+    "display_name": "KSCGaming",
+    "global_name": "KSCGaming",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "KSC69#3801",
+        "name": "KSC69#3801",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199100245601",
+        "name": "DrakomaxTheGamer",
+        "url": "https://steamcommunity.com/profiles/76561199100245601"
+      }
+    },
+    "legacy_username": "KSCGamingZ#0729"
+  },
+  "133948522843209728": {
+    "id": 133948522843209728,
+    "name": "kusy",
+    "nick": null,
+    "display_name": "kusy",
+    "global_name": "kusy",
+    "pronouns": "mrkusypl",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a2ff1372303a4f1b87e5d4555c0a56fd",
+        "name": "TheKusy",
+        "url": null
+      },
+      "github": {
+        "id": "110433144",
+        "name": "mrkusypl",
+        "url": "https://github.com/mrkusypl"
+      },
+      "steam": {
+        "id": "76561198210661839",
+        "name": "kusy",
+        "url": "https://steamcommunity.com/profiles/76561198210661839"
+      },
+      "tiktok": {
+        "id": "c9d41b26-8394-5687-a21c-992abec77f01",
+        "name": "mrkusypl",
+        "url": "https://tiktok.com/@mrkusypl"
+      },
+      "twitch": {
+        "id": "112960597",
+        "name": "mrkusypl",
+        "url": "https://www.twitch.tv/mrkusypl"
+      },
+      "xbox": {
+        "id": "3075849781532893",
+        "name": "kusy9003",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=kusy9003"
+      },
+      "youtube": {
+        "id": "UCw5Kv5ZDP-mVP8njksp8tww",
+        "name": "kusy",
+        "url": "https://www.youtube.com/channel/UCw5Kv5ZDP-mVP8njksp8tww"
+      }
+    },
+    "legacy_username": "kusy#3220"
+  },
+  "938530431320608768": {
+    "id": 938530431320608768,
+    "name": "edoardo3217",
+    "nick": null,
+    "display_name": "ChrisMoon",
+    "global_name": "ChrisMoon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Edoardo#3217"
   }
 }
