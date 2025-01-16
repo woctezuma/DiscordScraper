@@ -54243,5 +54243,36 @@
       }
     },
     "legacy_username": "Kudesn1kGNK#1620"
+  },
+  "882543682753015848": {
+    "id": 882543682753015848,
+    "name": "vocadoboi",
+    "nick": null,
+    "display_name": "Avocadoboi",
+    "global_name": "Avocadoboi",
+    "pronouns": "ioi",
+    "guild_pronouns": null,
+    "bio": "Vorwiegend nachtaktiver/Inaktiver Avocadofresser",
+    "guild_bio": null,
+    "display_bio": "Vorwiegend nachtaktiver/Inaktiver Avocadofresser",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198134753398",
+        "name": "Avocadoboi",
+        "url": "https://steamcommunity.com/profiles/76561198134753398"
+      },
+      "twitter": {
+        "id": "1204259343031508993",
+        "name": "vocadoboi",
+        "url": "https://twitter.com/vocadoboi"
+      }
+    },
+    "legacy_username": "Avocadoboi#6716"
   }
 }
