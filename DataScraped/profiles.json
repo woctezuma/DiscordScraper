@@ -59215,5 +59215,111 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1063032428941287465": {
+    "id": 1063032428941287465,
+    "name": "frognallus",
+    "nick": null,
+    "display_name": "frognallus",
+    "global_name": "frognallus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "frognallus#6903"
+  },
+  "493016730767982594": {
+    "id": 493016730767982594,
+    "name": "janser",
+    "nick": null,
+    "display_name": "JanseR",
+    "global_name": "JanseR",
+    "pronouns": "Ryan / Gosling",
+    "guild_pronouns": null,
+    "bio": "Gracias skibidi por todo",
+    "guild_bio": null,
+    "display_bio": "Gracias skibidi por todo",
+    "banner": "https://cdn.discordapp.com/banners/493016730767982594/a_ee5116aff049798672082d87d9d3c21f.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/493016730767982594/a_ee5116aff049798672082d87d9d3c21f.gif?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "brfh-00CThkKRu-sxTHqDKk5EliovwelblmusdNERB4sB1_ZOBWY7UF4cwJHt6hknGECzq7xHOwQJQ",
+        "name": "JanseR",
+        "url": null
+      },
+      "paypal": {
+        "id": "lpgfmu3Uv1ZLPMH8MFTjzFhfSRRWX0uo7hqYZeDwhas",
+        "name": "Jan Serrat  Labrat",
+        "url": null
+      },
+      "playstation": {
+        "id": "3058449826158134927",
+        "name": "JanseR_33",
+        "url": null
+      },
+      "riot_games": {
+        "id": "brfh-00CThkKRu-sxTHqDKk5EliovwelblmusdNERB4sB1_ZOBWY7UF4cwJHt6hknGECzq7xHOwQJQ",
+        "name": "JanseR#EUW",
+        "url": null
+      },
+      "spotify": {
+        "id": "31pxyvn5zujgkv772o7cd56nfh7u",
+        "name": "JanseR",
+        "url": "https://open.spotify.com/user/31pxyvn5zujgkv772o7cd56nfh7u"
+      },
+      "steam": {
+        "id": "76561198215762831",
+        "name": "FBI",
+        "url": "https://steamcommunity.com/profiles/76561198215762831"
+      },
+      "xbox": {
+        "id": "ZTFhYzhmMTQ3ZDViMGRhOTc1MjZhYzIzMWJkODBmYzI3NGYxNGJhNGUzYTBhZTZkNDk0YzExNTE4NzNhM2MyZQ",
+        "name": "Gambon33",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gambon33"
+      }
+    },
+    "legacy_username": "JanseR#3425"
+  },
+  "585621474577088527": {
+    "id": 585621474577088527,
+    "name": "idaeloliva",
+    "nick": null,
+    "display_name": "idael",
+    "global_name": "idael",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3062063349906401",
+        "name": "idaelKavayo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=idaelKavayo"
+      }
+    },
+    "legacy_username": "idael#5779"
   }
 }
