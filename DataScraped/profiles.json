@@ -58990,5 +58990,32 @@
       }
     },
     "legacy_username": "ElZeRo#9561"
+  },
+  "216842464877608961": {
+    "id": 216842464877608961,
+    "name": "dark_kizz",
+    "nick": null,
+    "display_name": "Dark_Kizz",
+    "global_name": "Dark_Kizz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198074974445",
+        "name": "Dark Kizz",
+        "url": "https://steamcommunity.com/profiles/76561198074974445"
+      }
+    },
+    "legacy_username": "Dark_Kizz#7349"
   }
 }
