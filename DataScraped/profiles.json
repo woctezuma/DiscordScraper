@@ -58442,5 +58442,134 @@
       }
     },
     "legacy_username": null
+  },
+  "1301968928913883171": {
+    "id": 1301968928913883171,
+    "name": "yumimurasame",
+    "nick": null,
+    "display_name": "Yumi Murasame",
+    "global_name": "Yumi Murasame",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://youtube.com/@bloxvidscreations?si=_NT6ho-C4IO96wKD\n\nhttps://www.roblox.com/share?code=3c42d8bf721b5d4696125a66d5e53171&type=Profile&source=ProfileShare&stamp=1736900093514",
+    "guild_bio": null,
+    "display_bio": "https://youtube.com/@bloxvidscreations?si=_NT6ho-C4IO96wKD\n\nhttps://www.roblox.com/share?code=3c42d8bf721b5d4696125a66d5e53171&type=Profile&source=ProfileShare&stamp=1736900093514",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "632439035716960257": {
+    "id": 632439035716960257,
+    "name": "mardyboy",
+    "nick": null,
+    "display_name": "Sal",
+    "global_name": "Sal",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/632439035716960257/a_192c2b6693a6644a31e0336ef74288a2.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/632439035716960257/a_192c2b6693a6644a31e0336ef74288a2.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "du6hyphw6rhr5ox16uo5wjbcn",
+        "name": "\u200e",
+        "url": "https://open.spotify.com/user/du6hyphw6rhr5ox16uo5wjbcn"
+      },
+      "steam": {
+        "id": "76561199125403787",
+        "name": "Sal",
+        "url": "https://steamcommunity.com/profiles/76561199125403787"
+      }
+    },
+    "legacy_username": null
+  },
+  "845935269769248768": {
+    "id": 845935269769248768,
+    "name": "tprime2515",
+    "nick": null,
+    "display_name": "T-PRIME",
+    "global_name": "T-PRIME",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "T-PRIME#2515"
+  },
+  "173345554900713473": {
+    "id": 173345554900713473,
+    "name": "tardigrades",
+    "nick": null,
+    "display_name": "AngryTardigrades",
+    "global_name": "AngryTardigrades",
+    "pronouns": "Game is life , Life is game",
+    "guild_pronouns": null,
+    "bio": "https://www.tardigrades.ir\nhttps://www.youtube.com/@angrytardigrades\n\nDiscord:\nhttps://discord.gg/KzkAnPFUnC",
+    "guild_bio": null,
+    "display_bio": "https://www.tardigrades.ir\nhttps://www.youtube.com/@angrytardigrades\n\nDiscord:\nhttps://discord.gg/KzkAnPFUnC",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "dMRommel#1410",
+        "name": "dMRommel#1410",
+        "url": null
+      },
+      "github": {
+        "id": "72065748",
+        "name": "angrytardigrades",
+        "url": "https://github.com/angrytardigrades"
+      },
+      "league_of_legends": {
+        "id": "XMvG9z65zj_rr3J25T2ItCZhg8D2Udm3x89Xch7_HA8tXGrZ3PPIkl6bz_yODgbW8cmyKdXKYYGn8Q",
+        "name": "ZeroCold#6666",
+        "url": null
+      },
+      "riot_games": {
+        "id": "XMvG9z65zj_rr3J25T2ItCZhg8D2Udm3x89Xch7_HA8tXGrZ3PPIkl6bz_yODgbW8cmyKdXKYYGn8Q",
+        "name": "ZeroCold#6666",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198008769927",
+        "name": "AngryTardigrades",
+        "url": "https://steamcommunity.com/profiles/76561198008769927"
+      },
+      "twitch": {
+        "id": "68062695",
+        "name": "dmzerocold",
+        "url": "https://www.twitch.tv/dmzerocold"
+      },
+      "xbox": {
+        "id": "3061911113962349",
+        "name": "SteelyHurdle110",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SteelyHurdle110"
+      }
+    },
+    "legacy_username": null
   }
 }
