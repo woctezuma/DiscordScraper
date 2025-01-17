@@ -59427,5 +59427,162 @@
       }
     },
     "legacy_username": "\u9ec3\u72d7Y.D.G#6262"
+  },
+  "117403563004526600": {
+    "id": 117403563004526600,
+    "name": "strice",
+    "nick": null,
+    "display_name": "Strice",
+    "global_name": "Strice",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "a profile about nothing",
+    "guild_bio": null,
+    "display_bio": "a profile about nothing",
+    "banner": "https://cdn.discordapp.com/banners/117403563004526600/a_031b0507091019820c8552ffc0ef5017.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/117403563004526600/a_031b0507091019820c8552ffc0ef5017.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Strice#5812"
+  },
+  "1081511689062723635": {
+    "id": 1081511689062723635,
+    "name": "saramara77",
+    "nick": null,
+    "display_name": "SaraMara77",
+    "global_name": "SaraMara77",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198451398204",
+        "name": "game_mara",
+        "url": "https://steamcommunity.com/profiles/76561198451398204"
+      }
+    },
+    "legacy_username": "SaraMara77#1516"
+  },
+  "354756672163676160": {
+    "id": 354756672163676160,
+    "name": "shenren",
+    "nick": null,
+    "display_name": "shenpai_REN",
+    "global_name": "shenpai_REN",
+    "pronouns": "pronouns.exe does not exist",
+    "guild_pronouns": null,
+    "bio": "**MAL:**https://myanimelist.net/animelist/shenpai_ren\n**My Anthem:**https://youtu.be/6hR6vLGwipY",
+    "guild_bio": null,
+    "display_bio": "**MAL:**https://myanimelist.net/animelist/shenpai_ren\n**My Anthem:**https://youtu.be/6hR6vLGwipY",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198277158382",
+        "name": "shenpai_REN",
+        "url": "https://steamcommunity.com/profiles/76561198277158382"
+      }
+    },
+    "legacy_username": "shenpai_REN#6662"
+  },
+  "1277013828831416350": {
+    "id": 1277013828831416350,
+    "name": "scuffcrew",
+    "nick": null,
+    "display_name": "SwimmingLink",
+    "global_name": "SwimmingLink",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "149308530",
+        "name": "swimminglink",
+        "url": "https://www.twitch.tv/swimminglink"
+      }
+    },
+    "legacy_username": null
+  },
+  "762305622757605386": {
+    "id": 762305622757605386,
+    "name": "toukaaaa_desuuu",
+    "nick": null,
+    "display_name": "Touka",
+    "global_name": "Touka",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":)",
+    "guild_bio": null,
+    "display_bio": ":)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "312cgbuh22khgpaojnvthkmoybgm",
+        "name": "Jade Ko",
+        "url": "https://open.spotify.com/user/312cgbuh22khgpaojnvthkmoybgm"
+      }
+    },
+    "legacy_username": "Touka#5479"
+  },
+  "212613456581361674": {
+    "id": 212613456581361674,
+    "name": "dijandro",
+    "nick": null,
+    "display_name": "dijandro",
+    "global_name": null,
+    "pronouns": ":b",
+    "guild_pronouns": null,
+    "bio": ":emote_banana_dance:",
+    "guild_bio": null,
+    "display_bio": ":emote_banana_dance:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "dijandro",
+        "name": "pxntxn \u272e",
+        "url": "https://open.spotify.com/user/dijandro"
+      }
+    },
+    "legacy_username": "Dijandro#2000"
   }
 }
