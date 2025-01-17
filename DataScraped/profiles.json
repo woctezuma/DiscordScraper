@@ -56775,5 +56775,113 @@
       }
     },
     "legacy_username": "StubbyKnubs22#7850"
+  },
+  "902855620414304286": {
+    "id": 902855620414304286,
+    "name": "lanceprima_uebsit",
+    "nick": null,
+    "display_name": "luckypenguin",
+    "global_name": "luckypenguin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I like music i like anime i like video games i like volleyball and basketball i like kpop hehehehe stan twice  stan bini",
+    "guild_bio": null,
+    "display_bio": "I like music i like anime i like video games i like volleyball and basketball i like kpop hehehehe stan twice  stan bini",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "LuckyPenguin#9844"
+  },
+  "540987861735047189": {
+    "id": 540987861735047189,
+    "name": "grey3003",
+    "nick": null,
+    "display_name": "Grey3003",
+    "global_name": "Grey3003",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198974321091",
+        "name": "Grey",
+        "url": "https://steamcommunity.com/profiles/76561198974321091"
+      },
+      "twitch": {
+        "id": "554676424",
+        "name": "grey3003",
+        "url": "https://www.twitch.tv/grey3003"
+      }
+    },
+    "legacy_username": null
+  },
+  "369478786632253440": {
+    "id": 369478786632253440,
+    "name": "felonytulip",
+    "nick": null,
+    "display_name": "felonytulip",
+    "global_name": "felonytulip",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "kekw   ",
+    "guild_bio": null,
+    "display_bio": "kekw   ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "irshad3901",
+        "name": "Hafiz Irshad",
+        "url": "https://open.spotify.com/user/irshad3901"
+      },
+      "steam": {
+        "id": "76561198424996382",
+        "name": "felonytulip",
+        "url": "https://steamcommunity.com/profiles/76561198424996382"
+      },
+      "xbox": {
+        "id": "MzYzNjE4NDFjYzJmYmQ3NGY0N2M1NDVmMmUxY2U3Zjg4YTQwYTA1ZWExMWIzZjIyN2EyNjc4ZDQzZjEzMjI3ZA",
+        "name": "felonytulip",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=felonytulip"
+      }
+    },
+    "legacy_username": "felonytulip#6535"
+  },
+  "996342084913074186": {
+    "id": 996342084913074186,
+    "name": "kjt5",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "kjt5#5003"
   }
 }
