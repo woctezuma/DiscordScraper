@@ -57901,5 +57901,105 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "957920507754324028": {
+    "id": 957920507754324028,
+    "name": "frimedox",
+    "nick": null,
+    "display_name": "frimedox",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "||https://discord.gg/muteclan||",
+    "guild_bio": null,
+    "display_bio": "||https://discord.gg/muteclan||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a07a874be6a24edf9b7ad29eb7268873",
+        "name": "frimedox",
+        "url": null
+      },
+      "github": {
+        "id": "175008938",
+        "name": "retrojan",
+        "url": "https://github.com/retrojan"
+      },
+      "steam": {
+        "id": "76561199567267096",
+        "name": "Frimedox",
+        "url": "https://steamcommunity.com/profiles/76561199567267096"
+      }
+    },
+    "legacy_username": "Frimedox#2314"
+  },
+  "763634009515098112": {
+    "id": 763634009515098112,
+    "name": "cake_65",
+    "nick": null,
+    "display_name": "JustCake65",
+    "global_name": "JustCake65",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Nyeh gatau dah wkwk",
+    "guild_bio": null,
+    "display_bio": "Nyeh gatau dah wkwk",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "bc318c11f35b4c8eb37b579d14e51d4e",
+        "name": "Cakenite65",
+        "url": null
+      },
+      "spotify": {
+        "id": "4mjkktwojbl91vr11t0se8ugi",
+        "name": "Cake_man65",
+        "url": "https://open.spotify.com/user/4mjkktwojbl91vr11t0se8ugi"
+      },
+      "steam": {
+        "id": "76561198313861438",
+        "name": "Cakeman65",
+        "url": "https://steamcommunity.com/profiles/76561198313861438"
+      },
+      "xbox": {
+        "id": "3075962119366267",
+        "name": "MCCakeman65",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MCCakeman65"
+      }
+    },
+    "legacy_username": null
+  },
+  "1099030228795400302": {
+    "id": 1099030228795400302,
+    "name": "k1t3r1",
+    "nick": null,
+    "display_name": "k1t3r1",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Kiter#8920"
   }
 }
