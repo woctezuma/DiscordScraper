@@ -58001,5 +58001,113 @@
     ],
     "connections": {},
     "legacy_username": "Kiter#8920"
+  },
+  "174900083333136385": {
+    "id": 174900083333136385,
+    "name": "kayleqlated",
+    "nick": null,
+    "display_name": "Kayleqlated",
+    "global_name": "Kayleqlated",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "VrrJk9b4Uo03JbqlFRAn56pmMLpLbN0CG2wMDey-Gaq2SA7URgt1DfUQfqnIINnX7p1DbQkn9LlRdQ",
+        "name": "v9 Kayleqlated",
+        "url": null
+      },
+      "riot_games": {
+        "id": "VrrJk9b4Uo03JbqlFRAn56pmMLpLbN0CG2wMDey-Gaq2SA7URgt1DfUQfqnIINnX7p1DbQkn9LlRdQ",
+        "name": "v9 Kayleqlated#EUW",
+        "url": null
+      },
+      "spotify": {
+        "id": "jonas_giesen",
+        "name": "jonas_giesen",
+        "url": "https://open.spotify.com/user/jonas_giesen"
+      },
+      "steam": {
+        "id": "76561198337806691",
+        "name": "HappyChickenESL",
+        "url": "https://steamcommunity.com/profiles/76561198337806691"
+      },
+      "twitch": {
+        "id": "212276214",
+        "name": "kayleqlated",
+        "url": "https://www.twitch.tv/kayleqlated"
+      }
+    },
+    "legacy_username": "Kayleqlated#1712"
+  },
+  "700291099415281744": {
+    "id": 700291099415281744,
+    "name": "personne_n1",
+    "nick": null,
+    "display_name": "Personne",
+    "global_name": "Personne",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Essayer cest la meilleure faon de se planter\n\nHomer Simpson\n\nLes heures o je travaille le mieux sont  partir de 20 jusqu que je soit trop fatigu",
+    "guild_bio": null,
+    "display_bio": "Essayer cest la meilleure faon de se planter\n\nHomer Simpson\n\nLes heures o je travaille le mieux sont  partir de 20 jusqu que je soit trop fatigu",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Playglas#2505",
+        "name": "Playglas#2505",
+        "url": null
+      },
+      "epic_games": {
+        "id": "9436f7c85c604611823afa77c45ca0c4",
+        "name": "play_glas",
+        "url": null
+      },
+      "github": {
+        "id": "95427716",
+        "name": "PlayGlas",
+        "url": "https://github.com/PlayGlas"
+      },
+      "riot_games": {
+        "id": "Iz0U8GdcJCRrpFVU_x6BJYMITYtP49f2qvS6bOjz5o0Tjpz-n24XaFIcQJ7fpLQyJ96jFryGw-u3Kw",
+        "name": "playglas6968#3788",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199159099310",
+        "name": "Personne",
+        "url": "https://steamcommunity.com/profiles/76561199159099310"
+      },
+      "twitch": {
+        "id": "680028458",
+        "name": "play_glas",
+        "url": "https://www.twitch.tv/play_glas"
+      },
+      "xbox": {
+        "id": "3061983445465912",
+        "name": "playglas6968",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=playglas6968"
+      },
+      "youtube": {
+        "id": "UCe4--Pa2rrVGqnw1gEq8TXQ",
+        "name": "PlayGlasVOD",
+        "url": "https://www.youtube.com/channel/UCe4--Pa2rrVGqnw1gEq8TXQ"
+      }
+    },
+    "legacy_username": "Personne#3642"
   }
 }
