@@ -60969,5 +60969,38 @@
     ],
     "connections": {},
     "legacy_username": "Shirou#5721"
+  },
+  "672786362084098048": {
+    "id": 672786362084098048,
+    "name": "jounzet",
+    "nick": null,
+    "display_name": "Jounzet",
+    "global_name": "Jounzet",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199206267027",
+        "name": "Jounzet",
+        "url": "https://steamcommunity.com/profiles/76561199206267027"
+      },
+      "xbox": {
+        "id": "3072152854042122",
+        "name": "Jounzet27",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Jounzet27"
+      }
+    },
+    "legacy_username": "Jounzet#7964"
   }
 }
