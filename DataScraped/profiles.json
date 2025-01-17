@@ -60696,5 +60696,63 @@
       }
     },
     "legacy_username": "falub13#1507"
+  },
+  "397973272668405760": {
+    "id": 397973272668405760,
+    "name": "mostlywhat",
+    "nick": null,
+    "display_name": "Mostly",
+    "global_name": "Mostly",
+    "pronouns": "he/him, attack helicopter",
+    "guild_pronouns": null,
+    "bio": "if buying isnt owning, piracy isnt stealing\n\nSemi Professional Programmer and Designer\nLocal Hackerman and Pirate\nVideo Game Designer and Programmer\n\nhttps://www.mostlywhat.com",
+    "guild_bio": null,
+    "display_bio": "if buying isnt owning, piracy isnt stealing\n\nSemi Professional Programmer and Designer\nLocal Hackerman and Pirate\nVideo Game Designer and Programmer\n\nhttps://www.mostlywhat.com",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "78652091",
+        "name": "MostlyWhat",
+        "url": "https://github.com/MostlyWhat"
+      },
+      "spotify": {
+        "id": "s4im6ugxrfdke1t3arjs6pcsb",
+        "name": "MostlyWhat Studios",
+        "url": "https://open.spotify.com/user/s4im6ugxrfdke1t3arjs6pcsb"
+      },
+      "steam": {
+        "id": "76561198826839290",
+        "name": "MostlyWhat",
+        "url": "https://steamcommunity.com/profiles/76561198826839290"
+      },
+      "twitch": {
+        "id": "483661079",
+        "name": "mostlywhat",
+        "url": "https://www.twitch.tv/mostlywhat"
+      },
+      "twitter": {
+        "id": "1317990508518494208",
+        "name": "mostlywhat",
+        "url": "https://twitter.com/mostlywhat"
+      },
+      "xbox": {
+        "id": "YjgxMzBlZjI0MjQzMmEzNjFiNmZjZjhiODM1ODc3YmU0YmQyMDRmOTYwN2VlYTYwNDk5MDUwMGY1MWU3ZmY0OA",
+        "name": "VenomizatorG",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=VenomizatorG"
+      },
+      "youtube": {
+        "id": "UCwp391W5j89whZgU3wm8zcg",
+        "name": "MostlyWhat",
+        "url": "https://www.youtube.com/channel/UCwp391W5j89whZgU3wm8zcg"
+      }
+    },
+    "legacy_username": "MostlyWhat\u2122#2453"
   }
 }
