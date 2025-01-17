@@ -57802,5 +57802,104 @@
       }
     },
     "legacy_username": "Muhit#3773"
+  },
+  "736835094911909888": {
+    "id": 736835094911909888,
+    "name": "lxll101",
+    "nick": null,
+    "display_name": "lxll101",
+    "global_name": "lxll101",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "fvlr8z1ktjm46jocufaksmz79",
+        "name": "lxll",
+        "url": "https://open.spotify.com/user/fvlr8z1ktjm46jocufaksmz79"
+      },
+      "xbox": {
+        "id": "MGNlOWFiZmY0MmU2Nzc3MTc1YTM4MzA1ZjJmMGNiZjEzNmJmM2E3ZWJhMjk2MThlZmQ0NjQ1NjU2ZDgxMzUxMA",
+        "name": "Normies23124",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Normies23124"
+      }
+    },
+    "legacy_username": "Normies#2311"
+  },
+  "647730535350665225": {
+    "id": 647730535350665225,
+    "name": ".kirito2.0",
+    "nick": null,
+    "display_name": ".kirito 2.0",
+    "global_name": ".kirito 2.0",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "a chill guy.",
+    "guild_bio": null,
+    "display_bio": "a chill guy.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "ySWQfgttwcRRejpCuiZnvWjD3bxjzjLrBxPSc4WZYMUoc3y6AWeepigSSnYVBTUKSX7ueqdaNNyPIA",
+        "name": "lavipperdu999#1815",
+        "url": null
+      },
+      "riot_games": {
+        "id": "ySWQfgttwcRRejpCuiZnvWjD3bxjzjLrBxPSc4WZYMUoc3y6AWeepigSSnYVBTUKSX7ueqdaNNyPIA",
+        "name": "lavipperdu999#1815",
+        "url": null
+      },
+      "spotify": {
+        "id": "31dsev77qngvks7hcl3rbut5wlfu",
+        "name": "kirito 2.0",
+        "url": "https://open.spotify.com/user/31dsev77qngvks7hcl3rbut5wlfu"
+      },
+      "steam": {
+        "id": "76561199201396815",
+        "name": "lavipperdu999",
+        "url": "https://steamcommunity.com/profiles/76561199201396815"
+      },
+      "xbox": {
+        "id": "3076373052131797",
+        "name": "lavipperdu999",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=lavipperdu999"
+      }
+    },
+    "legacy_username": "kirito 2.0#4548"
+  },
+  "1255854388484771942": {
+    "id": 1255854388484771942,
+    "name": "isaac_0776",
+    "nick": null,
+    "display_name": "isaac_0776",
+    "global_name": "isaac_0776",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Steam:\n https://steamcommunity.com/tradeoffer/new/?partner=1507434469&token=lgda8H4s",
+    "guild_bio": null,
+    "display_bio": "Steam:\n https://steamcommunity.com/tradeoffer/new/?partner=1507434469&token=lgda8H4s",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
