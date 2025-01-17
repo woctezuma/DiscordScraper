@@ -60379,5 +60379,70 @@
       }
     },
     "legacy_username": "Galaverenc#1581"
+  },
+  "389524453274419203": {
+    "id": 389524453274419203,
+    "name": "danramarch",
+    "nick": null,
+    "display_name": "danramarch",
+    "global_name": "danramarch",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "823345864708477343",
+        "name": "danramarch",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197996594411",
+        "name": "danramarch",
+        "url": "https://steamcommunity.com/profiles/76561197996594411"
+      }
+    },
+    "legacy_username": "danramarch#2352"
+  },
+  "130073539071049728": {
+    "id": 130073539071049728,
+    "name": "antiiiwrld",
+    "nick": null,
+    "display_name": "anti ",
+    "global_name": "anti ",
+    "pronouns": "meow",
+    "guild_pronouns": null,
+    "bio": "<:12_doza:918650226183655434><:21_lukami:920399840012271647> \nhttps://antiii.rip\nig/twt: @antiiiwrld\n \nmp4fileuser\n<3",
+    "guild_bio": null,
+    "display_bio": "<:12_doza:918650226183655434><:21_lukami:920399840012271647> \nhttps://antiii.rip\nig/twt: @antiiiwrld\n \nmp4fileuser\n<3",
+    "banner": "https://cdn.discordapp.com/banners/130073539071049728/a_8fa3ab9851c0b114bf6b50d8ba3f00d3.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/130073539071049728/a_8fa3ab9851c0b114bf6b50d8ba3f00d3.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198054248725",
+        "name": "\u2661 sabbathdj \u2606",
+        "url": "https://steamcommunity.com/profiles/76561198054248725"
+      },
+      "twitter": {
+        "id": "4892698683",
+        "name": "antiiiwrld",
+        "url": "https://twitter.com/antiiiwrld"
+      }
+    },
+    "legacy_username": null
   }
 }
