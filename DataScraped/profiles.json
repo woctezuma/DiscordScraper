@@ -59584,5 +59584,74 @@
       }
     },
     "legacy_username": "Dijandro#2000"
+  },
+  "251778569397600256": {
+    "id": 251778569397600256,
+    "name": "zenithknight",
+    "nick": null,
+    "display_name": "Zenith",
+    "global_name": "Zenith",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": " My custom description indicates Turtle\n\n**PERSONAL ROLES**  ` BETA `\n`  My custom role indicates Turtle `\n` Hobbyist Developer `\n` Cybersecurity Developer/Analyst `",
+    "guild_bio": null,
+    "display_bio": " My custom description indicates Turtle\n\n**PERSONAL ROLES**  ` BETA `\n`  My custom role indicates Turtle `\n` Hobbyist Developer `\n` Cybersecurity Developer/Analyst `",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:q5sgpj5dskmjhfzsika5n547",
+        "name": "zenithknig.ht",
+        "url": null
+      },
+      "unknown_domain": {
+        "id": "zenithknight.dev",
+        "name": "zenithknight.dev",
+        "url": null
+      },
+      "github": {
+        "id": "11393734",
+        "name": "ZenithRogue",
+        "url": "https://github.com/ZenithRogue"
+      },
+      "steam": {
+        "id": "76561198194593293",
+        "name": "ZenithKnight",
+        "url": "https://steamcommunity.com/profiles/76561198194593293"
+      },
+      "twitter": {
+        "id": "2390464098",
+        "name": "ZenithKnight",
+        "url": "https://twitter.com/ZenithKnight"
+      }
+    },
+    "legacy_username": "ZenithKnight#1225"
+  },
+  "305797773767213077": {
+    "id": 305797773767213077,
+    "name": ".panzer1337",
+    "nick": null,
+    "display_name": "cobain",
+    "global_name": "cobain",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/305797773767213077/1df87d751af61550ad6d3ec4f4a3b897.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/305797773767213077/1df87d751af61550ad6d3ec4f4a3b897.png?size=512",
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "\uff30\uff41\uff4e\uff5a\uff45\uff52#2952"
   }
 }
