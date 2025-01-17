@@ -57433,5 +57433,25 @@
       }
     },
     "legacy_username": "stillcoldowl#5427"
+  },
+  "720679725042761819": {
+    "id": 720679725042761819,
+    "name": "chiesa1285",
+    "nick": null,
+    "display_name": "SaZx",
+    "global_name": "SaZx",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Chie Sa#1285"
   }
 }
