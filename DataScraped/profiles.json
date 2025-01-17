@@ -58601,5 +58601,82 @@
       }
     },
     "legacy_username": "Najan#3029"
+  },
+  "1142017966356041728": {
+    "id": 1142017966356041728,
+    "name": "zazais0delay",
+    "nick": null,
+    "display_name": "Adrian",
+    "global_name": "Adrian",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "687553174927966241": {
+    "id": 687553174927966241,
+    "name": "r3ezz",
+    "nick": null,
+    "display_name": "R3ezz",
+    "global_name": "R3ezz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":Rock_eyebrow_raise:",
+    "guild_bio": null,
+    "display_bio": ":Rock_eyebrow_raise:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e996268643c0494997434eef50e18bcd",
+        "name": "R3ezz_01",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199074263352",
+        "name": "Titan",
+        "url": "https://steamcommunity.com/profiles/76561199074263352"
+      }
+    },
+    "legacy_username": "R3ezz#0562"
+  },
+  "802930444466782249": {
+    "id": 802930444466782249,
+    "name": "ass_goblin",
+    "nick": null,
+    "display_name": "ass goblin",
+    "global_name": "ass goblin",
+    "pronouns": "punk_a_chien29",
+    "guild_pronouns": null,
+    "bio": "god bless poor linux atheist nerd\n\nFrom Autism to Alcoholism",
+    "guild_bio": null,
+    "display_bio": "god bless poor linux atheist nerd\n\nFrom Autism to Alcoholism",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCeC3MbsS3c8B4HgxDLjuxgw",
+        "name": "papytrico reupload",
+        "url": "https://www.youtube.com/channel/UCeC3MbsS3c8B4HgxDLjuxgw"
+      }
+    },
+    "legacy_username": "ass goblin#3181"
   }
 }
