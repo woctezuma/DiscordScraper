@@ -58358,5 +58358,89 @@
     ],
     "connections": {},
     "legacy_username": "ShimaRin#3715"
+  },
+  "763417830020087829": {
+    "id": 763417830020087829,
+    "name": "chin_jh0430",
+    "nick": null,
+    "display_name": "Chin_JH",
+    "global_name": "Chin_JH",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/763417830020087829/a_bd031e7eeff3d21c643dfc281c11308c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/763417830020087829/a_bd031e7eeff3d21c643dfc281c11308c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1428600677512946",
+        "name": "\u9648\u8fdb\u6e90",
+        "url": null
+      },
+      "twitch": {
+        "id": "724096248",
+        "name": "chinjh0430",
+        "url": "https://www.twitch.tv/chinjh0430"
+      }
+    },
+    "legacy_username": "Chin_JH#3351"
+  },
+  "1329748881277194251": {
+    "id": 1329748881277194251,
+    "name": "gnarucami",
+    "nick": null,
+    "display_name": "Gnarucami",
+    "global_name": "Gnarucami",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:ncnrvguys67gcm6viam4yy6u",
+        "name": "gnarucami.bsky.social",
+        "url": null
+      },
+      "playstation": {
+        "id": "1828220382446497255",
+        "name": "Gnarucami",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199818033094",
+        "name": "Gnarucami",
+        "url": "https://steamcommunity.com/profiles/76561199818033094"
+      },
+      "twitch": {
+        "id": "1233760195",
+        "name": "gnarucami",
+        "url": "https://www.twitch.tv/gnarucami"
+      },
+      "twitter": {
+        "id": "1880211905752481792",
+        "name": "Gnarucami",
+        "url": "https://twitter.com/Gnarucami"
+      },
+      "xbox": {
+        "id": "3078051693332677",
+        "name": "Gnarucami",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gnarucami"
+      }
+    },
+    "legacy_username": null
   }
 }
