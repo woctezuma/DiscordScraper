@@ -57645,5 +57645,57 @@
     ],
     "connections": {},
     "legacy_username": "Leopard#4874"
+  },
+  "579293540128129024": {
+    "id": 579293540128129024,
+    "name": "usernamedrowen",
+    "nick": null,
+    "display_name": "UserNamedRowen",
+    "global_name": "UserNamedRowen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "DannyDevito#11832",
+        "name": "DannyDevito#11832",
+        "url": null
+      },
+      "spotify": {
+        "id": "rowenawesome21",
+        "name": "Rowen",
+        "url": "https://open.spotify.com/user/rowenawesome21"
+      },
+      "steam": {
+        "id": "76561198825035121",
+        "name": "aGuyWhoPlayGames",
+        "url": "https://steamcommunity.com/profiles/76561198825035121"
+      }
+    },
+    "legacy_username": null
+  },
+  "1323918952937816110": {
+    "id": 1323918952937816110,
+    "name": "thembulul1008",
+    "nick": null,
+    "display_name": "thembulul",
+    "global_name": "thembulul",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Ti yu cc bn",
+    "guild_bio": null,
+    "display_bio": "Ti yu cc bn",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
