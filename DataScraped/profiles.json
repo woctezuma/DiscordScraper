@@ -58571,5 +58571,35 @@
       }
     },
     "legacy_username": null
+  },
+  "725182160822337586": {
+    "id": 725182160822337586,
+    "name": "_najan",
+    "nick": null,
+    "display_name": "natan",
+    "global_name": "natan",
+    "pronouns": "ele/dele",
+    "guild_pronouns": null,
+    "bio": "sim, sou eu no icon  <:emoji_12:789646315603886090>",
+    "guild_bio": null,
+    "display_bio": "sim, sou eu no icon  <:emoji_12:789646315603886090>",
+    "banner": "https://cdn.discordapp.com/banners/725182160822337586/a_f03b708c8b1fe726f931f3c1f119dbac.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/725182160822337586/a_f03b708c8b1fe726f931f3c1f119dbac.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "2263zmvcsnvztd56cyznj332q",
+        "name": "Najan",
+        "url": "https://open.spotify.com/user/2263zmvcsnvztd56cyznj332q"
+      }
+    },
+    "legacy_username": "Najan#3029"
   }
 }
