@@ -57697,5 +57697,110 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "751340339645775884": {
+    "id": 751340339645775884,
+    "name": "rellovero",
+    "nick": null,
+    "display_name": "RelloVero",
+    "global_name": "RelloVero",
+    "pronouns": "aut/istic",
+    "guild_pronouns": null,
+    "bio": ":-/\n\n||  Australia ||",
+    "guild_bio": null,
+    "display_bio": ":-/\n\n||  Australia ||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "RelloVero#1893",
+        "name": "RelloVero#1893",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "8a01b3e9-ffd1-5e8e-827c-5cda0adb503e",
+        "name": "WaifuChaos",
+        "url": null
+      },
+      "epic_games": {
+        "id": "7570fc4df8b9417d8f935a0d4c921ae5",
+        "name": "\u305d\u306e\u820c\u304c\u4f55\u3092\u3059\u308b\u304b\u898b\u305b\u3066",
+        "url": null
+      },
+      "riot_games": {
+        "id": "xlBAX140etD4yphF7Rq4DfdeQ23oWZf2bGA8kYpkd9G53zqp6kBBgzDQpWpgTjrYW0ZPiM1MKpVk3Q",
+        "name": "RelloVero#6331",
+        "url": null
+      },
+      "spotify": {
+        "id": "bateman.william.101",
+        "name": "Rello\u2122",
+        "url": "https://open.spotify.com/user/bateman.william.101"
+      },
+      "steam": {
+        "id": "76561199221420517",
+        "name": "RelloVero",
+        "url": "https://steamcommunity.com/profiles/76561199221420517"
+      },
+      "xbox": {
+        "id": "3062137794257833",
+        "name": "RelloVero",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RelloVero"
+      }
+    },
+    "legacy_username": "RelloVero#3144"
+  },
+  "668885402119307296": {
+    "id": 668885402119307296,
+    "name": "muhit3773",
+    "nick": null,
+    "display_name": "Muhit",
+    "global_name": "Muhit",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "9pN1PajdsXA-_dCphQBm3hzgUlcFTWjtshUpziHmnLSHY9tb2kW9aIx8WYP5Sg1Z211IoiHD_kOEZA",
+        "name": "slyrak#NoGf",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199103503359",
+        "name": "uchiha_muhit",
+        "url": "https://steamcommunity.com/profiles/76561199103503359"
+      },
+      "twitter": {
+        "id": "1581199929141497856",
+        "name": "muhit_uchiha",
+        "url": "https://twitter.com/muhit_uchiha"
+      },
+      "xbox": {
+        "id": "3062729065587497",
+        "name": "uchihamuhit",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=uchihamuhit"
+      },
+      "youtube": {
+        "id": "UC8Cpgm09HC_hTiZgbP_FzSA",
+        "name": "slyrak",
+        "url": "https://www.youtube.com/channel/UC8Cpgm09HC_hTiZgbP_FzSA"
+      }
+    },
+    "legacy_username": "Muhit#3773"
   }
 }
