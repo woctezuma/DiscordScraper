@@ -60104,5 +60104,90 @@
       }
     },
     "legacy_username": null
+  },
+  "488855089537220609": {
+    "id": 488855089537220609,
+    "name": ".juanfut",
+    "nick": null,
+    "display_name": "!                   JuanFut",
+    "global_name": "!                   JuanFut",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "!                   JuanFut#6644"
+  },
+  "418396415153405958": {
+    "id": 418396415153405958,
+    "name": "masterbabapiro1",
+    "nick": null,
+    "display_name": "masterbabapiro1",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<a:meow_party:994842793002410084>",
+    "guild_bio": null,
+    "display_bio": "<a:meow_party:994842793002410084>",
+    "banner": "https://cdn.discordapp.com/banners/418396415153405958/01fb57755741a40091730c90b14710ed.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/418396415153405958/01fb57755741a40091730c90b14710ed.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "937597981371281409": {
+    "id": 937597981371281409,
+    "name": "vitea.25",
+    "nick": null,
+    "display_name": "Vitea.25",
+    "global_name": "Vitea.25",
+    "pronouns": "vitea",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "2420dcc0fa684e20bc1c54c6bb50e091",
+        "name": "Vitea25",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199075526294",
+        "name": "vitea20",
+        "url": "https://steamcommunity.com/profiles/76561199075526294"
+      },
+      "xbox": {
+        "id": "3078544707556344",
+        "name": "Vitea25GR2020",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Vitea25GR2020"
+      },
+      "youtube": {
+        "id": "UCrKs8DqYiFIM1UFI1YJVOAg",
+        "name": "Vitea",
+        "url": "https://www.youtube.com/channel/UCrKs8DqYiFIM1UFI1YJVOAg"
+      }
+    },
+    "legacy_username": "VictorMD#6529"
   }
 }
