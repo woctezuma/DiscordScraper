@@ -57130,5 +57130,66 @@
       }
     },
     "legacy_username": null
+  },
+  "102478267121934336": {
+    "id": 102478267121934336,
+    "name": "g3kko360",
+    "nick": null,
+    "display_name": "G3KKo360",
+    "global_name": "G3KKo360",
+    "pronouns": "believes in Marin surpREMacy",
+    "guild_pronouns": null,
+    "bio": "boop",
+    "guild_bio": null,
+    "display_bio": "boop",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "11190332-9a77-5a90-9684-110832601f2d",
+        "name": "G3KKo360",
+        "url": null
+      },
+      "reddit": {
+        "id": "rltzr",
+        "name": "G3KKo360",
+        "url": "https://www.reddit.com/u/G3KKo360"
+      },
+      "steam": {
+        "id": "76561198004065219",
+        "name": "G3KKo360",
+        "url": "https://steamcommunity.com/profiles/76561198004065219"
+      },
+      "twitch": {
+        "id": "39931364",
+        "name": "g3kko360",
+        "url": "https://www.twitch.tv/g3kko360"
+      }
+    },
+    "legacy_username": "G3KKo360#5089"
+  },
+  "1288751726597505068": {
+    "id": 1288751726597505068,
+    "name": "g3kko360_21226",
+    "nick": null,
+    "display_name": "G3KKo360",
+    "global_name": "G3KKo360",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
