@@ -60913,5 +60913,61 @@
       }
     },
     "legacy_username": "ANs_REVOX#8295"
+  },
+  "444614357918285835": {
+    "id": 444614357918285835,
+    "name": ".neospace.",
+    "nick": null,
+    "display_name": "neoSpace",
+    "global_name": "neoSpace",
+    "pronouns": "he",
+    "guild_pronouns": null,
+    "bio": "Professional procrastinator, but I'm trying to get more active.\n\nI'm also happily in a relationship, and she's the loveliest woman I've ever met.\n\nI, uh, also have insomnia. Not asleep much.",
+    "guild_bio": null,
+    "display_bio": "Professional procrastinator, but I'm trying to get more active.\n\nI'm also happily in a relationship, and she's the loveliest woman I've ever met.\n\nI, uh, also have insomnia. Not asleep much.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "54sbsu2g",
+        "name": "SlofnaYT",
+        "url": "https://www.reddit.com/u/SlofnaYT"
+      },
+      "twitter": {
+        "id": "955301214928826368",
+        "name": "SlofnaYT",
+        "url": "https://twitter.com/SlofnaYT"
+      }
+    },
+    "legacy_username": "neoSpace#6034"
+  },
+  "954024405476999218": {
+    "id": 954024405476999218,
+    "name": "shirou7z",
+    "nick": null,
+    "display_name": "Shirou7z",
+    "global_name": "Shirou7z",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "N7",
+    "guild_bio": null,
+    "display_bio": "N7",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Shirou#5721"
   }
 }
