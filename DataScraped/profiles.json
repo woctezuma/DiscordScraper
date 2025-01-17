@@ -60059,5 +60059,50 @@
       }
     },
     "legacy_username": "comeherecupcake#4174"
+  },
+  "168060368730587136": {
+    "id": 168060368730587136,
+    "name": "mrolle",
+    "nick": null,
+    "display_name": "Olle",
+    "global_name": "Olle",
+    "pronouns": "\ud83d\udc80",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "266911403049353226": {
+    "id": 266911403049353226,
+    "name": "klaasv00k",
+    "nick": null,
+    "display_name": "Klaasv00k",
+    "global_name": "Klaasv00k",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_roblox": {
+        "id": "3572115310",
+        "name": "Klaasv00k",
+        "url": null
+      }
+    },
+    "legacy_username": null
   }
 }
