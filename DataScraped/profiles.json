@@ -57326,5 +57326,46 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "294291754042130442": {
+    "id": 294291754042130442,
+    "name": "mizuwastaken",
+    "nick": null,
+    "display_name": "Azu",
+    "global_name": "Azu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "corinthians 13:13 ",
+    "guild_bio": null,
+    "display_bio": "corinthians 13:13 ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mizu#4625"
+  },
+  "220693305128648704": {
+    "id": 220693305128648704,
+    "name": "dirtyjackson",
+    "nick": null,
+    "display_name": "Dirtyjackson",
+    "global_name": "Dirtyjackson",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Dirtyjackson#6408"
   }
 }
