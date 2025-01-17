@@ -57577,5 +57577,31 @@
     ],
     "connections": {},
     "legacy_username": "Nutella Boi#9803"
+  },
+  "479106268624060416": {
+    "id": 479106268624060416,
+    "name": "long6056",
+    "nick": null,
+    "display_name": "Long",
+    "global_name": "Long",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198824846003",
+        "name": "Pandora'sBox",
+        "url": "https://steamcommunity.com/profiles/76561198824846003"
+      }
+    },
+    "legacy_username": "\u0e56\u06e3\u06dcLong#6056"
   }
 }
