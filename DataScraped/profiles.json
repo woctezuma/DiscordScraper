@@ -60302,5 +60302,82 @@
       }
     },
     "legacy_username": null
+  },
+  "382917938719490048": {
+    "id": 382917938719490048,
+    "name": "a2z05",
+    "nick": null,
+    "display_name": "__a2z",
+    "global_name": "__a2z",
+    "pronouns": "Ashen One/Tarnished/Chosen Undead",
+    "guild_pronouns": null,
+    "bio": " Food, games, and good times. Thats my combo \n\nPfp taxt\n{\nGive Me Your Heart, Son\n}\n\nNote: Im not lazy, Im in energy-saving mode.",
+    "guild_bio": null,
+    "display_bio": " Food, games, and good times. Thats my combo \n\nPfp taxt\n{\nGive Me Your Heart, Son\n}\n\nNote: Im not lazy, Im in energy-saving mode.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "ebay": {
+        "id": "hlvywqphq_y",
+        "name": "arzar_6434",
+        "url": "https://www.ebay.com/usr/arzar_6434"
+      },
+      "epic_games": {
+        "id": "82e054028e5545e684a6cb58e66ea950",
+        "name": "a2z05",
+        "url": null
+      },
+      "github": {
+        "id": "99324986",
+        "name": "artanhaker05",
+        "url": "https://github.com/artanhaker05"
+      },
+      "league_of_legends": {
+        "id": "cHYUvDHTZ-x6hRmG3s34a6y2XLe2iw9DixmTdORgjh6XfujT02zwakb-ftLGisxFb1nXWTuDLs_WFA",
+        "name": "a2z#3558",
+        "url": null
+      },
+      "reddit": {
+        "id": "gt7fqc9l",
+        "name": "Ghost--killer",
+        "url": "https://www.reddit.com/u/Ghost--killer"
+      },
+      "riot_games": {
+        "id": "cHYUvDHTZ-x6hRmG3s34a6y2XLe2iw9DixmTdORgjh6XfujT02zwakb-ftLGisxFb1nXWTuDLs_WFA",
+        "name": "a2z#3558",
+        "url": null
+      },
+      "spotify": {
+        "id": "0bgkd4qq3isik56at4yc3t9jv",
+        "name": "\u2014\u035e\u035f\u035e\ud81a\udcd8  \u53422\u4e59",
+        "url": "https://open.spotify.com/user/0bgkd4qq3isik56at4yc3t9jv"
+      },
+      "steam": {
+        "id": "76561199240842125",
+        "name": "A2Z",
+        "url": "https://steamcommunity.com/profiles/76561199240842125"
+      },
+      "twitch": {
+        "id": "776215514",
+        "name": "a2z05",
+        "url": "https://www.twitch.tv/a2z05"
+      },
+      "xbox": {
+        "id": "3076432434355229",
+        "name": "Ghostkiller9598",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Ghostkiller9598"
+      },
+      "youtube": {
+        "id": "UCkDiQcihyfT6zZL9kvkAQlw",
+        "name": "a2z",
+        "url": "https://www.youtube.com/channel/UCkDiQcihyfT6zZL9kvkAQlw"
+      }
+    },
+    "legacy_username": "Galaverenc#1581"
   }
 }
