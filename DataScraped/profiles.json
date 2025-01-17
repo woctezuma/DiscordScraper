@@ -58337,5 +58337,26 @@
       }
     },
     "legacy_username": "milan(._.)#0379"
+  },
+  "695426951715880990": {
+    "id": 695426951715880990,
+    "name": "shimarin005",
+    "nick": null,
+    "display_name": "ShimaRin",
+    "global_name": "ShimaRin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "_Arlecchinooooo_",
+    "guild_bio": null,
+    "display_bio": "_Arlecchinooooo_",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "ShimaRin#3715"
   }
 }
