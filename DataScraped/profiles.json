@@ -59345,5 +59345,87 @@
       }
     },
     "legacy_username": null
+  },
+  "881307822141349888": {
+    "id": 881307822141349888,
+    "name": "sanjupolegada",
+    "nick": null,
+    "display_name": "SANJU VINHO E FUMAA!",
+    "global_name": "SANJU VINHO E FUMAA!",
+    "pronouns": "Vi/Ven/Do A Vi/Da",
+    "guild_pronouns": null,
+    "bio": "VENHA JOGAR PASS TIME!: https://discord.gg/HU4tq8w9Qu\n\nAndo afastado no momento pois estou em busca de um pc novo pra poder jogar com os amiguchos!",
+    "guild_bio": null,
+    "display_bio": "VENHA JOGAR PASS TIME!: https://discord.gg/HU4tq8w9Qu\n\nAndo afastado no momento pois estou em busca de um pc novo pra poder jogar com os amiguchos!",
+    "banner": "https://cdn.discordapp.com/banners/881307822141349888/6e45a128b32b624cf7519f715645d70a.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/881307822141349888/6e45a128b32b624cf7519f715645d70a.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "SanjuCaceta#1313",
+        "name": "SanjuCaceta#1313",
+        "url": null
+      },
+      "github": {
+        "id": "148451985",
+        "name": "SanjuCodigos",
+        "url": "https://github.com/SanjuCodigos"
+      },
+      "steam": {
+        "id": "76561199370497634",
+        "name": "Sanju VinhoeNascadeBacana!",
+        "url": "https://steamcommunity.com/profiles/76561199370497634"
+      },
+      "twitch": {
+        "id": "953791364",
+        "name": "gustavosanju",
+        "url": "https://www.twitch.tv/gustavosanju"
+      },
+      "youtube": {
+        "id": "UCoORCO_ADkLdBr46qoO08kg",
+        "name": "Sanji",
+        "url": "https://www.youtube.com/channel/UCoORCO_ADkLdBr46qoO08kg"
+      }
+    },
+    "legacy_username": null
+  },
+  "564194263982800897": {
+    "id": 564194263982800897,
+    "name": "yellowdog666",
+    "nick": null,
+    "display_name": "Y.D.G",
+    "global_name": "Y.D.G",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Anyma - Now Or Never [Visualizer]\nhttps://www.youtube.com/watch?v=qNhvP1ZYcyY",
+    "guild_bio": null,
+    "display_bio": "Anyma - Now Or Never [Visualizer]\nhttps://www.youtube.com/watch?v=qNhvP1ZYcyY",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198421562954",
+        "name": "\u8056\u8a95\u7bc0\u9000\u4f0d\u7684\u9ec3\u72d7",
+        "url": "https://steamcommunity.com/profiles/76561198421562954"
+      },
+      "youtube": {
+        "id": "UCm9n-JmELdaBVXVpNInMBoQ",
+        "name": "\u9ec3\u72d7 Yellow D.O.G",
+        "url": "https://www.youtube.com/channel/UCm9n-JmELdaBVXVpNInMBoQ"
+      }
+    },
+    "legacy_username": "\u9ec3\u72d7Y.D.G#6262"
   }
 }
