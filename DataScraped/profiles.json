@@ -58889,5 +58889,106 @@
     ],
     "connections": {},
     "legacy_username": "maraa#3327"
+  },
+  "1221841513357639784": {
+    "id": 1221841513357639784,
+    "name": ".ali.gorbe.",
+    "nick": null,
+    "display_name": "Ali_Goribe",
+    "global_name": "Ali_Goribe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n>",
+    "guild_bio": null,
+    "display_bio": "> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n> \n>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1000917500944461896": {
+    "id": 1000917500944461896,
+    "name": "kenzo04960",
+    "nick": null,
+    "display_name": "KENZO",
+    "global_name": "KENZO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199221321157",
+        "name": "KENZO",
+        "url": "https://steamcommunity.com/profiles/76561199221321157"
+      },
+      "twitch": {
+        "id": "861827906",
+        "name": "xxkenzoxx",
+        "url": "https://www.twitch.tv/xxkenzoxx"
+      }
+    },
+    "legacy_username": "KENZO#1996"
+  },
+  "393075901639688202": {
+    "id": 393075901639688202,
+    "name": ".elzero.",
+    "nick": null,
+    "display_name": "ElZeRo",
+    "global_name": "ElZeRo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " prowd owner of   https://www.SirServALot.dk",
+    "guild_bio": null,
+    "display_bio": " prowd owner of   https://www.SirServALot.dk",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "OdMC5wPeu7uAK10ITSURpknM1DCl3pN5y_0f4EF9FFPHXuwuSo9uHDz8iQerNXTcZ8vHmzM_4s6Ibg",
+        "name": "ElZeRo69#EUNE",
+        "url": null
+      },
+      "reddit": {
+        "id": "b6rr5o0r",
+        "name": "ElZeRo1969",
+        "url": "https://www.reddit.com/u/ElZeRo1969"
+      },
+      "riot_games": {
+        "id": "OdMC5wPeu7uAK10ITSURpknM1DCl3pN5y_0f4EF9FFPHXuwuSo9uHDz8iQerNXTcZ8vHmzM_4s6Ibg",
+        "name": "ElZeRo69#EUNE",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197970932538",
+        "name": "ElZeRo",
+        "url": "https://steamcommunity.com/profiles/76561197970932538"
+      },
+      "twitter": {
+        "id": "2339751975",
+        "name": "M_Boeg_Jensen",
+        "url": "https://twitter.com/M_Boeg_Jensen"
+      },
+      "xbox": {
+        "id": "3069947726327775",
+        "name": "ElZeRo7784",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ElZeRo7784"
+      }
+    },
+    "legacy_username": "ElZeRo#9561"
   }
 }
