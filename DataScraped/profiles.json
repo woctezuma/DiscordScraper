@@ -59017,5 +59017,135 @@
       }
     },
     "legacy_username": "Dark_Kizz#7349"
+  },
+  "386238144757891083": {
+    "id": 386238144757891083,
+    "name": "hedigliranes",
+    "nick": null,
+    "display_name": "Hedigliranes",
+    "global_name": "Hedigliranes",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Hedigliranes#8382"
+  },
+  "647450686635769870": {
+    "id": 647450686635769870,
+    "name": "banderko",
+    "nick": null,
+    "display_name": "Banderko",
+    "global_name": "Banderko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "229367364",
+        "name": "banderko_1",
+        "url": "https://www.twitch.tv/banderko_1"
+      }
+    },
+    "legacy_username": "Banderko#1010"
+  },
+  "935572572240773160": {
+    "id": 935572572240773160,
+    "name": "nickcreator",
+    "nick": null,
+    "display_name": "Nickcreator",
+    "global_name": "Nickcreator",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i make roblox animations\n\ndms open (as always)",
+    "guild_bio": null,
+    "display_bio": "i make roblox animations\n\ndms open (as always)",
+    "banner": "https://cdn.discordapp.com/banners/935572572240773160/a_409c755dafb89a89e4d3a19392464ff5.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/935572572240773160/a_409c755dafb89a89e4d3a19392464ff5.gif?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "799814371",
+        "name": "nickcreatorreal",
+        "url": "https://www.twitch.tv/nickcreatorreal"
+      }
+    },
+    "legacy_username": "Nickcreator#0430"
+  },
+  "831140676628250645": {
+    "id": 831140676628250645,
+    "name": "cosmical6504",
+    "nick": null,
+    "display_name": "Cosmical",
+    "global_name": "Cosmical",
+    "pronouns": "Tarnished",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "cf58947f732c40479177c8fefb501e64",
+        "name": "FRA-COSMICAL",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "QUEdndFxXNajGt1R8XgsfGjizogpDVvQjNZtvHj-WK3m-e88wHVpbicnvTfZWSPu5U6ww_UzSaq-8w",
+        "name": "DemonOP123#7094",
+        "url": null
+      },
+      "riot_games": {
+        "id": "QUEdndFxXNajGt1R8XgsfGjizogpDVvQjNZtvHj-WK3m-e88wHVpbicnvTfZWSPu5U6ww_UzSaq-8w",
+        "name": "DemonOP123#7094",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "960688320",
+        "name": "The0nlyKing666",
+        "url": null
+      },
+      "twitch": {
+        "id": "636701989",
+        "name": "demonopz",
+        "url": "https://www.twitch.tv/demonopz"
+      },
+      "youtube": {
+        "id": "UCdsUq7vRsv8r2eYAN0XcCbQ",
+        "name": "CosmicalYT",
+        "url": "https://www.youtube.com/channel/UCdsUq7vRsv8r2eYAN0XcCbQ"
+      }
+    },
+    "legacy_username": "Cosmical#6504"
   }
 }
