@@ -56883,5 +56883,118 @@
     ],
     "connections": {},
     "legacy_username": "kjt5#5003"
+  },
+  "639509383801470976": {
+    "id": 639509383801470976,
+    "name": "than08434",
+    "nick": null,
+    "display_name": "THAN",
+    "global_name": "THAN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "261557713853480973": {
+    "id": 261557713853480973,
+    "name": "mist_o",
+    "nick": null,
+    "display_name": "mist",
+    "global_name": "mist",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "good night... ",
+    "guild_bio": null,
+    "display_bio": "good night... ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "mist#3951"
+  },
+  "399673175098523658": {
+    "id": 399673175098523658,
+    "name": "thiago.s",
+    "nick": null,
+    "display_name": "THIAGO.S",
+    "global_name": "THIAGO.S",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "THIAGO.S#6863"
+  },
+  "758055536716677197": {
+    "id": 758055536716677197,
+    "name": "quexel_",
+    "nick": null,
+    "display_name": "Quexel_",
+    "global_name": "Quexel_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31l75zplk5dtp3kchgtffgbk2tuy",
+        "name": "Quexel_",
+        "url": "https://open.spotify.com/user/31l75zplk5dtp3kchgtffgbk2tuy"
+      }
+    },
+    "legacy_username": "Quexel_#1595"
+  },
+  "680762492171059220": {
+    "id": 680762492171059220,
+    "name": "proheat",
+    "nick": null,
+    "display_name": "NoPainNoGain",
+    "global_name": "NoPainNoGain",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\n:\n",
+    "guild_bio": null,
+    "display_bio": "\n:\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "949571091",
+        "name": "joel_jk8422",
+        "url": "https://www.twitch.tv/joel_jk8422"
+      }
+    },
+    "legacy_username": null
   }
 }
