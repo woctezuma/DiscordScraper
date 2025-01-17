@@ -60815,5 +60815,47 @@
     ],
     "connections": {},
     "legacy_username": "john_doe#3143"
+  },
+  "412843363776069632": {
+    "id": 412843363776069632,
+    "name": "linyou414",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ui3c4jdsikzm54owq3rjs3ad44",
+        "name": "\u6797\u4f51",
+        "url": "https://open.spotify.com/user/31ui3c4jdsikzm54owq3rjs3ad44"
+      },
+      "steam": {
+        "id": "76561198981237317",
+        "name": "\u6797\u4f51",
+        "url": "https://steamcommunity.com/profiles/76561198981237317"
+      },
+      "twitch": {
+        "id": "470455990",
+        "name": "crossroads0913",
+        "url": "https://www.twitch.tv/crossroads0913"
+      },
+      "youtube": {
+        "id": "UC2JokCRgMAtFuMheedUeQfw",
+        "name": "\u6797\u4f51",
+        "url": "https://www.youtube.com/channel/UC2JokCRgMAtFuMheedUeQfw"
+      }
+    },
+    "legacy_username": "\u6797\u4f50#0835"
   }
 }
