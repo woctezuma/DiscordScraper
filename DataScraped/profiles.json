@@ -59833,5 +59833,82 @@
       }
     },
     "legacy_username": null
+  },
+  "1030585466245873724": {
+    "id": 1030585466245873724,
+    "name": "p0larixcs",
+    "nick": null,
+    "display_name": "p0larix",
+    "global_name": "p0larix",
+    "pronouns": "Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "popcat999#5158"
+  },
+  "1280820626394976278": {
+    "id": 1280820626394976278,
+    "name": "crashstorm.",
+    "nick": null,
+    "display_name": "CrashStorm",
+    "global_name": "CrashStorm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "228785940477378560": {
+    "id": 228785940477378560,
+    "name": "ro.ry",
+    "nick": null,
+    "display_name": "Rory",
+    "global_name": "Rory",
+    "pronouns": "Ya/Yeet",
+    "guild_pronouns": null,
+    "bio": "()*: : *()\n\n                       ()",
+    "guild_bio": null,
+    "display_bio": "()*: : *()\n\n                       ()",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "21uNA5TcKAmXXlO7Yr0KU5siNzocomzcqXPE3cJBx2FBDt5PcMkZapfyXsqmhKvatEXV8ExpTt5BeQ",
+        "name": "Rory#Ares",
+        "url": null
+      },
+      "riot_games": {
+        "id": "21uNA5TcKAmXXlO7Yr0KU5siNzocomzcqXPE3cJBx2FBDt5PcMkZapfyXsqmhKvatEXV8ExpTt5BeQ",
+        "name": "Rory#Ares",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198314145778",
+        "name": "Rory",
+        "url": "https://steamcommunity.com/profiles/76561198314145778"
+      }
+    },
+    "legacy_username": "Rory#0002"
   }
 }
