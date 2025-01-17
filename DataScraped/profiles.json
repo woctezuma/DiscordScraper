@@ -57453,5 +57453,129 @@
     ],
     "connections": {},
     "legacy_username": "Chie Sa#1285"
+  },
+  "268004737217986571": {
+    "id": 268004737217986571,
+    "name": "cobus4648",
+    "nick": null,
+    "display_name": "Cobus",
+    "global_name": "Cobus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Cobus#2944",
+        "name": "Cobus#2944",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198039920363",
+        "name": "Cobus",
+        "url": "https://steamcommunity.com/profiles/76561198039920363"
+      }
+    },
+    "legacy_username": "Cobus#4648"
+  },
+  "877467628627722280": {
+    "id": 877467628627722280,
+    "name": "glibber_0815",
+    "nick": null,
+    "display_name": "Glibber",
+    "global_name": "Glibber",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Glibber#2746"
+  },
+  "399234565958270999": {
+    "id": 399234565958270999,
+    "name": "blvckcgrts",
+    "nick": null,
+    "display_name": "Syko",
+    "global_name": "Syko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198331625539",
+        "name": "BLVCKCGRTS",
+        "url": "https://steamcommunity.com/profiles/76561198331625539"
+      },
+      "twitch": {
+        "id": "235490617",
+        "name": "blvckcgrts",
+        "url": "https://www.twitch.tv/blvckcgrts"
+      }
+    },
+    "legacy_username": "Syko#0175"
+  },
+  "963345278084194334": {
+    "id": 963345278084194334,
+    "name": "sky70old",
+    "nick": null,
+    "display_name": "SkyInWater",
+    "global_name": "SkyInWater",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "sky70old#3237"
+  },
+  "704241861597986857": {
+    "id": 704241861597986857,
+    "name": "nutellaboi_",
+    "nick": null,
+    "display_name": "Nutella Boi",
+    "global_name": "Nutella Boi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nutella Boi#9803"
   }
 }
