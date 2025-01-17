@@ -60444,5 +60444,64 @@
       }
     },
     "legacy_username": null
+  },
+  "472777973527740417": {
+    "id": 472777973527740417,
+    "name": "_dajjal6969",
+    "nick": null,
+    "display_name": "Paracetamol",
+    "global_name": "Paracetamol",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "My pronouns are Fuck/You",
+    "guild_bio": null,
+    "display_bio": "My pronouns are Fuck/You",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MarcV#11395",
+        "name": "MarcV#11395",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199050077404",
+        "name": "MarV",
+        "url": "https://steamcommunity.com/profiles/76561199050077404"
+      },
+      "youtube": {
+        "id": "UCAvn9V6OvQDzpxXuxuLTtMA",
+        "name": "MarcWastingTime",
+        "url": "https://www.youtube.com/channel/UCAvn9V6OvQDzpxXuxuLTtMA"
+      }
+    },
+    "legacy_username": "Dajjal#8919"
+  },
+  "928245294188081192": {
+    "id": 928245294188081192,
+    "name": "navernoe_koly",
+    "nick": null,
+    "display_name": "navernoe_koly",
+    "global_name": "navernoe_koly",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Iiifi\nffi\nI'  ,fii\ni Ii\nfiii   ffii\nfiI",
+    "guild_bio": null,
+    "display_bio": "Iiifi\nffi\nI'  ,fii\ni Ii\nfiii   ffii\nfiI",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "navernoe_koly#8190"
   }
 }
