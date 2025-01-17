@@ -57191,5 +57191,36 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "946607842289397760": {
+    "id": 946607842289397760,
+    "name": "lime.75",
+    "nick": null,
+    "display_name": "lime.75",
+    "global_name": "lime.75",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Nm mi ng s cht na ",
+    "guild_bio": null,
+    "display_bio": "Nm mi ng s cht na ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31wzxinx2rtydutqafrvzj4bzj6y",
+        "name": "Ch\u00ecn Chin",
+        "url": "https://open.spotify.com/user/31wzxinx2rtydutqafrvzj4bzj6y"
+      },
+      "youtube": {
+        "id": "UCxPVyQwY3ey7UDA7ei8J0YA",
+        "name": "Nguyen Anh",
+        "url": "https://www.youtube.com/channel/UCxPVyQwY3ey7UDA7ei8J0YA"
+      }
+    },
+    "legacy_username": "lime.75#3228"
   }
 }
