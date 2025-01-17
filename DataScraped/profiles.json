@@ -59653,5 +59653,185 @@
     ],
     "connections": {},
     "legacy_username": "\uff30\uff41\uff4e\uff5a\uff45\uff52#2952"
+  },
+  "292664165804539904": {
+    "id": 292664165804539904,
+    "name": "sk1reh",
+    "nick": null,
+    "display_name": "Sk1reh",
+    "global_name": "Sk1reh",
+    "pronouns": "TriHard 7",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Sk1reh#1140"
+  },
+  "320964214346743809": {
+    "id": 320964214346743809,
+    "name": "sydneystar",
+    "nick": null,
+    "display_name": "SydneyStar14",
+    "global_name": "SydneyStar14",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "28 <a:BongoCatto:526037789737877515> <:Peepo_UwU:854962335461539881>",
+    "guild_bio": null,
+    "display_bio": "28 <a:BongoCatto:526037789737877515> <:Peepo_UwU:854962335461539881>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "PerkyPug#11693",
+        "name": "PerkyPug#11693",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198156389659",
+        "name": "PerkyPug",
+        "url": "https://steamcommunity.com/profiles/76561198156389659"
+      },
+      "twitch": {
+        "id": "104221371",
+        "name": "sydneystar14",
+        "url": "https://www.twitch.tv/sydneystar14"
+      },
+      "youtube": {
+        "id": "UCruJ0cx0JaCmFZ_RNV1CGOg",
+        "name": "SydneyStar",
+        "url": "https://www.youtube.com/channel/UCruJ0cx0JaCmFZ_RNV1CGOg"
+      }
+    },
+    "legacy_username": "SydneyStar#4295"
+  },
+  "823606933176057926": {
+    "id": 823606933176057926,
+    "name": "gzsxr80",
+    "nick": null,
+    "display_name": "lucas",
+    "global_name": "lucas",
+    "pronouns": "he/they",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198094439121",
+        "name": "gzsxr80",
+        "url": "https://steamcommunity.com/profiles/76561198094439121"
+      }
+    },
+    "legacy_username": "Potionseller#2715"
+  },
+  "758387269001281556": {
+    "id": 758387269001281556,
+    "name": "admin_l",
+    "nick": null,
+    "display_name": "levi",
+    "global_name": "levi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ".   .. . . .     Admin_L was ejected. . .  .  ..",
+    "guild_bio": null,
+    "display_bio": ".   .. . . .     Admin_L was ejected. . .  .  ..",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "700790757505761382": {
+    "id": 700790757505761382,
+    "name": "aukusti0914",
+    "nick": null,
+    "display_name": "Aukusti",
+    "global_name": "Aukusti",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "924584843524861962": {
+    "id": 924584843524861962,
+    "name": "hauber_rblx",
+    "nick": null,
+    "display_name": "Hauber",
+    "global_name": "Hauber",
+    "pronouns": "he/him - https://guns.lol/hauber",
+    "guild_pronouns": null,
+    "bio": "im a panquake that plays games\n**17   **\nSteam Friend Code: ``1247936912``",
+    "guild_bio": null,
+    "display_bio": "im a panquake that plays games\n**17   **\nSteam Friend Code: ``1247936912``",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "uybie7fs",
+        "name": "Hauber_RBLX",
+        "url": "https://www.reddit.com/u/Hauber_RBLX"
+      },
+      "unknown_roblox": {
+        "id": "2787068950",
+        "name": "Hauber_RBLX",
+        "url": null
+      },
+      "spotify": {
+        "id": "31bj2xd7vscj5nrzle2bmwtvq5qu",
+        "name": "Max",
+        "url": "https://open.spotify.com/user/31bj2xd7vscj5nrzle2bmwtvq5qu"
+      },
+      "steam": {
+        "id": "76561199208202640",
+        "name": "Hauber",
+        "url": "https://steamcommunity.com/profiles/76561199208202640"
+      },
+      "tiktok": {
+        "id": "4b075576-5f17-45c4-8ea5-9f152824b1f5",
+        "name": "hauber_rblx",
+        "url": "https://tiktok.com/@hauber_rblx"
+      },
+      "twitter": {
+        "id": "1321860808524050433",
+        "name": "Hauber_RBLX",
+        "url": "https://twitter.com/Hauber_RBLX"
+      }
+    },
+    "legacy_username": null
   }
 }
