@@ -63748,5 +63748,116 @@
       }
     },
     "legacy_username": "DronClon#5475"
+  },
+  "812306099294306315": {
+    "id": 812306099294306315,
+    "name": "skillworthyluck",
+    "nick": null,
+    "display_name": "Luxxx",
+    "global_name": "Luxxx",
+    "pronouns": "Muni",
+    "guild_pronouns": null,
+    "bio": "Meow",
+    "guild_bio": null,
+    "display_bio": "Meow",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "25faf62c0b884456a5d05c3784c3c9ca",
+        "name": "Js_Skillz alt",
+        "url": null
+      },
+      "playstation": {
+        "id": "3360604946606851934",
+        "name": "EternalsLuckYt_J",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199347204501",
+        "name": "SkillWorthy Luck (SKILLZ)",
+        "url": "https://steamcommunity.com/profiles/76561199347204501"
+      },
+      "twitch": {
+        "id": "806218898",
+        "name": "luxxxx__",
+        "url": "https://www.twitch.tv/luxxxx__"
+      },
+      "xbox": {
+        "id": "3069989007209944",
+        "name": "SkillWorthyLuck",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SkillWorthyLuck"
+      },
+      "youtube": {
+        "id": "UC_FbsKVNrbqDA9lFyA_ulTQ",
+        "name": "Luxxx",
+        "url": "https://www.youtube.com/channel/UC_FbsKVNrbqDA9lFyA_ulTQ"
+      }
+    },
+    "legacy_username": "skillWorthy Luck#1807"
+  },
+  "1086057289477271635": {
+    "id": 1086057289477271635,
+    "name": "superfra8",
+    "nick": null,
+    "display_name": "SuperFra8",
+    "global_name": "SuperFra8",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "SuperFra8#2670"
+  },
+  "194501625614827520": {
+    "id": 194501625614827520,
+    "name": "esparzaphoenix",
+    "nick": null,
+    "display_name": "EsparzaPhoenix",
+    "global_name": "EsparzaPhoenix",
+    "pronouns": "Teu/Pai",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/194501625614827520/24f49b6abf0e2946963501017131a6b1.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/194501625614827520/24f49b6abf0e2946963501017131a6b1.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "LeoEsparza#1915",
+        "name": "LeoEsparza#1915",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198168800797",
+        "name": "EsparzaPhoenix",
+        "url": "https://steamcommunity.com/profiles/76561198168800797"
+      },
+      "twitch": {
+        "id": "153847810",
+        "name": "esparzaphoenix",
+        "url": "https://www.twitch.tv/esparzaphoenix"
+      }
+    },
+    "legacy_username": "EsparzaPhoenix#9133"
   }
 }
