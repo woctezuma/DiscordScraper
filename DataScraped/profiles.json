@@ -63516,5 +63516,25 @@
     ],
     "connections": {},
     "legacy_username": "HUNTER7777#9150"
+  },
+  "237176842941890560": {
+    "id": 237176842941890560,
+    "name": "zaneobre",
+    "nick": null,
+    "display_name": "zaneobre",
+    "global_name": "zaneobre",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "zaneobre#7289"
   }
 }
