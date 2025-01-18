@@ -63633,5 +63633,120 @@
       }
     },
     "legacy_username": null
+  },
+  "772717972443496449": {
+    "id": 772717972443496449,
+    "name": "ilovemashiro",
+    "nick": null,
+    "display_name": "ilovemashiro",
+    "global_name": "ilovemashiro",
+    "pronouns": "He/she/it/they/them/his/her/we/you",
+    "guild_pronouns": null,
+    "bio": "now i am a zygote",
+    "guild_bio": null,
+    "display_bio": "now i am a zygote",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "765593122595274762": {
+    "id": 765593122595274762,
+    "name": "vicsete",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Paradise#11991",
+        "name": "Paradise#11991",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "g4pyFQL0K1EYDoHWBNAVyVEqlI2iY7-AYpegt0QYispNf1Y0aCjrv98yoYwNtpujKYuVQStjQEwSrw",
+        "name": "BrashPanic",
+        "url": null
+      },
+      "spotify": {
+        "id": "x5le5dpoo47ta05xk9fmb9jxw",
+        "name": "Vik",
+        "url": "https://open.spotify.com/user/x5le5dpoo47ta05xk9fmb9jxw"
+      }
+    },
+    "legacy_username": "S\u2019#7199"
+  },
+  "1104094211269218315": {
+    "id": 1104094211269218315,
+    "name": "xbpass.com",
+    "nick": null,
+    "display_name": "XBPASS.com",
+    "global_name": "XBPASS.com",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "XBPASS.com#3918"
+  },
+  "256373386538778634": {
+    "id": 256373386538778634,
+    "name": "dronclon",
+    "nick": null,
+    "display_name": "DronClon",
+    "global_name": "DronClon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "h0uoiy1fz7s582zc6eo44ksrf",
+        "name": "DronClon",
+        "url": "https://open.spotify.com/user/h0uoiy1fz7s582zc6eo44ksrf"
+      },
+      "steam": {
+        "id": "76561198158201216",
+        "name": "DronClon",
+        "url": "https://steamcommunity.com/profiles/76561198158201216"
+      },
+      "twitch": {
+        "id": "89210678",
+        "name": "dronclon",
+        "url": "https://www.twitch.tv/dronclon"
+      }
+    },
+    "legacy_username": "DronClon#5475"
   }
 }
