@@ -64119,5 +64119,74 @@
     ],
     "connections": {},
     "legacy_username": "Acana#7871"
+  },
+  "1085453979821019186": {
+    "id": 1085453979821019186,
+    "name": "fartdestroyer600",
+    "nick": null,
+    "display_name": "fartdestroyer600",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31hq6p5f5nc5arnji2weaae6niyy",
+        "name": "Gianni",
+        "url": "https://open.spotify.com/user/31hq6p5f5nc5arnji2weaae6niyy"
+      },
+      "steam": {
+        "id": "76561199245866284",
+        "name": "alanizgianni",
+        "url": "https://steamcommunity.com/profiles/76561199245866284"
+      }
+    },
+    "legacy_username": "\ud808\ude6dG\ud808\ude6d#4213"
+  },
+  "1159596508165980272": {
+    "id": 1159596508165980272,
+    "name": "among102",
+    "nick": null,
+    "display_name": "Among102",
+    "global_name": "Among102",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "853629528235442176": {
+    "id": 853629528235442176,
+    "name": "hieudeptrai6969",
+    "nick": null,
+    "display_name": "HieuDepTrai",
+    "global_name": "HieuDepTrai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "HieuDepTrai#6941"
   }
 }
