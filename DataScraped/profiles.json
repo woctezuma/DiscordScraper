@@ -61738,5 +61738,43 @@
       }
     },
     "legacy_username": "CoatRack89#4519"
+  },
+  "951399303006523392": {
+    "id": 951399303006523392,
+    "name": "sin_25",
+    "nick": null,
+    "display_name": "Rhadamanthus",
+    "global_name": "Rhadamanthus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/951399303006523392/a_8cf3dd30fe27e9e5b60fef30c4233991.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/951399303006523392/a_8cf3dd30fe27e9e5b60fef30c4233991.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31u7okpt3gin3ozofywbm2xr3w3e",
+        "name": "sin",
+        "url": "https://open.spotify.com/user/31u7okpt3gin3ozofywbm2xr3w3e"
+      },
+      "steam": {
+        "id": "76561198146340603",
+        "name": "Sin",
+        "url": "https://steamcommunity.com/profiles/76561198146340603"
+      },
+      "xbox": {
+        "id": "3076166031844110",
+        "name": "SiN022",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SiN022"
+      }
+    },
+    "legacy_username": "SIN#8261"
   }
 }
