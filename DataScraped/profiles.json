@@ -61776,5 +61776,128 @@
       }
     },
     "legacy_username": "SIN#8261"
+  },
+  "493631775059476481": {
+    "id": 493631775059476481,
+    "name": "frogs7676",
+    "nick": null,
+    "display_name": "frogs",
+    "global_name": "frogs",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "50feccswi8ktcgsyp7z0smrmc",
+        "name": "Justin",
+        "url": "https://open.spotify.com/user/50feccswi8ktcgsyp7z0smrmc"
+      },
+      "twitch": {
+        "id": "438387017",
+        "name": "o_mist",
+        "url": "https://www.twitch.tv/o_mist"
+      },
+      "youtube": {
+        "id": "UCnqtTx4_XU_KnJQddXNhghg",
+        "name": "o_Mist",
+        "url": "https://www.youtube.com/channel/UCnqtTx4_XU_KnJQddXNhghg"
+      }
+    },
+    "legacy_username": "frogs#7676"
+  },
+  "1330062877696069707": {
+    "id": 1330062877696069707,
+    "name": "hessinm.hijazy",
+    "nick": null,
+    "display_name": "DiMethylEther",
+    "global_name": "DiMethylEther",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Researcher / Senior at Chemistry Department, Faculty of Science, Ain Shams University",
+    "guild_bio": null,
+    "display_bio": "Researcher / Senior at Chemistry Department, Faculty of Science, Ain Shams University",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "facebook": {
+        "id": "122137627922396777",
+        "name": "Hessin Mohammed",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199472611349",
+        "name": "Di Methyl Ether",
+        "url": "https://steamcommunity.com/profiles/76561199472611349"
+      }
+    },
+    "legacy_username": null
+  },
+  "590921339871690776": {
+    "id": 590921339871690776,
+    "name": "arkarsan",
+    "nick": null,
+    "display_name": "Arkar San",
+    "global_name": "Arkar San",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Never trust anyone too much, remember the devil was once an angel.",
+    "guild_bio": null,
+    "display_bio": "Never trust anyone too much, remember the devil was once an angel.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "929420734230090",
+        "name": "Arkar San",
+        "url": null
+      },
+      "spotify": {
+        "id": "31dctobx6szt6ce5b35vofv7clze",
+        "name": "Arkar San",
+        "url": "https://open.spotify.com/user/31dctobx6szt6ce5b35vofv7clze"
+      },
+      "steam": {
+        "id": "76561199067783121",
+        "name": "ArkarSan",
+        "url": "https://steamcommunity.com/profiles/76561199067783121"
+      }
+    },
+    "legacy_username": "Arkar San#8292"
+  },
+  "836845145131188245": {
+    "id": 836845145131188245,
+    "name": "chris8187",
+    "nick": null,
+    "display_name": "Chris8187",
+    "global_name": "Chris8187",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Chris8187#5416"
   }
 }
