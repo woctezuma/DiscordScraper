@@ -63028,5 +63028,32 @@
       }
     },
     "legacy_username": null
+  },
+  "698960076404293804": {
+    "id": 698960076404293804,
+    "name": ".drugs_",
+    "nick": null,
+    "display_name": "...",
+    "global_name": "...",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198887192719",
+        "name": "...",
+        "url": "https://steamcommunity.com/profiles/76561198887192719"
+      }
+    },
+    "legacy_username": null
   }
 }
