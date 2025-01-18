@@ -63536,5 +63536,69 @@
     ],
     "connections": {},
     "legacy_username": "zaneobre#7289"
+  },
+  "835221905685348383": {
+    "id": 835221905685348383,
+    "name": "_jeongyoon",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ".",
+    "guild_bio": null,
+    "display_bio": ".",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\uc815\uc724#9632"
+  },
+  "203743477706653696": {
+    "id": 203743477706653696,
+    "name": "daeleia",
+    "nick": null,
+    "display_name": "daeleia",
+    "global_name": "daeleia",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "lvl 33.",
+    "guild_bio": null,
+    "display_bio": "lvl 33.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "5f80e76497204032a5d0d340fd19c5f1",
+        "name": "Daeleia",
+        "url": null
+      },
+      "playstation": {
+        "id": "4817775038316634479",
+        "name": "Daeleia",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197983671455",
+        "name": "Daeleia",
+        "url": "https://steamcommunity.com/profiles/76561197983671455"
+      },
+      "twitch": {
+        "id": "534981590",
+        "name": "daeleia",
+        "url": "https://www.twitch.tv/daeleia"
+      },
+      "xbox": {
+        "id": "3063220938237236",
+        "name": "Daeleiae",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Daeleiae"
+      }
+    },
+    "legacy_username": null
   }
 }
