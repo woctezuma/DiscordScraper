@@ -61002,5 +61002,91 @@
       }
     },
     "legacy_username": "Jounzet#7964"
+  },
+  "1274832065317306478": {
+    "id": 1274832065317306478,
+    "name": "sir_fievel",
+    "nick": null,
+    "display_name": "Sir Fievel",
+    "global_name": "Sir Fievel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Gamer Mouse that can be found at:\nhttps://www.youtube.com/@SirFievelsAdventures\nAlso known as Slayer from BloodWyverns Tribe in Ark Ascended",
+    "guild_bio": null,
+    "display_bio": "Gamer Mouse that can be found at:\nhttps://www.youtube.com/@SirFievelsAdventures\nAlso known as Slayer from BloodWyverns Tribe in Ark Ascended",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "8063591118568008728",
+        "name": "A_Salty_Bear",
+        "url": null
+      },
+      "xbox": {
+        "id": "3069404065819895",
+        "name": "SirFievel3515",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SirFievel3515"
+      }
+    },
+    "legacy_username": null
+  },
+  "561553598547492864": {
+    "id": 561553598547492864,
+    "name": "k1us",
+    "nick": null,
+    "display_name": "Kius",
+    "global_name": "Kius",
+    "pronouns": "Kius/Kius/Kius/Kius/Kius/Kius/Kius/Kius",
+    "guild_pronouns": null,
+    "bio": "Common sense tells me that the sun is a planet and it should be praised and worshiped upon :whatdahdogdoin:",
+    "guild_bio": null,
+    "display_bio": "Common sense tells me that the sun is a planet and it should be praised and worshiped upon :whatdahdogdoin:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCg7YGEXjWzSYGJr5a0OFEtw",
+        "name": "Kius' goofy music",
+        "url": "https://www.youtube.com/channel/UCg7YGEXjWzSYGJr5a0OFEtw"
+      }
+    },
+    "legacy_username": "Kius#1967"
+  },
+  "271992793780453376": {
+    "id": 271992793780453376,
+    "name": "yscindy",
+    "nick": null,
+    "display_name": "Star",
+    "global_name": "Star",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/271992793780453376/a_ca71d2173c23ad110cd7246b9fe3b346.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/271992793780453376/a_ca71d2173c23ad110cd7246b9fe3b346.gif?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCS7meNNHHeUkCl-lTPJVIrQ",
+        "name": "Cindy Chen (\u661f)",
+        "url": "https://www.youtube.com/channel/UCS7meNNHHeUkCl-lTPJVIrQ"
+      }
+    },
+    "legacy_username": "Star#5313"
   }
 }
