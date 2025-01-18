@@ -62734,5 +62734,51 @@
     ],
     "connections": {},
     "legacy_username": "Mr dripz#2655"
+  },
+  "704973389168902176": {
+    "id": 704973389168902176,
+    "name": "meshbj",
+    "nick": null,
+    "display_name": "meshbj",
+    "global_name": "meshbj",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199056797863",
+        "name": "meshbj",
+        "url": "https://steamcommunity.com/profiles/76561199056797863"
+      }
+    },
+    "legacy_username": "luigiplayer_ita#4028"
+  },
+  "476697514679205898": {
+    "id": 476697514679205898,
+    "name": "wearableshoes",
+    "nick": null,
+    "display_name": "Wearable Shoes",
+    "global_name": "Wearable Shoes",
+    "pronouns": "He/They",
+    "guild_pronouns": null,
+    "bio": "Ping/DM Friendly! ^^ \n[ Funny description goes here. ]",
+    "guild_bio": null,
+    "display_bio": "Ping/DM Friendly! ^^ \n[ Funny description goes here. ]",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Wearable Shoes#1913"
   }
 }
