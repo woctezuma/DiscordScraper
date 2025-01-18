@@ -61446,5 +61446,32 @@
       }
     },
     "legacy_username": "Cry2TheHeavens#4047"
+  },
+  "482696474350714911": {
+    "id": 482696474350714911,
+    "name": "kailoid",
+    "nick": null,
+    "display_name": "KailoidCantAct",
+    "global_name": "KailoidCantAct",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Honkai Impact 3: kailoid (ID: 203341531,Lv. 88,Europe\nHonkai: Star Rail: Kailoid( ID: 700464285,Lv 70,Europe)\nHypixel: KailoidCantAct (Lv. 46,TNT Grandmaster 3)\n\nBig JRPG fan!",
+    "guild_bio": null,
+    "display_bio": "Honkai Impact 3: kailoid (ID: 203341531,Lv. 88,Europe\nHonkai: Star Rail: Kailoid( ID: 700464285,Lv 70,Europe)\nHypixel: KailoidCantAct (Lv. 46,TNT Grandmaster 3)\n\nBig JRPG fan!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198118257396",
+        "name": "Kailoid (\u041a\u0430\u0438\u043b\u044c)",
+        "url": "https://steamcommunity.com/profiles/76561198118257396"
+      }
+    },
+    "legacy_username": "KailoidCantAct#4264"
   }
 }
