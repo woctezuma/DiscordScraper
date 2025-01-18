@@ -61239,5 +61239,57 @@
       }
     },
     "legacy_username": "Shiva#5675"
+  },
+  "1187887120371695729": {
+    "id": 1187887120371695729,
+    "name": "mmmsoda",
+    "nick": null,
+    "display_name": "mmmsoda",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "(15, not gay)\nhttps://guns.lol/mmmsoda\n*DESCRIPTION HERE! ^^^*",
+    "guild_bio": null,
+    "display_bio": "(15, not gay)\nhttps://guns.lol/mmmsoda\n*DESCRIPTION HERE! ^^^*",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "8ktiniu68",
+        "name": "Mmmsoda",
+        "url": "https://www.reddit.com/u/Mmmsoda"
+      },
+      "spotify": {
+        "id": "g6rnedymrgcavag97mbdrgz2a",
+        "name": "Mmmsoda",
+        "url": "https://open.spotify.com/user/g6rnedymrgcavag97mbdrgz2a"
+      },
+      "steam": {
+        "id": "76561199040106768",
+        "name": "MmmsodaVR",
+        "url": "https://steamcommunity.com/profiles/76561199040106768"
+      },
+      "twitch": {
+        "id": "1034279763",
+        "name": "mmmsodaofficial",
+        "url": "https://www.twitch.tv/mmmsodaofficial"
+      },
+      "xbox": {
+        "id": "3077951921774705",
+        "name": "Unknown C4M",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Unknown C4M"
+      },
+      "youtube": {
+        "id": "UCah-bJ0tKUUNkjwtJWx82IA",
+        "name": "Mmmsoda",
+        "url": "https://www.youtube.com/channel/UCah-bJ0tKUUNkjwtJWx82IA"
+      }
+    },
+    "legacy_username": null
   }
 }
