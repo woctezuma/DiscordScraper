@@ -61370,5 +61370,55 @@
       }
     },
     "legacy_username": "\ud83d\udda4\u2660\u2663~\u30cd\u30a4\u30b5\u30f3~\u2663\u2660\ud83d\udda4#1973"
+  },
+  "1285904427403837494": {
+    "id": 1285904427403837494,
+    "name": "hero945x.x",
+    "nick": null,
+    "display_name": "hero945",
+    "global_name": "hero945",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1242433005922942988": {
+    "id": 1242433005922942988,
+    "name": "lowdosage",
+    "nick": null,
+    "display_name": "Marr!",
+    "global_name": "Marr!",
+    "pronouns": "blood/fein !",
+    "guild_pronouns": null,
+    "bio": "strictly juggin!",
+    "guild_bio": null,
+    "display_bio": "strictly juggin!",
+    "banner": "https://cdn.discordapp.com/banners/1242433005922942988/a_601014dcaf02de8f946c52b926f15f3c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1242433005922942988/a_601014dcaf02de8f946c52b926f15f3c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "7f380ef1-13bd-5272-9598-dc66cf3f3252",
+        "name": "Verdxict",
+        "url": null
+      },
+      "youtube": {
+        "id": "UCjypJ3C32W0uQN-MMcaPZCQ",
+        "name": "Marr!",
+        "url": "https://www.youtube.com/channel/UCjypJ3C32W0uQN-MMcaPZCQ"
+      }
+    },
+    "legacy_username": null
   }
 }
