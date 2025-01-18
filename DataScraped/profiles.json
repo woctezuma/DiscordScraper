@@ -63075,5 +63075,49 @@
     ],
     "connections": {},
     "legacy_username": "Radulee#7964"
+  },
+  "1153571406387355668": {
+    "id": 1153571406387355668,
+    "name": "k9zn_kng",
+    "nick": null,
+    "display_name": "K9",
+    "global_name": "K9",
+    "pronouns": "He Reigns",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31jnvx74lgixikpegmtrgyxamglm",
+        "name": "Thiagainho Jse",
+        "url": "https://open.spotify.com/user/31jnvx74lgixikpegmtrgyxamglm"
+      }
+    },
+    "legacy_username": null
+  },
+  "1229110198652633243": {
+    "id": 1229110198652633243,
+    "name": "mbx15",
+    "nick": null,
+    "display_name": "Mbx ",
+    "global_name": "Mbx ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "My name is bence \nIm 15\nFavourite anime: my hero academia \nIm a chill and shy guy",
+    "guild_bio": null,
+    "display_bio": "My name is bence \nIm 15\nFavourite anime: my hero academia \nIm a chill and shy guy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
