@@ -64477,5 +64477,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "693921542286999582": {
+    "id": 693921542286999582,
+    "name": "koukichai",
+    "nick": null,
+    "display_name": "koukichai",
+    "global_name": "koukichai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "koukichai#8082"
   }
 }
