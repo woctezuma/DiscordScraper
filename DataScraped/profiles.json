@@ -63055,5 +63055,25 @@
       }
     },
     "legacy_username": null
+  },
+  "462348560726228992": {
+    "id": 462348560726228992,
+    "name": "radu_lee",
+    "nick": null,
+    "display_name": "Radulee",
+    "global_name": "Radulee",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Radulee#7964"
   }
 }
