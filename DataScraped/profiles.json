@@ -63859,5 +63859,44 @@
       }
     },
     "legacy_username": "EsparzaPhoenix#9133"
+  },
+  "418067932397174794": {
+    "id": 418067932397174794,
+    "name": "sinkingplanet",
+    "nick": null,
+    "display_name": "SinkingPlanet",
+    "global_name": "SinkingPlanet",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "328465247109251072": {
+    "id": 328465247109251072,
+    "name": "moevin.",
+    "nick": null,
+    "display_name": "Morvin",
+    "global_name": "Morvin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
