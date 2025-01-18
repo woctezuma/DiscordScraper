@@ -64188,5 +64188,41 @@
     ],
     "connections": {},
     "legacy_username": "HieuDepTrai#6941"
+  },
+  "686044081201217554": {
+    "id": 686044081201217554,
+    "name": "kilowz",
+    "nick": null,
+    "display_name": "kilowz",
+    "global_name": "kilowz",
+    "pronouns": "rocket/league",
+    "guild_pronouns": null,
+    "bio": "sleep to spongebob my boy",
+    "guild_bio": null,
+    "display_bio": "sleep to spongebob my boy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "bfbfe3f8f0a1485583bf2bd6fa0f872e",
+        "name": "KilowzTV",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198385479204",
+        "name": "kilowz",
+        "url": "https://steamcommunity.com/profiles/76561198385479204"
+      },
+      "xbox": {
+        "id": "3073620023313204",
+        "name": "KilowzTheMan",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=KilowzTheMan"
+      }
+    },
+    "legacy_username": null
   }
 }
