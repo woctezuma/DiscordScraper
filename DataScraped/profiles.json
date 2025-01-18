@@ -63440,5 +63440,61 @@
     ],
     "connections": {},
     "legacy_username": "Captain_Co#0922"
+  },
+  "801470357050621982": {
+    "id": 801470357050621982,
+    "name": "8tsmes",
+    "nick": null,
+    "display_name": "Mayitasamx",
+    "global_name": "Mayitasamx",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "M.SAIM#6390"
+  },
+  "1097099019253194814": {
+    "id": 1097099019253194814,
+    "name": "sh_010.",
+    "nick": null,
+    "display_name": "Sem_NL010",
+    "global_name": "Sem_NL010",
+    "pronouns": "Sem",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "508025054217014556",
+        "name": "Sem_NL010",
+        "url": null
+      },
+      "spotify": {
+        "id": "3133yqgkr2s3e3i7w27b2snnb7qm",
+        "name": "$\u0259m___",
+        "url": "https://open.spotify.com/user/3133yqgkr2s3e3i7w27b2snnb7qm"
+      },
+      "twitch": {
+        "id": "895433950",
+        "name": "shm010_",
+        "url": "https://www.twitch.tv/shm010_"
+      }
+    },
+    "legacy_username": null
   }
 }
