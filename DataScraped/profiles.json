@@ -61507,5 +61507,25 @@
       }
     },
     "legacy_username": null
+  },
+  "465480218963083264": {
+    "id": 465480218963083264,
+    "name": "oxhamster",
+    "nick": null,
+    "display_name": "Shirogane | never reply your DM",
+    "global_name": "Shirogane | never reply your DM",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Shirogane | never reply your DM#3527"
   }
 }
