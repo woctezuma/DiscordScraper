@@ -61961,5 +61961,70 @@
     ],
     "connections": {},
     "legacy_username": "hittamm#0615"
+  },
+  "1330090170762137692": {
+    "id": 1330090170762137692,
+    "name": "marusssssssssssss_77109",
+    "nick": null,
+    "display_name": "marusssssssssssss",
+    "global_name": "marusssssssssssss",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "756344108376784976": {
+    "id": 756344108376784976,
+    "name": "haizsnax",
+    "nick": null,
+    "display_name": "HaizSnax",
+    "global_name": "HaizSnax",
+    "pronouns": "attack/helicopter",
+    "guild_pronouns": null,
+    "bio": "Sub to FusuyXD",
+    "guild_bio": null,
+    "display_bio": "Sub to FusuyXD",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "dc9af16d9e654d4a85f7e0825de5e0cd",
+        "name": "FusuyXD",
+        "url": null
+      },
+      "instagram": {
+        "id": "6905070926275916",
+        "name": "m.yus.i",
+        "url": "https://www.instagram.com/m.yus.i"
+      },
+      "steam": {
+        "id": "76561199090467788",
+        "name": "Fus",
+        "url": "https://steamcommunity.com/profiles/76561199090467788"
+      },
+      "xbox": {
+        "id": "NDE3OWQwNmNiM2VjZDIwNzZjZDkwMzI2Y2QwNGFmODFlYmQ5M2Q0N2UzYzlkM2JkMWEyMGM4MDU0NWI5OWE0ZQ",
+        "name": "FloralTerror496",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=FloralTerror496"
+      },
+      "youtube": {
+        "id": "UCiVxoMfgLbCYBwdcx5he6Mg",
+        "name": "FusuyXD",
+        "url": "https://www.youtube.com/channel/UCiVxoMfgLbCYBwdcx5he6Mg"
+      }
+    },
+    "legacy_username": "HaizSnax#4197"
   }
 }
