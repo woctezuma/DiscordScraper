@@ -62934,5 +62934,99 @@
       }
     },
     "legacy_username": "Eikinskjaldi#4302"
+  },
+  "328953586350424067": {
+    "id": 328953586350424067,
+    "name": "smiff0069",
+    "nick": null,
+    "display_name": "Smiff",
+    "global_name": "Smiff",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198218773856",
+        "name": "chris_rocks11",
+        "url": "https://steamcommunity.com/profiles/76561198218773856"
+      },
+      "xbox": {
+        "id": "3068240193724060",
+        "name": "DrWaffles99",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DrWaffles99"
+      }
+    },
+    "legacy_username": "Smiff#0059"
+  },
+  "1285024403263848588": {
+    "id": 1285024403263848588,
+    "name": "doktor_kraken",
+    "nick": null,
+    "display_name": "ashes to ashes, dust to goldust",
+    "global_name": "ashes to ashes, dust to goldust",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I cannot sleep ",
+    "guild_bio": null,
+    "display_bio": "I cannot sleep ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "154907899",
+        "name": "doktor_kraken",
+        "url": "https://www.twitch.tv/doktor_kraken"
+      }
+    },
+    "legacy_username": null
+  },
+  "1128409061575114773": {
+    "id": 1128409061575114773,
+    "name": "brette.user",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": "he/him | 19",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/1128409061575114773/a_5b5d8aa0eb22624ad1789dbb43a05531.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1128409061575114773/a_5b5d8aa0eb22624ad1789dbb43a05531.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_2",
+      "premium"
+    ],
+    "connections": {
+      "github": {
+        "id": "98058652",
+        "name": "brette-0",
+        "url": "https://github.com/brette-0"
+      },
+      "spotify": {
+        "id": "31jp4iaizkgwdtctl5ztvw432owu",
+        "name": "Brette",
+        "url": "https://open.spotify.com/user/31jp4iaizkgwdtctl5ztvw432owu"
+      },
+      "steam": {
+        "id": "76561199564496090",
+        "name": "Makima",
+        "url": "https://steamcommunity.com/profiles/76561199564496090"
+      }
+    },
+    "legacy_username": null
   }
 }
