@@ -63244,5 +63244,46 @@
     ],
     "connections": {},
     "legacy_username": "ghostcursesyou#0080"
+  },
+  "697036009778577448": {
+    "id": 697036009778577448,
+    "name": "chai2563",
+    "nick": null,
+    "display_name": "Chai2563",
+    "global_name": "Chai2563",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Chai2563#4382"
+  },
+  "859434759427719199": {
+    "id": 859434759427719199,
+    "name": "ad3mgm",
+    "nick": null,
+    "display_name": "Ad3mGM",
+    "global_name": "Ad3mGM",
+    "pronouns": "Adem",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Ad3mGM#9268"
   }
 }
