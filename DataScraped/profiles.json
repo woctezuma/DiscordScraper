@@ -64224,5 +64224,103 @@
       }
     },
     "legacy_username": null
+  },
+  "572818638642479114": {
+    "id": 572818638642479114,
+    "name": "oxpc",
+    "nick": null,
+    "display_name": "oxpc",
+    "global_name": "oxpc",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "why touch grass , when u can touch me instead",
+    "guild_bio": null,
+    "display_bio": "why touch grass , when u can touch me instead",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198999066269",
+        "name": "oxpc",
+        "url": "https://steamcommunity.com/profiles/76561198999066269"
+      },
+      "youtube": {
+        "id": "UCbyCCh70GKxhn-jF61LYnsQ",
+        "name": "waleed",
+        "url": "https://www.youtube.com/channel/UCbyCCh70GKxhn-jF61LYnsQ"
+      }
+    },
+    "legacy_username": "i_oxpc#3936"
+  },
+  "790044135671201852": {
+    "id": 790044135671201852,
+    "name": "synkronize",
+    "nick": null,
+    "display_name": "Synkronize",
+    "global_name": "Synkronize",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "h.arryhong1025",
+        "name": "h.arryhong1025",
+        "url": "https://open.spotify.com/user/h.arryhong1025"
+      }
+    },
+    "legacy_username": "Synkronize#7166"
+  },
+  "1136278283344945303": {
+    "id": 1136278283344945303,
+    "name": "cpuun",
+    "nick": null,
+    "display_name": "cpel",
+    "global_name": "cpel",
+    "pronouns": "jebac/francuzow",
+    "guild_pronouns": null,
+    "bio": "https://youtu.be/EKp3EdoHdKI?si=CnaYLigaEf77sO6v",
+    "guild_bio": null,
+    "display_bio": "https://youtu.be/EKp3EdoHdKI?si=CnaYLigaEf77sO6v",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "aI87zsvzdXX0_KmlJsLcybAUDRpvuOl-8BYtMdtMGQxLb0mzEXq39BKyAhZ0zBZJQiS7Sy93AmWNQA",
+        "name": "blxssom#black",
+        "url": null
+      },
+      "riot_games": {
+        "id": "aI87zsvzdXX0_KmlJsLcybAUDRpvuOl-8BYtMdtMGQxLb0mzEXq39BKyAhZ0zBZJQiS7Sy93AmWNQA",
+        "name": "blxssom#black",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199437410413",
+        "name": "cpuun",
+        "url": "https://steamcommunity.com/profiles/76561199437410413"
+      }
+    },
+    "legacy_username": null
   }
 }
