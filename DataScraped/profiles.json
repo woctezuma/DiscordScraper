@@ -63195,5 +63195,54 @@
       }
     },
     "legacy_username": "prajinfrg#0280"
+  },
+  "1069617182901805076": {
+    "id": 1069617182901805076,
+    "name": "chrisevans0505",
+    "nick": null,
+    "display_name": "ChrisEvans0505",
+    "global_name": "ChrisEvans0505",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199081348625",
+        "name": "ChrisEvans",
+        "url": "https://steamcommunity.com/profiles/76561199081348625"
+      }
+    },
+    "legacy_username": "chrisevans0505#2551"
+  },
+  "269936709213356043": {
+    "id": 269936709213356043,
+    "name": "juliaocrvg",
+    "nick": null,
+    "display_name": "Julio",
+    "global_name": "Julio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/269936709213356043/eecc77cbd72a81f09223d0120d691214.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/269936709213356043/eecc77cbd72a81f09223d0120d691214.png?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "ghostcursesyou#0080"
   }
 }
