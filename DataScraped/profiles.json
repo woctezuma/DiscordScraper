@@ -63898,5 +63898,51 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1047989641200013342": {
+    "id": 1047989641200013342,
+    "name": "_gt7",
+    "nick": null,
+    "display_name": "Xcent",
+    "global_name": "Xcent",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199403275504",
+        "name": "Xcent",
+        "url": "https://steamcommunity.com/profiles/76561199403275504"
+      }
+    },
+    "legacy_username": "Xcent#8432"
+  },
+  "1193949379812393102": {
+    "id": 1193949379812393102,
+    "name": "celestial_hamster_42251",
+    "nick": null,
+    "display_name": "eba",
+    "global_name": "eba",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
