@@ -61941,5 +61941,25 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "377782948365205504": {
+    "id": 377782948365205504,
+    "name": "hittamm",
+    "nick": null,
+    "display_name": "MuskAnis",
+    "global_name": "MuskAnis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://www.vampirefortress.my.id\nhttps://twitter.com/hittamm09",
+    "guild_bio": null,
+    "display_bio": "https://www.vampirefortress.my.id\nhttps://twitter.com/hittamm09",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "hittamm#0615"
   }
 }
