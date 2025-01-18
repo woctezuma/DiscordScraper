@@ -62153,5 +62153,46 @@
     ],
     "connections": {},
     "legacy_username": "Saitama(Youssef)#1624"
+  },
+  "237858575156903938": {
+    "id": 237858575156903938,
+    "name": "erel9413",
+    "nick": null,
+    "display_name": "erel9413",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "erel#9413"
+  },
+  "354690267217133570": {
+    "id": 354690267217133570,
+    "name": "szuucslaszlo",
+    "nick": null,
+    "display_name": "szuucslaszlo",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "szuucslaszlo#4139"
   }
 }
