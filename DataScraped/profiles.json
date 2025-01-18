@@ -61473,5 +61473,39 @@
       }
     },
     "legacy_username": "KailoidCantAct#4264"
+  },
+  "907550243564945409": {
+    "id": 907550243564945409,
+    "name": "kaiserch5271",
+    "nick": null,
+    "display_name": "Albert",
+    "global_name": "Albert",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "/English/Melayu/\nInterests: Philosophy, Psychology, History, Art, Languages & Cultures, Paleontology, Universe, Ethics, Movies, Anime/Manga, Video-games.\n**Please ping me when replying.",
+    "guild_bio": null,
+    "display_bio": "/English/Melayu/\nInterests: Philosophy, Psychology, History, Art, Languages & Cultures, Paleontology, Universe, Ethics, Movies, Anime/Manga, Video-games.\n**Please ping me when replying.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198302142497",
+        "name": "KaiSerch016",
+        "url": "https://steamcommunity.com/profiles/76561198302142497"
+      },
+      "twitch": {
+        "id": "797810750",
+        "name": "mr_horse_archer",
+        "url": "https://www.twitch.tv/mr_horse_archer"
+      },
+      "twitter": {
+        "id": "1461747781328986113",
+        "name": "KaiSerch_016",
+        "url": "https://twitter.com/KaiSerch_016"
+      }
+    },
+    "legacy_username": null
   }
 }
