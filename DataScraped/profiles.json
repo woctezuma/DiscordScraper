@@ -61420,5 +61420,31 @@
       }
     },
     "legacy_username": null
+  },
+  "254018762032939008": {
+    "id": 254018762032939008,
+    "name": "cry2theheavens",
+    "nick": null,
+    "display_name": "Cry",
+    "global_name": "Cry",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "They aren't bugs. They're features.",
+    "guild_bio": null,
+    "display_bio": "They aren't bugs. They're features.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "1462848132283346952",
+        "name": "Cry2TheHeavens",
+        "url": "https://twitter.com/Cry2TheHeavens"
+      }
+    },
+    "legacy_username": "Cry2TheHeavens#4047"
   }
 }
