@@ -61343,5 +61343,32 @@
       }
     },
     "legacy_username": null
+  },
+  "809420320195870730": {
+    "id": 809420320195870730,
+    "name": "_zalther_",
+    "nick": null,
+    "display_name": "~psylocke~",
+    "global_name": "~psylocke~",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "Name<Zalther>\nAge<??>\nGender<male>\nHobbys<sleeping,math,video games>",
+    "guild_bio": null,
+    "display_bio": "Name<Zalther>\nAge<??>\nGender<male>\nHobbys<sleeping,math,video games>",
+    "banner": "https://cdn.discordapp.com/banners/809420320195870730/5e39dd25b435239020e0fc7f7ad831eb.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/809420320195870730/5e39dd25b435239020e0fc7f7ad831eb.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7754638206286579906",
+        "name": "Dark_saber117",
+        "url": null
+      }
+    },
+    "legacy_username": "\ud83d\udda4\u2660\u2663~\u30cd\u30a4\u30b5\u30f3~\u2663\u2660\ud83d\udda4#1973"
   }
 }
