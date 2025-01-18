@@ -61545,5 +61545,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "970646569332379648": {
+    "id": 970646569332379648,
+    "name": "yukicrash",
+    "nick": null,
+    "display_name": "Yukicrash",
+    "global_name": "Yukicrash",
+    "pronouns": "I indentify as a genocidial maniac",
+    "guild_pronouns": null,
+    "bio": "14 year old french guy that does game dev stuff\n\nit's all shits and giggles until i shit while giggling\n\nRemember: It's not a war crime if you don't get caught ;)",
+    "guild_bio": null,
+    "display_bio": "14 year old french guy that does game dev stuff\n\nit's all shits and giggles until i shit while giggling\n\nRemember: It's not a war crime if you don't get caught ;)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Yukicrash#7061"
+  },
+  "920704593439121419": {
+    "id": 920704593439121419,
+    "name": "stt___",
+    "nick": null,
+    "display_name": "Tommy",
+    "global_name": "Tommy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
