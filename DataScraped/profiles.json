@@ -62133,5 +62133,25 @@
       }
     },
     "legacy_username": "Alecs#3491"
+  },
+  "530768081883103243": {
+    "id": 530768081883103243,
+    "name": "saitama.youssef",
+    "nick": null,
+    "display_name": "Saitama",
+    "global_name": "Saitama",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Next Summer   insha'Allah",
+    "guild_bio": null,
+    "display_bio": "Next Summer   insha'Allah",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Saitama(Youssef)#1624"
   }
 }
