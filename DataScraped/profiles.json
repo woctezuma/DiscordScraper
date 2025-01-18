@@ -62232,5 +62232,44 @@
     ],
     "connections": {},
     "legacy_username": "Toonz#9344"
+  },
+  "307931926407282689": {
+    "id": 307931926407282689,
+    "name": "re.god",
+    "nick": null,
+    "display_name": "Re.",
+    "global_name": "Re.",
+    "pronouns": "/\u0338\u0310\u0303.\u0335\u0352\u03080\u0337\u033d\u030a",
+    "guild_pronouns": null,
+    "bio": "I hope \nMay the tears I shed in 2024 lube the cheeks I clap in 2025",
+    "guild_bio": null,
+    "display_bio": "I hope \nMay the tears I shed in 2024 lube the cheeks I clap in 2025",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1330131121953837097": {
+    "id": 1330131121953837097,
+    "name": "asasg11_50782",
+    "nick": null,
+    "display_name": "Asasg11",
+    "global_name": "Asasg11",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
