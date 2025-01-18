@@ -62047,5 +62047,91 @@
     ],
     "connections": {},
     "legacy_username": "\u0422\u0430\u043b\u0430\u043d\u0442#1846"
+  },
+  "697269344702300231": {
+    "id": 697269344702300231,
+    "name": "ct_27_55555",
+    "nick": null,
+    "display_name": "Were-Car",
+    "global_name": "Were-Car",
+    "pronouns": "AroAce",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "701199216072065046": {
+    "id": 701199216072065046,
+    "name": "alecsyt",
+    "nick": null,
+    "display_name": "Alecs",
+    "global_name": "Alecs",
+    "pronouns": "He / Him",
+    "guild_pronouns": null,
+    "bio": "`     AlecsYT.exe      `\n\n> Un **Youtuber**, subo **IA Covers, Edits, Tutoriales, Etc.** Si te **suscribes** me apoyarias **muchisimo.** https://www.youtube.com/@AlecsXDYT",
+    "guild_bio": null,
+    "display_bio": "`     AlecsYT.exe      `\n\n> Un **Youtuber**, subo **IA Covers, Edits, Tutoriales, Etc.** Si te **suscribes** me apoyarias **muchisimo.** https://www.youtube.com/@AlecsXDYT",
+    "banner": "https://cdn.discordapp.com/banners/701199216072065046/a_e1d5df571c57d1f5662fb7966f8efabb.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/701199216072065046/a_e1d5df571c57d1f5662fb7966f8efabb.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d0957c2440d843408b950f063f84aee4",
+        "name": "AlecsXDYT",
+        "url": null
+      },
+      "riot_games": {
+        "id": "OCU4RnD4dZm9x-k_QNEMEOntKvNpk40gJYF82lJPeNEUKEgqGefxviKWYoGFNJr_cs8l10cSNuK4hQ",
+        "name": "AlecsYT#XDYT",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "2618164263",
+        "name": "MenegamersXDYT",
+        "url": null
+      },
+      "spotify": {
+        "id": "fz38fc3klw4tt17hoemw9snjs",
+        "name": "AlecsYT",
+        "url": "https://open.spotify.com/user/fz38fc3klw4tt17hoemw9snjs"
+      },
+      "twitch": {
+        "id": "533011090",
+        "name": "alecs__yt",
+        "url": "https://www.twitch.tv/alecs__yt"
+      },
+      "twitter": {
+        "id": "1274137904248270849",
+        "name": "Alecs__YT",
+        "url": "https://twitter.com/Alecs__YT"
+      },
+      "xbox": {
+        "id": "3073065758254477",
+        "name": "AlecsYT1623",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AlecsYT1623"
+      },
+      "youtube": {
+        "id": "UCdNHU1kcPCaDGTd6B0Og_mQ",
+        "name": "Alecs",
+        "url": "https://www.youtube.com/channel/UCdNHU1kcPCaDGTd6B0Og_mQ"
+      }
+    },
+    "legacy_username": "Alecs#3491"
   }
 }
