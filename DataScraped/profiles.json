@@ -61291,5 +61291,57 @@
       }
     },
     "legacy_username": null
+  },
+  "1149175888630517881": {
+    "id": 1149175888630517881,
+    "name": "spartan1013_",
+    "nick": null,
+    "display_name": "Chaos Space Marine",
+    "global_name": "Chaos Space Marine",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Rock band 2-3 deluxe guitar hero world tour definitive edition and clone hero player",
+    "guild_bio": null,
+    "display_bio": "Rock band 2-3 deluxe guitar hero world tour definitive edition and clone hero player",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3072489617526861",
+        "name": "MikeyPorkChop",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MikeyPorkChop"
+      }
+    },
+    "legacy_username": null
+  },
+  "902394346819682375": {
+    "id": 902394346819682375,
+    "name": "momons1",
+    "nick": null,
+    "display_name": "Momon",
+    "global_name": "Momon",
+    "pronouns": "pinky/she/they",
+    "guild_pronouns": null,
+    "bio": " Dreamer of pastel vibes \n Cozy mornings & kawaii beats \n Now playing: Love For You - Loveli Lori\n Always sketching cute doodles \n Sweet treats \n DM for good vibes!",
+    "guild_bio": null,
+    "display_bio": " Dreamer of pastel vibes \n Cozy mornings & kawaii beats \n Now playing: Love For You - Loveli Lori\n Always sketching cute doodles \n Sweet treats \n DM for good vibes!",
+    "banner": "https://cdn.discordapp.com/banners/902394346819682375/a_aa036a7a063da9cb5a92606dfdb7f22a.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/902394346819682375/a_aa036a7a063da9cb5a92606dfdb7f22a.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ym81pddz38d3y6tv7yn7oc2uy",
+        "name": "Momonsaker",
+        "url": "https://open.spotify.com/user/ym81pddz38d3y6tv7yn7oc2uy"
+      }
+    },
+    "legacy_username": null
   }
 }
