@@ -62194,5 +62194,23 @@
     ],
     "connections": {},
     "legacy_username": "szuucslaszlo#4139"
+  },
+  "1330124927633850383": {
+    "id": 1330124927633850383,
+    "name": "glimmerbol_19090",
+    "nick": null,
+    "display_name": "Glimmerbol",
+    "global_name": "Glimmerbol",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
