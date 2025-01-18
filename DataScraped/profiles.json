@@ -64419,5 +64419,63 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "540565726457495573": {
+    "id": 540565726457495573,
+    "name": "bagatela",
+    "nick": null,
+    "display_name": "bagatela",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "bagatela#1149"
+  },
+  "1238933632840765450": {
+    "id": 1238933632840765450,
+    "name": "awakened_vector",
+    "nick": null,
+    "display_name": "Mr.VECTOR",
+    "global_name": "Mr.VECTOR",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"Si pensarlo te parece una locura, no estabas lo suficiente loco como para pensarlo\".",
+    "guild_bio": null,
+    "display_bio": "\"Si pensarlo te parece una locura, no estabas lo suficiente loco como para pensarlo\".",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1324185846508687382": {
+    "id": 1324185846508687382,
+    "name": "idonntknow",
+    "nick": null,
+    "display_name": "idonntknow",
+    "global_name": "idonntknow",
+    "pronouns": "him he",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
