@@ -68219,5 +68219,92 @@
       }
     },
     "legacy_username": "Nommer_2#3462"
+  },
+  "1044386781589684316": {
+    "id": 1044386781589684316,
+    "name": "hol0296",
+    "nick": null,
+    "display_name": "hol",
+    "global_name": "hol",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":Minecraft_Rainbow_Sheep::Anime: :Pug_Dance: :emoji_114:",
+    "guild_bio": null,
+    "display_bio": ":Minecraft_Rainbow_Sheep::Anime: :Pug_Dance: :emoji_114:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199100116857",
+        "name": "Krinas",
+        "url": "https://steamcommunity.com/profiles/76561199100116857"
+      },
+      "youtube": {
+        "id": "UCqC7exIMOXc6wR8BPrHPsOg",
+        "name": "Krinas",
+        "url": "https://www.youtube.com/channel/UCqC7exIMOXc6wR8BPrHPsOg"
+      }
+    },
+    "legacy_username": "hol#0296"
+  },
+  "260939829980692480": {
+    "id": 260939829980692480,
+    "name": "zsip_.",
+    "nick": null,
+    "display_name": "zsip",
+    "global_name": "zsip",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I also go by Stephen, hello.",
+    "guild_bio": null,
+    "display_bio": "I also go by Stephen, hello.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "steviehak",
+        "name": "steviehak",
+        "url": "https://open.spotify.com/user/steviehak"
+      }
+    },
+    "legacy_username": "steviebongs#6105"
+  },
+  "372212514265759745": {
+    "id": 372212514265759745,
+    "name": "alecjojowatcher",
+    "nick": null,
+    "display_name": "AlecJOJOwatcher",
+    "global_name": "AlecJOJOwatcher",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\n\n\n ",
+    "guild_bio": null,
+    "display_bio": "\n\n\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "432469850",
+        "name": "alecisjojowatcher",
+        "url": "https://www.twitch.tv/alecisjojowatcher"
+      }
+    },
+    "legacy_username": "AlecJOJOwatcher#3659"
   }
 }
