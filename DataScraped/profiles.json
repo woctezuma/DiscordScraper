@@ -69156,5 +69156,111 @@
       }
     },
     "legacy_username": null
+  },
+  "776390114720874516": {
+    "id": 776390114720874516,
+    "name": "lifelikellama",
+    "nick": null,
+    "display_name": "Lifelikellama",
+    "global_name": "Lifelikellama",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3069041516410918",
+        "name": "LifelikeLlama14",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LifelikeLlama14"
+      }
+    },
+    "legacy_username": "Lifelikellama#0482"
+  },
+  "594400793885671425": {
+    "id": 594400793885671425,
+    "name": "dr.f0x",
+    "nick": null,
+    "display_name": "Dr. Fox",
+    "global_name": "Dr. Fox",
+    "pronouns": "Human",
+    "guild_pronouns": null,
+    "bio": "The Saul Goodman copy",
+    "guild_bio": null,
+    "display_bio": "The Saul Goodman copy",
+    "banner": "https://cdn.discordapp.com/banners/594400793885671425/a_b94a6987793735ea83f0d43216627f70.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/594400793885671425/a_b94a6987793735ea83f0d43216627f70.gif?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199239423456",
+        "name": "Dr.Fox",
+        "url": "https://steamcommunity.com/profiles/76561199239423456"
+      }
+    },
+    "legacy_username": "Dr. Fox#0812"
+  },
+  "536647469833125898": {
+    "id": 536647469833125898,
+    "name": "snipr147",
+    "nick": null,
+    "display_name": "Snipr147",
+    "global_name": "Snipr147",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Ambition becomes greed the moment you harm another person.",
+    "guild_bio": null,
+    "display_bio": "Ambition becomes greed the moment you harm another person.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "SNIpr147#9560"
+  },
+  "1043936757873389599": {
+    "id": 1043936757873389599,
+    "name": "fbii.gov",
+    "nick": null,
+    "display_name": "patiu",
+    "global_name": "patiu",
+    "pronouns": "io \udb40\udc5b\udb40\udc23\udb40\udc31\udb40\udc64\udb40\udc66\udb40\udc38\udb40\udc30\udb40\udc30\udb40\udc2c\udb40\udc23\udb40\udc31\udb40\udc33\udb40\udc30\udb40\udc34\udb40\udc65\udb40\udc39\udb40\udc5d",
+    "guild_pronouns": null,
+    "bio": "https://e-z.bio/Pateuing\n\nNoxine Hub\nhttps://discord.gg/fH4wqckDXY",
+    "guild_bio": null,
+    "display_bio": "https://e-z.bio/Pateuing\n\nNoxine Hub\nhttps://discord.gg/fH4wqckDXY",
+    "banner": "https://cdn.discordapp.com/banners/1043936757873389599/c7dd46af458c3df11fcc2f023e2655c5.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1043936757873389599/c7dd46af458c3df11fcc2f023e2655c5.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "7e5981ae4b2146f4afe5593aa5a88896",
+        "name": "Gabi5262",
+        "url": null
+      }
+    },
+    "legacy_username": null
   }
 }
