@@ -66159,5 +66159,104 @@
       }
     },
     "legacy_username": "ItsGuts#5037"
+  },
+  "612472352147767305": {
+    "id": 612472352147767305,
+    "name": "eikosiefta",
+    "nick": null,
+    "display_name": "izz",
+    "global_name": "izz",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "I speak in ENG/INA (English & Indonesian)\nOh yeah, call me Izz.",
+    "guild_bio": null,
+    "display_bio": "I speak in ENG/INA (English & Indonesian)\nOh yeah, call me Izz.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6938080072957610",
+        "name": "izzarkan",
+        "url": "https://www.instagram.com/izzarkan"
+      },
+      "spotify": {
+        "id": "31bmrso76uewmvjfxiaqnzzypffu",
+        "name": "izz",
+        "url": "https://open.spotify.com/user/31bmrso76uewmvjfxiaqnzzypffu"
+      },
+      "steam": {
+        "id": "76561199098479825",
+        "name": "Eikosiefta",
+        "url": "https://steamcommunity.com/profiles/76561199098479825"
+      },
+      "xbox": {
+        "id": "3066612554228092",
+        "name": "Hexa8628",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Hexa8628"
+      }
+    },
+    "legacy_username": "Hexadecimal#3592"
+  },
+  "820236520010285078": {
+    "id": 820236520010285078,
+    "name": "theleonmosus",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\ud83d\udd11\uff43\uff4f\uff4e\uff54\uff45\uff4e\uff54 \uff43\uff52\uff45\uff41\uff54\uff4f\uff52\ud83d\udda5\ufe0f",
+    "guild_pronouns": null,
+    "bio": "    ",
+    "guild_bio": null,
+    "display_bio": "    ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "119702115",
+        "name": "TheLeonmos",
+        "url": "https://github.com/TheLeonmos"
+      },
+      "reddit": {
+        "id": "j07vuycu",
+        "name": "Theleonmos",
+        "url": "https://www.reddit.com/u/Theleonmos"
+      },
+      "steam": {
+        "id": "76561199138542868",
+        "name": "Kinitka",
+        "url": "https://steamcommunity.com/profiles/76561199138542868"
+      },
+      "tiktok": {
+        "id": "65528302-b9d0-4700-8412-6d233ed06356",
+        "name": "theleonmosus",
+        "url": "https://tiktok.com/@theleonmosus"
+      },
+      "twitch": {
+        "id": "920168655",
+        "name": "realtheleonmos",
+        "url": "https://www.twitch.tv/realtheleonmos"
+      },
+      "xbox": {
+        "id": "3064224152359712",
+        "name": "Leonmos002",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Leonmos002"
+      },
+      "youtube": {
+        "id": "UCxocGfYhQ2eNYf64u3shX4Q",
+        "name": "TheLeonmos",
+        "url": "https://www.youtube.com/channel/UCxocGfYhQ2eNYf64u3shX4Q"
+      }
+    },
+    "legacy_username": "TheLeonmosus#2519"
   }
 }
