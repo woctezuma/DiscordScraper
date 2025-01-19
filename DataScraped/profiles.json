@@ -67642,5 +67642,46 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1262927237792137278": {
+    "id": 1262927237792137278,
+    "name": "thepowder1503",
+    "nick": null,
+    "display_name": "Powder",
+    "global_name": "Powder",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "49521294d98746f69dd471345a299289",
+        "name": "TheGreatPowder",
+        "url": null
+      },
+      "playstation": {
+        "id": "5852112496616618778",
+        "name": "ThPowder",
+        "url": null
+      },
+      "spotify": {
+        "id": "thepowd3r",
+        "name": "thepowd3r",
+        "url": "https://open.spotify.com/user/thepowd3r"
+      },
+      "steam": {
+        "id": "76561198263124759",
+        "name": "Powder",
+        "url": "https://steamcommunity.com/profiles/76561198263124759"
+      }
+    },
+    "legacy_username": null
   }
 }
