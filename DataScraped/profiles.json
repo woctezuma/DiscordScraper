@@ -66898,5 +66898,48 @@
     ],
     "connections": {},
     "legacy_username": "Don Anto\u00f1o\ud83e\udd76\ud83d\udc8e#5469"
+  },
+  "159770745218531330": {
+    "id": 159770745218531330,
+    "name": "arcxgamer",
+    "nick": null,
+    "display_name": "ArcXGamer",
+    "global_name": "ArcXGamer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "hey im ArcXGamer im a fellow gamer plays variety of games",
+    "guild_bio": null,
+    "display_bio": "hey im ArcXGamer im a fellow gamer plays variety of games",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "9c92215e031941a8ad08e4b64aa12890",
+        "name": "arceusmc",
+        "url": null
+      },
+      "playstation": {
+        "id": "8037336181928524110",
+        "name": "arcgamer16",
+        "url": null
+      },
+      "twitch": {
+        "id": "666916660",
+        "name": "arcxgamer600",
+        "url": "https://www.twitch.tv/arcxgamer600"
+      },
+      "youtube": {
+        "id": "UCMtqE50D1kIyAFQEEPNOckw",
+        "name": "ArcXGamer",
+        "url": "https://www.youtube.com/channel/UCMtqE50D1kIyAFQEEPNOckw"
+      }
+    },
+    "legacy_username": "ArcXGamer#7337"
   }
 }
