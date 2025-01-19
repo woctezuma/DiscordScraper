@@ -66418,5 +66418,104 @@
     ],
     "connections": {},
     "legacy_username": "gnohT#5851"
+  },
+  "1001808223738794115": {
+    "id": 1001808223738794115,
+    "name": "purplekit9012",
+    "nick": null,
+    "display_name": "Purple Kit",
+    "global_name": "Purple Kit",
+    "pronouns": "Dm me the word bread",
+    "guild_pronouns": null,
+    "bio": "Dm me the word bread",
+    "guild_bio": null,
+    "display_bio": "Dm me the word bread",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "5by3pzuwy",
+        "name": "FoxyDeez9012",
+        "url": "https://www.reddit.com/u/FoxyDeez9012"
+      },
+      "steam": {
+        "id": "76561199253564599",
+        "name": "PurpleKit21",
+        "url": "https://steamcommunity.com/profiles/76561199253564599"
+      },
+      "tiktok": {
+        "id": "9300f324-bfd6-56df-ae73-55b58074bb9d",
+        "name": "purpl3.kit",
+        "url": "https://tiktok.com/@purpl3.kit"
+      },
+      "twitter": {
+        "id": "1663232470685302814",
+        "name": "PurpleKit9012",
+        "url": "https://twitter.com/PurpleKit9012"
+      },
+      "youtube": {
+        "id": "UCtII52mGRBrNCku53NsVA6A",
+        "name": "Purple Kit",
+        "url": "https://www.youtube.com/channel/UCtII52mGRBrNCku53NsVA6A"
+      }
+    },
+    "legacy_username": "Purple_Kit#9012"
+  },
+  "377060717494272010": {
+    "id": 377060717494272010,
+    "name": "rys0rr0",
+    "nick": null,
+    "display_name": "rhys",
+    "global_name": "rhys",
+    "pronouns": "he/they",
+    "guild_pronouns": null,
+    "bio": "*Although I remain confused and misunderstood, I will never give up hope.*",
+    "guild_bio": null,
+    "display_bio": "*Although I remain confused and misunderstood, I will never give up hope.*",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3rvjpc6jl7r8eeczyjezc8dw2",
+        "name": "Rynx_Tn",
+        "url": "https://open.spotify.com/user/3rvjpc6jl7r8eeczyjezc8dw2"
+      },
+      "steam": {
+        "id": "76561198191355462",
+        "name": "rhys",
+        "url": "https://steamcommunity.com/profiles/76561198191355462"
+      }
+    },
+    "legacy_username": null
+  },
+  "815450903775150141": {
+    "id": 815450903775150141,
+    "name": "zhou1099",
+    "nick": null,
+    "display_name": "Zhou",
+    "global_name": "Zhou",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Zhou#1099"
   }
 }
