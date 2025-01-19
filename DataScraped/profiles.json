@@ -65514,5 +65514,76 @@
       }
     },
     "legacy_username": null
+  },
+  "227492440590778369": {
+    "id": 227492440590778369,
+    "name": "freedomwarri0r",
+    "nick": null,
+    "display_name": "Osanity",
+    "global_name": "Osanity",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ZeroNight#2975",
+        "name": "ZeroNight#2975",
+        "url": null
+      }
+    },
+    "legacy_username": "Palyanytsiya#6745"
+  },
+  "1241544239754776599": {
+    "id": 1241544239754776599,
+    "name": "finst0846",
+    "nick": null,
+    "display_name": "Cantcome",
+    "global_name": "Cantcome",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1057387177836814347": {
+    "id": 1057387177836814347,
+    "name": "respectvetman",
+    "nick": null,
+    "display_name": "Steve",
+    "global_name": "Steve",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Crumb are cool and if you hate crumb then my bestie Clyde will be after you ",
+    "guild_bio": null,
+    "display_bio": "Crumb are cool and if you hate crumb then my bestie Clyde will be after you ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCT9m4Q21u25WGh9EMymjDCA",
+        "name": "Respectvetman",
+        "url": "https://www.youtube.com/channel/UCT9m4Q21u25WGh9EMymjDCA"
+      }
+    },
+    "legacy_username": "respectvetman#8378"
   }
 }
