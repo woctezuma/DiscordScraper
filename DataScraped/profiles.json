@@ -65375,5 +65375,100 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "391635268613963786": {
+    "id": 391635268613963786,
+    "name": "emg_rice",
+    "nick": null,
+    "display_name": "Rice",
+    "global_name": "Rice",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Age: 21\nRelationship: single\nGender: male\nPersonality: INTJ\nLikes: games and tech\n\n- Islingr and Lord are my pookies",
+    "guild_bio": null,
+    "display_bio": "Age: 21\nRelationship: single\nGender: male\nPersonality: INTJ\nLikes: games and tech\n\n- Islingr and Lord are my pookies",
+    "banner": "https://cdn.discordapp.com/banners/391635268613963786/a_99dd1ec75baa1703255918e6afd4e607.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/391635268613963786/a_99dd1ec75baa1703255918e6afd4e607.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "EMGRice#1889",
+        "name": "EMGRice#1889",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018482093081",
+        "name": "Rice21iplier",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "0ebe8914-5ed6-521e-945b-214591192a76",
+        "name": "Rice21iplier",
+        "url": null
+      },
+      "epic_games": {
+        "id": "8efc34616c7e4c3abac202c6734cd5ac",
+        "name": "EMG_Rice",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "mPx18uDT_r6ZZXZuiGwhJo2hff0zRBHPFa1ozXJ_yHwZ3BqfFLgWJSl9kwNA2DX4o-Fjx33JVCFzsA",
+        "name": "EMG Rice#6163",
+        "url": null
+      },
+      "reddit": {
+        "id": "tdete31f",
+        "name": "EMG_Rice",
+        "url": "https://www.reddit.com/u/EMG_Rice"
+      },
+      "riot_games": {
+        "id": "mPx18uDT_r6ZZXZuiGwhJo2hff0zRBHPFa1ozXJ_yHwZ3BqfFLgWJSl9kwNA2DX4o-Fjx33JVCFzsA",
+        "name": "EMG Rice#6163",
+        "url": null
+      },
+      "spotify": {
+        "id": "p3eh3m9x85t5kl9nu7gcoubqn",
+        "name": "Rice",
+        "url": "https://open.spotify.com/user/p3eh3m9x85t5kl9nu7gcoubqn"
+      },
+      "steam": {
+        "id": "76561198799319355",
+        "name": "Rice",
+        "url": "https://steamcommunity.com/profiles/76561198799319355"
+      },
+      "tiktok": {
+        "id": "59af6f92-e039-5191-b5d2-4a258922d3bb",
+        "name": "emg_rice",
+        "url": "https://tiktok.com/@emg_rice"
+      },
+      "twitch": {
+        "id": "210483252",
+        "name": "emg_rice",
+        "url": "https://www.twitch.tv/emg_rice"
+      },
+      "twitter": {
+        "id": "1043969021891280897",
+        "name": "rice21iplier",
+        "url": "https://twitter.com/rice21iplier"
+      },
+      "xbox": {
+        "id": "3078418787020793",
+        "name": "EMG Rice",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=EMG Rice"
+      },
+      "youtube": {
+        "id": "UCy5b7oJWV4Ttoz8216BHAeg",
+        "name": "Rice",
+        "url": "https://www.youtube.com/channel/UCy5b7oJWV4Ttoz8216BHAeg"
+      }
+    },
+    "legacy_username": "NEXUS_Rice#2254"
   }
 }
