@@ -64907,5 +64907,107 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1054510621149896704": {
+    "id": 1054510621149896704,
+    "name": "shortie919",
+    "nick": null,
+    "display_name": "Shortie91#9657",
+    "global_name": "Shortie91#9657",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Shortiegurl9#1952",
+        "name": "Shortiegurl9#1952",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199480514739",
+        "name": "alannahf_9171",
+        "url": "https://steamcommunity.com/profiles/76561199480514739"
+      },
+      "xbox": {
+        "id": "3077840257670784",
+        "name": "Lillith913049",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Lillith913049"
+      },
+      "youtube": {
+        "id": "UC8qnFyLKYiCcfxRdLef22PA",
+        "name": "A.K Foster",
+        "url": "https://www.youtube.com/channel/UC8qnFyLKYiCcfxRdLef22PA"
+      }
+    },
+    "legacy_username": "Shortie91#2368"
+  },
+  "609278383989194763": {
+    "id": 609278383989194763,
+    "name": "shokaius",
+    "nick": null,
+    "display_name": "shokaius",
+    "global_name": "shokaius",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Shokaius#1868",
+        "name": "Shokaius#1868",
+        "url": null
+      },
+      "facebook": {
+        "id": "3178521175574609",
+        "name": "Hu\u1ef3nh Thi\u1ec7u H\u1ea3i",
+        "url": null
+      },
+      "github": {
+        "id": "39365409",
+        "name": "shokaius",
+        "url": "https://github.com/shokaius"
+      },
+      "reddit": {
+        "id": "zwm8w",
+        "name": "shokaius",
+        "url": "https://www.reddit.com/u/shokaius"
+      },
+      "spotify": {
+        "id": "shokaius",
+        "name": "Hu\u1ef3nh Thi\u1ec7u H\u1ea3i",
+        "url": "https://open.spotify.com/user/shokaius"
+      },
+      "twitch": {
+        "id": "559911694",
+        "name": "shokaius",
+        "url": "https://www.twitch.tv/shokaius"
+      },
+      "twitter": {
+        "id": "975227669083074561",
+        "name": "shokaius",
+        "url": "https://twitter.com/shokaius"
+      },
+      "youtube": {
+        "id": "UC-4V_2gx5qaimkceNwxmIaQ",
+        "name": "Hu\u1ef3nh Thi\u1ec7u H\u1ea3i",
+        "url": "https://www.youtube.com/channel/UC-4V_2gx5qaimkceNwxmIaQ"
+      }
+    },
+    "legacy_username": "shokaius#9764"
   }
 }
