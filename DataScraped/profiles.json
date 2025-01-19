@@ -65979,5 +65979,59 @@
     ],
     "connections": {},
     "legacy_username": "Guingue9#0518"
+  },
+  "944697438290206720": {
+    "id": 944697438290206720,
+    "name": "nima_zx1",
+    "nick": null,
+    "display_name": "! _",
+    "global_name": "! _",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "KOS NANE DISCORD",
+    "guild_bio": null,
+    "display_bio": "KOS NANE DISCORD",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ggboro#9599"
+  },
+  "953643996771651634": {
+    "id": 953643996771651634,
+    "name": "jusumii",
+    "nick": null,
+    "display_name": "jusumii",
+    "global_name": "jusumii",
+    "pronouns": "Mr. Worldwide",
+    "guild_pronouns": null,
+    "bio": "birb",
+    "guild_bio": null,
+    "display_bio": "birb",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "z5po0eqy3ag12fuvbtwlu6woe",
+        "name": "jusumii",
+        "url": "https://open.spotify.com/user/z5po0eqy3ag12fuvbtwlu6woe"
+      },
+      "xbox": {
+        "id": "3078009646946821",
+        "name": "StitchTheBoy",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=StitchTheBoy"
+      }
+    },
+    "legacy_username": "jusumii#1120"
   }
 }
