@@ -66819,5 +66819,62 @@
       }
     },
     "legacy_username": null
+  },
+  "427450228287864834": {
+    "id": 427450228287864834,
+    "name": "pedantico",
+    "nick": null,
+    "display_name": "Bar",
+    "global_name": "Bar",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "869288032900104252": {
+    "id": 869288032900104252,
+    "name": "n1c0sw",
+    "nick": null,
+    "display_name": "N1c0's",
+    "global_name": "N1c0's",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "imagine",
+    "guild_bio": null,
+    "display_bio": "imagine",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "BlackGuy#4493"
+  },
+  "1327310221189845023": {
+    "id": 1327310221189845023,
+    "name": "macpro.1337",
+    "nick": null,
+    "display_name": "Xx_lil.miss.emotional_xX",
+    "global_name": "Xx_lil.miss.emotional_xX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "hns addict\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndiscord.gg/femboytwinks",
+    "guild_bio": null,
+    "display_bio": "hns addict\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndiscord.gg/femboytwinks",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
