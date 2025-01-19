@@ -68612,5 +68612,118 @@
       }
     },
     "legacy_username": "Mainlandmcnab#0347"
+  },
+  "982267460742963290": {
+    "id": 982267460742963290,
+    "name": "serqnix",
+    "nick": null,
+    "display_name": "Serenix ",
+    "global_name": "Serenix ",
+    "pronouns": "H\u1d07/H\u026a\u1d0d",
+    "guild_pronouns": null,
+    "bio": "`` Hello there! Im Serenix\n`` Gamer & designer\n\n\n\n**\"Difficult roads often lead to beautiful places \"**",
+    "guild_bio": null,
+    "display_bio": "`` Hello there! Im Serenix\n`` Gamer & designer\n\n\n\n**\"Difficult roads often lead to beautiful places \"**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "63d3666ca7c641089171b23695614cb8",
+        "name": "Serqnix",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "TwREDh9yPMnRE45JIaONOO00D0vUrKDBLFS4nrqyCMCJoEzNnw88NQMKDh3FdtI9LS-WIgr7k_9TDw",
+        "name": "Serqnix#Playz",
+        "url": null
+      },
+      "reddit": {
+        "id": "17x56dskks",
+        "name": "Serqnix",
+        "url": "https://www.reddit.com/u/Serqnix"
+      },
+      "riot_games": {
+        "id": "TwREDh9yPMnRE45JIaONOO00D0vUrKDBLFS4nrqyCMCJoEzNnw88NQMKDh3FdtI9LS-WIgr7k_9TDw",
+        "name": "Serqnix#Playz",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "691498417",
+        "name": "thunthunder123",
+        "url": null
+      },
+      "spotify": {
+        "id": "31t7zvfh4xxya6pf5na4jdqg6n7q",
+        "name": "Serqnixx",
+        "url": "https://open.spotify.com/user/31t7zvfh4xxya6pf5na4jdqg6n7q"
+      },
+      "twitch": {
+        "id": "897525225",
+        "name": "serqnixx",
+        "url": "https://www.twitch.tv/serqnixx"
+      },
+      "xbox": {
+        "id": "3063019882247508",
+        "name": "Serenix5766",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Serenix5766"
+      }
+    },
+    "legacy_username": "ItzSerqnixx#2215"
+  },
+  "437773800080146432": {
+    "id": 437773800080146432,
+    "name": ".carmelo.",
+    "nick": null,
+    "display_name": "Carmelo",
+    "global_name": "Carmelo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Carmelo#0607"
+  },
+  "374515023076261898": {
+    "id": 374515023076261898,
+    "name": "kirotoise",
+    "nick": null,
+    "display_name": "Proteins",
+    "global_name": "Proteins",
+    "pronouns": "Whey / Iso",
+    "guild_pronouns": null,
+    "bio": "J'entends les chants des sirnes",
+    "guild_bio": null,
+    "display_bio": "J'entends les chants des sirnes",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "c5in0fvh63pt116sfwyv0cgim",
+        "name": "Mathis",
+        "url": "https://open.spotify.com/user/c5in0fvh63pt116sfwyv0cgim"
+      }
+    },
+    "legacy_username": "Kirotoise#1528"
   }
 }
