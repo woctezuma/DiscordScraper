@@ -65697,5 +65697,78 @@
       }
     },
     "legacy_username": "ryujinx#1623"
+  },
+  "1274669682212733001": {
+    "id": 1274669682212733001,
+    "name": "ratheesh_0705",
+    "nick": null,
+    "display_name": "Ratheesh",
+    "global_name": "Ratheesh",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "crunchyroll": {
+        "id": "7e905d0b-1334-5ae3-a7de-43ed95718988",
+        "name": "MayorAstroKiwi",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199690623622",
+        "name": "nratheeshking",
+        "url": "https://steamcommunity.com/profiles/76561199690623622"
+      }
+    },
+    "legacy_username": null
+  },
+  "357920045499940864": {
+    "id": 357920045499940864,
+    "name": "a7esha",
+    "nick": null,
+    "display_name": "mamomsellsmeonebay",
+    "global_name": "mamomsellsmeonebay",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Non c' tempo per le puttane mi dispiace",
+    "guild_bio": null,
+    "display_bio": "Non c' tempo per le puttane mi dispiace",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "amxfXoJg0y7EBnXm_3XN8CkhHyNw-HiMZouich_lNGJrw1CS2B-xyXhhMCEthWytKjblNm3b_YGDAQ",
+        "name": "A7ESHA#IDGAF",
+        "url": null
+      },
+      "riot_games": {
+        "id": "amxfXoJg0y7EBnXm_3XN8CkhHyNw-HiMZouich_lNGJrw1CS2B-xyXhhMCEthWytKjblNm3b_YGDAQ",
+        "name": "A7ESHA#IDGAF",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199002603512",
+        "name": "Lojo",
+        "url": "https://steamcommunity.com/profiles/76561199002603512"
+      },
+      "twitch": {
+        "id": "264237720",
+        "name": "a7esha",
+        "url": "https://www.twitch.tv/a7esha"
+      }
+    },
+    "legacy_username": "ma mom sells me on ebay#8946"
   }
 }
