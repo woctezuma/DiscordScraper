@@ -65075,5 +65075,104 @@
       }
     },
     "legacy_username": null
+  },
+  "1291591880806629390": {
+    "id": 1291591880806629390,
+    "name": ".sr_smile",
+    "nick": null,
+    "display_name": "Sr_Smile",
+    "global_name": "Sr_Smile",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "700276145228218368": {
+    "id": 700276145228218368,
+    "name": "moo.s",
+    "nick": null,
+    "display_name": "moo",
+    "global_name": "moo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "1f1dee56ff8f4032a37a9246109f7a1f",
+        "name": "moomoo_000",
+        "url": null
+      },
+      "spotify": {
+        "id": "60lv10mmdqyrnwvw5qbmz8b5j",
+        "name": "moo",
+        "url": "https://open.spotify.com/user/60lv10mmdqyrnwvw5qbmz8b5j"
+      }
+    },
+    "legacy_username": "moo#4556"
+  },
+  "1211465353746448384": {
+    "id": 1211465353746448384,
+    "name": "terrible_art_1576",
+    "nick": null,
+    "display_name": "terrible_art",
+    "global_name": "terrible_art",
+    "pronouns": "KDE / kwin / rofi / dracula",
+    "guild_pronouns": null,
+    "bio": "\"No act of kindness, no matter how small, is ever wasted.\"\n--Aesop",
+    "guild_bio": null,
+    "display_bio": "\"No act of kindness, no matter how small, is ever wasted.\"\n--Aesop",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "692953636996907008": {
+    "id": 692953636996907008,
+    "name": "bugboy021584",
+    "nick": null,
+    "display_name": "BugBoy021584",
+    "global_name": "BugBoy021584",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199093017556",
+        "name": "BugBoy021584",
+        "url": "https://steamcommunity.com/profiles/76561199093017556"
+      },
+      "xbox": {
+        "id": "3068152021790792",
+        "name": "BugBoy021584",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=BugBoy021584"
+      }
+    },
+    "legacy_username": "BugBoy021584#0032"
   }
 }
