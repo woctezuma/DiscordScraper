@@ -69706,5 +69706,31 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "541651580345123068": {
+    "id": 541651580345123068,
+    "name": "shadowslayer792",
+    "nick": null,
+    "display_name": "shadowslayer792",
+    "global_name": "shadowslayer792",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Found his body layin' on the side of the creek\nWith a backpack on and a note near his feet, it said\n\"Everything will end eventually\nEvery leaf will blow into the wind eventually\"",
+    "guild_bio": null,
+    "display_bio": "Found his body layin' on the side of the creek\nWith a backpack on and a note near his feet, it said\n\"Everything will end eventually\nEvery leaf will blow into the wind eventually\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3069924428169147",
+        "name": "Shadowslayer792",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Shadowslayer792"
+      }
+    },
+    "legacy_username": "shadowslayer#7260"
   }
 }
