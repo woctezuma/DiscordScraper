@@ -67419,5 +67419,111 @@
       }
     },
     "legacy_username": null
+  },
+  "699510269205807136": {
+    "id": 699510269205807136,
+    "name": "rokushiki._",
+    "nick": null,
+    "display_name": "Rokushiki",
+    "global_name": "Rokushiki",
+    "pronouns": "\u594f\u304c\u5927\u597d\u304d!!",
+    "guild_pronouns": null,
+    "bio": "()<:stamp_ps_kanade:1067622268789854228> \n\n25\n\n player \n\n:D\no()\n\nJP: 456073863836733442",
+    "guild_bio": null,
+    "display_bio": "()<:stamp_ps_kanade:1067622268789854228> \n\n25\n\n player \n\n:D\no()\n\nJP: 456073863836733442",
+    "banner": "https://cdn.discordapp.com/banners/699510269205807136/a_250efe9477e044a57537725727af81fa.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/699510269205807136/a_250efe9477e044a57537725727af81fa.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "589052954",
+        "name": "capalbe",
+        "url": null
+      },
+      "spotify": {
+        "id": "31dnb4cov4xxm5tgsbszawm7ri5e",
+        "name": "Kaell",
+        "url": "https://open.spotify.com/user/31dnb4cov4xxm5tgsbszawm7ri5e"
+      },
+      "steam": {
+        "id": "76561199773504496",
+        "name": "shoutonarude",
+        "url": "https://steamcommunity.com/profiles/76561199773504496"
+      },
+      "youtube": {
+        "id": "UCCwhLrd13Iip3mRg6Bk9KGA",
+        "name": "kaell._",
+        "url": "https://www.youtube.com/channel/UCCwhLrd13Iip3mRg6Bk9KGA"
+      }
+    },
+    "legacy_username": "Rokushiki.#7397"
+  },
+  "348105585297719306": {
+    "id": 348105585297719306,
+    "name": "thatwasnotme_",
+    "nick": null,
+    "display_name": "ThatWasNotMe",
+    "global_name": "ThatWasNotMe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "231847612456632320": {
+    "id": 231847612456632320,
+    "name": "xarim",
+    "nick": null,
+    "display_name": "xarim",
+    "global_name": "xarim",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "skersa ant taves tamsta",
+    "guild_bio": null,
+    "display_bio": "skersa ant taves tamsta",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "217xrp23ire2ejzlxy4xk5aay",
+        "name": "xarim",
+        "url": "https://open.spotify.com/user/217xrp23ire2ejzlxy4xk5aay"
+      },
+      "steam": {
+        "id": "76561198271470639",
+        "name": "xarim",
+        "url": "https://steamcommunity.com/profiles/76561198271470639"
+      },
+      "twitch": {
+        "id": "484430013",
+        "name": "xarim_tv",
+        "url": "https://www.twitch.tv/xarim_tv"
+      },
+      "youtube": {
+        "id": "UCNFLsmAxw6Y6bFsQPqiv_Lg",
+        "name": "xarim",
+        "url": "https://www.youtube.com/channel/UCNFLsmAxw6Y6bFsQPqiv_Lg"
+      }
+    },
+    "legacy_username": "xarim#4072"
   }
 }
