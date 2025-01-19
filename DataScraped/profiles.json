@@ -66660,5 +66660,70 @@
     ],
     "connections": {},
     "legacy_username": "Len#9754"
+  },
+  "537945386367582208": {
+    "id": 537945386367582208,
+    "name": "lost5444",
+    "nick": null,
+    "display_name": "lost",
+    "global_name": "lost",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "lost#5444"
+  },
+  "225274006813671434": {
+    "id": 225274006813671434,
+    "name": ".ashera2",
+    "nick": null,
+    "display_name": "Ashera",
+    "global_name": "Ashera",
+    "pronouns": "amongus",
+    "guild_pronouns": null,
+    "bio": "I am always in your walls.\n\nI strim sometimes.",
+    "guild_bio": null,
+    "display_bio": "I am always in your walls.\n\nI strim sometimes.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Ash2#9407"
+  },
+  "1101206536556118106": {
+    "id": 1101206536556118106,
+    "name": "rolo_g",
+    "nick": null,
+    "display_name": "rolo",
+    "global_name": "rolo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "rolo#5335"
   }
 }
