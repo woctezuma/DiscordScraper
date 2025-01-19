@@ -68513,5 +68513,104 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "261301901633650688": {
+    "id": 261301901633650688,
+    "name": "norskitaters",
+    "nick": null,
+    "display_name": "NorskiTaters",
+    "global_name": "NorskiTaters",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "NorskiTaters#4396"
+  },
+  "1174459440649478185": {
+    "id": 1174459440649478185,
+    "name": "maxyl_mas",
+    "nick": null,
+    "display_name": "Mxssyl",
+    "global_name": "Mxssyl",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e0dad7e231714572868e76faa78e3cb2",
+        "name": "maxyl-mas",
+        "url": null
+      },
+      "playstation": {
+        "id": "1951453348078312002",
+        "name": "maxyl-mas",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "2553398504",
+        "name": "narutouzumaki10mb",
+        "url": null
+      },
+      "tiktok": {
+        "id": "bf40b0f8-df67-54c5-a4cd-ab3b372cbcc4",
+        "name": "m_assyll",
+        "url": "https://tiktok.com/@m_assyll"
+      },
+      "youtube": {
+        "id": "UCoyqN2ut4J3nxmr4VNS9TGw",
+        "name": "Maxyl-mas",
+        "url": "https://www.youtube.com/channel/UCoyqN2ut4J3nxmr4VNS9TGw"
+      }
+    },
+    "legacy_username": null
+  },
+  "504844745818767381": {
+    "id": 504844745818767381,
+    "name": "viprinlol",
+    "nick": null,
+    "display_name": "riotxlabichota",
+    "global_name": "riotxlabichota",
+    "pronouns": "Im normal, I don\u2019t play that shit",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3062099817095226",
+        "name": "Baka riott",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Baka riott"
+      },
+      "youtube": {
+        "id": "UCPD880Bmeww5UYwYwLYO48g",
+        "name": "Loomfai",
+        "url": "https://www.youtube.com/channel/UCPD880Bmeww5UYwYwLYO48g"
+      }
+    },
+    "legacy_username": "Mainlandmcnab#0347"
   }
 }
