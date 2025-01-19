@@ -65770,5 +65770,96 @@
       }
     },
     "legacy_username": "ma mom sells me on ebay#8946"
+  },
+  "889033016494657597": {
+    "id": 889033016494657597,
+    "name": "ryuko129",
+    "nick": null,
+    "display_name": "Ryuko",
+    "global_name": "Ryuko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Don't talk to me.\n\nI have crippling social anxiety.",
+    "guild_bio": null,
+    "display_bio": "Don't talk to me.\n\nI have crippling social anxiety.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ryuko#6679"
+  },
+  "438489408413368320": {
+    "id": 438489408413368320,
+    "name": "starsalt",
+    "nick": null,
+    "display_name": "saltea ",
+    "global_name": "saltea ",
+    "pronouns": "sleepy",
+    "guild_pronouns": null,
+    "bio": "<a:milanor:1184419024747106374>  Good, good. What is bravery, without a dash of recklessness! <a:yggdra1:1184419026441609246>",
+    "guild_bio": null,
+    "display_bio": "<a:milanor:1184419024747106374>  Good, good. What is bravery, without a dash of recklessness! <a:yggdra1:1184419026441609246>",
+    "banner": "https://cdn.discordapp.com/banners/438489408413368320/a_90b185617f6048d00873a52fc6f250da.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/438489408413368320/a_90b185617f6048d00873a52fc6f250da.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4824330681912815139",
+        "name": "staysalty08",
+        "url": null
+      },
+      "twitch": {
+        "id": "436073489",
+        "name": "supersaltea",
+        "url": "https://www.twitch.tv/supersaltea"
+      }
+    },
+    "legacy_username": "RB#5664"
+  },
+  "749630091641749594": {
+    "id": 749630091641749594,
+    "name": "gugu1234",
+    "nick": null,
+    "display_name": "whatis",
+    "global_name": "whatis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "\u795e\u7d93\u5deb\u5e2b#45958",
+        "name": "\u795e\u7d93\u5deb\u5e2b#45958",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198061324266",
+        "name": "AE86",
+        "url": "https://steamcommunity.com/profiles/76561198061324266"
+      },
+      "xbox": {
+        "id": "3066861572858890",
+        "name": "kowarekakeno",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=kowarekakeno"
+      }
+    },
+    "legacy_username": null
   }
 }
