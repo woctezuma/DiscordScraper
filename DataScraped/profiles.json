@@ -69665,5 +69665,46 @@
     ],
     "connections": {},
     "legacy_username": "Hazelris#2216"
+  },
+  "721021519953788928": {
+    "id": 721021519953788928,
+    "name": "jokupentu",
+    "nick": null,
+    "display_name": "Jokupentu",
+    "global_name": "Jokupentu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "neocci#6378"
+  },
+  "896315386667106304": {
+    "id": 896315386667106304,
+    "name": "soggysander",
+    "nick": null,
+    "display_name": "...",
+    "global_name": "...",
+    "pronouns": "FUCK/OFF",
+    "guild_pronouns": null,
+    "bio": "kom testa",
+    "guild_bio": null,
+    "display_bio": "kom testa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
