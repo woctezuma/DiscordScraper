@@ -68850,5 +68850,101 @@
     ],
     "connections": {},
     "legacy_username": "Pajko#5549"
+  },
+  "290085101210042368": {
+    "id": 290085101210042368,
+    "name": "ud5",
+    "nick": null,
+    "display_name": "Mark12",
+    "global_name": "Mark12",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "74725438",
+        "name": "ocye",
+        "url": "https://twitter.com/ocye"
+      }
+    },
+    "legacy_username": "ll#1337"
+  },
+  "760721273029656606": {
+    "id": 760721273029656606,
+    "name": "andrei_ht",
+    "nick": null,
+    "display_name": "andrei_ht",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Andrei_ht#1716"
+  },
+  "301793886349819906": {
+    "id": 301793886349819906,
+    "name": "captain.linger",
+    "nick": null,
+    "display_name": "Linger",
+    "global_name": "Linger",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/301793886349819906/a_9cf49c42a97455056aea20481621c71e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/301793886349819906/a_9cf49c42a97455056aea20481621c71e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2898076854299908938",
+        "name": "DHLinger",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198375476968",
+        "name": "Linger",
+        "url": "https://steamcommunity.com/profiles/76561198375476968"
+      },
+      "twitch": {
+        "id": "172046",
+        "name": "linger",
+        "url": "https://www.twitch.tv/linger"
+      },
+      "twitter": {
+        "id": "19289786",
+        "name": "captlinger",
+        "url": "https://twitter.com/captlinger"
+      },
+      "xbox": {
+        "id": "upmcZgJpXfd2mqFsswF3ThGwOejlNBKnIaZ0f2VLlpY",
+        "name": "CaptainLinger7",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=CaptainLinger7"
+      }
+    },
+    "legacy_username": "Linger#3459"
   }
 }
