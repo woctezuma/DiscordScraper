@@ -65174,5 +65174,128 @@
       }
     },
     "legacy_username": "BugBoy021584#0032"
+  },
+  "317983989791064065": {
+    "id": 317983989791064065,
+    "name": "dreamza",
+    "nick": null,
+    "display_name": "dREAM",
+    "global_name": "dREAM",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "HelloWorld(\"print\")",
+    "guild_bio": null,
+    "display_bio": "HelloWorld(\"print\")",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "7eaeff48add842f28b1abd526a50d1ab",
+        "name": "dREAMzA303",
+        "url": null
+      },
+      "facebook": {
+        "id": "1957430561177796",
+        "name": "Phowadol Sripanna",
+        "url": null
+      },
+      "github": {
+        "id": "95901040",
+        "name": "Pooh303",
+        "url": "https://github.com/Pooh303"
+      },
+      "league_of_legends": {
+        "id": "a-2Fs4ViRxL7tOIJ1ilHtY7YZuu_J8AaTtRPYlIOah_nXIjmBT6YU7sfsbH6M_kfOev17ikMPj4pSw",
+        "name": "dreamzaTH",
+        "url": null
+      },
+      "reddit": {
+        "id": "dct2z73y",
+        "name": "Crazy-Power-2115",
+        "url": "https://www.reddit.com/u/Crazy-Power-2115"
+      },
+      "riot_games": {
+        "id": "a-2Fs4ViRxL7tOIJ1ilHtY7YZuu_J8AaTtRPYlIOah_nXIjmBT6YU7sfsbH6M_kfOev17ikMPj4pSw",
+        "name": "NAMI#101",
+        "url": null
+      },
+      "spotify": {
+        "id": "21gpzetppqdcefmicnh5tv6ta",
+        "name": "Phowadol  Sriphanna",
+        "url": "https://open.spotify.com/user/21gpzetppqdcefmicnh5tv6ta"
+      },
+      "steam": {
+        "id": "76561198272225839",
+        "name": "d'REAMzA",
+        "url": "https://steamcommunity.com/profiles/76561198272225839"
+      }
+    },
+    "legacy_username": "dREAMzA#8219"
+  },
+  "362061739149492226": {
+    "id": 362061739149492226,
+    "name": "katbuggle",
+    "nick": null,
+    "display_name": "Katbuggle",
+    "global_name": "Katbuggle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "katbuggle#3066"
+  },
+  "1039916868179333200": {
+    "id": 1039916868179333200,
+    "name": "ender307",
+    "nick": null,
+    "display_name": "ender",
+    "global_name": "ender",
+    "pronouns": "goo/ber",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ender#9866"
+  },
+  "702220140942458961": {
+    "id": 702220140942458961,
+    "name": "shinoobi.",
+    "nick": null,
+    "display_name": "shinoobi",
+    "global_name": "shinoobi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I identify as: stateless\nPronouns: N/A",
+    "guild_bio": null,
+    "display_bio": "I identify as: stateless\nPronouns: N/A",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "shinoobi#1580"
   }
 }
