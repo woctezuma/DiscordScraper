@@ -69384,5 +69384,141 @@
       }
     },
     "legacy_username": "father.moha#4931"
+  },
+  "603325316433182720": {
+    "id": 603325316433182720,
+    "name": "m7amel3alouch444",
+    "nick": null,
+    "display_name": "M7amel 3alouch",
+    "global_name": "M7amel 3alouch",
+    "pronouns": "BOTI_PRO_MAX",
+    "guild_pronouns": null,
+    "bio": "\n\nBARA",
+    "guild_bio": null,
+    "display_bio": "\n\nBARA",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "IJ8O3QjV_7j44gspDiTE1ZKA01im2ZDgqK5706ZMEzm1LugqK3xAU_IgOkrV4kDhFACI3zNLru5iSQ",
+        "name": "5LIFA#1810",
+        "url": null
+      },
+      "spotify": {
+        "id": "317kl2cibcnh7jyfuw77pzbxk2bq",
+        "name": "Yassine Zidi",
+        "url": "https://open.spotify.com/user/317kl2cibcnh7jyfuw77pzbxk2bq"
+      },
+      "youtube": {
+        "id": "UCLDRfWAs6KsZb5CUPJ4VulQ",
+        "name": "MIT5ALIF",
+        "url": "https://www.youtube.com/channel/UCLDRfWAs6KsZb5CUPJ4VulQ"
+      }
+    },
+    "legacy_username": "M7amel 3alouch\u2074\u2074\u2074#5192"
+  },
+  "467442555995291649": {
+    "id": 467442555995291649,
+    "name": "2d_emerald",
+    "nick": null,
+    "display_name": "Emerald",
+    "global_name": "Emerald",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "raging lesbian (taken) <:prideles:808420710770278401>\ntrans mtf  \nping me when replying :3\nobsessed with games\npoet\nsteam friend code: 10809156\nhttps://en.pronouns.page/@2D_Emerald",
+    "guild_bio": null,
+    "display_bio": "raging lesbian (taken) <:prideles:808420710770278401>\ntrans mtf  \nping me when replying :3\nobsessed with games\npoet\nsteam friend code: 10809156\nhttps://en.pronouns.page/@2D_Emerald",
+    "banner": "https://cdn.discordapp.com/banners/467442555995291649/a_7e586e7a9d96cbe392752bd3a868d69f.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/467442555995291649/a_7e586e7a9d96cbe392752bd3a868d69f.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UC1YmeNa36Q4JBCnNGZWbAog",
+        "name": "2D_Emerald VR",
+        "url": "https://www.youtube.com/channel/UC1YmeNa36Q4JBCnNGZWbAog"
+      }
+    },
+    "legacy_username": "Emerald#9264"
+  },
+  "186703006408900621": {
+    "id": 186703006408900621,
+    "name": "minglee28",
+    "nick": null,
+    "display_name": "minglee",
+    "global_name": "minglee",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "minglee#1357",
+        "name": "minglee#1357",
+        "url": null
+      },
+      "epic_games": {
+        "id": "faaddcca256e46fcb7e767652ed9b2c6",
+        "name": "minglee28",
+        "url": null
+      },
+      "github": {
+        "id": "26370894",
+        "name": "andrewtran28",
+        "url": "https://github.com/andrewtran28"
+      },
+      "steam": {
+        "id": "76561197975160067",
+        "name": "minglee",
+        "url": "https://steamcommunity.com/profiles/76561197975160067"
+      }
+    },
+    "legacy_username": "minglee#6232"
+  },
+  "269897497470566400": {
+    "id": 269897497470566400,
+    "name": "vinciraia99",
+    "nick": null,
+    "display_name": "vinciraia99",
+    "global_name": "vinciraia99",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "becenzoreborn",
+        "name": "becenzoreborn",
+        "url": "https://open.spotify.com/user/becenzoreborn"
+      }
+    },
+    "legacy_username": "vinciraia99#0750"
   }
 }
