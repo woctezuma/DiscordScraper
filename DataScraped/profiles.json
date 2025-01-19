@@ -66725,5 +66725,99 @@
     ],
     "connections": {},
     "legacy_username": "rolo#5335"
+  },
+  "1300112300417618084": {
+    "id": 1300112300417618084,
+    "name": "whatupbro12",
+    "nick": null,
+    "display_name": "CoolGuyMask12",
+    "global_name": "CoolGuyMask12",
+    "pronouns": "bro on discord is cool:3",
+    "guild_pronouns": null,
+    "bio": "wat hav i don",
+    "guild_bio": null,
+    "display_bio": "wat hav i don",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AGUU4VY3HC6QDH2NWKKLFQAYPWMQ",
+        "name": "Potemer",
+        "url": null
+      },
+      "battle_net": {
+        "id": "yumyum#11851",
+        "name": "yumyum#11851",
+        "url": null
+      },
+      "unknown_bluesky": {
+        "id": "did:plc:j2agiscxu5ujmb5tr44jfy4u",
+        "name": "robtopzpotemer.bsky.social",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018539453677",
+        "name": "crown",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "0ef2a047-58bf-5ff8-a3e7-f60b48ffc6f8",
+        "name": "YesThisIsMyNameIfIwas",
+        "url": null
+      },
+      "epic_games": {
+        "id": "b9191bb2a40346c1aca4f87c4894cca0",
+        "name": "S_winacct",
+        "url": null
+      },
+      "github": {
+        "id": "187540252",
+        "name": "eaglercraft2024",
+        "url": "https://github.com/eaglercraft2024"
+      },
+      "reddit": {
+        "id": "pdzfpx7f",
+        "name": "RobTopzPotemerZ",
+        "url": "https://www.reddit.com/u/RobTopzPotemerZ"
+      },
+      "unknown_roblox": {
+        "id": "7885856294",
+        "name": "doorsbadgespro082",
+        "url": null
+      },
+      "spotify": {
+        "id": "314hdlxygaq5orvuhfyfnka7vkzu",
+        "name": "crown",
+        "url": "https://open.spotify.com/user/314hdlxygaq5orvuhfyfnka7vkzu"
+      },
+      "steam": {
+        "id": "76561199781550650",
+        "name": "crown",
+        "url": "https://steamcommunity.com/profiles/76561199781550650"
+      },
+      "tiktok": {
+        "id": "64a0ba6a-6598-561b-9bf5-8150cbfd8738",
+        "name": "yumyum102910291",
+        "url": "https://tiktok.com/@yumyum102910291"
+      },
+      "twitter": {
+        "id": "1850549614597877760",
+        "name": "RobtopzPotemerZ",
+        "url": "https://twitter.com/RobtopzPotemerZ"
+      },
+      "xbox": {
+        "id": "3065247412882085",
+        "name": "xbob6123",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=xbob6123"
+      },
+      "youtube": {
+        "id": "UC_ghqWsExQehiHi30yIkqyA",
+        "name": "Robtopz Potemerz",
+        "url": "https://www.youtube.com/channel/UC_ghqWsExQehiHi30yIkqyA"
+      }
+    },
+    "legacy_username": null
   }
 }
