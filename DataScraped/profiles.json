@@ -66567,5 +66567,47 @@
     ],
     "connections": {},
     "legacy_username": "Razsej#8689"
+  },
+  "760131066123255809": {
+    "id": 760131066123255809,
+    "name": "kaptengizmo",
+    "nick": null,
+    "display_name": "KaptenGizmo",
+    "global_name": "KaptenGizmo",
+    "pronouns": "Gizmo/gizmo",
+    "guild_pronouns": null,
+    "bio": "\"One little gun never hurt anybody\"",
+    "guild_bio": null,
+    "display_bio": "\"One little gun never hurt anybody\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "08820ada7e5e459a95dd3d63bd3fad09",
+        "name": "KaptenGizmo",
+        "url": null
+      },
+      "reddit": {
+        "id": "8qqfeg56o",
+        "name": "KaptenGizmo",
+        "url": "https://www.reddit.com/u/KaptenGizmo"
+      },
+      "spotify": {
+        "id": "316ilmzrcj6bx437mn7pioxxcp4u",
+        "name": "KaptenGizmo",
+        "url": "https://open.spotify.com/user/316ilmzrcj6bx437mn7pioxxcp4u"
+      },
+      "steam": {
+        "id": "76561199476152129",
+        "name": "KaptenGizmo",
+        "url": "https://steamcommunity.com/profiles/76561199476152129"
+      }
+    },
+    "legacy_username": "KaptenGizmo#8883"
   }
 }
