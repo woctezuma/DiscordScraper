@@ -68725,5 +68725,130 @@
       }
     },
     "legacy_username": "Kirotoise#1528"
+  },
+  "566361179396636673": {
+    "id": 566361179396636673,
+    "name": "chuchuphobic",
+    "nick": null,
+    "display_name": "chuchu",
+    "global_name": "chuchu",
+    "pronouns": "i am me",
+    "guild_pronouns": null,
+    "bio": "chuchu on deez nuts hahahahaha",
+    "guild_bio": null,
+    "display_bio": "chuchu on deez nuts hahahahaha",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "895127161650962552": {
+    "id": 895127161650962552,
+    "name": "__hev",
+    "nick": null,
+    "display_name": "hev",
+    "global_name": "hev",
+    "pronouns": "adjectives: annoying and useless",
+    "guild_pronouns": null,
+    "bio": "nanami ",
+    "guild_bio": null,
+    "display_bio": "nanami ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "123430291",
+        "name": "rwqfsfasxc100",
+        "url": "https://github.com/rwqfsfasxc100"
+      },
+      "reddit": {
+        "id": "67qg13jc",
+        "name": "irondiamonds_1",
+        "url": "https://www.reddit.com/u/irondiamonds_1"
+      },
+      "steam": {
+        "id": "76561199010854247",
+        "name": "hev",
+        "url": "https://steamcommunity.com/profiles/76561199010854247"
+      },
+      "xbox": {
+        "id": "3068284418083689",
+        "name": "irondiamonds",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=irondiamonds"
+      }
+    },
+    "legacy_username": "hev#1958"
+  },
+  "1033567522223562782": {
+    "id": 1033567522223562782,
+    "name": "blake_stone122",
+    "nick": null,
+    "display_name": "Blake_Stone122",
+    "global_name": "Blake_Stone122",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199273449250",
+        "name": "Blake S.",
+        "url": "https://steamcommunity.com/profiles/76561199273449250"
+      },
+      "twitch": {
+        "id": "794238103",
+        "name": "blake_stone122",
+        "url": "https://www.twitch.tv/blake_stone122"
+      },
+      "xbox": {
+        "id": "3072740321371851",
+        "name": "Blake Stone8159",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Blake Stone8159"
+      },
+      "youtube": {
+        "id": "UCQ5oqZZmzVfpmrJdmL27qvQ",
+        "name": "Blake Stone122",
+        "url": "https://www.youtube.com/channel/UCQ5oqZZmzVfpmrJdmL27qvQ"
+      }
+    },
+    "legacy_username": "Blake_Stone122#9114"
+  },
+  "355312524645892096": {
+    "id": 355312524645892096,
+    "name": "mistrpajko",
+    "nick": null,
+    "display_name": "Pajko",
+    "global_name": "Pajko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Pajko#5549"
   }
 }
