@@ -66941,5 +66941,53 @@
       }
     },
     "legacy_username": "ArcXGamer#7337"
+  },
+  "856930794571431941": {
+    "id": 856930794571431941,
+    "name": "alsalmi33944",
+    "nick": null,
+    "display_name": "(-_-)",
+    "global_name": "(-_-)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Idiot",
+    "guild_bio": null,
+    "display_bio": "Idiot",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "440050361844105237": {
+    "id": 440050361844105237,
+    "name": "thegoatdeveloper",
+    "nick": null,
+    "display_name": "TheSatanicFlame",
+    "global_name": "TheSatanicFlame",
+    "pronouns": "Apache Helicopter",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/440050361844105237/a_21ca653709696d47a8d26d4327aafc7e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/440050361844105237/a_21ca653709696d47a8d26d4327aafc7e.gif?size=512",
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "150771360",
+        "name": "thesatanicflame",
+        "url": "https://www.twitch.tv/thesatanicflame"
+      }
+    },
+    "legacy_username": "Flame#1733"
   }
 }
