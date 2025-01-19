@@ -67169,5 +67169,36 @@
     ],
     "connections": {},
     "legacy_username": "loloxbesar#1214"
+  },
+  "673085878104621068": {
+    "id": 673085878104621068,
+    "name": "supertobias77",
+    "nick": null,
+    "display_name": "Supertobias77",
+    "global_name": "Supertobias77",
+    "pronouns": "He / Harrier Jump Jet",
+    "guild_pronouns": null,
+    "bio": "F-35 go vroom vroom",
+    "guild_bio": null,
+    "display_bio": "F-35 go vroom vroom",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "ur7zhre4",
+        "name": "Supertobias77",
+        "url": "https://www.reddit.com/u/Supertobias77"
+      },
+      "steam": {
+        "id": "76561199110466443",
+        "name": "Supertobias77",
+        "url": "https://steamcommunity.com/profiles/76561199110466443"
+      }
+    },
+    "legacy_username": "Supertobias77#4877"
   }
 }
