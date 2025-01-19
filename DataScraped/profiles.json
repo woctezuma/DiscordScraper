@@ -65921,5 +65921,43 @@
       }
     },
     "legacy_username": null
+  },
+  "626440964306763786": {
+    "id": 626440964306763786,
+    "name": ".o.6540",
+    "nick": null,
+    "display_name": "()",
+    "global_name": "()",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "(\uff61\uff65\u03c9\uff65\uff61)#6540"
+  },
+  "387905783402332160": {
+    "id": 387905783402332160,
+    "name": "xbakerboix",
+    "nick": null,
+    "display_name": "bakerboi",
+    "global_name": "bakerboi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Steam Enthusiast 09",
+    "guild_bio": null,
+    "display_bio": "Steam Enthusiast 09",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
