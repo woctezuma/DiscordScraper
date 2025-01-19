@@ -70123,5 +70123,51 @@
     ],
     "connections": {},
     "legacy_username": "vlntwarrior#0581"
+  },
+  "813979931045789746": {
+    "id": 813979931045789746,
+    "name": "lord_emerald1",
+    "nick": null,
+    "display_name": "Lord_Emerald1",
+    "global_name": "Lord_Emerald1",
+    "pronouns": "Cancer/Reload",
+    "guild_pronouns": null,
+    "bio": "**Hello I am a Content Creator and veteran and still active till this day in the Roblox Napoleonic Wars Community\n\n\"Cherish your life\"\nB'day: 2007/07/21**",
+    "guild_bio": null,
+    "display_bio": "**Hello I am a Content Creator and veteran and still active till this day in the Roblox Napoleonic Wars Community\n\n\"Cherish your life\"\nB'day: 2007/07/21**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCI5n2cykbpIrD51LzPL5BTA",
+        "name": "Lord_Emerald1",
+        "url": "https://www.youtube.com/channel/UCI5n2cykbpIrD51LzPL5BTA"
+      }
+    },
+    "legacy_username": "Lord_Emerald1#4620"
+  },
+  "1280547962665177172": {
+    "id": 1280547962665177172,
+    "name": "bigman_23876",
+    "nick": null,
+    "display_name": "icaria_mpales",
+    "global_name": "icaria_mpales",
+    "pronouns": "france\ud83e\udd50/tree\ud83c\udf33",
+    "guild_pronouns": null,
+    "bio": "http://roblox free robux no scamm '\nsarrrr",
+    "guild_bio": null,
+    "display_bio": "http://roblox free robux no scamm '\nsarrrr",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
