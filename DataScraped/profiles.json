@@ -69606,5 +69606,64 @@
     ],
     "connections": {},
     "legacy_username": "mocha bear ^-^#4636"
+  },
+  "694532630737059860": {
+    "id": 694532630737059860,
+    "name": "xen0395",
+    "nick": null,
+    "display_name": "xen",
+    "global_name": "xen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5cc0330ccfd14532a875e1c988ec5537",
+        "name": "geomekk",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "207553064",
+        "name": "geomekk",
+        "url": null
+      },
+      "spotify": {
+        "id": "2ntr0ziedolpkk0wl4zkktsr7",
+        "name": "geo",
+        "url": "https://open.spotify.com/user/2ntr0ziedolpkk0wl4zkktsr7"
+      }
+    },
+    "legacy_username": "xen#0395"
+  },
+  "250281136033366017": {
+    "id": 250281136033366017,
+    "name": "hazelris",
+    "nick": null,
+    "display_name": "Hazelris",
+    "global_name": "Hazelris",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Hazelris#2216"
   }
 }
