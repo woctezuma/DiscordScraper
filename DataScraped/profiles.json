@@ -67382,5 +67382,42 @@
       }
     },
     "legacy_username": null
+  },
+  "323793158259605504": {
+    "id": 323793158259605504,
+    "name": "mentallyillschizo",
+    "nick": null,
+    "display_name": "nakedbanana",
+    "global_name": "nakedbanana",
+    "pronouns": "Banana",
+    "guild_pronouns": null,
+    "bio": "Peel",
+    "guild_bio": null,
+    "display_bio": "Peel",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "_CFnTG_pvyLT7L-H_STNoHoOt5m8WbKi78WinKhnUp2zHPEPQMAx1ZcKaGqY-EumHsg30TNt0gbQuQ",
+        "name": "biggreenhulk#240hz",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198311578359",
+        "name": "sigmamale41",
+        "url": "https://steamcommunity.com/profiles/76561198311578359"
+      },
+      "youtube": {
+        "id": "UCJQ-6U5EhN_01zd8d6gNguw",
+        "name": "Epic Gamer",
+        "url": "https://www.youtube.com/channel/UCJQ-6U5EhN_01zd8d6gNguw"
+      }
+    },
+    "legacy_username": null
   }
 }
