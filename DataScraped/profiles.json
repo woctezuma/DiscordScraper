@@ -64677,5 +64677,71 @@
       }
     },
     "legacy_username": null
+  },
+  "895866974062661632": {
+    "id": 895866974062661632,
+    "name": "rottenrac00n",
+    "nick": null,
+    "display_name": "V1RUS",
+    "global_name": "V1RUS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "musiclover#1",
+    "guild_bio": null,
+    "display_bio": "musiclover#1",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31zotfsogxuqqgdzab72acfrpem4",
+        "name": "\u22c6.\ud835\udc4c\ud835\udc5a\ud835\udc56\ud835\udc5f\u00b7",
+        "url": "https://open.spotify.com/user/31zotfsogxuqqgdzab72acfrpem4"
+      },
+      "twitch": {
+        "id": "837639409",
+        "name": "ymirstxrs",
+        "url": "https://www.twitch.tv/ymirstxrs"
+      }
+    },
+    "legacy_username": "acyd\u2605#2547"
+  },
+  "328938747791933440": {
+    "id": 328938747791933440,
+    "name": "drakesi",
+    "nick": null,
+    "display_name": "Prawph",
+    "global_name": "Prawph",
+    "pronouns": "she/them titties",
+    "guild_pronouns": null,
+    "bio": "why don't they like it",
+    "guild_bio": null,
+    "display_bio": "why don't they like it",
+    "banner": "https://cdn.discordapp.com/banners/328938747791933440/a_92075112affbac45f02ac7b05701d3c5.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/328938747791933440/a_92075112affbac45f02ac7b05701d3c5.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "82155061",
+        "name": "drakesixii",
+        "url": "https://www.twitch.tv/drakesixii"
+      },
+      "xbox": {
+        "id": "3076663324325868",
+        "name": "Drakesi",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Drakesi"
+      }
+    },
+    "legacy_username": "Drakesi#1399"
   }
 }
