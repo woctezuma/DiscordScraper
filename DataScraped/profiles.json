@@ -69080,5 +69080,81 @@
       }
     },
     "legacy_username": null
+  },
+  "1140720184630456570": {
+    "id": 1140720184630456570,
+    "name": "junmisugi0155",
+    "nick": null,
+    "display_name": "JunMisugi",
+    "global_name": "JunMisugi",
+    "pronouns": "Defender of the Pitch",
+    "guild_pronouns": null,
+    "bio": "Amy Rose fan\nYoutube: https://youtube.com/@fanofdrawing?feature=shared",
+    "guild_bio": null,
+    "display_bio": "Amy Rose fan\nYoutube: https://youtube.com/@fanofdrawing?feature=shared",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1274102924859019284": {
+    "id": 1274102924859019284,
+    "name": "blazingmarcy",
+    "nick": null,
+    "display_name": "BlazingMarcy",
+    "global_name": "BlazingMarcy",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "Hey :yeah: \nI'm Marcy \nTaken by Alex, the love of my life :goofer: \npfp by :vinyl: \n",
+    "guild_bio": null,
+    "display_bio": "Hey :yeah: \nI'm Marcy \nTaken by Alex, the love of my life :goofer: \npfp by :vinyl: \n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1207957160619768",
+        "name": "Ethan Restout",
+        "url": null
+      },
+      "github": {
+        "id": "123022537",
+        "name": "SuperSansYnas",
+        "url": "https://github.com/SuperSansYnas"
+      },
+      "reddit": {
+        "id": "jksoufv7",
+        "name": "Ethanol234567",
+        "url": "https://www.reddit.com/u/Ethanol234567"
+      },
+      "unknown_roblox": {
+        "id": "449912256",
+        "name": "Ethanol234567",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199167851723",
+        "name": "Ethanol234567",
+        "url": "https://steamcommunity.com/profiles/76561199167851723"
+      },
+      "twitter": {
+        "id": "1488535198354522123",
+        "name": "sans_yans",
+        "url": "https://twitter.com/sans_yans"
+      },
+      "youtube": {
+        "id": "UCTJ316UHzV2G8PdCENnUzjg",
+        "name": "Super Sans Yans",
+        "url": "https://www.youtube.com/channel/UCTJ316UHzV2G8PdCENnUzjg"
+      }
+    },
+    "legacy_username": null
   }
 }
