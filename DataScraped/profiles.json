@@ -64743,5 +64743,92 @@
       }
     },
     "legacy_username": "Drakesi#1399"
+  },
+  "102955241036578816": {
+    "id": 102955241036578816,
+    "name": "selbie",
+    "nick": null,
+    "display_name": "selbie",
+    "global_name": "selbie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "76990213",
+        "name": "selbie_",
+        "url": "https://www.twitch.tv/selbie_"
+      }
+    },
+    "legacy_username": "selbie#7861"
+  },
+  "546981393373069324": {
+    "id": 546981393373069324,
+    "name": "gussynesses",
+    "nick": null,
+    "display_name": "Gussynesses",
+    "global_name": "Gussynesses",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Gussynesses#0307"
+  },
+  "713666824004304966": {
+    "id": 713666824004304966,
+    "name": "yuukiyuuki241421",
+    "nick": null,
+    "display_name": "YuukiSloozyOoki",
+    "global_name": "YuukiSloozyOoki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":Clove_Jamming: \"Don't be spending too many brain cells figuring them out! Overthinking is just as bad as underthinking.\" :CH_Butterfly:",
+    "guild_bio": null,
+    "display_bio": ":Clove_Jamming: \"Don't be spending too many brain cells figuring them out! Overthinking is just as bad as underthinking.\" :CH_Butterfly:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Yuuki#13328",
+        "name": "Yuuki#13328",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "13a90cf1-d7e4-54c6-a05c-aa82a9e566eb",
+        "name": "XYuukiXE",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199014584533",
+        "name": "Yuuki",
+        "url": "https://steamcommunity.com/profiles/76561199014584533"
+      }
+    },
+    "legacy_username": "!!!~yuuki#6969"
   }
 }
