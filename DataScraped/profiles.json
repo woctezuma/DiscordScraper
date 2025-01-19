@@ -69732,5 +69732,58 @@
       }
     },
     "legacy_username": "shadowslayer#7260"
+  },
+  "1010822135322783779": {
+    "id": 1010822135322783779,
+    "name": "andreip3493",
+    "nick": null,
+    "display_name": "Andreip",
+    "global_name": "Andreip",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Andreip#3493"
+  },
+  "317437394511069186": {
+    "id": 317437394511069186,
+    "name": "jyr3x",
+    "nick": null,
+    "display_name": "jyr3x",
+    "global_name": "jyr3x",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198158368438",
+        "name": "Hermenegildo",
+        "url": "https://steamcommunity.com/profiles/76561198158368438"
+      },
+      "twitch": {
+        "id": "45348014",
+        "name": "jyr3x",
+        "url": "https://www.twitch.tv/jyr3x"
+      }
+    },
+    "legacy_username": "jyrex#7309"
   }
 }
