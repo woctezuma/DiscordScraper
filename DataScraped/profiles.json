@@ -65049,5 +65049,31 @@
     ],
     "connections": {},
     "legacy_username": "DapperLink#4791"
+  },
+  "823726601384493106": {
+    "id": 823726601384493106,
+    "name": "22tonic",
+    "nick": null,
+    "display_name": "Han",
+    "global_name": "Han",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Mogger Inc.\n",
+    "guild_bio": null,
+    "display_bio": "Mogger Inc.\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ezfoi5zjic0bt90f8m6wpnyxm",
+        "name": "\ud83d\udd78\ufe0f",
+        "url": "https://open.spotify.com/user/ezfoi5zjic0bt90f8m6wpnyxm"
+      }
+    },
+    "legacy_username": null
   }
 }
