@@ -69805,5 +69805,103 @@
     ],
     "connections": {},
     "legacy_username": "dean#0688"
+  },
+  "1241538758990364745": {
+    "id": 1241538758990364745,
+    "name": "astelex",
+    "nick": null,
+    "display_name": "astelex",
+    "global_name": "astelex",
+    "pronouns": "\u2020",
+    "guild_pronouns": null,
+    "bio": "                              true faith.               \n                        owner @ elysium\nREPENT.",
+    "guild_bio": null,
+    "display_bio": "                              true faith.               \n                        owner @ elysium\nREPENT.",
+    "banner": "https://cdn.discordapp.com/banners/1241538758990364745/ca3b823bbacd607e652e3033a3a801fe.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1241538758990364745/ca3b823bbacd607e652e3033a3a801fe.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "142178507",
+        "name": "astelex",
+        "url": "https://github.com/astelex"
+      },
+      "riot_games": {
+        "id": "mZOYffkHCCOke1a8-Usp_3NHWZD5mTveMrxslRz8c8l5DjWD2V_wyI5uSJOlS0Zpzrb7P7YlChpWJA",
+        "name": "astelex#6172",
+        "url": null
+      },
+      "youtube": {
+        "id": "UCTNfQKL0pHabNjR1O7R4Wjg",
+        "name": "astelex",
+        "url": "https://www.youtube.com/channel/UCTNfQKL0pHabNjR1O7R4Wjg"
+      }
+    },
+    "legacy_username": null
+  },
+  "913445258413629552": {
+    "id": 913445258413629552,
+    "name": "apacolypta",
+    "nick": null,
+    "display_name": "apacolypta",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Apacolypta#4039"
+  },
+  "308302748275965953": {
+    "id": 308302748275965953,
+    "name": "osmara",
+    "nick": null,
+    "display_name": "Osmara",
+    "global_name": "Osmara",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Osmara#9540"
+  },
+  "998437059817648248": {
+    "id": 998437059817648248,
+    "name": "rafaellino",
+    "nick": null,
+    "display_name": "Rafael Lino",
+    "global_name": "Rafael Lino",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
