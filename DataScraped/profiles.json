@@ -66989,5 +66989,69 @@
       }
     },
     "legacy_username": "Flame#1733"
+  },
+  "1075355913877192744": {
+    "id": 1075355913877192744,
+    "name": "megarex555555",
+    "nick": null,
+    "display_name": "MegaRex555555",
+    "global_name": "MegaRex555555",
+    "pronouns": "Him/Rex",
+    "guild_pronouns": null,
+    "bio": "Sub To RexClips197\n\nhttps://youtube.com/@rexclips197?si=wgqSaTecQEbTYblm \n\n:)",
+    "guild_bio": null,
+    "display_bio": "Sub To RexClips197\n\nhttps://youtube.com/@rexclips197?si=wgqSaTecQEbTYblm \n\n:)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "3858728768",
+        "name": "The_MegaRex555555",
+        "url": null
+      },
+      "spotify": {
+        "id": "31sapxunj3f67pk6rm4hr4m5tlri",
+        "name": "Rex at spotify",
+        "url": "https://open.spotify.com/user/31sapxunj3f67pk6rm4hr4m5tlri"
+      },
+      "youtube": {
+        "id": "UCAhRHlEpGow_lCQcdJoWDvg",
+        "name": "RexClips",
+        "url": "https://www.youtube.com/channel/UCAhRHlEpGow_lCQcdJoWDvg"
+      }
+    },
+    "legacy_username": null
+  },
+  "625694503726219304": {
+    "id": 625694503726219304,
+    "name": "krcharter",
+    "nick": null,
+    "display_name": "KrCharter",
+    "global_name": "KrCharter",
+    "pronouns": "your/mom",
+    "guild_pronouns": null,
+    "bio": "21\n\nwhat's a terrapin",
+    "guild_bio": null,
+    "display_bio": "21\n\nwhat's a terrapin",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "olumethlu3ukx5l177414btqa",
+        "name": "KrCharter",
+        "url": "https://open.spotify.com/user/olumethlu3ukx5l177414btqa"
+      }
+    },
+    "legacy_username": "KrCharter#8500"
   }
 }
