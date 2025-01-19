@@ -67683,5 +67683,98 @@
       }
     },
     "legacy_username": null
+  },
+  "1330415680947884076": {
+    "id": 1330415680947884076,
+    "name": "thepharaohmighty",
+    "nick": null,
+    "display_name": "CMIGHTY",
+    "global_name": "CMIGHTY",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Adults only please. Thank you. \n\nMy favorite shows growing up where the Power Rangers, Madtv, Criss Angel, Fresh Prince, AGT, Pokemon and Saturday Night Live.\n\nBackstreet Boys & *Nsync ",
+    "guild_bio": null,
+    "display_bio": "Adults only please. Thank you. \n\nMy favorite shows growing up where the Power Rangers, Madtv, Criss Angel, Fresh Prince, AGT, Pokemon and Saturday Night Live.\n\nBackstreet Boys & *Nsync ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "50a506c1cfd647b4bfb0cf78138f250a",
+        "name": "Kristopharaoh",
+        "url": null
+      },
+      "playstation": {
+        "id": "4972419159901736816",
+        "name": "Kristopharaoh",
+        "url": null
+      },
+      "spotify": {
+        "id": "31y5hea7oebn5p7v5eymr3gzuama",
+        "name": "Krissypharaoh",
+        "url": "https://open.spotify.com/user/31y5hea7oebn5p7v5eymr3gzuama"
+      },
+      "steam": {
+        "id": "76561197998012063",
+        "name": "Kryztofah",
+        "url": "https://steamcommunity.com/profiles/76561197998012063"
+      },
+      "twitter": {
+        "id": "1874552913218912256",
+        "name": "kryzzypharaoh",
+        "url": "https://twitter.com/kryzzypharaoh"
+      },
+      "xbox": {
+        "id": "3061074546618801",
+        "name": "kryztofero",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=kryztofero"
+      },
+      "youtube": {
+        "id": "UCJ1W_3RK4oQN1qAxTl_UjzA",
+        "name": "CmegaMighty Films",
+        "url": "https://www.youtube.com/channel/UCJ1W_3RK4oQN1qAxTl_UjzA"
+      }
+    },
+    "legacy_username": null
+  },
+  "394030965980397569": {
+    "id": 394030965980397569,
+    "name": "watertankgamer",
+    "nick": null,
+    "display_name": "WaterTankGamer",
+    "global_name": "WaterTankGamer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "WaterTank_Gamer#2596"
+  },
+  "1328912206280265869": {
+    "id": 1328912206280265869,
+    "name": "margarita052360",
+    "nick": null,
+    "display_name": "Margarita",
+    "global_name": "Margarita",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
