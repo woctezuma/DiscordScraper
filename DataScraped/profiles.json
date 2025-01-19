@@ -67053,5 +67053,121 @@
       }
     },
     "legacy_username": "KrCharter#8500"
+  },
+  "663384288758333450": {
+    "id": 663384288758333450,
+    "name": "loneassailant8007",
+    "nick": null,
+    "display_name": "LoneAssailant",
+    "global_name": "LoneAssailant",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "We9ka_tivI-4Dz3iLZh-lVykE4do7Pv8OOMb8YyQ_C4pcbFAO_0t2HCT0sSUG9i1eE8SZvQUHg4ZDw",
+        "name": "LoneAssailant",
+        "url": null
+      },
+      "riot_games": {
+        "id": "We9ka_tivI-4Dz3iLZh-lVykE4do7Pv8OOMb8YyQ_C4pcbFAO_0t2HCT0sSUG9i1eE8SZvQUHg4ZDw",
+        "name": "LoneAssailant#8007",
+        "url": null
+      },
+      "spotify": {
+        "id": "fashjz7c4a0dt7cilt8psapsk",
+        "name": "Kabir rao",
+        "url": "https://open.spotify.com/user/fashjz7c4a0dt7cilt8psapsk"
+      },
+      "steam": {
+        "id": "76561198395289290",
+        "name": "LoneAssailant8007",
+        "url": "https://steamcommunity.com/profiles/76561198395289290"
+      },
+      "xbox": {
+        "id": "OThjMWE2MzA1Y2JkODRiZTYwNGVjYjBmMzdhMzhmYTczYWJmMzI2YjNmN2MwZDA4YTYwMTUwOTA5MzgzNDdjZg",
+        "name": "TheGamer6668007",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TheGamer6668007"
+      }
+    },
+    "legacy_username": "LoneAssailant#9784"
+  },
+  "326077675657756672": {
+    "id": 326077675657756672,
+    "name": "sianalapomme",
+    "nick": null,
+    "display_name": " Pommanas ",
+    "global_name": " Pommanas ",
+    "pronouns": "She/They",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "crunchyroll": {
+        "id": "c2495d46-e279-50c7-9a47-4722f03f3dfe",
+        "name": "SianaNya",
+        "url": null
+      },
+      "epic_games": {
+        "id": "0b4e2be075cc49769972fc457326c14b",
+        "name": "S\u00efanaNya",
+        "url": null
+      },
+      "spotify": {
+        "id": "s\u00efanamia",
+        "name": "s\u00efanamia",
+        "url": "https://open.spotify.com/user/s\u00efanamia"
+      },
+      "steam": {
+        "id": "76561199040460265",
+        "name": "Ana\u00efs",
+        "url": "https://steamcommunity.com/profiles/76561199040460265"
+      },
+      "twitch": {
+        "id": "159436148",
+        "name": "siana___h",
+        "url": "https://www.twitch.tv/siana___h"
+      },
+      "youtube": {
+        "id": "UCyVebqzKvoYgi9wazTcnAUQ",
+        "name": "Ana\u00efs _",
+        "url": "https://www.youtube.com/channel/UCyVebqzKvoYgi9wazTcnAUQ"
+      }
+    },
+    "legacy_username": null
+  },
+  "966015746880729158": {
+    "id": 966015746880729158,
+    "name": "gitgoodbro",
+    "nick": null,
+    "display_name": "samisgod",
+    "global_name": "samisgod",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "loloxbesar#1214"
   }
 }
