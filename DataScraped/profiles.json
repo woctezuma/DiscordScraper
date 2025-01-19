@@ -64868,5 +64868,44 @@
       }
     },
     "legacy_username": "NekoInaka#1593"
+  },
+  "751686813114171414": {
+    "id": 751686813114171414,
+    "name": "mr.banana7078",
+    "nick": null,
+    "display_name": "Mr. Banana",
+    "global_name": "Mr. Banana",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I'm so bad\nI hate myself",
+    "guild_bio": null,
+    "display_bio": "I'm so bad\nI hate myself",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mr. Banana#7078"
+  },
+  "843653573983600650": {
+    "id": 843653573983600650,
+    "name": "lunarasura",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
