@@ -66876,5 +66876,27 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "757893688436195378": {
+    "id": 757893688436195378,
+    "name": "leanthonyjames",
+    "nick": null,
+    "display_name": "LeAnthony James",
+    "global_name": "LeAnthony James",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "ESSKEETIT",
+    "guild_bio": null,
+    "display_bio": "ESSKEETIT",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Don Anto\u00f1o\ud83e\udd76\ud83d\udc8e#5469"
   }
 }
