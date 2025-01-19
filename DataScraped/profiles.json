@@ -70191,5 +70191,55 @@
     ],
     "connections": {},
     "legacy_username": "!Prograde#0907"
+  },
+  "1001307475179479070": {
+    "id": 1001307475179479070,
+    "name": "laracore",
+    "nick": null,
+    "display_name": "CoreCroft",
+    "global_name": "CoreCroft",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "A fan of *Tomb Raider* (the real one from Core Design even tho LAU trilogy might count as well) and *The Incredibles*\n\nAlso a proud Violet Parr stan\n\nPFP: Violet Parr (*The Incredibles*)",
+    "guild_bio": null,
+    "display_bio": "A fan of *Tomb Raider* (the real one from Core Design even tho LAU trilogy might count as well) and *The Incredibles*\n\nAlso a proud Violet Parr stan\n\nPFP: Violet Parr (*The Incredibles*)",
+    "banner": "https://cdn.discordapp.com/banners/1001307475179479070/31edbd18eba52332fb620e531adf338d.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1001307475179479070/31edbd18eba52332fb620e531adf338d.png?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:qp7ukebxykwiqi7vr6cqz4sl",
+        "name": "corecroft.bsky.social",
+        "url": null
+      },
+      "playstation": {
+        "id": "609402432540380710",
+        "name": "Geoshea",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199811455739",
+        "name": "CoreCroft",
+        "url": "https://steamcommunity.com/profiles/76561199811455739"
+      },
+      "twitter": {
+        "id": "1805776265720336384",
+        "name": "CoreCroft2000",
+        "url": "https://twitter.com/CoreCroft2000"
+      },
+      "youtube": {
+        "id": "UC9acphs08ztXf0NW4z_fusQ",
+        "name": "CoreCroft",
+        "url": "https://www.youtube.com/channel/UC9acphs08ztXf0NW4z_fusQ"
+      }
+    },
+    "legacy_username": "Laracore#0994"
   }
 }
