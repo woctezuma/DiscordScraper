@@ -65617,5 +65617,85 @@
       }
     },
     "legacy_username": null
+  },
+  "359234612234420234": {
+    "id": 359234612234420234,
+    "name": "ryujinayato",
+    "nick": null,
+    "display_name": "Ryujin Ayato",
+    "global_name": "Ryujin Ayato",
+    "pronouns": "he/him and/or fail/ure",
+    "guild_pronouns": null,
+    "bio": "If you see me in Reaper, you know shit's cookin'.\n\nHoYoID (Main): 802370558",
+    "guild_bio": null,
+    "display_bio": "If you see me in Reaper, you know shit's cookin'.\n\nHoYoID (Main): 802370558",
+    "banner": "https://cdn.discordapp.com/banners/359234612234420234/83b7dc8fea34370553ecf7bfe508967d.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/359234612234420234/83b7dc8fea34370553ecf7bfe508967d.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:rmazvvbsvpfe2iwvdkavjbbg",
+        "name": "ryujinayato.bsky.social",
+        "url": null
+      },
+      "epic_games": {
+        "id": "a815bd9611e34565a1c9d4e22f5e7f56",
+        "name": "BoringSocialGuy",
+        "url": null
+      },
+      "facebook": {
+        "id": "557263617998969",
+        "name": "T\u0103ng Tr\u00ed H\u00e0o",
+        "url": null
+      },
+      "github": {
+        "id": "43988928",
+        "name": "ryujinX1623",
+        "url": "https://github.com/ryujinX1623"
+      },
+      "riot_games": {
+        "id": "731mo2momSEoUCuyIsi-E2D_OqgnjRD7UsGmRMbfJEMxTqd-TS6OBCGfMPuuOO2jgWsU9-qtHtd4Ew",
+        "name": "Ryu331#1623",
+        "url": null
+      },
+      "spotify": {
+        "id": "31lophttupbysexsevjtymsuemq4",
+        "name": "Ryujin Ayato",
+        "url": "https://open.spotify.com/user/31lophttupbysexsevjtymsuemq4"
+      },
+      "steam": {
+        "id": "76561198420448069",
+        "name": "xi` ke chanh muoi'",
+        "url": "https://steamcommunity.com/profiles/76561198420448069"
+      },
+      "twitch": {
+        "id": "245163310",
+        "name": "ryujinayato",
+        "url": "https://www.twitch.tv/ryujinayato"
+      },
+      "twitter": {
+        "id": "1032095123155255297",
+        "name": "parmduckie6912",
+        "url": "https://twitter.com/parmduckie6912"
+      },
+      "xbox": {
+        "id": "3062673352809999",
+        "name": "RyujinAyato4339",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RyujinAyato4339"
+      },
+      "youtube": {
+        "id": "UCWDcCaOWzX3Ym6dy2DRF4QA",
+        "name": "Ryujin Ayato",
+        "url": "https://www.youtube.com/channel/UCWDcCaOWzX3Ym6dy2DRF4QA"
+      }
+    },
+    "legacy_username": "ryujinx#1623"
   }
 }
