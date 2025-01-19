@@ -65585,5 +65585,37 @@
       }
     },
     "legacy_username": "respectvetman#8378"
+  },
+  "763052295247626241": {
+    "id": 763052295247626241,
+    "name": "soliskitty",
+    "nick": null,
+    "display_name": "Solis Kitty",
+    "global_name": "Solis Kitty",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "      \nProfessional cat cuddler\nJust happy to be here\nProbably reading another fantasy book\n<:eee:1160005056599437462> \n  \n   ",
+    "guild_bio": null,
+    "display_bio": "      \nProfessional cat cuddler\nJust happy to be here\nProbably reading another fantasy book\n<:eee:1160005056599437462> \n  \n   ",
+    "banner": "https://cdn.discordapp.com/banners/763052295247626241/a_d9ffa7df21e1157fb738d581fefffc31.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/763052295247626241/a_d9ffa7df21e1157fb738d581fefffc31.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "giujpnedad2f5t6qrk14rpubg",
+        "name": "Kelsey",
+        "url": "https://open.spotify.com/user/giujpnedad2f5t6qrk14rpubg"
+      },
+      "xbox": {
+        "id": "3071544173664937",
+        "name": "Solis Kitty",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Solis Kitty"
+      }
+    },
+    "legacy_username": null
   }
 }
