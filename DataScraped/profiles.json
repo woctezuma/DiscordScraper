@@ -69520,5 +69520,91 @@
       }
     },
     "legacy_username": "vinciraia99#0750"
+  },
+  "983733074904875059": {
+    "id": 983733074904875059,
+    "name": "othertyzam",
+    "nick": null,
+    "display_name": "Tyzam",
+    "global_name": "Tyzam",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "776517912433262602": {
+    "id": 776517912433262602,
+    "name": "thezombieslayer_cmyt",
+    "nick": null,
+    "display_name": "Christian m YOOOOOOOOOOOOOOOOOO",
+    "global_name": "Christian m YOOOOOOOOOOOOOOOOOO",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "AAAAAAAAAAAAAAAAAAAAAAA\nYo wassup, it's ya boi. Vibin'\nThings that I could be doing rn:\n1. watching yt in my room alone.\n2. playing games in my room, alone.\n3. (rarely) editing...alone.",
+    "guild_bio": null,
+    "display_bio": "AAAAAAAAAAAAAAAAAAAAAAA\nYo wassup, it's ya boi. Vibin'\nThings that I could be doing rn:\n1. watching yt in my room alone.\n2. playing games in my room, alone.\n3. (rarely) editing...alone.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UC3VY71TQKoKtwcD5YHiXsEA",
+        "name": "the zombie slayer_cm",
+        "url": "https://www.youtube.com/channel/UC3VY71TQKoKtwcD5YHiXsEA"
+      }
+    },
+    "legacy_username": "zombie slayer_cm#3343"
+  },
+  "1258458517568753796": {
+    "id": 1258458517568753796,
+    "name": ".rachmaninoff_",
+    "nick": null,
+    "display_name": "Chopin",
+    "global_name": "Chopin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "915686529005912126": {
+    "id": 915686529005912126,
+    "name": "cafemochabear",
+    "nick": null,
+    "display_name": "Mocha Bear",
+    "global_name": "Mocha Bear",
+    "pronouns": ":)",
+    "guild_pronouns": null,
+    "bio": "Home isnt a place; let me give you a clue. Home is anywhere that people care about you. \n\n Adventure Time ",
+    "guild_bio": null,
+    "display_bio": "Home isnt a place; let me give you a clue. Home is anywhere that people care about you. \n\n Adventure Time ",
+    "banner": "https://cdn.discordapp.com/banners/915686529005912126/a_cdfaa15ac5b824cc307355dfe5dd1488.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/915686529005912126/a_cdfaa15ac5b824cc307355dfe5dd1488.gif?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "mocha bear ^-^#4636"
   }
 }
