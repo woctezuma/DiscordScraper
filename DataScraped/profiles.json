@@ -66517,5 +66517,55 @@
     ],
     "connections": {},
     "legacy_username": "Zhou#1099"
+  },
+  "917703174498951239": {
+    "id": 917703174498951239,
+    "name": "jkuppi",
+    "nick": null,
+    "display_name": "Jaffakuppi",
+    "global_name": "Jaffakuppi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Drink your school\nStay in sleep\nDon't do milk\nAnd \nGet eight hours of drugs",
+    "guild_bio": null,
+    "display_bio": "Drink your school\nStay in sleep\nDon't do milk\nAnd \nGet eight hours of drugs",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199412840531",
+        "name": "\udb40\udc21\udb40\udc21",
+        "url": "https://steamcommunity.com/profiles/76561199412840531"
+      },
+      "youtube": {
+        "id": "UCqRbVsDOJ1cQ_Q-o5ywPG-Q",
+        "name": "Jaffakuppi",
+        "url": "https://www.youtube.com/channel/UCqRbVsDOJ1cQ_Q-o5ywPG-Q"
+      }
+    },
+    "legacy_username": null
+  },
+  "173492730163363841": {
+    "id": 173492730163363841,
+    "name": "razsej",
+    "nick": null,
+    "display_name": "Rasmus",
+    "global_name": "Rasmus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Razsej#8689"
   }
 }
