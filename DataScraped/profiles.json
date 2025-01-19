@@ -64830,5 +64830,43 @@
       }
     },
     "legacy_username": "!!!~yuuki#6969"
+  },
+  "519142022817513475": {
+    "id": 519142022817513475,
+    "name": "nekoinaka",
+    "nick": null,
+    "display_name": "NekoInaka",
+    "global_name": "NekoInaka",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "(o) ELO JOMBLO (,) GUE JOMBLO = (  )(  ) JADIAN YUUK!!",
+    "guild_bio": null,
+    "display_bio": "(o) ELO JOMBLO (,) GUE JOMBLO = (  )(  ) JADIAN YUUK!!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31xn3ryiwzfu4a5hx2sdembfelbe",
+        "name": "NEKOINAKA",
+        "url": "https://open.spotify.com/user/31xn3ryiwzfu4a5hx2sdembfelbe"
+      },
+      "steam": {
+        "id": "76561198438799533",
+        "name": "NekoInaka",
+        "url": "https://steamcommunity.com/profiles/76561198438799533"
+      },
+      "twitch": {
+        "id": "604655510",
+        "name": "mcdi123",
+        "url": "https://www.twitch.tv/mcdi123"
+      }
+    },
+    "legacy_username": "NekoInaka#1593"
   }
 }
