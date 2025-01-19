@@ -65297,5 +65297,65 @@
     ],
     "connections": {},
     "legacy_username": "shinoobi#1580"
+  },
+  "1315513216046075988": {
+    "id": 1315513216046075988,
+    "name": "rollie5yt",
+    "nick": null,
+    "display_name": "Rollie",
+    "global_name": "Rollie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "811257750726246451": {
+    "id": 811257750726246451,
+    "name": "swargaraj",
+    "nick": null,
+    "display_name": "swargaraj",
+    "global_name": null,
+    "pronouns": "dev",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "79154258",
+        "name": "swargaraj",
+        "url": "https://github.com/swargaraj"
+      },
+      "riot_games": {
+        "id": "0RBkgBUp3fF0ySxZhNpbnt46ILe1zM0Gse_9X4ATBZp8Glgh-LGM4tcUms2f698iOEaR-XH8kvA7gQ",
+        "name": "swargaraj#999",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199574931052",
+        "name": "swargaraj",
+        "url": "https://steamcommunity.com/profiles/76561199574931052"
+      },
+      "tiktok": {
+        "id": "91a69bc8-b266-59d8-ad6c-cbee9e7d808c",
+        "name": "swrgdev",
+        "url": "https://tiktok.com/@swrgdev"
+      }
+    },
+    "legacy_username": null
   }
 }
