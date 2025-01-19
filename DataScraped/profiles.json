@@ -66609,5 +66609,56 @@
       }
     },
     "legacy_username": "KaptenGizmo#8883"
+  },
+  "1260824306028384310": {
+    "id": 1260824306028384310,
+    "name": "domi_theded",
+    "nick": null,
+    "display_name": "N/a",
+    "global_name": "N/a",
+    "pronouns": "N/a",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "1492slj38s",
+        "name": "DomiTheDed",
+        "url": "https://www.reddit.com/u/DomiTheDed"
+      },
+      "steam": {
+        "id": "76561199737624619",
+        "name": "Singularity",
+        "url": "https://steamcommunity.com/profiles/76561199737624619"
+      }
+    },
+    "legacy_username": null
+  },
+  "783300582290489355": {
+    "id": 783300582290489355,
+    "name": "len11037",
+    "nick": null,
+    "display_name": "Dazai:3",
+    "global_name": "Dazai:3",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "Meow !!   ^^",
+    "guild_bio": null,
+    "display_bio": "Meow !!   ^^",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Len#9754"
   }
 }
