@@ -65470,5 +65470,49 @@
       }
     },
     "legacy_username": "NEXUS_Rice#2254"
+  },
+  "110053625807515648": {
+    "id": 110053625807515648,
+    "name": ".nickolas21",
+    "nick": null,
+    "display_name": "Nickolas21",
+    "global_name": "Nickolas21",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nickolas21#6015"
+  },
+  "1151139578057592842": {
+    "id": 1151139578057592842,
+    "name": "harshavardhan0467",
+    "nick": null,
+    "display_name": "Harsha Vardhan",
+    "global_name": "Harsha Vardhan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199581867729",
+        "name": "harshavardhan.kanchrla",
+        "url": "https://steamcommunity.com/profiles/76561199581867729"
+      }
+    },
+    "legacy_username": null
   }
 }
