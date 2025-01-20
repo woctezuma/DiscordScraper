@@ -70640,5 +70640,203 @@
     ],
     "connections": {},
     "legacy_username": "Brandox14#6930"
+  },
+  "206311053686996992": {
+    "id": 206311053686996992,
+    "name": "dingdongdillydoodydoodong",
+    "nick": null,
+    "display_name": "DingDongDillyDoodyDooDong",
+    "global_name": "DingDongDillyDoodyDooDong",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/206311053686996992/42294033dafd85314e0206c4eced30f5.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/206311053686996992/42294033dafd85314e0206c4eced30f5.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31h7sm7zqq53qeaeu7bvtot2fueq",
+        "name": "Dylan",
+        "url": "https://open.spotify.com/user/31h7sm7zqq53qeaeu7bvtot2fueq"
+      },
+      "steam": {
+        "id": "76561198019906354",
+        "name": "Dongus of the Dillybar",
+        "url": "https://steamcommunity.com/profiles/76561198019906354"
+      },
+      "twitch": {
+        "id": "111472652",
+        "name": "dylanbobboy",
+        "url": "https://www.twitch.tv/dylanbobboy"
+      },
+      "xbox": {
+        "id": "NTVmNDdlMjcxOGI0YTVlNDJiODUwYTYzMThmYThmOTY2OWFkMjU2MTlmZTJmNWRiMDQyYTVhOTY4MzRmM2RlZQ",
+        "name": "DylanBobBoy",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DylanBobBoy"
+      }
+    },
+    "legacy_username": "DingDongDillyDoodyDooDong#6969"
+  },
+  "529730954038870017": {
+    "id": 529730954038870017,
+    "name": "bird001",
+    "nick": null,
+    "display_name": "bird",
+    "global_name": "bird",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198887910415",
+        "name": "Bird",
+        "url": "https://steamcommunity.com/profiles/76561198887910415"
+      },
+      "xbox": {
+        "id": "3061985898755293",
+        "name": "Bird7077",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Bird7077"
+      }
+    },
+    "legacy_username": "bird#5390"
+  },
+  "542348326918684714": {
+    "id": 542348326918684714,
+    "name": "joe75792433",
+    "nick": null,
+    "display_name": "Joe",
+    "global_name": "Joe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "528727242373857300": {
+    "id": 528727242373857300,
+    "name": ".chamorrito.",
+    "nick": null,
+    "display_name": "Chamorrito",
+    "global_name": "Chamorrito",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "xd",
+    "guild_bio": null,
+    "display_bio": "xd",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "roxanachamo",
+        "name": "chapo",
+        "url": "https://open.spotify.com/user/roxanachamo"
+      }
+    },
+    "legacy_username": "Chamorrito#4271"
+  },
+  "285642365568548866": {
+    "id": 285642365568548866,
+    "name": ".ythomit",
+    "nick": null,
+    "display_name": "YthomitX",
+    "global_name": "YthomitX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ythomit#2939"
+  },
+  "1249232065141014534": {
+    "id": 1249232065141014534,
+    "name": ".arieus",
+    "nick": null,
+    "display_name": "Arieus </>",
+    "global_name": "Arieus </>",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Don't you ever let go?\nI don't wanna let you go,\nKeep holding on to me,\nDon't you ever let go?\nIt's gonna be okay,\nDon't you ever let go?\nI don't wanna let you go",
+    "guild_bio": null,
+    "display_bio": "Don't you ever let go?\nI don't wanna let you go,\nKeep holding on to me,\nDon't you ever let go?\nIt's gonna be okay,\nDon't you ever let go?\nI don't wanna let you go",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "5645372287012940474",
+        "name": "whirly07",
+        "url": null
+      }
+    },
+    "legacy_username": null
+  },
+  "926875889613017099": {
+    "id": 926875889613017099,
+    "name": "kyuu_13",
+    "nick": null,
+    "display_name": "Kyuu ",
+    "global_name": "Kyuu ",
+    "pronouns": "Metallica",
+    "guild_pronouns": null,
+    "bio": ":)",
+    "guild_bio": null,
+    "display_bio": ":)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "8877592440270278078",
+        "name": "Kyuu2110_",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199213415017",
+        "name": "N4meless_",
+        "url": "https://steamcommunity.com/profiles/76561199213415017"
+      }
+    },
+    "legacy_username": "Kyu#7590"
   }
 }
