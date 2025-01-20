@@ -75932,5 +75932,25 @@
       }
     },
     "legacy_username": null
+  },
+  "643626117181341717": {
+    "id": 643626117181341717,
+    "name": "loboalp",
+    "nick": null,
+    "display_name": "Lobo",
+    "global_name": "Lobo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "R  -",
+    "guild_bio": null,
+    "display_bio": "R  -",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Lobo#4525"
   }
 }
