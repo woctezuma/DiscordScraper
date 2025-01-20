@@ -75514,5 +75514,46 @@
       }
     },
     "legacy_username": "Tha Wartech#5158"
+  },
+  "849062467140583454": {
+    "id": 849062467140583454,
+    "name": "niyorex",
+    "nick": null,
+    "display_name": "Ekmek",
+    "global_name": "Ekmek",
+    "pronouns": "iso",
+    "guild_pronouns": null,
+    "bio": "Sonra Tren demiki bu-RAY-a kadarm",
+    "guild_bio": null,
+    "display_bio": "Sonra Tren demiki bu-RAY-a kadarm",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "7575051d-736d-5e57-a349-752d4c7e506a",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "5AJpTWqErc9GKOquYNV1eBbedX9t2qq9Vrx7gcidNR6G2zj8Mu5MMgnqnnTooqx36m2jALnHsRUFeg",
+        "name": "E\u015fekSi\u015fenK\u00fcrdo#4131",
+        "url": null
+      },
+      "riot_games": {
+        "id": "5AJpTWqErc9GKOquYNV1eBbedX9t2qq9Vrx7gcidNR6G2zj8Mu5MMgnqnnTooqx36m2jALnHsRUFeg",
+        "name": "E\u015fekSi\u015fenK\u00fcrdo#4131",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199817438526",
+        "name": "\u0130so",
+        "url": "https://steamcommunity.com/profiles/76561199817438526"
+      }
+    },
+    "legacy_username": "niyorEX#7725"
   }
 }
