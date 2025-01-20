@@ -74021,5 +74021,81 @@
     ],
     "connections": {},
     "legacy_username": "Mirek#4032"
+  },
+  "262081168655122433": {
+    "id": 262081168655122433,
+    "name": "beers_n_wifi",
+    "nick": null,
+    "display_name": "Beers_n_WiFi",
+    "global_name": "Beers_n_WiFi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Beers-n-WiFi#5262"
+  },
+  "525814335881084950": {
+    "id": 525814335881084950,
+    "name": "noxipp",
+    "nick": null,
+    "display_name": "Alex",
+    "global_name": "Alex",
+    "pronouns": "i/refuse",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/525814335881084950/a_20a0847dd00e7f35b4ea4568c6353990.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/525814335881084950/a_20a0847dd00e7f35b4ea4568c6353990.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "bv3zq4fgpa9auv1no2q58suz6",
+        "name": "Alex",
+        "url": "https://open.spotify.com/user/bv3zq4fgpa9auv1no2q58suz6"
+      }
+    },
+    "legacy_username": null
+  },
+  "878275256240963637": {
+    "id": 878275256240963637,
+    "name": "thisaintswifty",
+    "nick": null,
+    "display_name": "thisaintswifty",
+    "global_name": null,
+    "pronouns": "Msg reqs. enabled",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "n6txgwxnserxiiy4z2f4it1aj",
+        "name": "dz",
+        "url": "https://open.spotify.com/user/n6txgwxnserxiiy4z2f4it1aj"
+      }
+    },
+    "legacy_username": "dz.#3193"
   }
 }
