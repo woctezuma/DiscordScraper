@@ -70962,5 +70962,138 @@
     ],
     "connections": {},
     "legacy_username": "CrowTheCryptid#2120"
+  },
+  "618934664182235175": {
+    "id": 618934664182235175,
+    "name": "creeperm",
+    "nick": null,
+    "display_name": "creeperM",
+    "global_name": "creeperM",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "You made a shit of piece with your trash Isaac. Its fucking bad, this trash game. I will become back my money. I hope you will in your next time a cow on a trash farm you sucker.",
+    "guild_bio": null,
+    "display_bio": "You made a shit of piece with your trash Isaac. Its fucking bad, this trash game. I will become back my money. I hope you will in your next time a cow on a trash farm you sucker.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199013228414",
+        "name": "CreeperM",
+        "url": "https://steamcommunity.com/profiles/76561199013228414"
+      },
+      "xbox": {
+        "id": "ZDcxZTNmNjA4NWQ5YzY5YmQ2YjJhNTQxMTIxNmMwOGNmMzdjZGNiYWM5ZmNiMWI2ZjAzNGNhYmYyMjUwMTRiNA",
+        "name": "creeperM77",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=creeperM77"
+      }
+    },
+    "legacy_username": "creeperM#9249"
+  },
+  "1184102621850648576": {
+    "id": 1184102621850648576,
+    "name": "mashrig_16401",
+    "nick": null,
+    "display_name": "Mashrig",
+    "global_name": "Mashrig",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "965164611718512650": {
+    "id": 965164611718512650,
+    "name": "teen_x666",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "TeenX Punk",
+    "guild_pronouns": null,
+    "bio": "insta:s1att_x\nNARCISSIST",
+    "guild_bio": null,
+    "display_bio": "insta:s1att_x\nNARCISSIST",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ijcvjfwm7s5cptbeslctzbmeta",
+        "name": "m",
+        "url": "https://open.spotify.com/user/31ijcvjfwm7s5cptbeslctzbmeta"
+      }
+    },
+    "legacy_username": null
+  },
+  "244089760472236032": {
+    "id": 244089760472236032,
+    "name": "gritai",
+    "nick": null,
+    "display_name": "Gritai",
+    "global_name": "Gritai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Just a Lazy duck <a:Untitled13:996029471004041286>",
+    "guild_bio": null,
+    "display_bio": "Just a Lazy duck <a:Untitled13:996029471004041286>",
+    "banner": "https://cdn.discordapp.com/banners/244089760472236032/a_c507b5069dd6a0f309b3e1d03f92a556.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/244089760472236032/a_c507b5069dd6a0f309b3e1d03f92a556.gif?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198093451639",
+        "name": "gritai",
+        "url": "https://steamcommunity.com/profiles/76561198093451639"
+      },
+      "youtube": {
+        "id": "UC7KfAjvuA7PcZ9oRzkJ6wpQ",
+        "name": "Gritai",
+        "url": "https://www.youtube.com/channel/UC7KfAjvuA7PcZ9oRzkJ6wpQ"
+      }
+    },
+    "legacy_username": "Gritai#8038"
+  },
+  "377977997334020107": {
+    "id": 377977997334020107,
+    "name": "tyzzler",
+    "nick": null,
+    "display_name": "Tyzzler",
+    "global_name": "Tyzzler",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Tyzzler#7480"
   }
 }
