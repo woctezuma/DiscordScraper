@@ -72969,5 +72969,126 @@
     ],
     "connections": {},
     "legacy_username": "eed#8469"
+  },
+  "241571397367758848": {
+    "id": 241571397367758848,
+    "name": "11ashwin11",
+    "nick": null,
+    "display_name": "Ashwin",
+    "global_name": "Ashwin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ashwin#7741"
+  },
+  "678272534990290986": {
+    "id": 678272534990290986,
+    "name": "spicyborgir",
+    "nick": null,
+    "display_name": "Eric Fartman",
+    "global_name": "Eric Fartman",
+    "pronouns": "Optimus/prime",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Regis#7016"
+  },
+  "582867374659600396": {
+    "id": 582867374659600396,
+    "name": "meeexs",
+    "nick": null,
+    "display_name": "meeexs",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Mmmmmmmm",
+    "guild_bio": null,
+    "display_bio": "Mmmmmmmm",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198988833958",
+        "name": "Meeexs",
+        "url": "https://steamcommunity.com/profiles/76561198988833958"
+      },
+      "xbox": {
+        "id": "YWYzMzliY2Q5OGY2ODdjMTUyMWZkMjA3NmE1YjM3ZTcxMWE5ZGViMTE1NGNmOWY4M2RmNzBjNjAxOWYwNTg0MQ",
+        "name": "Pie crust9590",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Pie crust9590"
+      }
+    },
+    "legacy_username": "Meeexs#6884"
+  },
+  "467901857004650496": {
+    "id": 467901857004650496,
+    "name": "arinasergeyevnamorozova",
+    "nick": null,
+    "display_name": "Hydrangeas",
+    "global_name": "Hydrangeas",
+    "pronouns": "Tao/b\u1ecb/cringe",
+    "guild_pronouns": null,
+    "bio": "gii tnh ca tui:\n nam\n n\n meow meow\n bnh trng trn\n dk dk bh bh lmao\n t t, ang tm hiu\n gi nh tui bit \n ngi yu Keqing\n ch ca KazuScara",
+    "guild_bio": null,
+    "display_bio": "gii tnh ca tui:\n nam\n n\n meow meow\n bnh trng trn\n dk dk bh bh lmao\n t t, ang tm hiu\n gi nh tui bit \n ngi yu Keqing\n ch ca KazuScara",
+    "banner": "https://cdn.discordapp.com/banners/467901857004650496/a_fe3d05bf14ddac31f8204333f37717fa.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/467901857004650496/a_fe3d05bf14ddac31f8204333f37717fa.gif?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "\u30cf\u30ea\u30b5\u30adYukino#0191"
+  },
+  "626839247525249034": {
+    "id": 626839247525249034,
+    "name": "phos23",
+    "nick": null,
+    "display_name": "BartekS",
+    "global_name": "BartekS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198011929488",
+        "name": "Phos",
+        "url": "https://steamcommunity.com/profiles/76561198011929488"
+      }
+    },
+    "legacy_username": "Phos23#2339"
   }
 }
