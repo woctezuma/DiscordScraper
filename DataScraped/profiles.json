@@ -76160,5 +76160,26 @@
       }
     },
     "legacy_username": "Ronis#4625"
+  },
+  "1069016842150088714": {
+    "id": 1069016842150088714,
+    "name": "stinkybumbub",
+    "nick": null,
+    "display_name": "stinkybumbub",
+    "global_name": "stinkybumbub",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I'm a developer I need my naps don't wake me up or I can't develop.",
+    "guild_bio": null,
+    "display_bio": "I'm a developer I need my naps don't wake me up or I can't develop.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
