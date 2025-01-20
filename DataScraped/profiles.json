@@ -75730,5 +75730,51 @@
       }
     },
     "legacy_username": "Fiotux#3112"
+  },
+  "669902717799628801": {
+    "id": 669902717799628801,
+    "name": "crissdemange",
+    "nick": null,
+    "display_name": "Criss De Mange",
+    "global_name": "Criss De Mange",
+    "pronouns": "Masa / That guy / women repellent",
+    "guild_pronouns": null,
+    "bio": "Autistic as shit",
+    "guild_bio": null,
+    "display_bio": "Autistic as shit",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1470960053699961",
+        "name": "Criss De Mange",
+        "url": null
+      },
+      "reddit": {
+        "id": "97c52dhd",
+        "name": "e-spazzy",
+        "url": "https://www.reddit.com/u/e-spazzy"
+      },
+      "spotify": {
+        "id": "t278ryazn7y5o69bfv5hj2b0m",
+        "name": "Cadenchristal",
+        "url": "https://open.spotify.com/user/t278ryazn7y5o69bfv5hj2b0m"
+      },
+      "xbox": {
+        "id": "ZWJjYzZjYzNiNDk5ODBjNzEyNzVjNmNlMTdhODgzNGMzM2U5ZjJjOTZhYTE3OTNiNDFmYjMzODk3NTE5Y2UxNg",
+        "name": "ReC Caden",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ReC Caden"
+      },
+      "youtube": {
+        "id": "UCzQMsINFrvHZGTWnN96DVKg",
+        "name": "CrissDeMange",
+        "url": "https://www.youtube.com/channel/UCzQMsINFrvHZGTWnN96DVKg"
+      }
+    },
+    "legacy_username": null
   }
 }
