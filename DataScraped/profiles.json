@@ -75555,5 +75555,42 @@
       }
     },
     "legacy_username": "niyorEX#7725"
+  },
+  "227024651015028737": {
+    "id": 227024651015028737,
+    "name": "thedoctor47",
+    "nick": null,
+    "display_name": "The Doctor",
+    "global_name": "The Doctor",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Possibly distracted",
+    "guild_bio": null,
+    "display_bio": "Possibly distracted",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198173697653",
+        "name": "The Doctor",
+        "url": "https://steamcommunity.com/profiles/76561198173697653"
+      },
+      "twitch": {
+        "id": "50074327",
+        "name": "dutchraiders6",
+        "url": "https://www.twitch.tv/dutchraiders6"
+      },
+      "xbox": {
+        "id": "ZGQzNTVjODU0ZWUzOGZmMGJhNzY1Y2JiMjRjMzE1ZWE0NjZhYzIzZTM0OGM3ZTA4NmQ1M2I0ZmRiNmI1NzMzNA",
+        "name": "D3rpTheN3rwal",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=D3rpTheN3rwal"
+      }
+    },
+    "legacy_username": "The Doctor#8148"
   }
 }
