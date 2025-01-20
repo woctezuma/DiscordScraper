@@ -74232,5 +74232,166 @@
       }
     },
     "legacy_username": "Juan/Junki#6969"
+  },
+  "594922022048497672": {
+    "id": 594922022048497672,
+    "name": "adrillerferreira",
+    "nick": null,
+    "display_name": "Adriller",
+    "global_name": "Adriller",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " adrillerferreira",
+    "guild_bio": null,
+    "display_bio": " adrillerferreira",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "adrillerferreira#4271"
+  },
+  "387744500748910592": {
+    "id": 387744500748910592,
+    "name": "schwi2807",
+    "nick": null,
+    "display_name": "Schwi",
+    "global_name": "Schwi",
+    "pronouns": "Mental/Illness",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199086839381",
+        "name": "Schwi2807",
+        "url": "https://steamcommunity.com/profiles/76561199086839381"
+      }
+    },
+    "legacy_username": "Internet#6936"
+  },
+  "405885610222682122": {
+    "id": 405885610222682122,
+    "name": "querubatv",
+    "nick": null,
+    "display_name": "QuerubaTV",
+    "global_name": "QuerubaTV",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198394405465",
+        "name": "Leo_Araruama",
+        "url": "https://steamcommunity.com/profiles/76561198394405465"
+      },
+      "twitter": {
+        "id": "3253876727",
+        "name": "Leo_Costa79",
+        "url": "https://twitter.com/Leo_Costa79"
+      },
+      "xbox": {
+        "id": "JJDwklS9I0vr5Swi3ZJck4OS4Rq8RNY1sF0LHo8WLGk",
+        "name": "Leo Araruama",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Leo Araruama"
+      }
+    },
+    "legacy_username": "QuerubaTV#9473"
+  },
+  "1234504799043719170": {
+    "id": 1234504799043719170,
+    "name": "shamim_ul_islam",
+    "nick": null,
+    "display_name": "MD. Shamim Ul Islam",
+    "global_name": "MD. Shamim Ul Islam",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "496733337822691389": {
+    "id": 496733337822691389,
+    "name": "istike9",
+    "nick": null,
+    "display_name": "Istike9",
+    "global_name": "Istike9",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Istike9#2334",
+        "name": "Istike9#2334",
+        "url": null
+      },
+      "twitch": {
+        "id": "49038512",
+        "name": "istike9",
+        "url": "https://www.twitch.tv/istike9"
+      }
+    },
+    "legacy_username": "Vanisua#2969"
+  },
+  "602091699442941952": {
+    "id": 602091699442941952,
+    "name": "ja5vii",
+    "nick": null,
+    "display_name": "R4ll",
+    "global_name": "R4ll",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "188791932",
+        "name": "appa_5",
+        "url": "https://www.twitch.tv/appa_5"
+      }
+    },
+    "legacy_username": "Beyron#2633"
   }
 }
