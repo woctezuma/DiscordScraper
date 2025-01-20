@@ -75776,5 +75776,23 @@
       }
     },
     "legacy_username": null
+  },
+  "1331014506704535625": {
+    "id": 1331014506704535625,
+    "name": "lucasfel_21062",
+    "nick": null,
+    "display_name": "lucasfel",
+    "global_name": "lucasfel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
