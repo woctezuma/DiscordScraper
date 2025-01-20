@@ -74393,5 +74393,224 @@
       }
     },
     "legacy_username": "Beyron#2633"
+  },
+  "749964011717787670": {
+    "id": 749964011717787670,
+    "name": "sisyphusion",
+    "nick": null,
+    "display_name": "Jake",
+    "global_name": "Jake",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Systems Admin and Developer",
+    "guild_bio": null,
+    "display_bio": "Systems Admin and Developer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "github": {
+        "id": "38321395",
+        "name": "madebyjake",
+        "url": "https://github.com/madebyjake"
+      },
+      "spotify": {
+        "id": "31dsptvgpvtb2pld7vszabeukvtm",
+        "name": "Jake",
+        "url": "https://open.spotify.com/user/31dsptvgpvtb2pld7vszabeukvtm"
+      },
+      "steam": {
+        "id": "76561198308114872",
+        "name": "Goose",
+        "url": "https://steamcommunity.com/profiles/76561198308114872"
+      }
+    },
+    "legacy_username": null
+  },
+  "208382094785642506": {
+    "id": 208382094785642506,
+    "name": "nattylightbro",
+    "nick": null,
+    "display_name": "Natty",
+    "global_name": "Natty",
+    "pronouns": "Only Two Genders",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "NattyDaddy#6507"
+  },
+  "937384445726580766": {
+    "id": 937384445726580766,
+    "name": "darius20061",
+    "nick": null,
+    "display_name": "darius | 6445",
+    "global_name": "darius | 6445",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199529325517",
+        "name": "Hooligan",
+        "url": "https://steamcommunity.com/profiles/76561199529325517"
+      }
+    },
+    "legacy_username": "I do not know#0756"
+  },
+  "1301883756327473152": {
+    "id": 1301883756327473152,
+    "name": "ebugs1986",
+    "nick": null,
+    "display_name": "Ebugs",
+    "global_name": "Ebugs",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1164295838944735243": {
+    "id": 1164295838944735243,
+    "name": "24krune",
+    "nick": null,
+    "display_name": "rune",
+    "global_name": "rune",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "24rune on twitch",
+    "guild_bio": null,
+    "display_bio": "24rune on twitch",
+    "banner": "https://cdn.discordapp.com/banners/1164295838944735243/a_4d9df3ef475aef240d8a0108032b8b08.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1164295838944735243/a_4d9df3ef475aef240d8a0108032b8b08.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "742173618389385356": {
+    "id": 742173618389385356,
+    "name": "superstorm828",
+    "nick": null,
+    "display_name": "Stormatory",
+    "global_name": "Stormatory",
+    "pronouns": "Who/Where",
+    "guild_pronouns": null,
+    "bio": "EST",
+    "guild_bio": null,
+    "display_bio": "EST",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCu8a8LSX_P0HudRaO987T3A",
+        "name": "Stormatory",
+        "url": "https://www.youtube.com/channel/UCu8a8LSX_P0HudRaO987T3A"
+      }
+    },
+    "legacy_username": "SuperStorm828#3453"
+  },
+  "1157412109982904411": {
+    "id": 1157412109982904411,
+    "name": "jay_aether",
+    "nick": null,
+    "display_name": "JayAether",
+    "global_name": "JayAether",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "guild_bio": null,
+    "display_bio": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1291090804663783475": {
+    "id": 1291090804663783475,
+    "name": "lukica188845il_55315",
+    "nick": null,
+    "display_name": "Lukica188845IL",
+    "global_name": "Lukica188845IL",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "557826947481075722": {
+    "id": 557826947481075722,
+    "name": "0804204",
+    "nick": null,
+    "display_name": "N",
+    "global_name": "N",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "9661046630588244",
+        "name": "niccoloozucchini",
+        "url": "https://www.instagram.com/niccoloozucchini"
+      },
+      "steam": {
+        "id": "76561199084353989",
+        "name": "N.",
+        "url": "https://steamcommunity.com/profiles/76561199084353989"
+      }
+    },
+    "legacy_username": "zzuccii.#8478"
   }
 }
