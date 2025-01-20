@@ -76181,5 +76181,57 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "336842862648098817": {
+    "id": 336842862648098817,
+    "name": "kittycatelite",
+    "nick": null,
+    "display_name": "KittyCatElite",
+    "global_name": "KittyCatElite",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "#1 mongolia fan",
+    "guild_bio": null,
+    "display_bio": "#1 mongolia fan",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198282419969",
+        "name": "\u2605KittyCatElite",
+        "url": "https://steamcommunity.com/profiles/76561198282419969"
+      },
+      "youtube": {
+        "id": "UCVLJm-SxxWirIMhL2hDA0mA",
+        "name": "KittyCatElite",
+        "url": "https://www.youtube.com/channel/UCVLJm-SxxWirIMhL2hDA0mA"
+      }
+    },
+    "legacy_username": "KittyCatElite#9729"
+  },
+  "614569147363491893": {
+    "id": 614569147363491893,
+    "name": "mc3548",
+    "nick": null,
+    "display_name": "Marcel",
+    "global_name": "Marcel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Anything inbetween der Musik ist destruction. Das muss einfach meaning haben.",
+    "guild_bio": null,
+    "display_bio": "Anything inbetween der Musik ist destruction. Das muss einfach meaning haben.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "MC#3548"
   }
 }
