@@ -73846,5 +73846,48 @@
     ],
     "connections": {},
     "legacy_username": "Belo#6568"
+  },
+  "308066328466685952": {
+    "id": 308066328466685952,
+    "name": "darmogoyf",
+    "nick": null,
+    "display_name": "darm",
+    "global_name": "darm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "darmogoyf#7389"
+  },
+  "303502214700204033": {
+    "id": 303502214700204033,
+    "name": "ovi._.1",
+    "nick": null,
+    "display_name": "Sacon Yamyl",
+    "global_name": "Sacon Yamyl",
+    "pronouns": "Sugoma",
+    "guild_pronouns": null,
+    "bio": ".   . .  .. ..  .  * .. . . .",
+    "guild_bio": null,
+    "display_bio": ".   . .  .. ..  .  * .. . . .",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Ovi#7597"
   }
 }
