@@ -70241,5 +70241,98 @@
       }
     },
     "legacy_username": "Laracore#0994"
+  },
+  "1129300377595023471": {
+    "id": 1129300377595023471,
+    "name": "dark69one",
+    "nick": null,
+    "display_name": "K W CLAN | DARK  ONE",
+    "global_name": "K W CLAN | DARK  ONE",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3074380386793591",
+        "name": "DARKNUMBER6281",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DARKNUMBER6281"
+      },
+      "youtube": {
+        "id": "UC8afBWS4oXIma6kVmNKf55g",
+        "name": "FivexGame",
+        "url": "https://www.youtube.com/channel/UC8afBWS4oXIma6kVmNKf55g"
+      }
+    },
+    "legacy_username": "dark number#5747"
+  },
+  "987928347101237279": {
+    "id": 987928347101237279,
+    "name": "sunnybakana",
+    "nick": null,
+    "display_name": "SunNyBaKaNa~",
+    "global_name": "SunNyBaKaNa~",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "SunNyBaKaNa",
+    "guild_bio": null,
+    "display_bio": "SunNyBaKaNa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "FB.Sun Ny BaKaaa#4708"
+  },
+  "512805791921864714": {
+    "id": 512805791921864714,
+    "name": "dyaorkyaongelshan",
+    "nick": null,
+    "display_name": "DRKNGEL",
+    "global_name": "DRKNGEL",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "facebook": {
+        "id": "2304343776451179",
+        "name": "Hafeez Jameel",
+        "url": null
+      },
+      "twitch": {
+        "id": "248799187",
+        "name": "hafeezjameel",
+        "url": "https://www.twitch.tv/hafeezjameel"
+      },
+      "xbox": {
+        "id": "MjEzNzRjNTc1MjBlNzBmMDcyMzgxNmU1OWVmZGU4ZjFjMDEwYzU2MGEwMjdkNDQwMjY2YWFiMzA0Y2I5ZDQxNA",
+        "name": "DarkAngel7320",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DarkAngel7320"
+      },
+      "youtube": {
+        "id": "UCRE8P9CSv4qYELEMe0EgIKA",
+        "name": "muhammad jameeludin",
+        "url": "https://www.youtube.com/channel/UCRE8P9CSv4qYELEMe0EgIKA"
+      }
+    },
+    "legacy_username": null
   }
 }
