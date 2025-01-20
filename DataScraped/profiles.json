@@ -70941,5 +70941,26 @@
     ],
     "connections": {},
     "legacy_username": "Epstein gaming#8975"
+  },
+  "1098120230187847690": {
+    "id": 1098120230187847690,
+    "name": "crow_the_cryptid",
+    "nick": null,
+    "display_name": "CrowTheCryptid",
+    "global_name": "CrowTheCryptid",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "she/they - LVL 22\n@CorvusPicasso on Twitter\nqueer mexican communist\nADHD - BPD - ASD - Insomnia",
+    "guild_bio": null,
+    "display_bio": "she/they - LVL 22\n@CorvusPicasso on Twitter\nqueer mexican communist\nADHD - BPD - ASD - Insomnia",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "CrowTheCryptid#2120"
   }
 }
