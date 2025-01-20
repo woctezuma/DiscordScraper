@@ -75186,5 +75186,161 @@
     ],
     "connections": {},
     "legacy_username": "The Liberator#8503"
+  },
+  "799302186513072158": {
+    "id": 799302186513072158,
+    "name": "andreuwu5",
+    "nick": null,
+    "display_name": "Andre:V",
+    "global_name": "Andre:V",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Solo se , que nada se\nBy: Crjo eliminen Algebra Lineal de la vida",
+    "guild_bio": null,
+    "display_bio": "Solo se , que nada se\nBy: Crjo eliminen Algebra Lineal de la vida",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "abb0a2395c9643c384bde5b7ba9614ef",
+        "name": "AndreAyala1617",
+        "url": null
+      },
+      "spotify": {
+        "id": "31qhlfxaqbbdt4bfl2imp52lulnq",
+        "name": "Brayan",
+        "url": "https://open.spotify.com/user/31qhlfxaqbbdt4bfl2imp52lulnq"
+      },
+      "steam": {
+        "id": "76561199058683209",
+        "name": "Dina Paucar",
+        "url": "https://steamcommunity.com/profiles/76561199058683209"
+      }
+    },
+    "legacy_username": "Andre Ayala#9900"
+  },
+  "508659179834048523": {
+    "id": 508659179834048523,
+    "name": "senorestus",
+    "nick": null,
+    "display_name": "mihai",
+    "global_name": "mihai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "such empty",
+    "guild_bio": null,
+    "display_bio": "such empty",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "354712790293807116": {
+    "id": 354712790293807116,
+    "name": "odorouschip",
+    "nick": null,
+    "display_name": "Tyler",
+    "global_name": "Tyler",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "OdorousChip#1530",
+        "name": "OdorousChip#1530",
+        "url": null
+      },
+      "spotify": {
+        "id": "odorouschip0978",
+        "name": "odorouschip0978",
+        "url": "https://open.spotify.com/user/odorouschip0978"
+      },
+      "steam": {
+        "id": "76561198307177884",
+        "name": "OdorousChip0978",
+        "url": "https://steamcommunity.com/profiles/76561198307177884"
+      }
+    },
+    "legacy_username": "\u30c1\u30c3\u30d7#6591"
+  },
+  "598240382375034967": {
+    "id": 598240382375034967,
+    "name": "sxwk",
+    "nick": null,
+    "display_name": "RORY",
+    "global_name": "RORY",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "- 437 Pounds\n-Certified furry\n-Currently taken by a loving husband\n- Not fatphobic!!!!! \n-  Licensed sigma\n- Severe Dementia\n-Certified furry",
+    "guild_bio": null,
+    "display_bio": "- 437 Pounds\n-Certified furry\n-Currently taken by a loving husband\n- Not fatphobic!!!!! \n-  Licensed sigma\n- Severe Dementia\n-Certified furry",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "sxwk#1870",
+        "name": "sxwk#1870",
+        "url": null
+      },
+      "epic_games": {
+        "id": "d76ae7510f38478785e4e21080a6f834",
+        "name": "sxwk",
+        "url": null
+      },
+      "paypal": {
+        "id": "JrBMha6vIsvbCYzN1EcdDtWMtPb9KpQ2JLtuC2EYtoY",
+        "name": "Rory Chisholm",
+        "url": null
+      },
+      "riot_games": {
+        "id": "mjixXt9KLzRlxxeB4EYNkMs_HdByGaVSKQsXcR5zTPc2YSKlJPFqaArI9SSiFuGNM4kzteB5BnRw3A",
+        "name": "Rory#9191",
+        "url": null
+      },
+      "spotify": {
+        "id": "wisdpr7ymza2ckrp0hdr42233",
+        "name": "Rory",
+        "url": "https://open.spotify.com/user/wisdpr7ymza2ckrp0hdr42233"
+      },
+      "steam": {
+        "id": "76561199212060177",
+        "name": "RORY",
+        "url": "https://steamcommunity.com/profiles/76561199212060177"
+      },
+      "tiktok": {
+        "id": "ea7e76e1-8908-5f66-a25c-5e33b326711c",
+        "name": "rorych1sholm",
+        "url": "https://tiktok.com/@rorych1sholm"
+      },
+      "xbox": {
+        "id": "3067797557640494",
+        "name": "Resxwk",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Resxwk"
+      }
+    },
+    "legacy_username": "Rory#4512"
   }
 }
