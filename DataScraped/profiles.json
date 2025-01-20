@@ -71962,5 +71962,105 @@
       }
     },
     "legacy_username": "JackMandolino (ITA)#3525"
+  },
+  "925567402069086240": {
+    "id": 925567402069086240,
+    "name": "duplikitz",
+    "nick": null,
+    "display_name": "DupliKitz",
+    "global_name": "DupliKitz",
+    "pronouns": "Im Him",
+    "guild_pronouns": null,
+    "bio": "and by him i mean im Kitz my name is Kitzman but you can call me Kitz. Hi!",
+    "guild_bio": null,
+    "display_bio": "and by him i mean im Kitz my name is Kitzman but you can call me Kitz. Hi!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6388139625684991463",
+        "name": "DupliKitz",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199137264721",
+        "name": "DupliKitz",
+        "url": "https://steamcommunity.com/profiles/76561199137264721"
+      },
+      "xbox": {
+        "id": "3067396181047982",
+        "name": "TheDudeKitz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TheDudeKitz"
+      }
+    },
+    "legacy_username": "Kitz#6414"
+  },
+  "774400704143032360": {
+    "id": 774400704143032360,
+    "name": "mysterifyx",
+    "nick": null,
+    "display_name": "Jaysson (MisterifyX)  ",
+    "global_name": "Jaysson (MisterifyX)  ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Misterify#1863"
+  },
+  "408617699002810390": {
+    "id": 408617699002810390,
+    "name": "venomsnake6660",
+    "nick": null,
+    "display_name": "Venom Snake",
+    "global_name": "Venom Snake",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2659199705124181012",
+        "name": "Venom17304",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199128361710",
+        "name": "VenoMxSnake",
+        "url": "https://steamcommunity.com/profiles/76561199128361710"
+      },
+      "xbox": {
+        "id": "NzIxZDgyNGRkYzlkYmM5NTdkZWM2ZjIwNDNjODNlY2U1Mjk3NTU4ODllY2ViMDllMzcwZTg2NDY0ZmJiZmRlNA",
+        "name": "TizAkuma1122",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TizAkuma1122"
+      },
+      "youtube": {
+        "id": "UC7Ra-aIZlZ2UmcOqazENcjQ",
+        "name": "huo3 gaming",
+        "url": "https://www.youtube.com/channel/UC7Ra-aIZlZ2UmcOqazENcjQ"
+      }
+    },
+    "legacy_username": "Venom snake#6660"
   }
 }
