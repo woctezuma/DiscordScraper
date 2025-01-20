@@ -75413,5 +75413,106 @@
       }
     },
     "legacy_username": "yoRustic#4230"
+  },
+  "502691771860385794": {
+    "id": 502691771860385794,
+    "name": "koentoelsoe",
+    "nick": null,
+    "display_name": "El'Nekomancer (Kuntulsu)",
+    "global_name": "El'Nekomancer (Kuntulsu)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Guadalinex#0472"
+  },
+  "1071324642310094888": {
+    "id": 1071324642310094888,
+    "name": "stefpro.",
+    "nick": null,
+    "display_name": "raysergames",
+    "global_name": "raysergames",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i stream on twitch sometimes",
+    "guild_bio": null,
+    "display_bio": "i stream on twitch sometimes",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "3191e486987a4c429a0c8d2607a3a7a9",
+        "name": "raysergames",
+        "url": null
+      },
+      "spotify": {
+        "id": "amb2k08zx3j7i1vyvjliclu0r",
+        "name": "Stef Dejaeghere",
+        "url": "https://open.spotify.com/user/amb2k08zx3j7i1vyvjliclu0r"
+      },
+      "steam": {
+        "id": "76561199625749532",
+        "name": "_rayser_",
+        "url": "https://steamcommunity.com/profiles/76561199625749532"
+      },
+      "youtube": {
+        "id": "UC9_sB5W_X1YMoVnA9GXOINA",
+        "name": "raysergames",
+        "url": "https://www.youtube.com/channel/UC9_sB5W_X1YMoVnA9GXOINA"
+      }
+    },
+    "legacy_username": "Stef#1658"
+  },
+  "451251859483656192": {
+    "id": 451251859483656192,
+    "name": "thawartech",
+    "nick": null,
+    "display_name": "Klamtcho",
+    "global_name": "Klamtcho",
+    "pronouns": "FornkamaTor",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "di3wth7n",
+        "name": "War6ech",
+        "url": "https://www.reddit.com/u/War6ech"
+      },
+      "spotify": {
+        "id": "3153mrisogrtxex63kh45ioboh2m",
+        "name": "Wartech",
+        "url": "https://open.spotify.com/user/3153mrisogrtxex63kh45ioboh2m"
+      },
+      "steam": {
+        "id": "76561198397904383",
+        "name": "DeadTargaryen",
+        "url": "https://steamcommunity.com/profiles/76561198397904383"
+      }
+    },
+    "legacy_username": "Tha Wartech#5158"
   }
 }
