@@ -76083,5 +76083,82 @@
       }
     },
     "legacy_username": "Poke#6666"
+  },
+  "293457931024859136": {
+    "id": 293457931024859136,
+    "name": "2a_tux",
+    "nick": null,
+    "display_name": "Tux",
+    "global_name": "Tux",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"For where your treasure is, there your heart will be also.\" Mathew 6:21\n\nI am a man of God, and a CNC operator, with an interest for guns and motorcycles. May the Lord's will be done.",
+    "guild_bio": null,
+    "display_bio": "\"For where your treasure is, there your heart will be also.\" Mathew 6:21\n\nI am a man of God, and a CNC operator, with an interest for guns and motorcycles. May the Lord's will be done.",
+    "banner": "https://cdn.discordapp.com/banners/293457931024859136/e414129a11d75d23253b1a0986cefccc.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/293457931024859136/e414129a11d75d23253b1a0986cefccc.png?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Tux#5848"
+  },
+  "91642196557590528": {
+    "id": 91642196557590528,
+    "name": "slavenaisronis",
+    "nick": null,
+    "display_name": "Ronis",
+    "global_name": "Ronis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "People learn in lots of different ways, but experience is the best teacher. ",
+    "guild_bio": null,
+    "display_bio": "People learn in lots of different ways, but experience is the best teacher. ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ybhero#2479",
+        "name": "ybhero#2479",
+        "url": null
+      },
+      "epic_games": {
+        "id": "7138dae145a44cbaba84bcfec0711f12",
+        "name": "Slavenais Ronis",
+        "url": null
+      },
+      "github": {
+        "id": "11672200",
+        "name": "artursskutans",
+        "url": "https://github.com/artursskutans"
+      },
+      "spotify": {
+        "id": "1276391676",
+        "name": "Ronis",
+        "url": "https://open.spotify.com/user/1276391676"
+      },
+      "steam": {
+        "id": "76561198010573984",
+        "name": "Slavenais Ronis",
+        "url": "https://steamcommunity.com/profiles/76561198010573984"
+      },
+      "xbox": {
+        "id": "3075075528864842",
+        "name": "Slavenais Ronis",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Slavenais Ronis"
+      }
+    },
+    "legacy_username": "Ronis#4625"
   }
 }
