@@ -75342,5 +75342,76 @@
       }
     },
     "legacy_username": "Rory#4512"
+  },
+  "1330973248623476787": {
+    "id": 1330973248623476787,
+    "name": "kuntulsu_60243",
+    "nick": null,
+    "display_name": "Kuntulsu",
+    "global_name": "Kuntulsu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1006415503197221015": {
+    "id": 1006415503197221015,
+    "name": "yorustic",
+    "nick": null,
+    "display_name": "Rusty",
+    "global_name": "Rusty",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "(ETH) 0xadCF687526Fe24B36382DC694Db0151c10aDe50A",
+    "guild_bio": null,
+    "display_bio": "(ETH) 0xadCF687526Fe24B36382DC694Db0151c10aDe50A",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "yorustic.ovh",
+        "name": "yorustic.ovh",
+        "url": null
+      },
+      "github": {
+        "id": "137660465",
+        "name": "yoRustic",
+        "url": "https://github.com/yoRustic"
+      },
+      "playstation": {
+        "id": "1887299985683945887",
+        "name": "yoRustic",
+        "url": null
+      },
+      "spotify": {
+        "id": "315h3lv25pix7llabuxpjpjf5hmy",
+        "name": "yoRustic",
+        "url": "https://open.spotify.com/user/315h3lv25pix7llabuxpjpjf5hmy"
+      },
+      "steam": {
+        "id": "76561199171394086",
+        "name": "yoRustic",
+        "url": "https://steamcommunity.com/profiles/76561199171394086"
+      },
+      "xbox": {
+        "id": "3075180329501682",
+        "name": "yoRustic",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=yoRustic"
+      }
+    },
+    "legacy_username": "yoRustic#4230"
   }
 }
