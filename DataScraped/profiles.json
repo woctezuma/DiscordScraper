@@ -73357,5 +73357,80 @@
       }
     },
     "legacy_username": null
+  },
+  "271624038374309889": {
+    "id": 271624038374309889,
+    "name": "a.0086",
+    "nick": null,
+    "display_name": "A.",
+    "global_name": "A.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198188903711",
+        "name": "96 in 4 hits",
+        "url": "https://steamcommunity.com/profiles/76561198188903711"
+      }
+    },
+    "legacy_username": "A.#8133"
+  },
+  "414412290796945408": {
+    "id": 414412290796945408,
+    "name": "____8079",
+    "nick": null,
+    "display_name": "kisa",
+    "global_name": "kisa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "semi charmed life",
+    "guild_bio": null,
+    "display_bio": "semi charmed life",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199097821535",
+        "name": "pma(\u25cf'\u25e1'\u25cf)",
+        "url": "https://steamcommunity.com/profiles/76561199097821535"
+      },
+      "xbox": {
+        "id": "3062270775403353",
+        "name": "AKiZA7ZiZA",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AKiZA7ZiZA"
+      }
+    },
+    "legacy_username": null
+  },
+  "1330871065433346139": {
+    "id": 1330871065433346139,
+    "name": "joyboy_89886",
+    "nick": null,
+    "display_name": "Joyboy",
+    "global_name": "Joyboy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
