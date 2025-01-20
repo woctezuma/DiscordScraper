@@ -71842,5 +71842,125 @@
       }
     },
     "legacy_username": null
+  },
+  "895513681520107520": {
+    "id": 895513681520107520,
+    "name": "kram5992",
+    "nick": null,
+    "display_name": "Makumo",
+    "global_name": "Makumo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "kram#5992"
+  },
+  "199298895400927232": {
+    "id": 199298895400927232,
+    "name": "softloliete",
+    "nick": null,
+    "display_name": "SoftLoliete",
+    "global_name": "SoftLoliete",
+    "pronouns": "She/Them/Titties",
+    "guild_pronouns": null,
+    "bio": "Listening to: Fuck it :catRave:\n01:43  04:33\n    \nllllll\n : \n\n\n - Midnight: <t:1672147800:t>\n - Yes I Drew My PFP",
+    "guild_bio": null,
+    "display_bio": "Listening to: Fuck it :catRave:\n01:43  04:33\n    \nllllll\n : \n\n\n - Midnight: <t:1672147800:t>\n - Yes I Drew My PFP",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4855215178219114890",
+        "name": "Soft_Loliete",
+        "url": null
+      },
+      "reddit": {
+        "id": "3dvirijh",
+        "name": "Soft_Loliete",
+        "url": "https://www.reddit.com/u/Soft_Loliete"
+      },
+      "spotify": {
+        "id": "7ksg4e6zro7z4w94596ni3mva",
+        "name": "Soft Loliete",
+        "url": "https://open.spotify.com/user/7ksg4e6zro7z4w94596ni3mva"
+      },
+      "steam": {
+        "id": "76561198127281382",
+        "name": "SoftLoliete",
+        "url": "https://steamcommunity.com/profiles/76561198127281382"
+      },
+      "twitch": {
+        "id": "153030083",
+        "name": "softloliete",
+        "url": "https://www.twitch.tv/softloliete"
+      },
+      "twitter": {
+        "id": "895143493177188352",
+        "name": "SoftLoliete",
+        "url": "https://twitter.com/SoftLoliete"
+      },
+      "xbox": {
+        "id": "MmFhOTQyNjMwMTRlNTU5OTMxYTgyYmUxM2VjOWZlNjQ2NzcxZGUxYTFkYTA5YTY0OGJmNWY3NjExZGU2MjUzZQ",
+        "name": "SoftPogChamp",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SoftPogChamp"
+      },
+      "youtube": {
+        "id": "UCstWJPZ4rw5-5Pzuv4ragfA",
+        "name": "Soft Loliete",
+        "url": "https://www.youtube.com/channel/UCstWJPZ4rw5-5Pzuv4ragfA"
+      }
+    },
+    "legacy_username": "SoftLoliete#0001"
+  },
+  "310764160986382338": {
+    "id": 310764160986382338,
+    "name": "jackmandolino",
+    "nick": null,
+    "display_name": "JackMandolino (ITA)",
+    "global_name": "JackMandolino (ITA)",
+    "pronouns": "Dio/Boia",
+    "guild_pronouns": null,
+    "bio": "Best FPS player di Cocomaro;\nHardcore lover of the Halo and ME franchise;\nAngry socialist;\nDoomer;\nSimone Pianetti is my 2nd biggest hero;\nLiterally Travis from Taxi Driver.",
+    "guild_bio": null,
+    "display_bio": "Best FPS player di Cocomaro;\nHardcore lover of the Halo and ME franchise;\nAngry socialist;\nDoomer;\nSimone Pianetti is my 2nd biggest hero;\nLiterally Travis from Taxi Driver.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "TheJeaker#2133",
+        "name": "TheJeaker#2133",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198236785148",
+        "name": "JackMandolino",
+        "url": "https://steamcommunity.com/profiles/76561198236785148"
+      },
+      "xbox": {
+        "id": "M0B1gTn3BYMhSJIu9y9MogR3K8xv1JLkxwWVuh2afWI",
+        "name": "JackMandolino02",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JackMandolino02"
+      }
+    },
+    "legacy_username": "JackMandolino (ITA)#3525"
   }
 }
