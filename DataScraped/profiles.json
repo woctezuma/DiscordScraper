@@ -72062,5 +72062,41 @@
       }
     },
     "legacy_username": "Venom snake#6660"
+  },
+  "297764208542482432": {
+    "id": 297764208542482432,
+    "name": "pear5",
+    "nick": "0pear",
+    "display_name": "0pear",
+    "global_name": "pear",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i eat muffins",
+    "guild_bio": null,
+    "display_bio": "i eat muffins",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "sWJoBX5EF5_9-fZt_FstmzkI1kjClzXc9-dKP9e1JjX6zfr1inxqwpOFEm5DIcD0AJw3n-yxvT7HRw",
+        "name": "pear5#JP1",
+        "url": null
+      },
+      "riot_games": {
+        "id": "sWJoBX5EF5_9-fZt_FstmzkI1kjClzXc9-dKP9e1JjX6zfr1inxqwpOFEm5DIcD0AJw3n-yxvT7HRw",
+        "name": "pear5#JP1",
+        "url": null
+      },
+      "spotify": {
+        "id": "ayaki619",
+        "name": "pear",
+        "url": "https://open.spotify.com/user/ayaki619"
+      }
+    },
+    "legacy_username": null
   }
 }
