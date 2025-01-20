@@ -70921,5 +70921,25 @@
     ],
     "connections": {},
     "legacy_username": "BluJay#8913"
+  },
+  "898022663618986055": {
+    "id": 898022663618986055,
+    "name": "epsteingaming_",
+    "nick": null,
+    "display_name": "nis",
+    "global_name": "nis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "how to do this shit",
+    "guild_bio": null,
+    "display_bio": "how to do this shit",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Epstein gaming#8975"
   }
 }
