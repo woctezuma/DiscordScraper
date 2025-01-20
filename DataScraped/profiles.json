@@ -72828,5 +72828,25 @@
       }
     },
     "legacy_username": null
+  },
+  "496316231503314946": {
+    "id": 496316231503314946,
+    "name": "charusachindu",
+    "nick": null,
+    "display_name": "CharuSachindu",
+    "global_name": "CharuSachindu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "CharuSachindu#0830"
   }
 }
