@@ -76005,5 +76005,83 @@
       }
     },
     "legacy_username": "Tor_god_2505#5372"
+  },
+  "251464459703287810": {
+    "id": 251464459703287810,
+    "name": ".opg",
+    "nick": null,
+    "display_name": ".opg",
+    "global_name": null,
+    "pronouns": ".opg/owen",
+    "guild_pronouns": null,
+    "bio": "if youre under 18, dont send me weird shit thx :)\n\nNotable List Completions: Congregation, Zodiac, Shardscapes.",
+    "guild_bio": null,
+    "display_bio": "if youre under 18, dont send me weird shit thx :)\n\nNotable List Completions: Congregation, Zodiac, Shardscapes.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "knficr76kegzrb5u97cl5rjxr",
+        "name": "Alicehaleyowen",
+        "url": "https://open.spotify.com/user/knficr76kegzrb5u97cl5rjxr"
+      },
+      "tiktok": {
+        "id": "7d9f5a41-34cc-5ca1-aa22-db8533ac75cc",
+        "name": "owengdonyt",
+        "url": "https://tiktok.com/@owengdonyt"
+      }
+    },
+    "legacy_username": "OPG#8241"
+  },
+  "394879886042464266": {
+    "id": 394879886042464266,
+    "name": "pokee_e",
+    "nick": null,
+    "display_name": "Poke",
+    "global_name": "Poke",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "huge fan of VR/XR \nhe/him pan \nfreaking love music<a:emoji_93:826208538648903690>\ntech is C OO L\ndual boot windows 10 and arch",
+    "guild_bio": null,
+    "display_bio": "huge fan of VR/XR \nhe/him pan \nfreaking love music<a:emoji_93:826208538648903690>\ntech is C OO L\ndual boot windows 10 and arch",
+    "banner": "https://cdn.discordapp.com/banners/394879886042464266/820d78343cee714c211178a7b3054a7c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/394879886042464266/820d78343cee714c211178a7b3054a7c.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "m7xh5adj",
+        "name": "Poke66666",
+        "url": "https://www.reddit.com/u/Poke66666"
+      },
+      "spotify": {
+        "id": "iuhufeabdozldxg4ysrruia2g",
+        "name": "Poke",
+        "url": "https://open.spotify.com/user/iuhufeabdozldxg4ysrruia2g"
+      },
+      "steam": {
+        "id": "76561199262371118",
+        "name": "Poke666",
+        "url": "https://steamcommunity.com/profiles/76561199262371118"
+      },
+      "xbox": {
+        "id": "3074831899172851",
+        "name": "Poke DarkPayled",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Poke DarkPayled"
+      }
+    },
+    "legacy_username": "Poke#6666"
   }
 }
