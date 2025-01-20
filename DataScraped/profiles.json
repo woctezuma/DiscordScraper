@@ -71759,5 +71759,59 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "224641592307351553": {
+    "id": 224641592307351553,
+    "name": "scorpws",
+    "nick": null,
+    "display_name": "Scorpws",
+    "global_name": "Scorpws",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " This user is a registered mommy milker enjoyer. Learn more about Discord's new content policy at https://discord.com/guidelines",
+    "guild_bio": null,
+    "display_bio": " This user is a registered mommy milker enjoyer. Learn more about Discord's new content policy at https://discord.com/guidelines",
+    "banner": "https://cdn.discordapp.com/banners/224641592307351553/a95b5e9c4f860550adc62bba21470b3f.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/224641592307351553/a95b5e9c4f860550adc62bba21470b3f.png?size=512",
+    "badges": [
+      "guild_booster_lvl6",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Lokrar#1236",
+        "name": "Lokrar#1236",
+        "url": null
+      },
+      "spotify": {
+        "id": "12145189941",
+        "name": "Eduardo Marques",
+        "url": "https://open.spotify.com/user/12145189941"
+      },
+      "steam": {
+        "id": "76561198049211772",
+        "name": "Garukhan",
+        "url": "https://steamcommunity.com/profiles/76561198049211772"
+      },
+      "twitch": {
+        "id": "110614846",
+        "name": "scorpwss",
+        "url": "https://www.twitch.tv/scorpwss"
+      },
+      "xbox": {
+        "id": "3064020761657544",
+        "name": "UnbarringPurse3",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=UnbarringPurse3"
+      },
+      "youtube": {
+        "id": "UCIcHyqV92-YzVz_7KYqD-6g",
+        "name": "Jinzou",
+        "url": "https://www.youtube.com/channel/UCIcHyqV92-YzVz_7KYqD-6g"
+      }
+    },
+    "legacy_username": "Scorpws#7845"
   }
 }
