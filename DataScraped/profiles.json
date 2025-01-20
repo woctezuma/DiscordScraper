@@ -73792,5 +73792,59 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "919592163770253332": {
+    "id": 919592163770253332,
+    "name": "sillyguy8707",
+    "nick": null,
+    "display_name": "SillyCat",
+    "global_name": "SillyCat",
+    "pronouns": "Balls/in/yo/yaws",
+    "guild_pronouns": null,
+    "bio": "Life is Roblox \nDon't be a Fool, get a Pool \nLets go Golfing ",
+    "guild_bio": null,
+    "display_bio": "Life is Roblox \nDon't be a Fool, get a Pool \nLets go Golfing ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "69782c7b95074b04a671cbca8ddf226b",
+        "name": "SillyCat474",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199471437385",
+        "name": "SillyCat",
+        "url": "https://steamcommunity.com/profiles/76561199471437385"
+      }
+    },
+    "legacy_username": "SillyGuy#8707"
+  },
+  "362686938399899669": {
+    "id": 362686938399899669,
+    "name": "belo64",
+    "nick": null,
+    "display_name": "Belo",
+    "global_name": "Belo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " ..  .               . * ...   .  * ...  .*.       .                  . ",
+    "guild_bio": null,
+    "display_bio": " ..  .               . * ...   .  * ...  .*.       .                  . ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Belo#6568"
   }
 }
