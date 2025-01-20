@@ -72494,5 +72494,98 @@
       }
     },
     "legacy_username": "Qchin#4898"
+  },
+  "722883552588464259": {
+    "id": 722883552588464259,
+    "name": "akb4407",
+    "nick": null,
+    "display_name": "Abdulaziz",
+    "global_name": "Abdulaziz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1206190906521419806": {
+    "id": 1206190906521419806,
+    "name": "fsdaniel9",
+    "nick": null,
+    "display_name": "Daniel",
+    "global_name": "Daniel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "4b02a2c8b9a24f6fb65bf093fbf728ad",
+        "name": "IamManiac7",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "ckn2XvO8CS-A2iXX2L90AlH12UdMZ2r32ZDrOCBILe5Dd8AAEyLFZD_EcfZ7GX1G5VhCme_Lm6vKLA",
+        "name": "IamManiac#001",
+        "url": null
+      },
+      "reddit": {
+        "id": "r73f82usw",
+        "name": "fsdaniel9",
+        "url": "https://www.reddit.com/u/fsdaniel9"
+      },
+      "riot_games": {
+        "id": "ckn2XvO8CS-A2iXX2L90AlH12UdMZ2r32ZDrOCBILe5Dd8AAEyLFZD_EcfZ7GX1G5VhCme_Lm6vKLA",
+        "name": "IamManiac#001",
+        "url": null
+      },
+      "spotify": {
+        "id": "tnqyfweycsgy4z8x7h6b7h0fm",
+        "name": "Daniel",
+        "url": "https://open.spotify.com/user/tnqyfweycsgy4z8x7h6b7h0fm"
+      },
+      "steam": {
+        "id": "76561199201758536",
+        "name": "Aerondight",
+        "url": "https://steamcommunity.com/profiles/76561199201758536"
+      }
+    },
+    "legacy_username": null
+  },
+  "691032495000518666": {
+    "id": 691032495000518666,
+    "name": "chimi0789",
+    "nick": null,
+    "display_name": "Chimi",
+    "global_name": "Chimi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "58467514",
+        "name": "HeyChimi",
+        "url": "https://twitter.com/HeyChimi"
+      }
+    },
+    "legacy_username": "Chimi#0108"
   }
 }
