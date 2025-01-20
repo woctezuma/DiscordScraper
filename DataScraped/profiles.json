@@ -71168,5 +71168,41 @@
     ],
     "connections": {},
     "legacy_username": "Kyu#1220"
+  },
+  "1146397548282662944": {
+    "id": 1146397548282662944,
+    "name": "cornucopiasss",
+    "nick": null,
+    "display_name": "Lder||r",
+    "global_name": "Lder||r",
+    "pronouns": "V",
+    "guild_pronouns": null,
+    "bio": "\"Higher keybroad\"\n\n \n  \n",
+    "guild_bio": null,
+    "display_bio": "\"Higher keybroad\"\n\n \n  \n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "github": {
+        "id": "104164602",
+        "name": "rodjobie",
+        "url": "https://github.com/rodjobie"
+      },
+      "playstation": {
+        "id": "4666598494083585814",
+        "name": "tiramizuchi",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198964941762",
+        "name": "F\u016b r\u00een\u00e8",
+        "url": "https://steamcommunity.com/profiles/76561198964941762"
+      }
+    },
+    "legacy_username": null
   }
 }
