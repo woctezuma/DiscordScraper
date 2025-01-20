@@ -75679,5 +75679,56 @@
     ],
     "connections": {},
     "legacy_username": "coolboi22#2990"
+  },
+  "518112276788543539": {
+    "id": 518112276788543539,
+    "name": "fiotux",
+    "nick": null,
+    "display_name": "Fiotux",
+    "global_name": "Fiotux",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "()\nhttps://listenbrainz.org/user/Fiotux/\nhttps://listenbrainz.org/user/Fiotux/year-in-music/2024/",
+    "guild_bio": null,
+    "display_bio": "()\nhttps://listenbrainz.org/user/Fiotux/\nhttps://listenbrainz.org/user/Fiotux/year-in-music/2024/",
+    "banner": "https://cdn.discordapp.com/banners/518112276788543539/a_142cc343e6b8ad71de492dd77a5d4fcd.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/518112276788543539/a_142cc343e6b8ad71de492dd77a5d4fcd.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl8",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:ablxo3n24yzpkuqwduzpgov7",
+        "name": "fiotux.bsky.social",
+        "url": null
+      },
+      "unknown_domain": {
+        "id": "fiotux.dorfweare.de",
+        "name": "fiotux.dorfweare.de",
+        "url": null
+      },
+      "epic_games": {
+        "id": "70d899e5c78047e992037521bc6c3617",
+        "name": "Fiotux",
+        "url": null
+      },
+      "github": {
+        "id": "74451820",
+        "name": "Fiotux",
+        "url": "https://github.com/Fiotux"
+      },
+      "xbox": {
+        "id": "OTJhNTIyM2RkMTg0MmJhNzBiZDQyM2U2YmIxY2FlMTU4MTgwY2E1YzMxMTc3OTRkODA2Y2ZlOThhZTlmMzE2MQ",
+        "name": "Fiotux",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Fiotux"
+      }
+    },
+    "legacy_username": "Fiotux#3112"
   }
 }
