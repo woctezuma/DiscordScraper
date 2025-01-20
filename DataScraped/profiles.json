@@ -72587,5 +72587,100 @@
       }
     },
     "legacy_username": "Chimi#0108"
+  },
+  "445451396624416779": {
+    "id": 445451396624416779,
+    "name": "rinkerbel",
+    "nick": null,
+    "display_name": "Rinkerbel",
+    "global_name": "Rinkerbel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\nhttps://hrzn.bio/rinkerbel",
+    "guild_bio": null,
+    "display_bio": "\nhttps://hrzn.bio/rinkerbel",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198838132332",
+        "name": "Rinkerbel",
+        "url": "https://steamcommunity.com/profiles/76561198838132332"
+      },
+      "twitter": {
+        "id": "1049308519533633536",
+        "name": "Rinkerbel_",
+        "url": "https://twitter.com/Rinkerbel_"
+      }
+    },
+    "legacy_username": "Rinkerbel#6104"
+  },
+  "181352694378790912": {
+    "id": 181352694378790912,
+    "name": "thealmighty",
+    "nick": null,
+    "display_name": "The Almighty",
+    "global_name": "The Almighty",
+    "pronouns": "Master/baiter",
+    "guild_pronouns": null,
+    "bio": "<:why:1230867480835129354><:are:1230867493128634440><:you:1230867505074143294><:reading:1230867515090141235><:this:1230867525890216031>\n\nFavourite coffee: Depresso",
+    "guild_bio": null,
+    "display_bio": "<:why:1230867480835129354><:are:1230867493128634440><:you:1230867505074143294><:reading:1230867515090141235><:this:1230867525890216031>\n\nFavourite coffee: Depresso",
+    "banner": "https://cdn.discordapp.com/banners/181352694378790912/7332a2663ebeab6053529de3077e5581.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/181352694378790912/7332a2663ebeab6053529de3077e5581.png?size=512",
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "TheAlmighty#21795",
+        "name": "TheAlmighty#21795",
+        "url": null
+      },
+      "facebook": {
+        "id": "1726288657437186",
+        "name": "Kevin Fortuin",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "euw_112398046",
+        "name": "TheAlmightyHB",
+        "url": null
+      },
+      "spotify": {
+        "id": "holybajezus",
+        "name": "Kevin Fortuin",
+        "url": "https://open.spotify.com/user/holybajezus"
+      },
+      "steam": {
+        "id": "76561198093903032",
+        "name": "The Almighty",
+        "url": "https://steamcommunity.com/profiles/76561198093903032"
+      },
+      "twitch": {
+        "id": "111874794",
+        "name": "thegamingexpertyt",
+        "url": "https://www.twitch.tv/thegamingexpertyt"
+      },
+      "xbox": {
+        "id": "3073834820573940",
+        "name": "TheAlmightyHB",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TheAlmightyHB"
+      }
+    },
+    "legacy_username": "The Almighty#1402"
   }
 }
