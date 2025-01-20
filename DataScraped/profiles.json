@@ -75025,5 +75025,166 @@
       }
     },
     "legacy_username": "Ozimandeus#8713"
+  },
+  "472047484181413908": {
+    "id": 472047484181413908,
+    "name": "decayingmemory",
+    "nick": null,
+    "display_name": "Dekay",
+    "global_name": "Dekay",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://dekayingmemory.carrd.co",
+    "guild_bio": null,
+    "display_bio": "https://dekayingmemory.carrd.co",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "oceyi6p8hm1vvbdbeysxfgsks",
+        "name": "Chaser",
+        "url": "https://open.spotify.com/user/oceyi6p8hm1vvbdbeysxfgsks"
+      }
+    },
+    "legacy_username": null
+  },
+  "228905030353289216": {
+    "id": 228905030353289216,
+    "name": "jaaawwwnnn",
+    "nick": null,
+    "display_name": "Jaaawwwnnn",
+    "global_name": "Jaaawwwnnn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jaaawwwnnn#0045"
+  },
+  "495641710110441492": {
+    "id": 495641710110441492,
+    "name": "yuna.tuna",
+    "nick": null,
+    "display_name": "Yuna",
+    "global_name": "Yuna",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Found what im looking for",
+    "guild_bio": null,
+    "display_bio": "Found what im looking for",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl5",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "xinsanitydashx",
+        "name": "BoxMage Yuna",
+        "url": "https://open.spotify.com/user/xinsanitydashx"
+      },
+      "steam": {
+        "id": "76561198287402367",
+        "name": "YunaXTuna",
+        "url": "https://steamcommunity.com/profiles/76561198287402367"
+      },
+      "twitch": {
+        "id": "773412457",
+        "name": "0yunaxtuna0",
+        "url": "https://www.twitch.tv/0yunaxtuna0"
+      },
+      "xbox": {
+        "id": "3075033101792841",
+        "name": "YunaXTuna",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=YunaXTuna"
+      }
+    },
+    "legacy_username": null
+  },
+  "1000119021242425445": {
+    "id": 1000119021242425445,
+    "name": "aeshmaz",
+    "nick": null,
+    "display_name": "aeshma",
+    "global_name": "aeshma",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199524743324",
+        "name": "Gionux",
+        "url": "https://steamcommunity.com/profiles/76561199524743324"
+      },
+      "xbox": {
+        "id": "3061576460772097",
+        "name": "Gionux",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gionux"
+      }
+    },
+    "legacy_username": null
+  },
+  "719085892123492432": {
+    "id": 719085892123492432,
+    "name": "bleys0608",
+    "nick": null,
+    "display_name": "BLeys",
+    "global_name": "BLeys",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "BLeys#0608"
+  },
+  "543505351409139712": {
+    "id": 543505351409139712,
+    "name": "theliberator8503",
+    "nick": null,
+    "display_name": "The Liberator#236",
+    "global_name": "The Liberator#236",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "The Liberator#8503"
   }
 }
