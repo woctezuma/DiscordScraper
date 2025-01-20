@@ -74097,5 +74097,25 @@
       }
     },
     "legacy_username": "dz.#3193"
+  },
+  "535864330189537280": {
+    "id": 535864330189537280,
+    "name": "neve0639",
+    "nick": null,
+    "display_name": "Neve",
+    "global_name": "Neve",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Neve#0639"
   }
 }
