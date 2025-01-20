@@ -75794,5 +75794,143 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "774327284353728512": {
+    "id": 774327284353728512,
+    "name": "space64",
+    "nick": null,
+    "display_name": "Space64",
+    "global_name": "Space64",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "1f1dbbf388c14c4fa3b0aa583c8250b7",
+        "name": "Space_008",
+        "url": null
+      },
+      "playstation": {
+        "id": "4875595825570558699",
+        "name": "Space_064",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197981478166",
+        "name": "Space64",
+        "url": "https://steamcommunity.com/profiles/76561197981478166"
+      },
+      "twitch": {
+        "id": "623016579",
+        "name": "space_064",
+        "url": "https://www.twitch.tv/space_064"
+      },
+      "xbox": {
+        "id": "3063166133708356",
+        "name": "Space9974",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Space9974"
+      },
+      "youtube": {
+        "id": "UCX3-iOjrne9YYm5yTMXKXjA",
+        "name": "Space64",
+        "url": "https://www.youtube.com/channel/UCX3-iOjrne9YYm5yTMXKXjA"
+      }
+    },
+    "legacy_username": null
+  },
+  "772931722022092815": {
+    "id": 772931722022092815,
+    "name": "kenzo_ny",
+    "nick": null,
+    "display_name": "KenzoNy",
+    "global_name": "KenzoNy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "282743d65b214cabbc0d0d56ba7c7889",
+        "name": "Kenzo_Ny",
+        "url": null
+      }
+    },
+    "legacy_username": "KenzoNy#9086"
+  },
+  "1287078692891394191": {
+    "id": 1287078692891394191,
+    "name": "cherrystech",
+    "nick": null,
+    "display_name": "cherry /:\\",
+    "global_name": "cherry /:\\",
+    "pronouns": "ROAD WARRIOR VTC /:\\ FOREVER!!!!!",
+    "guild_pronouns": null,
+    "bio": "https://linktr.ee/cherrystech\n\ni love ETS2 & Minecraft. Best games ever.\n\ni also make tiktoks \n \nhe/him",
+    "guild_bio": null,
+    "display_bio": "https://linktr.ee/cherrystech\n\ni love ETS2 & Minecraft. Best games ever.\n\ni also make tiktoks \n \nhe/him",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "1577536635904042892",
+        "name": "cherrystech",
+        "url": null
+      },
+      "reddit": {
+        "id": "v3aoyh7wr",
+        "name": "cherrywatervr",
+        "url": "https://www.reddit.com/u/cherrywatervr"
+      },
+      "riot_games": {
+        "id": "gY_goFvoe5Tm-FWQSc3xIlFoqRH0y6MvaInheg-d63J9oFVn1Q9q3vgwi4K3ozbesoli6WWAxY5FlA",
+        "name": "cherrywatervr#3208",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "5242644170",
+        "name": "youre_dingus",
+        "url": null
+      },
+      "spotify": {
+        "id": "31robrk3qnkwz2lgivbd5vx7lblm",
+        "name": "Leon",
+        "url": "https://open.spotify.com/user/31robrk3qnkwz2lgivbd5vx7lblm"
+      },
+      "steam": {
+        "id": "76561198929039839",
+        "name": "cherry",
+        "url": "https://steamcommunity.com/profiles/76561198929039839"
+      },
+      "tiktok": {
+        "id": "09a7893c-5297-5e35-9f9d-8ac8d79cf51c",
+        "name": "cherrystech",
+        "url": "https://tiktok.com/@cherrystech"
+      },
+      "xbox": {
+        "id": "3073629731160142",
+        "name": "cherrystech",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=cherrystech"
+      }
+    },
+    "legacy_username": null
   }
 }
