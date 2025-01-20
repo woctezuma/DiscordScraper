@@ -71095,5 +71095,78 @@
     ],
     "connections": {},
     "legacy_username": "Tyzzler#7480"
+  },
+  "127750240936787968": {
+    "id": 127750240936787968,
+    "name": "null_hd",
+    "nick": null,
+    "display_name": "Null",
+    "global_name": "Null",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198017416851",
+        "name": "Ravenholdt",
+        "url": "https://steamcommunity.com/profiles/76561198017416851"
+      }
+    },
+    "legacy_username": "Null#9514"
+  },
+  "134053256769961984": {
+    "id": 134053256769961984,
+    "name": "min.max",
+    "nick": null,
+    "display_name": "Max",
+    "global_name": "Max",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "69256885",
+        "name": "minmax_",
+        "url": "https://www.twitch.tv/minmax_"
+      }
+    },
+    "legacy_username": "Max#0946"
+  },
+  "806067840632750090": {
+    "id": 806067840632750090,
+    "name": "kyu1509",
+    "nick": null,
+    "display_name": "Kyu",
+    "global_name": "Kyu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Kyu#1220"
   }
 }
