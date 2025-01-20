@@ -72848,5 +72848,47 @@
     ],
     "connections": {},
     "legacy_username": "CharuSachindu#0830"
+  },
+  "1326096726192558214": {
+    "id": 1326096726192558214,
+    "name": "eric027988",
+    "nick": null,
+    "display_name": "Eric",
+    "global_name": "Eric",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "373758351496052737": {
+    "id": 373758351496052737,
+    "name": "caeyi",
+    "nick": null,
+    "display_name": "winter moon",
+    "global_name": "winter moon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Another long day,right? Cheer up!",
+    "guild_bio": null,
+    "display_bio": "Another long day,right? Cheer up!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31m6ulqsbzvirjrnqc3bqurby5pi",
+        "name": "CaeYi",
+        "url": "https://open.spotify.com/user/31m6ulqsbzvirjrnqc3bqurby5pi"
+      }
+    },
+    "legacy_username": null
   }
 }
