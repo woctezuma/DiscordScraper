@@ -71813,5 +71813,34 @@
       }
     },
     "legacy_username": "Scorpws#7845"
+  },
+  "319390831310274560": {
+    "id": 319390831310274560,
+    "name": "kna_.",
+    "nick": null,
+    "display_name": "Penelope",
+    "global_name": "Penelope",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://discord.gg/NcWCWN4dzE",
+    "guild_bio": null,
+    "display_bio": "https://discord.gg/NcWCWN4dzE",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "7q6f2rrejcw9k8dourvo4s680",
+        "name": "Solicorn",
+        "url": "https://open.spotify.com/user/7q6f2rrejcw9k8dourvo4s680"
+      },
+      "steam": {
+        "id": "76561198191465810",
+        "name": "Sistry~",
+        "url": "https://steamcommunity.com/profiles/76561198191465810"
+      }
+    },
+    "legacy_username": null
   }
 }
