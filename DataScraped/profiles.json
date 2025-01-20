@@ -72421,5 +72421,78 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "433249829951373312": {
+    "id": 433249829951373312,
+    "name": "alephu_",
+    "nick": null,
+    "display_name": "alephu_",
+    "global_name": "alephu_",
+    "pronouns": "yoko/shinobuni/ayayo./ayaya?",
+    "guild_pronouns": null,
+    "bio": "ririsa fan\nAhri Enjoyer",
+    "guild_bio": null,
+    "display_bio": "ririsa fan\nAhri Enjoyer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1110512203104268328": {
+    "id": 1110512203104268328,
+    "name": "joliiebean",
+    "nick": null,
+    "display_name": "paisely ",
+    "global_name": "paisely ",
+    "pronouns": "fallout phase going strong...poor Cooper",
+    "guild_pronouns": null,
+    "bio": "  \n\n first year uni {18} ...\n i have a boyfriend, don't send me creepy things or flirt. Rlly appreciate asking before dming if possible :)\n....",
+    "guild_bio": null,
+    "display_bio": "  \n\n first year uni {18} ...\n i have a boyfriend, don't send me creepy things or flirt. Rlly appreciate asking before dming if possible :)\n....",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199194214620",
+        "name": "Thiri",
+        "url": "https://steamcommunity.com/profiles/76561199194214620"
+      }
+    },
+    "legacy_username": null
+  },
+  "613889780467630085": {
+    "id": 613889780467630085,
+    "name": "qchin",
+    "nick": null,
+    "display_name": "Qchin",
+    "global_name": "Qchin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198313790296",
+        "name": "Qchin",
+        "url": "https://steamcommunity.com/profiles/76561198313790296"
+      }
+    },
+    "legacy_username": "Qchin#4898"
   }
 }
