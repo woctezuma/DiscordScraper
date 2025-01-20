@@ -70334,5 +70334,311 @@
       }
     },
     "legacy_username": null
+  },
+  "889682938701180959": {
+    "id": 889682938701180959,
+    "name": "puring2086",
+    "nick": null,
+    "display_name": "Yunhee",
+    "global_name": "Yunhee",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u273f\u146d\u144c\u1587I\u144e\u273f#2086"
+  },
+  "514683462960021507": {
+    "id": 514683462960021507,
+    "name": "epuxcantread",
+    "nick": null,
+    "display_name": "Epux",
+    "global_name": "Epux",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "This user is too lazy to make a bio.",
+    "guild_bio": null,
+    "display_bio": "This user is too lazy to make a bio.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "EpuxCantRead#9387"
+  },
+  "211874049079509002": {
+    "id": 211874049079509002,
+    "name": "queenhal",
+    "nick": null,
+    "display_name": "Queen",
+    "global_name": "Queen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "decorate my tree!  \nhttps://decomytree.com/home?hashedId=nViOviGvXdzl",
+    "guild_bio": null,
+    "display_bio": "decorate my tree!  \nhttps://decomytree.com/home?hashedId=nViOviGvXdzl",
+    "banner": "https://cdn.discordapp.com/banners/211874049079509002/c1057bb28dc56177503cb54600a98867.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/211874049079509002/c1057bb28dc56177503cb54600a98867.png?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2527463583463412966",
+        "name": "queenguts",
+        "url": null
+      },
+      "spotify": {
+        "id": "y037sy9vnbif0vsw4ghi76rbw",
+        "name": "queen",
+        "url": "https://open.spotify.com/user/y037sy9vnbif0vsw4ghi76rbw"
+      },
+      "steam": {
+        "id": "76561198409791508",
+        "name": "QueenHalloween",
+        "url": "https://steamcommunity.com/profiles/76561198409791508"
+      }
+    },
+    "legacy_username": "Queen#6144"
+  },
+  "330621436995567617": {
+    "id": 330621436995567617,
+    "name": "toadwtf",
+    "nick": null,
+    "display_name": "toad ",
+    "global_name": "toad ",
+    "pronouns": "toad/toadie",
+    "guild_pronouns": null,
+    "bio": "A toad on a lilipad",
+    "guild_bio": null,
+    "display_bio": "A toad on a lilipad",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198156766648",
+        "name": "TOAD",
+        "url": "https://steamcommunity.com/profiles/76561198156766648"
+      },
+      "twitch": {
+        "id": "506144632",
+        "name": "lvmamy195",
+        "url": "https://www.twitch.tv/lvmamy195"
+      }
+    },
+    "legacy_username": "TOADWTF#5903"
+  },
+  "840479008386318356": {
+    "id": 840479008386318356,
+    "name": ".mk726",
+    "nick": null,
+    "display_name": "mk726",
+    "global_name": "mk726",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "mk726#4547"
+  },
+  "810233475013672970": {
+    "id": 810233475013672970,
+    "name": "tendoucurien",
+    "nick": null,
+    "display_name": "TendouCurien",
+    "global_name": "TendouCurien",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "695f9df0-b419-565d-817d-13192064a376",
+        "name": "tendoucurien",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198067281193",
+        "name": "Tendou Curien",
+        "url": "https://steamcommunity.com/profiles/76561198067281193"
+      },
+      "twitch": {
+        "id": "518495826",
+        "name": "tendoufcurien",
+        "url": "https://www.twitch.tv/tendoufcurien"
+      },
+      "xbox": {
+        "id": "ZWMzZTEwNDBjMzI4NTRjYzcyNjJlMDk4MTEwNjc0MTNhYmI0MjBmOGI5Y2I0YWYxOWNiZGIxNmNmMzdmYWIxOA",
+        "name": "TendouFCurien",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TendouFCurien"
+      },
+      "youtube": {
+        "id": "UCvi6ZiLFBHITzKK32kMmlYA",
+        "name": "TendouCurien",
+        "url": "https://www.youtube.com/channel/UCvi6ZiLFBHITzKK32kMmlYA"
+      }
+    },
+    "legacy_username": "TendouCurien#0569"
+  },
+  "243505471942557696": {
+    "id": 243505471942557696,
+    "name": "rm.rf.ryan",
+    "nick": null,
+    "display_name": "ryan; harbinger of semicolon",
+    "global_name": "ryan; harbinger of semicolon",
+    "pronouns": "ryan; W",
+    "guild_pronouns": null,
+    "bio": "ryan; https://youtu.be/7FjlYI24J7o\nryan; https://rm-rf-ryan.github.io/\nryan; John 1:14\nryan; uc broccoli theoretical boob physics and cs major with an emphasis on anime tiddies\nryan; ry",
+    "guild_bio": null,
+    "display_bio": "ryan; https://youtu.be/7FjlYI24J7o\nryan; https://rm-rf-ryan.github.io/\nryan; John 1:14\nryan; uc broccoli theoretical boob physics and cs major with an emphasis on anime tiddies\nryan; ry",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "61575080",
+        "name": "rm-rf-ryan",
+        "url": "https://github.com/rm-rf-ryan"
+      },
+      "instagram": {
+        "id": "5806973022753275",
+        "name": "rm.rf.ryan",
+        "url": "https://www.instagram.com/rm.rf.ryan"
+      },
+      "spotify": {
+        "id": "kilgznknw6qbhg38vnvzpt4mg",
+        "name": "ryan; harbinger of semicolon",
+        "url": "https://open.spotify.com/user/kilgznknw6qbhg38vnvzpt4mg"
+      },
+      "steam": {
+        "id": "76561198108887594",
+        "name": "spoopybutwhole",
+        "url": "https://steamcommunity.com/profiles/76561198108887594"
+      },
+      "twitch": {
+        "id": "474536297",
+        "name": "spoopybutwhole",
+        "url": "https://www.twitch.tv/spoopybutwhole"
+      },
+      "xbox": {
+        "id": "QuHvJuuj7zW__Qs7uR3DZ0VpIP-oAehzGYrFWdna0FE",
+        "name": "Ryan Y C",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Ryan Y C"
+      },
+      "youtube": {
+        "id": "UCzU_g1V_R_LH3tEs8v0K0Hw",
+        "name": "ryan c",
+        "url": "https://www.youtube.com/channel/UCzU_g1V_R_LH3tEs8v0K0Hw"
+      }
+    },
+    "legacy_username": "ryan; harbinger of semicolon#0475"
+  },
+  "803470933813100544": {
+    "id": 803470933813100544,
+    "name": "nefariousindividual.",
+    "nick": null,
+    "display_name": "john griddle",
+    "global_name": "john griddle",
+    "pronouns": "he him",
+    "guild_pronouns": null,
+    "bio": "boo",
+    "guild_bio": null,
+    "display_bio": "boo",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "534821865",
+        "name": "charmander_0070",
+        "url": null
+      }
+    },
+    "legacy_username": "Mako#3375"
+  },
+  "753720920035557507": {
+    "id": 753720920035557507,
+    "name": "driftedchip3756",
+    "nick": null,
+    "display_name": "DriftedChip3756",
+    "global_name": "DriftedChip3756",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Wants can change and so can people.",
+    "guild_bio": null,
+    "display_bio": "Wants can change and so can people.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "DriftedChip3756#8366"
+  },
+  "762463015404437544": {
+    "id": 762463015404437544,
+    "name": "brandox14",
+    "nick": null,
+    "display_name": "Brandox14",
+    "global_name": "Brandox14",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Brandox14#6930"
   }
 }
