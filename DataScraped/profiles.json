@@ -74899,5 +74899,131 @@
       }
     },
     "legacy_username": "lister88#8800"
+  },
+  "418039963536326667": {
+    "id": 418039963536326667,
+    "name": "ink5459",
+    "nick": null,
+    "display_name": "Ink",
+    "global_name": "Ink",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ink#5459"
+  },
+  "521325755523792896": {
+    "id": 521325755523792896,
+    "name": "3majgarde",
+    "nick": null,
+    "display_name": "3majGarde",
+    "global_name": "3majGarde",
+    "pronouns": "Professional DMC3 glazer",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31gwcyj6vux4nfu7lx22gx7jhf4a",
+        "name": "3majGarde",
+        "url": "https://open.spotify.com/user/31gwcyj6vux4nfu7lx22gx7jhf4a"
+      },
+      "steam": {
+        "id": "76561198374437300",
+        "name": "3majGarde",
+        "url": "https://steamcommunity.com/profiles/76561198374437300"
+      },
+      "tiktok": {
+        "id": "dd43dd19-2626-50c5-b9d4-a582cd214448",
+        "name": "3majgarde_",
+        "url": "https://tiktok.com/@3majgarde_"
+      }
+    },
+    "legacy_username": "3majGarde#3531"
+  },
+  "622781320912699412": {
+    "id": 622781320912699412,
+    "name": "der_wulf",
+    "nick": null,
+    "display_name": "Wulfgang",
+    "global_name": "Wulfgang",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "I am a Gamer, its what I do!",
+    "guild_bio": null,
+    "display_bio": "I am a Gamer, its what I do!",
+    "banner": "https://cdn.discordapp.com/banners/622781320912699412/78ab2606af1e8db13cdd0705858d3619.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/622781320912699412/78ab2606af1e8db13cdd0705858d3619.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Oziman#1101",
+        "name": "Oziman#1101",
+        "url": null
+      },
+      "unknown_bluesky": {
+        "id": "did:plc:rj5ksafrwikdqwryjwew3zcs",
+        "name": "ozimandeus.bsky.social",
+        "url": null
+      },
+      "epic_games": {
+        "id": "36446635d68147f5aec790bcb7031112",
+        "name": "OliSawtell",
+        "url": null
+      },
+      "github": {
+        "id": "31514204",
+        "name": "Ozimandeus",
+        "url": "https://github.com/Ozimandeus"
+      },
+      "playstation": {
+        "id": "5842428270453869088",
+        "name": "I_am_Ozimandeus",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197970781890",
+        "name": "Ozimandeus",
+        "url": "https://steamcommunity.com/profiles/76561197970781890"
+      },
+      "twitch": {
+        "id": "43774475",
+        "name": "wolfganglebenoch",
+        "url": "https://www.twitch.tv/wolfganglebenoch"
+      },
+      "xbox": {
+        "id": "3074504812748609",
+        "name": "Ozimandeus",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Ozimandeus"
+      },
+      "youtube": {
+        "id": "UC5TSiS198gL_DncG7IRpUng",
+        "name": "Oliver Sawtell",
+        "url": "https://www.youtube.com/channel/UC5TSiS198gL_DncG7IRpUng"
+      }
+    },
+    "legacy_username": "Ozimandeus#8713"
   }
 }
