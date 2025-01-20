@@ -74707,5 +74707,36 @@
       }
     },
     "legacy_username": "brunozombi6#4470"
+  },
+  "808000805478203423": {
+    "id": 808000805478203423,
+    "name": "mcskud",
+    "nick": null,
+    "display_name": "Coliarchy",
+    "global_name": "Coliarchy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "cannot interfere",
+    "guild_bio": null,
+    "display_bio": "cannot interfere",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31zgzmcv7trrsvw5225gdtdv46s4",
+        "name": "Daarel",
+        "url": "https://open.spotify.com/user/31zgzmcv7trrsvw5225gdtdv46s4"
+      },
+      "steam": {
+        "id": "76561199147468935",
+        "name": "ColeColeGUACAMOLE",
+        "url": "https://steamcommunity.com/profiles/76561199147468935"
+      }
+    },
+    "legacy_username": "StuddyMcskuddy#6653"
   }
 }
