@@ -71528,5 +71528,104 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "741932666697416765": {
+    "id": 741932666697416765,
+    "name": "hybridd_",
+    "nick": null,
+    "display_name": "Rio",
+    "global_name": "Rio",
+    "pronouns": "Qu\u00e9 me ves? Pendejo",
+    "guild_pronouns": null,
+    "bio": "Lloyd=water\n20\n5'2\nAsia\nFeel free to DM me~\n\nHSR   - 803395851\nGFL2 - 595012",
+    "guild_bio": null,
+    "display_bio": "Lloyd=water\n20\n5'2\nAsia\nFeel free to DM me~\n\nHSR   - 803395851\nGFL2 - 595012",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199221719968",
+        "name": "\ud835\ude45\ud835\ude5e\ud835\ude63\ud835\ude5c\ud835\ude61\ud835\ude64",
+        "url": "https://steamcommunity.com/profiles/76561199221719968"
+      }
+    },
+    "legacy_username": "Hybrid#5002"
+  },
+  "919515156625629254": {
+    "id": 919515156625629254,
+    "name": "terka.2",
+    "nick": null,
+    "display_name": "Varlk",
+    "global_name": "Varlk",
+    "pronouns": "Varl\u0131k",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/919515156625629254/a_8daacf49e56bb4ba0973547995990196.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/919515156625629254/a_8daacf49e56bb4ba0973547995990196.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31diwtjtiy66nw5xslxo4otlobmi",
+        "name": "Varl\u0131k",
+        "url": "https://open.spotify.com/user/31diwtjtiy66nw5xslxo4otlobmi"
+      }
+    },
+    "legacy_username": "Terka\u2022#1834"
+  },
+  "414493545198518292": {
+    "id": 414493545198518292,
+    "name": "the_mimimi",
+    "nick": null,
+    "display_name": "mimimi",
+    "global_name": "mimimi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "mimimi#2909"
+  },
+  "821946175942819850": {
+    "id": 821946175942819850,
+    "name": "lonexsurvival",
+    "nick": null,
+    "display_name": "alone",
+    "global_name": "alone",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "All I wanted was to find peace!!!!",
+    "guild_bio": null,
+    "display_bio": "All I wanted was to find peace!!!!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fan#1271"
   }
 }
