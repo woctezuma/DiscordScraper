@@ -73432,5 +73432,60 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "781243110281576488": {
+    "id": 781243110281576488,
+    "name": "matr00x",
+    "nick": null,
+    "display_name": "matr00x",
+    "global_name": "matr00x",
+    "pronouns": "hehehehe/hihihihim",
+    "guild_pronouns": null,
+    "bio": "<:JoeSnogging:1227422971271053415> hi",
+    "guild_bio": null,
+    "display_bio": "<:JoeSnogging:1227422971271053415> hi",
+    "banner": "https://cdn.discordapp.com/banners/781243110281576488/a_1c48f0116e230ef8864b994dbf95c4af.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/781243110281576488/a_1c48f0116e230ef8864b994dbf95c4af.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "68df420f7f2b4ee79eb25e5c919a9b1b",
+        "name": "Matr00xG",
+        "url": null
+      },
+      "spotify": {
+        "id": "317btan6w6dixtc7p7vzacy7heha",
+        "name": "Matr00x_",
+        "url": "https://open.spotify.com/user/317btan6w6dixtc7p7vzacy7heha"
+      },
+      "steam": {
+        "id": "76561199078318618",
+        "name": "Matr00x",
+        "url": "https://steamcommunity.com/profiles/76561199078318618"
+      },
+      "twitch": {
+        "id": "659781647",
+        "name": "matr00xx",
+        "url": "https://www.twitch.tv/matr00xx"
+      },
+      "twitter": {
+        "id": "1525583006144004096",
+        "name": "matr00x5",
+        "url": "https://twitter.com/matr00x5"
+      },
+      "youtube": {
+        "id": "UCcpLe3Bp4JvfN_Gl7MKcZ9A",
+        "name": "Matr00x",
+        "url": "https://www.youtube.com/channel/UCcpLe3Bp4JvfN_Gl7MKcZ9A"
+      }
+    },
+    "legacy_username": "Matr00x#2545"
   }
 }
