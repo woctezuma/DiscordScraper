@@ -72682,5 +72682,63 @@
       }
     },
     "legacy_username": "The Almighty#1402"
+  },
+  "688845418263609366": {
+    "id": 688845418263609366,
+    "name": "lukasja",
+    "nick": null,
+    "display_name": "lu",
+    "global_name": "lu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "lukasj#3136"
+  },
+  "1330496267343892484": {
+    "id": 1330496267343892484,
+    "name": "mienvoy_98079",
+    "nick": null,
+    "display_name": "MI-Envoy",
+    "global_name": "MI-Envoy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "706574248394752160": {
+    "id": 706574248394752160,
+    "name": "jdot295",
+    "nick": null,
+    "display_name": "hazardweb",
+    "global_name": "hazardweb",
+    "pronouns": "i am him",
+    "guild_pronouns": null,
+    "bio": "my birth day is in 8 days",
+    "guild_bio": null,
+    "display_bio": "my birth day is in 8 days",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "jdot295#1111"
   }
 }
