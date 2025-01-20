@@ -71398,5 +71398,117 @@
       }
     },
     "legacy_username": null
+  },
+  "761859701779464212": {
+    "id": 761859701779464212,
+    "name": "shashank155",
+    "nick": null,
+    "display_name": "NoisyName1",
+    "global_name": "NoisyName1",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "396cff74-1c2f-58c1-a7ff-6f805fc5cd05",
+        "name": "Shashank10",
+        "url": null
+      },
+      "reddit": {
+        "id": "8btcpve9",
+        "name": "shashank10155",
+        "url": "https://www.reddit.com/u/shashank10155"
+      },
+      "spotify": {
+        "id": "31i5adjvk55rxzkskfiwh3pmiy4q",
+        "name": "Shashank Karkera",
+        "url": "https://open.spotify.com/user/31i5adjvk55rxzkskfiwh3pmiy4q"
+      },
+      "steam": {
+        "id": "76561198847289028",
+        "name": "Noisyname1",
+        "url": "https://steamcommunity.com/profiles/76561198847289028"
+      },
+      "youtube": {
+        "id": "UCgt_bX68HgAtAuQhSiNnjkQ",
+        "name": "Shashank H Karkera",
+        "url": "https://www.youtube.com/channel/UCgt_bX68HgAtAuQhSiNnjkQ"
+      }
+    },
+    "legacy_username": "shashank155#1020"
+  },
+  "294545287827947530": {
+    "id": 294545287827947530,
+    "name": "traelor",
+    "nick": null,
+    "display_name": "Traelor",
+    "global_name": "Traelor",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Traelor#11816",
+        "name": "Traelor#11816",
+        "url": null
+      },
+      "playstation": {
+        "id": "2373501716659621867",
+        "name": "Traelore",
+        "url": null
+      },
+      "spotify": {
+        "id": "bradman100",
+        "name": "Bradley Triana",
+        "url": "https://open.spotify.com/user/bradman100"
+      },
+      "steam": {
+        "id": "76561198103322307",
+        "name": "Traelor",
+        "url": "https://steamcommunity.com/profiles/76561198103322307"
+      },
+      "xbox": {
+        "id": "LBxix9voenpPFshtF37pHVBoNkfXOMBoPmzcU3Yt8dE",
+        "name": "Traelor55",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Traelor55"
+      }
+    },
+    "legacy_username": "Traelor#5704"
+  },
+  "322320247778443265": {
+    "id": 322320247778443265,
+    "name": "heneral_0ps",
+    "nick": null,
+    "display_name": "Royce",
+    "global_name": "Royce",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Royce#5636"
   }
 }
