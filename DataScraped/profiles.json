@@ -75614,5 +75614,49 @@
     ],
     "connections": {},
     "legacy_username": "Pavlaka#5506"
+  },
+  "712156250913112145": {
+    "id": 712156250913112145,
+    "name": "syindergaming_yt",
+    "nick": null,
+    "display_name": " SYINDER_YT",
+    "global_name": " SYINDER_YT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I used to make in depth guides for shadow fight arena. Will be back soon with more videos \nhttps://youtube.com/@SYINDERGAMING",
+    "guild_bio": null,
+    "display_bio": "I used to make in depth guides for shadow fight arena. Will be back soon with more videos \nhttps://youtube.com/@SYINDERGAMING",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCmLLfW9iT7yJ4G7VlpqNBYw",
+        "name": "SYINDER GAMING",
+        "url": "https://www.youtube.com/channel/UCmLLfW9iT7yJ4G7VlpqNBYw"
+      }
+    },
+    "legacy_username": "\u13ae\uff7b\u25ef\u1d31\u1db0\u1da4\u02e3 SYINDER_YT#5585"
+  },
+  "1228424358633017416": {
+    "id": 1228424358633017416,
+    "name": "sowhatwedie",
+    "nick": null,
+    "display_name": "idk",
+    "global_name": "idk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
