@@ -72782,5 +72782,51 @@
     ],
     "connections": {},
     "legacy_username": "Luno#2219"
+  },
+  "695166311323533332": {
+    "id": 695166311323533332,
+    "name": "no_neko",
+    "nick": null,
+    "display_name": "no_neko",
+    "global_name": "no_neko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "no_neko#0208"
+  },
+  "959373073734324266": {
+    "id": 959373073734324266,
+    "name": ".seisensei",
+    "nick": null,
+    "display_name": "Yun Sei",
+    "global_name": "Yun Sei",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Don't Let Game Take All Your Time In Life",
+    "guild_bio": null,
+    "display_bio": "Don't Let Game Take All Your Time In Life",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCEl9vv3Yle6nxRbSBlHL_0A",
+        "name": "Sei",
+        "url": "https://www.youtube.com/channel/UCEl9vv3Yle6nxRbSBlHL_0A"
+      }
+    },
+    "legacy_username": null
   }
 }
