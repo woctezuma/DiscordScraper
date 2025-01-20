@@ -74630,5 +74630,82 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "509451939956916244": {
+    "id": 509451939956916244,
+    "name": "jzxchaser.xxv",
+    "nick": null,
+    "display_name": "jzxchaser.xxv",
+    "global_name": null,
+    "pronouns": "What has/reality become?",
+    "guild_pronouns": null,
+    "bio": "Every star in the sky is a reminder that, even in the immensity of the universe, each of us has the potential to shine.",
+    "guild_bio": null,
+    "display_bio": "Every star in the sky is a reminder that, even in the immensity of the universe, each of us has the potential to shine.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198876348653",
+        "name": "jzxchaser.xxv",
+        "url": "https://steamcommunity.com/profiles/76561198876348653"
+      },
+      "twitter": {
+        "id": "1737559226887622656",
+        "name": "JZXChaseR_",
+        "url": "https://twitter.com/JZXChaseR_"
+      }
+    },
+    "legacy_username": null
+  },
+  "1330890823843184665": {
+    "id": 1330890823843184665,
+    "name": "bd_anonymous.",
+    "nick": null,
+    "display_name": "BD_Anonymous",
+    "global_name": "BD_Anonymous",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "878747567427584020": {
+    "id": 878747567427584020,
+    "name": "el_bruno",
+    "nick": null,
+    "display_name": "bruno",
+    "global_name": "bruno",
+    "pronouns": "xd",
+    "guild_pronouns": null,
+    "bio": "gafghaopnpgbdpfosigbsoipmg5rposdigjrposigjmpbsodrmjgbosdjrgboirmspogbjm3486bbmutrmu349tbmu395tbmu934mutb9mur9umwbertwmerb9tmuwer9tbumwe9btmpwmu4tb9m4p94t9wm4b9em49wmu4b9w4t9wmu4weptb9cool-oh",
+    "guild_bio": null,
+    "display_bio": "gafghaopnpgbdpfosigbsoipmg5rposdigjrposigjmpbsodrmjgbosdjrgboirmspogbjm3486bbmutrmu349tbmu395tbmu934mutb9mur9umwbertwmerb9tmuwer9tbumwe9btmpwmu4tb9m4p94t9wm4b9em49wmu4b9w4t9wmu4weptb9cool-oh",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "114872145",
+        "name": "brunozombi67",
+        "url": "https://github.com/brunozombi67"
+      }
+    },
+    "legacy_username": "brunozombi6#4470"
   }
 }
