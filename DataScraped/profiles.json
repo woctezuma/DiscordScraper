@@ -75952,5 +75952,58 @@
     ],
     "connections": {},
     "legacy_username": "Lobo#4525"
+  },
+  "849587617259454494": {
+    "id": 849587617259454494,
+    "name": "evilerplace",
+    "nick": null,
+    "display_name": "Evilerplace#7379",
+    "global_name": "Evilerplace#7379",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Evilerplace#2370",
+        "name": "Evilerplace#2370",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ea7ce8f576e543a69e1471aeb7c3f894",
+        "name": "Evilerplace7379",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199154913087",
+        "name": "ivan.stepanyuk2018",
+        "url": "https://steamcommunity.com/profiles/76561199154913087"
+      },
+      "twitch": {
+        "id": "710872629",
+        "name": "evilerplace",
+        "url": "https://www.twitch.tv/evilerplace"
+      },
+      "xbox": {
+        "id": "Mzc4YTdmNzE5MDBmMjNlZjBkNzM0NDM2Mjk5ZWU3OTFlZjBkNmRjYjk0ZmRiMGJlYTNiOWJiMDM3NjVmNTA4ZA",
+        "name": "Evilerplace7379",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Evilerplace7379"
+      },
+      "youtube": {
+        "id": "UCAYCzUJ5lLuqLApavNIs_hw",
+        "name": "EvilerplaceYT",
+        "url": "https://www.youtube.com/channel/UCAYCzUJ5lLuqLApavNIs_hw"
+      }
+    },
+    "legacy_username": "Tor_god_2505#5372"
   }
 }
