@@ -77326,5 +77326,129 @@
       }
     },
     "legacy_username": "Yaar Dreamer#2107"
+  },
+  "694268703570788423": {
+    "id": 694268703570788423,
+    "name": "hedgehoger_3563",
+    "nick": null,
+    "display_name": "Hedgehoger",
+    "global_name": "Hedgehoger",
+    "pronouns": "love/yourself",
+    "guild_pronouns": null,
+    "bio": "shoot me once, shame on you\nshoot me twice, shame on me \n- by me, myself & I \n\nI live by  - fav song: Photograph by Def Leppard \n\nIG: kacka.r0",
+    "guild_bio": null,
+    "display_bio": "shoot me once, shame on you\nshoot me twice, shame on me \n- by me, myself & I \n\nI live by  - fav song: Photograph by Def Leppard \n\nIG: kacka.r0",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "423124cb6c304a70b9a5b6142d5f2541",
+        "name": "Hedgeh0ger",
+        "url": null
+      },
+      "spotify": {
+        "id": "t4qfif3zisl3w3qv64x6r3tyb",
+        "name": "Hedgehoger",
+        "url": "https://open.spotify.com/user/t4qfif3zisl3w3qv64x6r3tyb"
+      },
+      "steam": {
+        "id": "76561199016187134",
+        "name": "Hedgehoger",
+        "url": "https://steamcommunity.com/profiles/76561199016187134"
+      },
+      "youtube": {
+        "id": "UClbA8P84GvN5zp8CbaffQOg",
+        "name": "Hedgehoger",
+        "url": "https://www.youtube.com/channel/UClbA8P84GvN5zp8CbaffQOg"
+      }
+    },
+    "legacy_username": "Hedgehoger#3563"
+  },
+  "928269175477133312": {
+    "id": 928269175477133312,
+    "name": "midrush.",
+    "nick": null,
+    "display_name": "Saxon",
+    "global_name": "Saxon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "968063646108385322": {
+    "id": 968063646108385322,
+    "name": "liebe912",
+    "nick": null,
+    "display_name": "Wyatt",
+    "global_name": "Wyatt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "insta: iblameliebe\nsnap: liebe_912",
+    "guild_bio": null,
+    "display_bio": "insta: iblameliebe\nsnap: liebe_912",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3122jvkpjkajw3thiq5etqkq5upi",
+        "name": "Liebe Gustav",
+        "url": "https://open.spotify.com/user/3122jvkpjkajw3thiq5etqkq5upi"
+      }
+    },
+    "legacy_username": "kuru kuru#6969"
+  },
+  "1077204730276749342": {
+    "id": 1077204730276749342,
+    "name": "smbmariojpn",
+    "nick": null,
+    "display_name": "smbmariojpn",
+    "global_name": "smbmariojpn",
+    "pronouns": "Hello.",
+    "guild_pronouns": null,
+    "bio": "He/Him",
+    "guild_bio": null,
+    "display_bio": "He/Him",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199444379149",
+        "name": "smbmariojpn",
+        "url": "https://steamcommunity.com/profiles/76561199444379149"
+      },
+      "twitter": {
+        "id": "1458721914810408961",
+        "name": "smbmariojpn",
+        "url": "https://twitter.com/smbmariojpn"
+      },
+      "youtube": {
+        "id": "UCxWy2QzAr3-zc6aF2YICtlg",
+        "name": "smbmariojpn",
+        "url": "https://www.youtube.com/channel/UCxWy2QzAr3-zc6aF2YICtlg"
+      }
+    },
+    "legacy_username": "smbmariojpn#2039"
   }
 }
