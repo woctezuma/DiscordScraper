@@ -77493,5 +77493,72 @@
     ],
     "connections": {},
     "legacy_username": "Sonic The Hedgehog brrrrr#1339"
+  },
+  "444041151738150915": {
+    "id": 444041151738150915,
+    "name": "clashes4d",
+    "nick": null,
+    "display_name": "Clashes4D",
+    "global_name": "Clashes4D",
+    "pronouns": "john prodman",
+    "guild_pronouns": null,
+    "bio": "idc",
+    "guild_bio": null,
+    "display_bio": "idc",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "k9EB0bZ2DaeNKw02Wv_7AMuCZLyR0sN9OOtI__QwlEUB4ldrTtSss7qFsRFqVtNSaus6AwWNfhSM6Q",
+        "name": "Clashes4D",
+        "url": null
+      },
+      "riot_games": {
+        "id": "k9EB0bZ2DaeNKw02Wv_7AMuCZLyR0sN9OOtI__QwlEUB4ldrTtSss7qFsRFqVtNSaus6AwWNfhSM6Q",
+        "name": "Clashes4D#1337",
+        "url": null
+      },
+      "spotify": {
+        "id": "3ck7fhi7q6q78t24w5npews11",
+        "name": "Clashes4D",
+        "url": "https://open.spotify.com/user/3ck7fhi7q6q78t24w5npews11"
+      },
+      "steam": {
+        "id": "76561198885880688",
+        "name": "Clashes4D",
+        "url": "https://steamcommunity.com/profiles/76561198885880688"
+      },
+      "xbox": {
+        "id": "3074132797668735",
+        "name": "Clashes4D",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Clashes4D"
+      }
+    },
+    "legacy_username": "Clashes4D#2394"
+  },
+  "966220434318172171": {
+    "id": 966220434318172171,
+    "name": "amboy12345o5",
+    "nick": null,
+    "display_name": "AMBOY",
+    "global_name": "AMBOY",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "gerrygaming#3631"
   }
 }
