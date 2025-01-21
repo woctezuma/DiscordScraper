@@ -78614,5 +78614,53 @@
       }
     },
     "legacy_username": "BrinyBicycle#6714"
+  },
+  "739148735849824269": {
+    "id": 739148735849824269,
+    "name": ".medusa.23",
+    "nick": null,
+    "display_name": "Vivy",
+    "global_name": "Vivy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I've got the problems that the devil sends.",
+    "guild_bio": null,
+    "display_bio": "I've got the problems that the devil sends.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "c34b1d6d-1344-56a2-b32b-5025abbe588f",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "epic_games": {
+        "id": "981e6dffdf54440792433084630abb35",
+        "name": "lastofme23",
+        "url": null
+      },
+      "spotify": {
+        "id": "31mejheremu56ejnxf3mnpmfq2by",
+        "name": "vivy.",
+        "url": "https://open.spotify.com/user/31mejheremu56ejnxf3mnpmfq2by"
+      },
+      "steam": {
+        "id": "76561199078298611",
+        "name": "Vivy",
+        "url": "https://steamcommunity.com/profiles/76561199078298611"
+      },
+      "twitch": {
+        "id": "896558174",
+        "name": "madmedusaa",
+        "url": "https://www.twitch.tv/madmedusaa"
+      }
+    },
+    "legacy_username": "Medusa#8808"
   }
 }
