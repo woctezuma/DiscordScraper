@@ -79659,5 +79659,61 @@
       }
     },
     "legacy_username": "JayD7844#7721"
+  },
+  "465600673782824970": {
+    "id": 465600673782824970,
+    "name": "jsvisuals",
+    "nick": null,
+    "display_name": "JSV",
+    "global_name": "JSV",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1180365382428357",
+        "name": "Josh Sears",
+        "url": null
+      },
+      "spotify": {
+        "id": "jobo039",
+        "name": "jobo039",
+        "url": "https://open.spotify.com/user/jobo039"
+      },
+      "steam": {
+        "id": "76561198136330465",
+        "name": "JSV",
+        "url": "https://steamcommunity.com/profiles/76561198136330465"
+      },
+      "twitch": {
+        "id": "91052247",
+        "name": "jobo039",
+        "url": "https://www.twitch.tv/jobo039"
+      },
+      "twitter": {
+        "id": "1145289828562604032",
+        "name": "JoshSVisuals",
+        "url": "https://twitter.com/JoshSVisuals"
+      },
+      "xbox": {
+        "id": "3071400574471587",
+        "name": "JoshSears",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JoshSears"
+      },
+      "youtube": {
+        "id": "UCqFCx0yjvnJcJLTx0F0EBEA",
+        "name": "Josh Sears",
+        "url": "https://www.youtube.com/channel/UCqFCx0yjvnJcJLTx0F0EBEA"
+      }
+    },
+    "legacy_username": "JSV#5922"
   }
 }
