@@ -78546,5 +78546,73 @@
       }
     },
     "legacy_username": "RMJ2006#4417"
+  },
+  "720340518449578025": {
+    "id": 720340518449578025,
+    "name": "madeinusareview",
+    "nick": null,
+    "display_name": "MadeInUSAReview",
+    "global_name": "MadeInUSAReview",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Free Advertising/Promo Info For Made In USA Products. MadeInUSAReview.com https://linkin.bio/madeinusareview MadeInUSAReview@Vivaldi.net (413)324-7362",
+    "guild_bio": null,
+    "display_bio": "Free Advertising/Promo Info For Made In USA Products. MadeInUSAReview.com https://linkin.bio/madeinusareview MadeInUSAReview@Vivaldi.net (413)324-7362",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198965895182",
+        "name": "MadeInUSAReview",
+        "url": "https://steamcommunity.com/profiles/76561198965895182"
+      }
+    },
+    "legacy_username": "MadeInUSAReview#1070"
+  },
+  "626484986643742751": {
+    "id": 626484986643742751,
+    "name": "brinybicycle",
+    "nick": null,
+    "display_name": "BrinyBicycle",
+    "global_name": "BrinyBicycle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I have beaten Absolute Radiance 22 times without getting hit (along with every other boss) and ive spent over 200 hours trying to get there (help)",
+    "guild_bio": null,
+    "display_bio": "I have beaten Absolute Radiance 22 times without getting hit (along with every other boss) and ive spent over 200 hours trying to get there (help)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Bicycle#11738",
+        "name": "Bicycle#11738",
+        "url": null
+      },
+      "spotify": {
+        "id": "31oggzgltvqvvd4culg26dyolmfy",
+        "name": "BrinyBicycle",
+        "url": "https://open.spotify.com/user/31oggzgltvqvvd4culg26dyolmfy"
+      },
+      "twitch": {
+        "id": "575538047",
+        "name": "brinybicycle840",
+        "url": "https://www.twitch.tv/brinybicycle840"
+      },
+      "youtube": {
+        "id": "UC5weEslvBSv321z89aXHdFw",
+        "name": "BrinyBicycle840",
+        "url": "https://www.youtube.com/channel/UC5weEslvBSv321z89aXHdFw"
+      }
+    },
+    "legacy_username": "BrinyBicycle#6714"
   }
 }
