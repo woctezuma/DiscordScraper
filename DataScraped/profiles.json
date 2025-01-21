@@ -77063,5 +77063,60 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "552588933167579179": {
+    "id": 552588933167579179,
+    "name": "starlightsleeps",
+    "nick": null,
+    "display_name": "starlight",
+    "global_name": "starlight",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "kdj glazer till i die <:ORVWonk:972490922300436500>",
+    "guild_bio": null,
+    "display_bio": "kdj glazer till i die <:ORVWonk:972490922300436500>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "starlight#8686"
+  },
+  "664349542703038476": {
+    "id": 664349542703038476,
+    "name": "minsakuraowo",
+    "nick": null,
+    "display_name": "MinSakura",
+    "global_name": "MinSakura",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<a:BunnyPeek:847583016615673916>\nAloo <a:aloooo:1285677994089779331>\nTired 24/7 <a:CB_yawn:586230891408261149>\nCertified<:zv11mochasimp:890956197245616169>",
+    "guild_bio": null,
+    "display_bio": "<a:BunnyPeek:847583016615673916>\nAloo <a:aloooo:1285677994089779331>\nTired 24/7 <a:CB_yawn:586230891408261149>\nCertified<:zv11mochasimp:890956197245616169>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "aru16tsg2absg4b17vr36zrvl",
+        "name": "Minsakura",
+        "url": "https://open.spotify.com/user/aru16tsg2absg4b17vr36zrvl"
+      },
+      "steam": {
+        "id": "76561199274732177",
+        "name": "MinSakura",
+        "url": "https://steamcommunity.com/profiles/76561199274732177"
+      }
+    },
+    "legacy_username": "Sakura -v-#8667"
   }
 }
