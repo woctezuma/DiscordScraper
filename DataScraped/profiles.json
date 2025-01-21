@@ -76844,5 +76844,55 @@
       }
     },
     "legacy_username": "Pawadun#0756"
+  },
+  "581991631516074000": {
+    "id": 581991631516074000,
+    "name": "lj_doe",
+    "nick": null,
+    "display_name": "LJ",
+    "global_name": "LJ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Beautiful things grow to a certain height and then they fail and fade off, breathing out memories as they decay.\n\nF. Scott Fitzgerald",
+    "guild_bio": null,
+    "display_bio": "Beautiful things grow to a certain height and then they fail and fade off, breathing out memories as they decay.\n\nF. Scott Fitzgerald",
+    "banner": "https://cdn.discordapp.com/banners/581991631516074000/2ab39f70c4d43477099d95606ae21e4c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/581991631516074000/2ab39f70c4d43477099d95606ae21e4c.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "LJ#8058"
+  },
+  "1266245958459719700": {
+    "id": 1266245958459719700,
+    "name": "shenal006",
+    "nick": null,
+    "display_name": "SHEYY006",
+    "global_name": "SHEYY006",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "c4f53c81023345f29afd711f51a783f5",
+        "name": "Sheyy_00",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199688203599",
+        "name": "SHEYY",
+        "url": "https://steamcommunity.com/profiles/76561199688203599"
+      }
+    },
+    "legacy_username": null
   }
 }
