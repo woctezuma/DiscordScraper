@@ -79049,5 +79049,43 @@
       }
     },
     "legacy_username": "Go\u0142\u0105b#2031"
+  },
+  "694980801825210479": {
+    "id": 694980801825210479,
+    "name": "itsaegeann",
+    "nick": null,
+    "display_name": "itsaegeann",
+    "global_name": "itsaegeann",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/694980801825210479/a_6debb74fce9f5749924a59aee2b141e2.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/694980801825210479/a_6debb74fce9f5749924a59aee2b141e2.gif?size=512",
+    "badges": [
+      "guild_booster_lvl6",
+      "hypesquad_house_1",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "egelek123",
+        "name": "itsaegean",
+        "url": "https://open.spotify.com/user/egelek123"
+      },
+      "steam": {
+        "id": "76561198441561182",
+        "name": "1ts4ege4nHz",
+        "url": "https://steamcommunity.com/profiles/76561198441561182"
+      },
+      "twitch": {
+        "id": "486254437",
+        "name": "itsaegean",
+        "url": "https://www.twitch.tv/itsaegean"
+      }
+    },
+    "legacy_username": null
   }
 }
