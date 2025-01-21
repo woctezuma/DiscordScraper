@@ -77961,5 +77961,25 @@
       }
     },
     "legacy_username": "\u0224ia#9421"
+  },
+  "805712003184197633": {
+    "id": 805712003184197633,
+    "name": "binbinkuu",
+    "nick": null,
+    "display_name": "ABC",
+    "global_name": "ABC",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "BK#4038"
   }
 }
