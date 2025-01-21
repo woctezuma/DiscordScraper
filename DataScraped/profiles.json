@@ -79454,5 +79454,27 @@
       }
     },
     "legacy_username": null
+  },
+  "110046752672862208": {
+    "id": 110046752672862208,
+    "name": "shappy",
+    "nick": null,
+    "display_name": "Shappy",
+    "global_name": "Shappy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Shappy#0890"
   }
 }
