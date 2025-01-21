@@ -77665,5 +77665,36 @@
       }
     },
     "legacy_username": "nhkhai#9661"
+  },
+  "313225147752382467": {
+    "id": 313225147752382467,
+    "name": "riley_otis",
+    "nick": null,
+    "display_name": "Riley_Otis",
+    "global_name": "Riley_Otis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "rileyr06-au",
+        "name": "Riley Reynolds",
+        "url": "https://open.spotify.com/user/rileyr06-au"
+      },
+      "steam": {
+        "id": "76561198827331665",
+        "name": "Rileyr06",
+        "url": "https://steamcommunity.com/profiles/76561198827331665"
+      }
+    },
+    "legacy_username": "riley#3121"
   }
 }
