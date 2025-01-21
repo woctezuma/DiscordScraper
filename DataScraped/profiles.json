@@ -76550,5 +76550,60 @@
     ],
     "connections": {},
     "legacy_username": "hanthony#9650"
+  },
+  "483400499547340830": {
+    "id": 483400499547340830,
+    "name": "pupkinpie",
+    "nick": null,
+    "display_name": "Pumpkin pie",
+    "global_name": "Pumpkin pie",
+    "pronouns": "He/not him",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "9196993167435237783",
+        "name": "PupkinPie",
+        "url": null
+      },
+      "spotify": {
+        "id": "elliotsabourin",
+        "name": "Gray",
+        "url": "https://open.spotify.com/user/elliotsabourin"
+      },
+      "steam": {
+        "id": "76561199137793228",
+        "name": "pumpkinpie",
+        "url": "https://steamcommunity.com/profiles/76561199137793228"
+      }
+    },
+    "legacy_username": "Pumpkin pie#9379"
+  },
+  "1323559903662575649": {
+    "id": 1323559903662575649,
+    "name": "mascot_27823",
+    "nick": null,
+    "display_name": "Mascot",
+    "global_name": "Mascot",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
