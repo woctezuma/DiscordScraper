@@ -79323,5 +79323,57 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1070377835094614110": {
+    "id": 1070377835094614110,
+    "name": "cobbycp",
+    "nick": null,
+    "display_name": "Cobby",
+    "global_name": "Cobby",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "People cannot change their pasts, all we can do is affirm our own actions",
+    "guild_bio": null,
+    "display_bio": "People cannot change their pasts, all we can do is affirm our own actions",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199198950556",
+        "name": "cobby_ftd",
+        "url": "https://steamcommunity.com/profiles/76561199198950556"
+      },
+      "xbox": {
+        "id": "3076699836901708",
+        "name": "JamyDojer1148",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JamyDojer1148"
+      }
+    },
+    "legacy_username": null
+  },
+  "624005512672968734": {
+    "id": 624005512672968734,
+    "name": "potato_outlaw",
+    "nick": null,
+    "display_name": "Potato Outlaw",
+    "global_name": "Potato Outlaw",
+    "pronouns": "he/them",
+    "guild_pronouns": null,
+    "bio": "est timezone",
+    "guild_bio": null,
+    "display_bio": "est timezone",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Potato Outlaw#0050"
   }
 }
