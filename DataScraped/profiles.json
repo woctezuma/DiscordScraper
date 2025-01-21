@@ -78042,5 +78042,92 @@
     ],
     "connections": {},
     "legacy_username": "\u2584\u2588\u2580\u2588\u25cf#6240"
+  },
+  "1257005235034132483": {
+    "id": 1257005235034132483,
+    "name": "kaijuplay.",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Estou sempre um passo a frente",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "9b4a83b6cc3c4a31ac39b9d31fbabc59",
+        "name": "matheus271011",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198130382069",
+        "name": "KaijuPlay",
+        "url": "https://steamcommunity.com/profiles/76561198130382069"
+      },
+      "xbox": {
+        "id": "3067013175034873",
+        "name": "Matheus20176",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Matheus20176"
+      }
+    },
+    "legacy_username": null
+  },
+  "457207762846220288": {
+    "id": 457207762846220288,
+    "name": "victus100",
+    "nick": null,
+    "display_name": "victus100",
+    "global_name": null,
+    "pronouns": "jo/jo's",
+    "guild_pronouns": null,
+    "bio": "Recomiendo\ngames: Portal, Terraria, Mad Max, Omori, \nAnime:Code geass, Jojo's, pluto\nManga:20th century boys, Call of the night, Homunculus, dandadan\nVisual novel:steins;gate, nekopara",
+    "guild_bio": null,
+    "display_bio": "Recomiendo\ngames: Portal, Terraria, Mad Max, Omori, \nAnime:Code geass, Jojo's, pluto\nManga:20th century boys, Call of the night, Homunculus, dandadan\nVisual novel:steins;gate, nekopara",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7319467806918412487",
+        "name": "victus200",
+        "url": null
+      }
+    },
+    "legacy_username": "victus100#9661"
+  },
+  "388011611345911811": {
+    "id": 388011611345911811,
+    "name": "norveg34",
+    "nick": null,
+    "display_name": "ah XeonSkorp",
+    "global_name": "ah XeonSkorp",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/388011611345911811/a_b00ce17845842ec0c61823aac9cb614e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/388011611345911811/a_b00ce17845842ec0c61823aac9cb614e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "norveg34#2772"
   }
 }
