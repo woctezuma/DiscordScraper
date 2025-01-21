@@ -78472,5 +78472,79 @@
       }
     },
     "legacy_username": null
+  },
+  "952059353668661268": {
+    "id": 952059353668661268,
+    "name": "stealth_striker",
+    "nick": null,
+    "display_name": "Stealth_Striker",
+    "global_name": "Stealth_Striker",
+    "pronouns": "(\u00ac_\u00ac )",
+    "guild_pronouns": null,
+    "bio": " .  \n*   \n.  \n ",
+    "guild_bio": null,
+    "display_bio": " .  \n*   \n.  \n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AHE6AUMCGDR5WMRKWFZ3JRUSIAMA",
+        "name": "Reuben Mathew Jyothis",
+        "url": null
+      },
+      "battle_net": {
+        "id": "Striker#31820",
+        "name": "Striker#31820",
+        "url": null
+      },
+      "epic_games": {
+        "id": "a49c1343d7394afabd88bdd74a6c24cc",
+        "name": "Stealth_Striker_",
+        "url": null
+      },
+      "github": {
+        "id": "156059779",
+        "name": "Stealth-Striker",
+        "url": "https://github.com/Stealth-Striker"
+      },
+      "reddit": {
+        "id": "19q2txjhgs",
+        "name": "Stealth__Striker",
+        "url": "https://www.reddit.com/u/Stealth__Striker"
+      },
+      "unknown_roblox": {
+        "id": "4408974449",
+        "name": "RMJ_BuilderBoy",
+        "url": null
+      },
+      "spotify": {
+        "id": "313uddkijqqbbleocfsitfrb4fvm",
+        "name": "Stealth_Striker",
+        "url": "https://open.spotify.com/user/313uddkijqqbbleocfsitfrb4fvm"
+      },
+      "steam": {
+        "id": "76561199502185230",
+        "name": "Stealth_Striker",
+        "url": "https://steamcommunity.com/profiles/76561199502185230"
+      },
+      "twitch": {
+        "id": "1015772038",
+        "name": "stealth_striker_",
+        "url": "https://www.twitch.tv/stealth_striker_"
+      },
+      "xbox": {
+        "id": "3065861076946563",
+        "name": "Striker061715",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Striker061715"
+      }
+    },
+    "legacy_username": "RMJ2006#4417"
   }
 }
