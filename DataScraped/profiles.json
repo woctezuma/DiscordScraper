@@ -79087,5 +79087,43 @@
       }
     },
     "legacy_username": null
+  },
+  "748954052359880745": {
+    "id": 748954052359880745,
+    "name": "shimorimiyori",
+    "nick": null,
+    "display_name": "shimorimiyori",
+    "global_name": null,
+    "pronouns": "\u02d7\u02cf\u02cb \u2665\ufe0e \u00b4\u02ce\u02d7",
+    "guild_pronouns": null,
+    "bio": "Bawlin not ballin\n\n* *\nStupid stage 21\nDeaf stage 1",
+    "guild_bio": null,
+    "display_bio": "Bawlin not ballin\n\n* *\nStupid stage 21\nDeaf stage 1",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "97OpjaK7mcMMSrWtYkiEdelLgKpBGrn5npxx7O_XmvfL8Vm-ioD91LRBQMZmPYH06YU4W6kttV8vyw",
+        "name": "shimorimiyori#42069",
+        "url": null
+      },
+      "spotify": {
+        "id": "9bobq7p79o50zc3mtx58nalyu",
+        "name": "El\u300e\u7231\u300fne",
+        "url": "https://open.spotify.com/user/9bobq7p79o50zc3mtx58nalyu"
+      },
+      "steam": {
+        "id": "76561199692190067",
+        "name": "shimorimiyori",
+        "url": "https://steamcommunity.com/profiles/76561199692190067"
+      }
+    },
+    "legacy_username": "shimorimiyori#3560"
   }
 }
