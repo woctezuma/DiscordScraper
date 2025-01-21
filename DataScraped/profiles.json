@@ -77864,5 +77864,58 @@
       }
     },
     "legacy_username": "Maxim_#0689"
+  },
+  "861773974509584385": {
+    "id": 861773974509584385,
+    "name": "picklematerial",
+    "nick": null,
+    "display_name": "Honored One",
+    "global_name": "Honored One",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "rfjx37rsauxpsgj7vvyyv1s4x",
+        "name": "BestArtist",
+        "url": "https://open.spotify.com/user/rfjx37rsauxpsgj7vvyyv1s4x"
+      },
+      "youtube": {
+        "id": "UCv_-DNXMjjvG1kazY7CaO_g",
+        "name": "Foxtrot",
+        "url": "https://www.youtube.com/channel/UCv_-DNXMjjvG1kazY7CaO_g"
+      }
+    },
+    "legacy_username": "PolandCow#2401"
+  },
+  "683295643271299123": {
+    "id": 683295643271299123,
+    "name": "xsadasdwqe",
+    "nick": null,
+    "display_name": "xsadasdwqe",
+    "global_name": "xsadasdwqe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "GAAH DID",
+    "guild_bio": null,
+    "display_bio": "GAAH DID",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "xsadasdwqe#0778"
   }
 }
