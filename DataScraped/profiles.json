@@ -78831,5 +78831,51 @@
     ],
     "connections": {},
     "legacy_username": "ThreeOfClovers#1932"
+  },
+  "528259301484134403": {
+    "id": 528259301484134403,
+    "name": "sentry8361",
+    "nick": null,
+    "display_name": "SENTRY",
+    "global_name": "SENTRY",
+    "pronouns": "Void/Walker",
+    "guild_pronouns": null,
+    "bio": "Whatever in creation exists without my knowledge, exists without my consent.",
+    "guild_bio": null,
+    "display_bio": "Whatever in creation exists without my knowledge, exists without my consent.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "4b0cdab8ddd94c5da98206e60c1aa059",
+        "name": "Cohort544",
+        "url": null
+      },
+      "reddit": {
+        "id": "3ymx05w9",
+        "name": "LanceAtheros",
+        "url": "https://www.reddit.com/u/LanceAtheros"
+      },
+      "steam": {
+        "id": "76561198327460099",
+        "name": "C544",
+        "url": "https://steamcommunity.com/profiles/76561198327460099"
+      },
+      "twitter": {
+        "id": "2438486174",
+        "name": "MagniRex",
+        "url": "https://twitter.com/MagniRex"
+      },
+      "xbox": {
+        "id": "3072838182372071",
+        "name": "VentedDuck14140",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=VentedDuck14140"
+      }
+    },
+    "legacy_username": null
   }
 }
