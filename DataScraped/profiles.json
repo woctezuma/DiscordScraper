@@ -79593,5 +79593,71 @@
       }
     },
     "legacy_username": null
+  },
+  "515249972958986241": {
+    "id": 515249972958986241,
+    "name": "j3aller",
+    "nick": null,
+    "display_name": "mike",
+    "global_name": "mike",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "J3aller#3931"
+  },
+  "408239087049375744": {
+    "id": 408239087049375744,
+    "name": "jayd7844",
+    "nick": null,
+    "display_name": "JayD7844",
+    "global_name": "JayD7844",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "9039313235789792281",
+        "name": "JayD7844",
+        "url": null
+      },
+      "reddit": {
+        "id": "4tkawus7",
+        "name": "JayD7844",
+        "url": "https://www.reddit.com/u/JayD7844"
+      },
+      "steam": {
+        "id": "76561198317490635",
+        "name": "JayD7844",
+        "url": "https://steamcommunity.com/profiles/76561198317490635"
+      },
+      "twitch": {
+        "id": "215299576",
+        "name": "jayd7844",
+        "url": "https://www.twitch.tv/jayd7844"
+      },
+      "xbox": {
+        "id": "MDliY2M2MmM2ZTgxMjBmOGMyODA1NjVhYzA2MDUwOWMxYmNkYTZiMzA0ZjBlZmYzYjMzYjMyYzdlY2UxZDEzZQ",
+        "name": "JayD7844",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JayD7844"
+      }
+    },
+    "legacy_username": "JayD7844#7721"
   }
 }
