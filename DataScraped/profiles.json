@@ -76509,5 +76509,46 @@
     ],
     "connections": {},
     "legacy_username": "Mr.Cheese#6564"
+  },
+  "875792438361477160": {
+    "id": 875792438361477160,
+    "name": "mole999",
+    "nick": null,
+    "display_name": "Gn aa",
+    "global_name": "Gn aa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mole#4693"
+  },
+  "203039776054444032": {
+    "id": 203039776054444032,
+    "name": "hanthony",
+    "nick": null,
+    "display_name": "Hanthony",
+    "global_name": "Hanthony",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "hanthony#9650"
   }
 }
