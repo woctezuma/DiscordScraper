@@ -77696,5 +77696,70 @@
       }
     },
     "legacy_username": "riley#3121"
+  },
+  "290830712050024449": {
+    "id": 290830712050024449,
+    "name": "datre",
+    "nick": null,
+    "display_name": "datre",
+    "global_name": "datre",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "datre#4196"
+  },
+  "1176142975777116272": {
+    "id": 1176142975777116272,
+    "name": "matusha_yt666",
+    "nick": null,
+    "display_name": "Matusha_motya1488",
+    "global_name": "Matusha_motya1488",
+    "pronouns": "\u0421\u043a\u0438\u043d\u044c\u0442\u0435 \u0434\u0435\u043d\u0435\u0433",
+    "guild_pronouns": null,
+    "bio": ": 2202 2083 4852 9067",
+    "guild_bio": null,
+    "display_bio": ": 2202 2083 4852 9067",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_roblox": {
+        "id": "4646859898",
+        "name": "matusha_yt",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199752722952",
+        "name": "matusha_motya",
+        "url": "https://steamcommunity.com/profiles/76561199752722952"
+      },
+      "twitch": {
+        "id": "1137609503",
+        "name": "matusha_yt666",
+        "url": "https://www.twitch.tv/matusha_yt666"
+      },
+      "xbox": {
+        "id": "3063504552990219",
+        "name": "Matusha69yt",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Matusha69yt"
+      },
+      "youtube": {
+        "id": "UCW4IvUyHIMHTTb1X1vIiDVA",
+        "name": "\ud83d\uddffMatusha_yt BS \ud83d\udd2e",
+        "url": "https://www.youtube.com/channel/UCW4IvUyHIMHTTb1X1vIiDVA"
+      }
+    },
+    "legacy_username": null
   }
 }
