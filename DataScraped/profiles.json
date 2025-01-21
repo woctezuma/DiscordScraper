@@ -79200,5 +79200,92 @@
       }
     },
     "legacy_username": "LYRIC DOZEN#3169"
+  },
+  "1040287961113186405": {
+    "id": 1040287961113186405,
+    "name": "kingstipan",
+    "nick": null,
+    "display_name": "King",
+    "global_name": "King",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "KingStipan#5705"
+  },
+  "309151849657663488": {
+    "id": 309151849657663488,
+    "name": "will5529",
+    "nick": null,
+    "display_name": "empty#4818270",
+    "global_name": "empty#4818270",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "youknowmyface",
+        "name": "William Silva",
+        "url": "https://open.spotify.com/user/youknowmyface"
+      },
+      "steam": {
+        "id": "76561198323899537",
+        "name": "emphty",
+        "url": "https://steamcommunity.com/profiles/76561198323899537"
+      }
+    },
+    "legacy_username": "will#5529"
+  },
+  "1095020125054324857": {
+    "id": 1095020125054324857,
+    "name": "supercookie4272",
+    "nick": null,
+    "display_name": "supercookie",
+    "global_name": "supercookie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "12nc53de81",
+        "name": "Active-Scale-1486",
+        "url": "https://www.reddit.com/u/Active-Scale-1486"
+      },
+      "twitch": {
+        "id": "1136379868",
+        "name": "superkitkat7",
+        "url": "https://www.twitch.tv/superkitkat7"
+      }
+    },
+    "legacy_username": "supercookie#4272"
   }
 }
