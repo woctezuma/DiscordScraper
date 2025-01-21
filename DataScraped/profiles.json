@@ -78790,5 +78790,46 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "373567771297972224": {
+    "id": 373567771297972224,
+    "name": "harsh405",
+    "nick": null,
+    "display_name": "Harsh405",
+    "global_name": "Harsh405",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "How bad do you want it?",
+    "guild_bio": null,
+    "display_bio": "How bad do you want it?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "410845398052372500": {
+    "id": 410845398052372500,
+    "name": "threeofclovers",
+    "nick": null,
+    "display_name": "Penny",
+    "global_name": "Penny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":)",
+    "guild_bio": null,
+    "display_bio": ":)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ThreeOfClovers#1932"
   }
 }
