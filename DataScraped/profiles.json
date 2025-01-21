@@ -79476,5 +79476,25 @@
     ],
     "connections": {},
     "legacy_username": "Shappy#0890"
+  },
+  "449182941080453132": {
+    "id": 449182941080453132,
+    "name": "sofia655",
+    "nick": null,
+    "display_name": "sofia655",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Sof#0382"
   }
 }
