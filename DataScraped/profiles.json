@@ -77981,5 +77981,66 @@
     ],
     "connections": {},
     "legacy_username": "BK#4038"
+  },
+  "503399709654908928": {
+    "id": 503399709654908928,
+    "name": "buzz2112",
+    "nick": null,
+    "display_name": "buzz2112",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Buzz2112#7568"
+  },
+  "319788427832852490": {
+    "id": 319788427832852490,
+    "name": "baobabi",
+    "nick": null,
+    "display_name": "BABI",
+    "global_name": "BABI",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "GORDON#2230"
+  },
+  "1036259110317994186": {
+    "id": 1036259110317994186,
+    "name": "eroor1234",
+    "nick": null,
+    "display_name": "Ru4bert",
+    "global_name": "Ru4bert",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "\u2584\u2588\u2580\u2588\u25cf#6240"
   }
 }
