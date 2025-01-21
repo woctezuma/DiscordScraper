@@ -79423,5 +79423,36 @@
     ],
     "connections": {},
     "legacy_username": "Mr. Citizen#3671"
+  },
+  "448523640279924745": {
+    "id": 448523640279924745,
+    "name": "xorsz",
+    "nick": null,
+    "display_name": "xv",
+    "global_name": "xv",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c407d11463e94c35842e14ef51aea6ad",
+        "name": "\u028e\u0287\u0131s\u0279x\u0254",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199515117091",
+        "name": "cxrsity",
+        "url": "https://steamcommunity.com/profiles/76561199515117091"
+      }
+    },
+    "legacy_username": null
   }
 }
