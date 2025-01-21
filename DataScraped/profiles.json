@@ -78129,5 +78129,101 @@
     ],
     "connections": {},
     "legacy_username": "norveg34#2772"
+  },
+  "1068913343303262280": {
+    "id": 1068913343303262280,
+    "name": "jitendrasaini9963",
+    "nick": null,
+    "display_name": "GANGSTER",
+    "global_name": "GANGSTER",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "298774133326479382": {
+    "id": 298774133326479382,
+    "name": "chez3099",
+    "nick": null,
+    "display_name": "chez",
+    "global_name": "chez",
+    "pronouns": "wonder/hoy",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "218270917",
+        "name": "thelargechez",
+        "url": "https://www.twitch.tv/thelargechez"
+      }
+    },
+    "legacy_username": "chez#3099"
+  },
+  "765222671105261619": {
+    "id": 765222671105261619,
+    "name": "ollistar2",
+    "nick": null,
+    "display_name": "Ollistar2",
+    "global_name": "Ollistar2",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "My midnight is your <t:1712786400:t>",
+    "guild_bio": null,
+    "display_bio": "My midnight is your <t:1712786400:t>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ollistar2#6336"
+  },
+  "1328163844144500785": {
+    "id": 1328163844144500785,
+    "name": "aria683z",
+    "nick": null,
+    "display_name": "Aria Ayaka    ",
+    "global_name": "Aria Ayaka    ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "EliteAyakaJP#2978",
+        "name": "EliteAyakaJP#2978",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198450222733",
+        "name": "Aria",
+        "url": "https://steamcommunity.com/profiles/76561198450222733"
+      }
+    },
+    "legacy_username": null
   }
 }
