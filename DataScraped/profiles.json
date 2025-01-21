@@ -77833,5 +77833,36 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1103297991349121154": {
+    "id": 1103297991349121154,
+    "name": "maxim_1790",
+    "nick": null,
+    "display_name": "Maksym",
+    "global_name": "Maksym",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "627c0f4424454bf9968a703dcec66b06",
+        "name": "Yona1790",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199378319003",
+        "name": "Yona1790",
+        "url": "https://steamcommunity.com/profiles/76561199378319003"
+      }
+    },
+    "legacy_username": "Maxim_#0689"
   }
 }
