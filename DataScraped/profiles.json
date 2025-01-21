@@ -76894,5 +76894,26 @@
       }
     },
     "legacy_username": null
+  },
+  "686215347384352785": {
+    "id": 686215347384352785,
+    "name": "gainsbite",
+    "nick": null,
+    "display_name": "Gainsbite",
+    "global_name": "Gainsbite",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "70RV1C#9753"
   }
 }
