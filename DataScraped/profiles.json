@@ -78394,5 +78394,83 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "698739855923871794": {
+    "id": 698739855923871794,
+    "name": "joostab",
+    "nick": null,
+    "display_name": "Joostab",
+    "global_name": "Joostab",
+    "pronouns": "They/Them",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Joostab#8215"
+  },
+  "529150958609891328": {
+    "id": 529150958609891328,
+    "name": "omega9940",
+    "nick": null,
+    "display_name": "0m3ga",
+    "global_name": "0m3ga",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3071851362999982",
+        "name": "Om3ga9025",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Om3ga9025"
+      }
+    },
+    "legacy_username": "omega#9940"
+  },
+  "687863768268800029": {
+    "id": 687863768268800029,
+    "name": ".lord_sauron",
+    "nick": null,
+    "display_name": "Sauron",
+    "global_name": "Sauron",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "And when I die, my soul will search for you across every universe.",
+    "guild_bio": null,
+    "display_bio": "And when I die, my soul will search for you across every universe.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31s6i4ptjdod4wonoflx46qay5di",
+        "name": "wnbaut",
+        "url": "https://open.spotify.com/user/31s6i4ptjdod4wonoflx46qay5di"
+      },
+      "steam": {
+        "id": "76561199481622661",
+        "name": "\ud835\udc12 \ud835\udc00 \ud835\udc14 \ud835\udc11 \ud835\udc0e \ud835\udc0d",
+        "url": "https://steamcommunity.com/profiles/76561199481622661"
+      }
+    },
+    "legacy_username": null
   }
 }
