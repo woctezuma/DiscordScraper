@@ -78662,5 +78662,95 @@
       }
     },
     "legacy_username": "Medusa#8808"
+  },
+  "1193829005619646475": {
+    "id": 1193829005619646475,
+    "name": "serii201112",
+    "nick": null,
+    "display_name": "serii201112",
+    "global_name": "serii201112",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199528670498",
+        "name": "vald5542",
+        "url": "https://steamcommunity.com/profiles/76561199528670498"
+      }
+    },
+    "legacy_username": null
+  },
+  "421136244563640343": {
+    "id": 421136244563640343,
+    "name": "dukhiyara",
+    "nick": null,
+    "display_name": "Dukhiyara",
+    "global_name": "Dukhiyara",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Dukhiyara#9009"
+  },
+  "463314122675716096": {
+    "id": 463314122675716096,
+    "name": "leftyreis",
+    "nick": null,
+    "display_name": "Reisy",
+    "global_name": "Reisy",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Reisy, Ada | 17\n3D Artist <:blender:1239020300818059274>\nTake Care ",
+    "guild_bio": null,
+    "display_bio": "Reisy, Ada | 17\n3D Artist <:blender:1239020300818059274>\nTake Care ",
+    "banner": "https://cdn.discordapp.com/banners/463314122675716096/a_e8e8e004f8905e3f66e7a86fe6bc7b54.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/463314122675716096/a_e8e8e004f8905e3f66e7a86fe6bc7b54.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c00a1c2bf7db4b2bb150d92bf03c2110",
+        "name": "TheReisy",
+        "url": null
+      },
+      "spotify": {
+        "id": "gke3d303wg2cekb8s0nh2kb0k",
+        "name": "Ada",
+        "url": "https://open.spotify.com/user/gke3d303wg2cekb8s0nh2kb0k"
+      },
+      "steam": {
+        "id": "76561198873665679",
+        "name": "Jolly",
+        "url": "https://steamcommunity.com/profiles/76561198873665679"
+      },
+      "youtube": {
+        "id": "UCDzxmAIeKHq2twa3E2QDhSw",
+        "name": "LeftyReis",
+        "url": "https://www.youtube.com/channel/UCDzxmAIeKHq2twa3E2QDhSw"
+      }
+    },
+    "legacy_username": "LeftyReis#1993"
   }
 }
