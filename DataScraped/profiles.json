@@ -78935,5 +78935,119 @@
     ],
     "connections": {},
     "legacy_username": "draconianmeasures#1698"
+  },
+  "383028409091096576": {
+    "id": 383028409091096576,
+    "name": "noelbot6815",
+    "nick": null,
+    "display_name": "noelbot",
+    "global_name": "noelbot",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3072928874717723",
+        "name": "noelbot8529",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=noelbot8529"
+      }
+    },
+    "legacy_username": null
+  },
+  "786570921385263116": {
+    "id": 786570921385263116,
+    "name": "drum49",
+    "nick": null,
+    "display_name": "drum",
+    "global_name": "drum",
+    "pronouns": "sigma",
+    "guild_pronouns": null,
+    "bio": "hi",
+    "guild_bio": null,
+    "display_bio": "hi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31orinvebhadwaadm53frb6y2j4y",
+        "name": "Drum49",
+        "url": "https://open.spotify.com/user/31orinvebhadwaadm53frb6y2j4y"
+      },
+      "steam": {
+        "id": "76561199183785190",
+        "name": "Drum49",
+        "url": "https://steamcommunity.com/profiles/76561199183785190"
+      },
+      "xbox": {
+        "id": "3069302076279936",
+        "name": "SheepBoop6969",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SheepBoop6969"
+      },
+      "youtube": {
+        "id": "UCtL1O7Ny1-fNF2otPXTeyJQ",
+        "name": "drumplays",
+        "url": "https://www.youtube.com/channel/UCtL1O7Ny1-fNF2otPXTeyJQ"
+      }
+    },
+    "legacy_username": "drum49#7747"
+  },
+  "800701552011509801": {
+    "id": 800701552011509801,
+    "name": "golab2031",
+    "nick": null,
+    "display_name": "Gob",
+    "global_name": "Gob",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "04HKexnY1Y7jZVCzfnViR5c26z3X0P6_2B70YI44RC8Qdqo5Y13GQ0EyKMpFly9RnzvL9EjpvHR76g",
+        "name": "Golab77#ENCE",
+        "url": null
+      },
+      "riot_games": {
+        "id": "04HKexnY1Y7jZVCzfnViR5c26z3X0P6_2B70YI44RC8Qdqo5Y13GQ0EyKMpFly9RnzvL9EjpvHR76g",
+        "name": "Golab77#ENCE",
+        "url": null
+      },
+      "spotify": {
+        "id": "31otcsygaynwnfnpdir54tv7r7mm",
+        "name": "Go\u0142\u0105b",
+        "url": "https://open.spotify.com/user/31otcsygaynwnfnpdir54tv7r7mm"
+      },
+      "steam": {
+        "id": "76561198419492480",
+        "name": "TE4MSOLOPEEK Go\u0142\u0105b",
+        "url": "https://steamcommunity.com/profiles/76561198419492480"
+      },
+      "youtube": {
+        "id": "UCopkBPnG3RgKoNXBS0AhrOg",
+        "name": "Go\u0142\u0105b",
+        "url": "https://www.youtube.com/channel/UCopkBPnG3RgKoNXBS0AhrOg"
+      }
+    },
+    "legacy_username": "Go\u0142\u0105b#2031"
   }
 }
