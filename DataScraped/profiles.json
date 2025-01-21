@@ -79287,5 +79287,41 @@
       }
     },
     "legacy_username": "supercookie#4272"
+  },
+  "1217528302911230025": {
+    "id": 1217528302911230025,
+    "name": "ch___rizz",
+    "nick": null,
+    "display_name": "C H RS",
+    "global_name": "C H RS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1188395099202256896": {
+    "id": 1188395099202256896,
+    "name": "thomas_aut",
+    "nick": null,
+    "display_name": "Thomas",
+    "global_name": "Thomas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
