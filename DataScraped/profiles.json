@@ -79496,5 +79496,102 @@
     ],
     "connections": {},
     "legacy_username": "Sof#0382"
+  },
+  "181360856133664768": {
+    "id": 181360856133664768,
+    "name": "whir",
+    "nick": null,
+    "display_name": "Whir",
+    "global_name": "Whir",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198043226578",
+        "name": "Whir",
+        "url": "https://steamcommunity.com/profiles/76561198043226578"
+      }
+    },
+    "legacy_username": "Whir#5745"
+  },
+  "684397982476795938": {
+    "id": 684397982476795938,
+    "name": "littleshoe63",
+    "nick": null,
+    "display_name": "Little Shoe63",
+    "global_name": "Little Shoe63",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Little Shoe63#8737"
+  },
+  "1240073426337796187": {
+    "id": 1240073426337796187,
+    "name": "elnemo_tv._.",
+    "nick": null,
+    "display_name": "ElNemo_TV",
+    "global_name": "ElNemo_TV",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " # \n    \n   A    R    G  ",
+    "guild_bio": null,
+    "display_bio": " # \n    \n   A    R    G  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5e3c0c6d4e9c4a77b95618efd913ab19",
+        "name": "Mehackearonlpm",
+        "url": null
+      },
+      "spotify": {
+        "id": "31bouxim27vhg2gphvzjzm4ob73y",
+        "name": "ElNemo_TV",
+        "url": "https://open.spotify.com/user/31bouxim27vhg2gphvzjzm4ob73y"
+      },
+      "steam": {
+        "id": "76561199283502144",
+        "name": "ElNemo_TV",
+        "url": "https://steamcommunity.com/profiles/76561199283502144"
+      },
+      "twitch": {
+        "id": "780402732",
+        "name": "elnemo_tv",
+        "url": "https://www.twitch.tv/elnemo_tv"
+      },
+      "twitter": {
+        "id": "1582889494281605121",
+        "name": "ElNemo_TV",
+        "url": "https://twitter.com/ElNemo_TV"
+      },
+      "youtube": {
+        "id": "UCVd4SKVvejI76nRRRbvQTqA",
+        "name": "ElNemo_TV",
+        "url": "https://www.youtube.com/channel/UCVd4SKVvejI76nRRRbvQTqA"
+      }
+    },
+    "legacy_username": null
   }
 }
