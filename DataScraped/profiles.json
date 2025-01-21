@@ -78877,5 +78877,43 @@
       }
     },
     "legacy_username": null
+  },
+  "1143902780457750628": {
+    "id": 1143902780457750628,
+    "name": "steven_itech",
+    "nick": null,
+    "display_name": "7up.exe",
+    "global_name": "7up.exe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "750027085011091526": {
+    "id": 750027085011091526,
+    "name": "guscr",
+    "nick": null,
+    "display_name": "Guscr",
+    "global_name": "Guscr",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "El es muy insano ",
+    "guild_bio": null,
+    "display_bio": "El es muy insano ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Guscr#9471"
   }
 }
