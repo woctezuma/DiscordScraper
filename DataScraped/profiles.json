@@ -79375,5 +79375,53 @@
     ],
     "connections": {},
     "legacy_username": "Potato Outlaw#0050"
+  },
+  "541699849356181515": {
+    "id": 541699849356181515,
+    "name": "terenaxx",
+    "nick": null,
+    "display_name": "Terenax",
+    "global_name": "Terenax",
+    "pronouns": "DiamondHand",
+    "guild_pronouns": null,
+    "bio": "**https://guns.lol/lifeofdrip**",
+    "guild_bio": null,
+    "display_bio": "**https://guns.lol/lifeofdrip**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199388933773",
+        "name": "TERENAX",
+        "url": "https://steamcommunity.com/profiles/76561199388933773"
+      }
+    },
+    "legacy_username": "LifeOfDrip#8087"
+  },
+  "475459355270053911": {
+    "id": 475459355270053911,
+    "name": "mr.citizen_",
+    "nick": null,
+    "display_name": "Mr. Citizen",
+    "global_name": "Mr. Citizen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mr. Citizen#3671"
   }
 }
