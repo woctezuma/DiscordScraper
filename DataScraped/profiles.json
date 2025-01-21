@@ -79125,5 +79125,80 @@
       }
     },
     "legacy_username": "shimorimiyori#3560"
+  },
+  "1165807988007784468": {
+    "id": 1165807988007784468,
+    "name": "sean09596",
+    "nick": null,
+    "display_name": "Sean",
+    "global_name": "Sean",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "648902005892579328": {
+    "id": 648902005892579328,
+    "name": "mokkavier01149",
+    "nick": null,
+    "display_name": "MokkaVier01149",
+    "global_name": "MokkaVier01149",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "(Heavy) Metal",
+    "guild_bio": null,
+    "display_bio": "(Heavy) Metal",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "MokkaVier01149#1495"
+  },
+  "689154531438624815": {
+    "id": 689154531438624815,
+    "name": "dyslexic_dorito",
+    "nick": null,
+    "display_name": "Rito",
+    "global_name": "Rito",
+    "pronouns": "Biggest NTR hater / 6ta born n raised",
+    "guild_pronouns": null,
+    "bio": "nori5rou my goat\n1XKTLC76444",
+    "guild_bio": null,
+    "display_bio": "nori5rou my goat\n1XKTLC76444",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31pqz36l2hkz64qaukl5qdaqsmem",
+        "name": "Pitka2",
+        "url": "https://open.spotify.com/user/31pqz36l2hkz64qaukl5qdaqsmem"
+      },
+      "twitch": {
+        "id": "818008911",
+        "name": "ritoou",
+        "url": "https://www.twitch.tv/ritoou"
+      },
+      "twitter": {
+        "id": "1739419146339729408",
+        "name": "R_itoou",
+        "url": "https://twitter.com/R_itoou"
+      }
+    },
+    "legacy_username": "LYRIC DOZEN#3169"
   }
 }
