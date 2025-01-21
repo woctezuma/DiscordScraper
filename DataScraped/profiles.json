@@ -77118,5 +77118,43 @@
       }
     },
     "legacy_username": "Sakura -v-#8667"
+  },
+  "519941532372172800": {
+    "id": 519941532372172800,
+    "name": "iameden",
+    "nick": null,
+    "display_name": "Daelic ",
+    "global_name": "Daelic ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Ich liebe Dich\n ",
+    "guild_bio": null,
+    "display_bio": "Ich liebe Dich\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "277669763104665965",
+        "name": "DanLG_02",
+        "url": null
+      },
+      "spotify": {
+        "id": "uscvc9sr4m4xpgt9yrhta2ick",
+        "name": "\u018a\u13afNI\u039e\u2113\u039e",
+        "url": "https://open.spotify.com/user/uscvc9sr4m4xpgt9yrhta2ick"
+      },
+      "xbox": {
+        "id": "3068697330712732",
+        "name": "DiplexBubbles24",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DiplexBubbles24"
+      }
+    },
+    "legacy_username": "\u16c1\u16a8\u16d7 \u16d6\u16de\u16d6\u16be#2468"
   }
 }
