@@ -77560,5 +77560,110 @@
     ],
     "connections": {},
     "legacy_username": "gerrygaming#3631"
+  },
+  "337938438789529601": {
+    "id": 337938438789529601,
+    "name": "wellington5975",
+    "nick": null,
+    "display_name": "wellington5975",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198193815647",
+        "name": "Wellington",
+        "url": "https://steamcommunity.com/profiles/76561198193815647"
+      }
+    },
+    "legacy_username": "Wellington#5975"
+  },
+  "1331034743143272478": {
+    "id": 1331034743143272478,
+    "name": "urmomslamscut.",
+    "nick": null,
+    "display_name": "Urmomslamscut",
+    "global_name": "Urmomslamscut",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "696283308249841684": {
+    "id": 696283308249841684,
+    "name": "nghkhai",
+    "nick": null,
+    "display_name": "Kyle",
+    "global_name": "Kyle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Brutalus#6407",
+        "name": "Brutalus#6407",
+        "url": null
+      },
+      "facebook": {
+        "id": "10157233117838575",
+        "name": "Kyle Ng Heng Khai",
+        "url": null
+      },
+      "spotify": {
+        "id": "t7p3d7kwyb1n1t1qhztz1e6ui",
+        "name": "Kyle",
+        "url": "https://open.spotify.com/user/t7p3d7kwyb1n1t1qhztz1e6ui"
+      },
+      "steam": {
+        "id": "76561198022372616",
+        "name": "Brutalus",
+        "url": "https://steamcommunity.com/profiles/76561198022372616"
+      },
+      "twitch": {
+        "id": "74269957",
+        "name": "nhkhai",
+        "url": "https://www.twitch.tv/nhkhai"
+      },
+      "twitter": {
+        "id": "14622899",
+        "name": "nhkhai",
+        "url": "https://twitter.com/nhkhai"
+      },
+      "xbox": {
+        "id": "MGJhZmFjNTg3ODFiMmY4ODE5ZmU5YzI1Yjk3N2FjMTNhYWNiZWQ0MzAwMGU3OGI2ZGVhMDc4ODQ1ZmRkMjYzZQ",
+        "name": "Brrrutalus",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Brrrutalus"
+      },
+      "youtube": {
+        "id": "UCE1GmfKnlBjI_y9t3iC0qeg",
+        "name": "Kyle Ng Heng Khai",
+        "url": "https://www.youtube.com/channel/UCE1GmfKnlBjI_y9t3iC0qeg"
+      }
+    },
+    "legacy_username": "nhkhai#9661"
   }
 }
