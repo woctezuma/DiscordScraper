@@ -94215,5 +94215,37 @@
       }
     },
     "legacy_username": "anmardany#4456"
+  },
+  "602902073024970802": {
+    "id": 602902073024970802,
+    "name": "hxdouken",
+    "nick": null,
+    "display_name": "hxdouken",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "1ff42563d3ee465b8c385da853137e9e",
+        "name": "Amnesia hadouk3n",
+        "url": null
+      },
+      "youtube": {
+        "id": "UCu_YM4gqU-M0-ANXiLJuALA",
+        "name": "hadouken",
+        "url": "https://www.youtube.com/channel/UCu_YM4gqU-M0-ANXiLJuALA"
+      }
+    },
+    "legacy_username": null
   }
 }
