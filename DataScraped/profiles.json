@@ -95364,5 +95364,25 @@
       }
     },
     "legacy_username": "billllllllllllllllllllllllllllly#8757"
+  },
+  "427690823283638283": {
+    "id": 427690823283638283,
+    "name": "funnyti",
+    "nick": null,
+    "display_name": "Funnyti",
+    "global_name": "Funnyti",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Funnyti#0900"
   }
 }
