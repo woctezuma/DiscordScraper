@@ -95537,5 +95537,114 @@
     ],
     "connections": {},
     "legacy_username": "Rosalind#1637"
+  },
+  "399924729709854720": {
+    "id": 399924729709854720,
+    "name": "lord.rasmus",
+    "nick": null,
+    "display_name": "lord rasmus",
+    "global_name": "lord rasmus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "577741909671894222",
+        "name": "noluck_raller105",
+        "url": null
+      },
+      "spotify": {
+        "id": "raller105",
+        "name": "Rasmus Ytting",
+        "url": "https://open.spotify.com/user/raller105"
+      },
+      "steam": {
+        "id": "76561198219660603",
+        "name": "lord rasmus",
+        "url": "https://steamcommunity.com/profiles/76561198219660603"
+      },
+      "twitch": {
+        "id": "228841418",
+        "name": "raller105",
+        "url": "https://www.twitch.tv/raller105"
+      },
+      "youtube": {
+        "id": "UC1nG2Ci9nYtg5NlFppb7RPA",
+        "name": "gert101",
+        "url": "https://www.youtube.com/channel/UC1nG2Ci9nYtg5NlFppb7RPA"
+      }
+    },
+    "legacy_username": null
+  },
+  "1074429839479668776": {
+    "id": 1074429839479668776,
+    "name": "goofert42",
+    "nick": null,
+    "display_name": "Goofert",
+    "global_name": "Goofert",
+    "pronouns": "willy/juice",
+    "guild_pronouns": null,
+    "bio": " Check out my latest project Embedify (https://goofert.org/embedify)\n\nBugs? No, those are features",
+    "guild_bio": null,
+    "display_bio": " Check out my latest project Embedify (https://goofert.org/embedify)\n\nBugs? No, those are features",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl3",
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "goofert.org",
+        "name": "goofert.org",
+        "url": null
+      },
+      "github": {
+        "id": "146920696",
+        "name": "Goofert42",
+        "url": "https://github.com/Goofert42"
+      }
+    },
+    "legacy_username": null
+  },
+  "1118551403456102500": {
+    "id": 1118551403456102500,
+    "name": "heycarliss",
+    "nick": null,
+    "display_name": "Carlis",
+    "global_name": "Carlis",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "?\nmaybe",
+    "guild_bio": null,
+    "display_bio": "?\nmaybe",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "2dz4sb41mq01ab9gsxycetuvm",
+        "name": "Carlis",
+        "url": "https://open.spotify.com/user/2dz4sb41mq01ab9gsxycetuvm"
+      },
+      "steam": {
+        "id": "76561199090241612",
+        "name": "Carlis",
+        "url": "https://steamcommunity.com/profiles/76561199090241612"
+      }
+    },
+    "legacy_username": null
   }
 }
