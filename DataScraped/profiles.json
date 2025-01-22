@@ -94372,5 +94372,31 @@
       }
     },
     "legacy_username": null
+  },
+  "236556606437851136": {
+    "id": 236556606437851136,
+    "name": "stormichi",
+    "nick": null,
+    "display_name": "Storm",
+    "global_name": "Storm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197972184285",
+        "name": "Storm",
+        "url": "https://steamcommunity.com/profiles/76561197972184285"
+      }
+    },
+    "legacy_username": "Storm#9926"
   }
 }
