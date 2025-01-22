@@ -94665,5 +94665,25 @@
       }
     },
     "legacy_username": "ZEANZ.TUSU#5820"
+  },
+  "1224080154159087819": {
+    "id": 1224080154159087819,
+    "name": "razvangg232",
+    "nick": null,
+    "display_name": "razvanG G",
+    "global_name": "razvanG G",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
