@@ -94746,5 +94746,25 @@
     ],
     "connections": {},
     "legacy_username": "Nanya#3147"
+  },
+  "986623140157341696": {
+    "id": 986623140157341696,
+    "name": "mita9580",
+    "nick": null,
+    "display_name": "Kredvel",
+    "global_name": "Kredvel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u043c\u0438\u0442\u044f#9580"
   }
 }
