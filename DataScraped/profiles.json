@@ -95926,5 +95926,78 @@
       }
     },
     "legacy_username": null
+  },
+  "800038674921947196": {
+    "id": 800038674921947196,
+    "name": ".merlock.",
+    "nick": null,
+    "display_name": "Merlock",
+    "global_name": "Merlock",
+    "pronouns": "brrrrrrrt",
+    "guild_pronouns": null,
+    "bio": "planes go brrr",
+    "guild_bio": null,
+    "display_bio": "planes go brrr",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Merlock#21445",
+        "name": "Merlock#21445",
+        "url": null
+      },
+      "epic_games": {
+        "id": "a3e48ac4586747cfbb8ea71cda978637",
+        "name": "Merrlock",
+        "url": null
+      },
+      "reddit": {
+        "id": "dcfysov9d",
+        "name": "_Merlock_",
+        "url": "https://www.reddit.com/u/_Merlock_"
+      },
+      "riot_games": {
+        "id": "9wi6q95BQ2HXQu7xTb-FoDRdW4DUVURZwOBUspedxDVIvkajNBnlwZRCSFbK90zC3ilYJw4mZy_0lw",
+        "name": "Merlock#4350",
+        "url": null
+      },
+      "spotify": {
+        "id": "31zmyfvtbqavciwx7nnp4dtfyqcq",
+        "name": "Merlock",
+        "url": "https://open.spotify.com/user/31zmyfvtbqavciwx7nnp4dtfyqcq"
+      },
+      "steam": {
+        "id": "76561199224973563",
+        "name": "Merlock",
+        "url": "https://steamcommunity.com/profiles/76561199224973563"
+      },
+      "tiktok": {
+        "id": "0ef3c01c-980d-5954-9016-c3d360da991c",
+        "name": "_roque.pv_",
+        "url": "https://tiktok.com/@_roque.pv_"
+      },
+      "twitch": {
+        "id": "822556352",
+        "name": "merrlock",
+        "url": "https://www.twitch.tv/merrlock"
+      },
+      "twitter": {
+        "id": "1703506403812417536",
+        "name": "Merlock_rpv",
+        "url": "https://twitter.com/Merlock_rpv"
+      },
+      "xbox": {
+        "id": "3067301534871447",
+        "name": "Merlock9532",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Merlock9532"
+      }
+    },
+    "legacy_username": "Merlock#6320"
   }
 }
