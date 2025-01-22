@@ -96258,5 +96258,25 @@
       }
     },
     "legacy_username": "komurambheem#8584"
+  },
+  "932367134250659960": {
+    "id": 932367134250659960,
+    "name": "groomer1056",
+    "nick": null,
+    "display_name": "Ar1us Rex",
+    "global_name": "Ar1us Rex",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "groomer#1056"
   }
 }
