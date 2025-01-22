@@ -94398,5 +94398,70 @@
       }
     },
     "legacy_username": "Storm#9926"
+  },
+  "741389238725247097": {
+    "id": 741389238725247097,
+    "name": "suzume.zx",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Suzume  \u2022  Negro  \u2022  Zeok",
+    "guild_pronouns": null,
+    "bio": "G\nIN THIS WORLD \nando retirado, solo WP ",
+    "guild_bio": null,
+    "display_bio": "G\nIN THIS WORLD \nando retirado, solo WP ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199081904972",
+        "name": "Suzume",
+        "url": "https://steamcommunity.com/profiles/76561199081904972"
+      },
+      "xbox": {
+        "id": "3072124530030796",
+        "name": "ELZEOKQH777",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ELZEOKQH777"
+      }
+    },
+    "legacy_username": "\ud835\ude89\ud835\ude91\ud835\ude8e\ud835\ude8e\ud835\ude94\ud835\ude7e\ud835\udea0\ud835\ude7e#2105"
+  },
+  "475261263623094292": {
+    "id": 475261263623094292,
+    "name": "renschad",
+    "nick": null,
+    "display_name": "Rens",
+    "global_name": "Rens",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "jij bent een nul, jij bent niks, jij doet niet mee.!",
+    "guild_bio": null,
+    "display_bio": "jij bent een nul, jij bent niks, jij doet niet mee.!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "30a26752710840c4bdf81f1cda6ca85b",
+        "name": "Rens_JAM",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199094998388",
+        "name": "Rens",
+        "url": "https://steamcommunity.com/profiles/76561199094998388"
+      }
+    },
+    "legacy_username": "Rens#8051"
   }
 }
