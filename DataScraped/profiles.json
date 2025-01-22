@@ -95733,5 +95733,31 @@
       }
     },
     "legacy_username": "Mercent#7886"
+  },
+  "811041963338891304": {
+    "id": 811041963338891304,
+    "name": "stra_.",
+    "nick": null,
+    "display_name": "Stra",
+    "global_name": "Stra",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "8GE7yNYlul-rUGPEsQE4VfMr-2MzRDE_Vk9F8KX7ruIch3EOXVgow-eC8aMKisUxRa2yj0Hca0NS7A",
+        "name": "Ten Senz#STRA",
+        "url": null
+      }
+    },
+    "legacy_username": null
   }
 }
