@@ -94685,5 +94685,66 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1172290866346471497": {
+    "id": 1172290866346471497,
+    "name": "palaceofcement",
+    "nick": null,
+    "display_name": "PalaceOfCar",
+    "global_name": "PalaceOfCar",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " Music Producer\n Gamer",
+    "guild_bio": null,
+    "display_bio": " Music Producer\n Gamer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "821735170046558248": {
+    "id": 821735170046558248,
+    "name": "vagarwa",
+    "nick": null,
+    "display_name": "Aghresia",
+    "global_name": "Aghresia",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Aghresia#8488"
+  },
+  "866274282179133440": {
+    "id": 866274282179133440,
+    "name": "nanya101",
+    "nick": null,
+    "display_name": "Nanya",
+    "global_name": "Nanya",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Tidak jadi hibernasi, Doggy!!",
+    "guild_bio": null,
+    "display_bio": "Tidak jadi hibernasi, Doggy!!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nanya#3147"
   }
 }
