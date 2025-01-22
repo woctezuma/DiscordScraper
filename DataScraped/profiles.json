@@ -95690,5 +95690,48 @@
     ],
     "connections": {},
     "legacy_username": "Belle Delphine#0056"
+  },
+  "872466584227184650": {
+    "id": 872466584227184650,
+    "name": "mercent_og",
+    "nick": null,
+    "display_name": "Mercent",
+    "global_name": "Mercent",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "My laziness is what holds me back from my true potential.\nThe lies we tell ourselves.",
+    "guild_bio": null,
+    "display_bio": "My laziness is what holds me back from my true potential.\nThe lies we tell ourselves.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "aL0D-Bk53TQUC5ZHButcX1lOLBAQpwM-CZPMkqU23Ku9Pk_rOfErBfb_0hhkkDUT61ATWeWnwZOMRw",
+        "name": "Mercent#10335",
+        "url": null
+      },
+      "spotify": {
+        "id": "31rxodwqfoj34hbuxo26mk3c2dwa",
+        "name": "Mercent",
+        "url": "https://open.spotify.com/user/31rxodwqfoj34hbuxo26mk3c2dwa"
+      },
+      "steam": {
+        "id": "76561198883441640",
+        "name": "Mercent",
+        "url": "https://steamcommunity.com/profiles/76561198883441640"
+      },
+      "twitch": {
+        "id": "687576198",
+        "name": "mercentog",
+        "url": "https://www.twitch.tv/mercentog"
+      }
+    },
+    "legacy_username": "Mercent#7886"
   }
 }
