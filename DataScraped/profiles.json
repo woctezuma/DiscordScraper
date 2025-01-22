@@ -94463,5 +94463,37 @@
       }
     },
     "legacy_username": "Rens#8051"
+  },
+  "338592717925908483": {
+    "id": 338592717925908483,
+    "name": "raddooggie",
+    "nick": null,
+    "display_name": "Raddooggie",
+    "global_name": "Raddooggie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "niche internet micro celebrity",
+    "guild_bio": null,
+    "display_bio": "niche internet micro celebrity",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31o5ecdutq3oyl6f2tngw3uclaz4",
+        "name": "luis",
+        "url": "https://open.spotify.com/user/31o5ecdutq3oyl6f2tngw3uclaz4"
+      },
+      "steam": {
+        "id": "76561198374587951",
+        "name": "Raddooggie",
+        "url": "https://steamcommunity.com/profiles/76561198374587951"
+      }
+    },
+    "legacy_username": "clipview#0228"
   }
 }
