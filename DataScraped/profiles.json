@@ -95897,5 +95897,34 @@
     ],
     "connections": {},
     "legacy_username": "GT#8386"
+  },
+  "363390198563864576": {
+    "id": 363390198563864576,
+    "name": "__ox__",
+    "nick": null,
+    "display_name": "__oxiKKK",
+    "global_name": "__oxiKKK",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "this kinda sucks",
+    "guild_bio": null,
+    "display_bio": "this kinda sucks",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "github": {
+        "id": "28988905",
+        "name": "oxiKKK",
+        "url": "https://github.com/oxiKKK"
+      },
+      "steam": {
+        "id": "76561198886665056",
+        "name": "\u272a __\u2092\u2093\u1d62 \u1d37\u1d37\u1d37\u00b2",
+        "url": "https://steamcommunity.com/profiles/76561198886665056"
+      }
+    },
+    "legacy_username": null
   }
 }
