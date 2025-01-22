@@ -94091,5 +94091,45 @@
     ],
     "connections": {},
     "legacy_username": "PHANTOM#7823"
+  },
+  "773019749948194847": {
+    "id": 773019749948194847,
+    "name": "ramy1531",
+    "nick": null,
+    "display_name": "Ramy",
+    "global_name": "Ramy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ramy#1531"
+  },
+  "1142918967581745264": {
+    "id": 1142918967581745264,
+    "name": "alfrescoisawesome",
+    "nick": null,
+    "display_name": "alfrescoisawesome",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Streamer!\nfind me at twitch.tv/alfrescoisawesome\nyoutube channel: www.youtube.com/@alfrescoisawesome\ntiktok: @alfrescoisawesome\nCome join me!!",
+    "guild_bio": null,
+    "display_bio": "Streamer!\nfind me at twitch.tv/alfrescoisawesome\nyoutube channel: www.youtube.com/@alfrescoisawesome\ntiktok: @alfrescoisawesome\nCome join me!!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
