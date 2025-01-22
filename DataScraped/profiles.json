@@ -94189,5 +94189,31 @@
     ],
     "connections": {},
     "legacy_username": "Gumball 663#6194"
+  },
+  "222428246875045888": {
+    "id": 222428246875045888,
+    "name": "anmardany",
+    "nick": null,
+    "display_name": "anmardany",
+    "global_name": "anmardany",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1977292402338926",
+        "name": "Andrei Stanciu",
+        "url": null
+      }
+    },
+    "legacy_username": "anmardany#4456"
   }
 }
