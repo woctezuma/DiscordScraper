@@ -96298,5 +96298,25 @@
     ],
     "connections": {},
     "legacy_username": "Valeryous#9148"
+  },
+  "487359006629822466": {
+    "id": 487359006629822466,
+    "name": "guinja",
+    "nick": null,
+    "display_name": "Guinja",
+    "global_name": "Guinja",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Guinja#7685"
   }
 }
