@@ -93967,5 +93967,80 @@
       }
     },
     "legacy_username": null
+  },
+  "447466606734344194": {
+    "id": 447466606734344194,
+    "name": "nathanator159",
+    "nick": null,
+    "display_name": "Nathanator",
+    "global_name": "Nathanator",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1749635310503819563",
+        "name": "Nathanator159",
+        "url": null
+      }
+    },
+    "legacy_username": "DynamicNate#6135"
+  },
+  "358765666813214732": {
+    "id": 358765666813214732,
+    "name": "ragespark",
+    "nick": null,
+    "display_name": "Rage Spark",
+    "global_name": "Rage Spark",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "DMs always opened to chat and make friends!\n| Hobby artist | Beginner Game Developer |\nhttps://twitter.com/TheRagedox\n https://ko-fi.com/ragespark",
+    "guild_bio": null,
+    "display_bio": "DMs always opened to chat and make friends!\n| Hobby artist | Beginner Game Developer |\nhttps://twitter.com/TheRagedox\n https://ko-fi.com/ragespark",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:f6heiks7qppmahhrostnxv47",
+        "name": "ragespark.bsky.social",
+        "url": null
+      },
+      "github": {
+        "id": "79294903",
+        "name": "Ragedox",
+        "url": "https://github.com/Ragedox"
+      },
+      "steam": {
+        "id": "76561198380169482",
+        "name": "Rage Spark",
+        "url": "https://steamcommunity.com/profiles/76561198380169482"
+      },
+      "twitter": {
+        "id": "1346271853149609985",
+        "name": "ReignitedGears",
+        "url": "https://twitter.com/ReignitedGears"
+      },
+      "xbox": {
+        "id": "3070232162592080",
+        "name": "Ragedox2305",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Ragedox2305"
+      }
+    },
+    "legacy_username": "Rage Spark#5821"
   }
 }
