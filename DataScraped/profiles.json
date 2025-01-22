@@ -96095,5 +96095,47 @@
       }
     },
     "legacy_username": "Chrae#6969"
+  },
+  "830444047461646378": {
+    "id": 830444047461646378,
+    "name": "kh4_led",
+    "nick": null,
+    "display_name": "Chef",
+    "global_name": "Chef",
+    "pronouns": "there's no escape",
+    "guild_pronouns": null,
+    "bio": "please artists leave me alone, I don't want to order any commissions",
+    "guild_bio": null,
+    "display_bio": "please artists leave me alone, I don't want to order any commissions",
+    "banner": "https://cdn.discordapp.com/banners/830444047461646378/a_67d37bd2e9f39f581c334814d67ae992.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/830444047461646378/a_67d37bd2e9f39f581c334814d67ae992.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Khaled#1079"
+  },
+  "672502915130327075": {
+    "id": 672502915130327075,
+    "name": "aringas795",
+    "nick": null,
+    "display_name": "aringas795",
+    "global_name": "aringas795",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
