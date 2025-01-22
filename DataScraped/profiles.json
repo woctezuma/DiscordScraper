@@ -94568,5 +94568,102 @@
       }
     },
     "legacy_username": "Ewgene#0006"
+  },
+  "130745949432709120": {
+    "id": 130745949432709120,
+    "name": "ancooh",
+    "nick": null,
+    "display_name": "anco",
+    "global_name": "anco",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/130745949432709120/71c7776b96f1e5b1ef0bf55431d30393.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/130745949432709120/71c7776b96f1e5b1ef0bf55431d30393.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Zimbabwe#11876",
+        "name": "Zimbabwe#11876",
+        "url": null
+      },
+      "playstation": {
+        "id": "6199611102712866528",
+        "name": "ancooh",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198057283173",
+        "name": "coochi",
+        "url": "https://steamcommunity.com/profiles/76561198057283173"
+      },
+      "twitch": {
+        "id": "66848785",
+        "name": "ancooh",
+        "url": "https://www.twitch.tv/ancooh"
+      },
+      "xbox": {
+        "id": "3073682960056149",
+        "name": "ancooh",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ancooh"
+      }
+    },
+    "legacy_username": "ancooh#0001"
+  },
+  "295800914038751232": {
+    "id": 295800914038751232,
+    "name": "raikou4717",
+    "nick": null,
+    "display_name": "Raikou",
+    "global_name": "Raikou",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Beat Down, Rise Up",
+    "guild_bio": null,
+    "display_bio": "Beat Down, Rise Up",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Raikou#4717"
+  },
+  "494095560362557440": {
+    "id": 494095560362557440,
+    "name": "zeanz.tusu",
+    "nick": null,
+    "display_name": "ZEANZ",
+    "global_name": "ZEANZ",
+    "pronouns": "YouTube: Fancy Gaming",
+    "guild_pronouns": null,
+    "bio": "YouTube: Fancy Gaming\nFacebook: Fancy Gaming",
+    "guild_bio": null,
+    "display_bio": "YouTube: Fancy Gaming\nFacebook: Fancy Gaming",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198441753206",
+        "name": "ZEANZ",
+        "url": "https://steamcommunity.com/profiles/76561198441753206"
+      }
+    },
+    "legacy_username": "ZEANZ.TUSU#5820"
   }
 }
