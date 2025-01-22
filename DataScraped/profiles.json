@@ -95384,5 +95384,25 @@
     ],
     "connections": {},
     "legacy_username": "Funnyti#0900"
+  },
+  "964062301177131008": {
+    "id": 964062301177131008,
+    "name": "z.r",
+    "nick": null,
+    "display_name": "! Zrx",
+    "global_name": "! Zrx",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
