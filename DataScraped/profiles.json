@@ -95309,5 +95309,60 @@
       }
     },
     "legacy_username": null
+  },
+  "356144174824816644": {
+    "id": 356144174824816644,
+    "name": "billllllllllllllllllllllllllllly",
+    "nick": null,
+    "display_name": "billllllllllllllllllllllllllllly",
+    "global_name": "billllllllllllllllllllllllllllly",
+    "pronouns": "\ubc84\ub2c8\uc988",
+    "guild_pronouns": null,
+    "bio": "Free Discord nitro<:discordchroma:413814473132998669>(3 Months Trial ) promotion code link: http://bit.ly/3QxaKE9",
+    "guild_bio": null,
+    "display_bio": "Free Discord nitro<:discordchroma:413814473132998669>(3 Months Trial ) promotion code link: http://bit.ly/3QxaKE9",
+    "banner": "https://cdn.discordapp.com/banners/356144174824816644/a_9227a6b8ac983b888e9a04c7fee9d68e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/356144174824816644/a_9227a6b8ac983b888e9a04c7fee9d68e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "BillyGaGa#1426",
+        "name": "BillyGaGa#1426",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "FlmqqnBek6TI-FINsL2oYHHRgA0kATLjOyoeU5RrnWZcruoLT0dfTxI_V_LhVdb6ew7oB0ou9tAiiQ",
+        "name": "billygaga#8964",
+        "url": null
+      },
+      "riot_games": {
+        "id": "FlmqqnBek6TI-FINsL2oYHHRgA0kATLjOyoeU5RrnWZcruoLT0dfTxI_V_LhVdb6ew7oB0ou9tAiiQ",
+        "name": "billygaga#8964",
+        "url": null
+      },
+      "spotify": {
+        "id": "31qh6rnyp46xj4xvbtajvgd4scsa",
+        "name": "billygaga4real",
+        "url": "https://open.spotify.com/user/31qh6rnyp46xj4xvbtajvgd4scsa"
+      },
+      "steam": {
+        "id": "76561198003527834",
+        "name": "1989\u5e746\u67084\u65e5\u5929\u5b89\u9580\u4e8b\u4ef6",
+        "url": "https://steamcommunity.com/profiles/76561198003527834"
+      },
+      "xbox": {
+        "id": "3077774838252831",
+        "name": "billygaga2450",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=billygaga2450"
+      }
+    },
+    "legacy_username": "billllllllllllllllllllllllllllly#8757"
   }
 }
