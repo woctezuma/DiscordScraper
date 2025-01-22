@@ -95999,5 +95999,51 @@
       }
     },
     "legacy_username": "Merlock#6320"
+  },
+  "627637505835139072": {
+    "id": 627637505835139072,
+    "name": "evanwes77",
+    "nick": null,
+    "display_name": "Evan",
+    "global_name": "Evan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "(^-^)",
+    "guild_bio": null,
+    "display_bio": "(^-^)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c18170ce81a648d19865c3150815a26e",
+        "name": "Evanwes",
+        "url": null
+      },
+      "instagram": {
+        "id": "6413699982062909",
+        "name": "evan.mingle",
+        "url": "https://www.instagram.com/evan.mingle"
+      },
+      "spotify": {
+        "id": "evanwes77",
+        "name": "evanwes77",
+        "url": "https://open.spotify.com/user/evanwes77"
+      },
+      "steam": {
+        "id": "76561199045497082",
+        "name": "evanwes77",
+        "url": "https://steamcommunity.com/profiles/76561199045497082"
+      },
+      "xbox": {
+        "id": "3061576250516696",
+        "name": "Evanwes77",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Evanwes77"
+      }
+    },
+    "legacy_username": "Evanwes77#5659"
   }
 }
