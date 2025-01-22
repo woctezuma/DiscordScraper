@@ -95055,5 +95055,63 @@
       }
     },
     "legacy_username": "! Tony Unleashed#2770"
+  },
+  "225093852480929793": {
+    "id": 225093852480929793,
+    "name": "kogleru",
+    "nick": null,
+    "display_name": "Kogle",
+    "global_name": "Kogle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Kogle#0114"
+  },
+  "340964800194543636": {
+    "id": 340964800194543636,
+    "name": ".mvxi.",
+    "nick": null,
+    "display_name": "mvxi",
+    "global_name": "mvxi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " \n :dogekek:",
+    "guild_bio": null,
+    "display_bio": " \n :dogekek:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1172713364",
+        "name": "Maxi Arnold",
+        "url": "https://open.spotify.com/user/1172713364"
+      },
+      "steam": {
+        "id": "76561198060042994",
+        "name": ".mvxi.",
+        "url": "https://steamcommunity.com/profiles/76561198060042994"
+      },
+      "twitch": {
+        "id": "136421017",
+        "name": "mvxxiii_",
+        "url": "https://www.twitch.tv/mvxxiii_"
+      }
+    },
+    "legacy_username": null
   }
 }
