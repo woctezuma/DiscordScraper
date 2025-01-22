@@ -95835,5 +95835,67 @@
     ],
     "connections": {},
     "legacy_username": "Bafral\u0131#0055"
+  },
+  "666436510824005632": {
+    "id": 666436510824005632,
+    "name": "riev_",
+    "nick": null,
+    "display_name": "Riev",
+    "global_name": "Riev",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " This user is a registered tax evader. Learn more about Discord's new safety policy at https://discord.com/guidelines",
+    "guild_bio": null,
+    "display_bio": " This user is a registered tax evader. Learn more about Discord's new safety policy at https://discord.com/guidelines",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "YskRiev#1428",
+        "name": "YskRiev#1428",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199078576011",
+        "name": "Riev?",
+        "url": "https://steamcommunity.com/profiles/76561199078576011"
+      },
+      "twitch": {
+        "id": "609007474",
+        "name": "riev__",
+        "url": "https://www.twitch.tv/riev__"
+      },
+      "xbox": {
+        "id": "ZDYyYmUyM2RlNDdkMTIzM2U1NWUxN2M3ZmJjM2JiOWQ2ZTY2MzFlZWQ3MjkwOTAxN2I1MDVkZTYzZWZiY2UxMw",
+        "name": "Ysk Riev",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Ysk Riev"
+      }
+    },
+    "legacy_username": "Riev#6255"
+  },
+  "1075359464728829952": {
+    "id": 1075359464728829952,
+    "name": "eng.gt",
+    "nick": null,
+    "display_name": "GT",
+    "global_name": "GT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "GT#8386"
   }
 }
