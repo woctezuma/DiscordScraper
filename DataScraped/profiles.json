@@ -95646,5 +95646,49 @@
       }
     },
     "legacy_username": null
+  },
+  "387182107417640971": {
+    "id": 387182107417640971,
+    "name": "longregentt",
+    "nick": null,
+    "display_name": "LongRegentt",
+    "global_name": "LongRegentt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/387182107417640971/a_f363f17b25d3575d341af1665a9c2583.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/387182107417640971/a_f363f17b25d3575d341af1665a9c2583.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "LongRegentt#9192"
+  },
+  "135099568160374784": {
+    "id": 135099568160374784,
+    "name": "m4tt100",
+    "nick": null,
+    "display_name": "Capybara",
+    "global_name": "Capybara",
+    "pronouns": "Capybara",
+    "guild_pronouns": null,
+    "bio": "Capybara?",
+    "guild_bio": null,
+    "display_bio": "Capybara?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Belle Delphine#0056"
   }
 }
