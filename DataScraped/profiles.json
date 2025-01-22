@@ -94515,5 +94515,58 @@
     ],
     "connections": {},
     "legacy_username": "GummyShoes#6262"
+  },
+  "396778634523836427": {
+    "id": 396778634523836427,
+    "name": "moriforest",
+    "nick": null,
+    "display_name": "Mori",
+    "global_name": "Mori",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mori\u68ee#0575"
+  },
+  "276401877170520064": {
+    "id": 276401877170520064,
+    "name": "ewgene",
+    "nick": null,
+    "display_name": "Ewgene",
+    "global_name": "Ewgene",
+    "pronouns": "h",
+    "guild_pronouns": null,
+    "bio": "      | 27 |  | <a:wea_spin:1310165262976155680> \n      \n    https://linktr.ee/ewgene\n    aaaaaaaaaaa",
+    "guild_bio": null,
+    "display_bio": "      | 27 |  | <a:wea_spin:1310165262976155680> \n      \n    https://linktr.ee/ewgene\n    aaaaaaaaaaa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197994277501",
+        "name": "Ewgene",
+        "url": "https://steamcommunity.com/profiles/76561197994277501"
+      },
+      "youtube": {
+        "id": "UCn3Vv1dEbfblEiDlCcuNd-w",
+        "name": "Ewgene",
+        "url": "https://www.youtube.com/channel/UCn3Vv1dEbfblEiDlCcuNd-w"
+      }
+    },
+    "legacy_username": "Ewgene#0006"
   }
 }
