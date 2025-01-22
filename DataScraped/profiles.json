@@ -96278,5 +96278,25 @@
     ],
     "connections": {},
     "legacy_username": "groomer#1056"
+  },
+  "369247430065127425": {
+    "id": 369247430065127425,
+    "name": "valeryous",
+    "nick": null,
+    "display_name": "Valeryous",
+    "global_name": "Valeryous",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Valeryous#9148"
   }
 }
