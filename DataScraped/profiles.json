@@ -94766,5 +94766,32 @@
     ],
     "connections": {},
     "legacy_username": "\u043c\u0438\u0442\u044f#9580"
+  },
+  "1141143913961373736": {
+    "id": 1141143913961373736,
+    "name": "olexhko",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199006031522",
+        "name": "wruthx",
+        "url": "https://steamcommunity.com/profiles/76561199006031522"
+      }
+    },
+    "legacy_username": null
   }
 }
