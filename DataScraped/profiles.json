@@ -94042,5 +94042,32 @@
       }
     },
     "legacy_username": "Rage Spark#5821"
+  },
+  "198919846946144257": {
+    "id": 198919846946144257,
+    "name": "cocktailmolotov",
+    "nick": null,
+    "display_name": "Molotov",
+    "global_name": "Molotov",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Zombie Game/Movie Enthusiast\n\n\"This is some crazy-ass world we live in now\" - Coach, Left 4 Dead 2",
+    "guild_bio": null,
+    "display_bio": "Zombie Game/Movie Enthusiast\n\n\"This is some crazy-ass world we live in now\" - Coach, Left 4 Dead 2",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "NzNlZDYxYTNiMjY0OWVjNWEyYTJmMzU1YmRhOTNlODA4OWYwOWYzMjExNjcwNmRlYmFmMzg0NmRjYjFhNzBmOA",
+        "name": "LuckyMolotov",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LuckyMolotov"
+      }
+    },
+    "legacy_username": "\ud83d\udd25Molotov#5446"
   }
 }
