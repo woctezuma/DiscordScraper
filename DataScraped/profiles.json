@@ -96045,5 +96045,55 @@
       }
     },
     "legacy_username": "Evanwes77#5659"
+  },
+  "161514704143908865": {
+    "id": 161514704143908865,
+    "name": "chrae",
+    "nick": null,
+    "display_name": "Chrae",
+    "global_name": "Chrae",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/161514704143908865/900ac08d40ce07ed84f8dc7680e6f973.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/161514704143908865/900ac08d40ce07ed84f8dc7680e6f973.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "MLB6gpwlVTw4hphepmsFxSuBkork5XfTqoO6fPBZT4faODFxvAvGn5GkfPO9I1PYwSjQ1-gs-DDKMA",
+        "name": "Chrae",
+        "url": null
+      },
+      "riot_games": {
+        "id": "MLB6gpwlVTw4hphepmsFxSuBkork5XfTqoO6fPBZT4faODFxvAvGn5GkfPO9I1PYwSjQ1-gs-DDKMA",
+        "name": "Chrae#Chrae",
+        "url": null
+      },
+      "spotify": {
+        "id": "christyconlon",
+        "name": "christyconlon",
+        "url": "https://open.spotify.com/user/christyconlon"
+      },
+      "steam": {
+        "id": "76561198058333491",
+        "name": "Chrae",
+        "url": "https://steamcommunity.com/profiles/76561198058333491"
+      },
+      "twitch": {
+        "id": "109785470",
+        "name": "chraae",
+        "url": "https://www.twitch.tv/chraae"
+      }
+    },
+    "legacy_username": "Chrae#6969"
   }
 }
