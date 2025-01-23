@@ -96853,5 +96853,86 @@
       }
     },
     "legacy_username": null
+  },
+  "500581171873316876": {
+    "id": 500581171873316876,
+    "name": "sauze_sage",
+    "nick": null,
+    "display_name": "sauze_sage",
+    "global_name": null,
+    "pronouns": "I identify myself as a attack helicopter",
+    "guild_pronouns": null,
+    "bio": "Im fine",
+    "guild_bio": null,
+    "display_bio": "Im fine",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fuerza#4896"
+  },
+  "476204181640970272": {
+    "id": 476204181640970272,
+    "name": "withoutrain",
+    "nick": null,
+    "display_name": "Novocaine",
+    "global_name": "Novocaine",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "r3m1sl1f3",
+    "guild_bio": null,
+    "display_bio": "r3m1sl1f3",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "painCat#8425"
+  },
+  "1146980868037030009": {
+    "id": 1146980868037030009,
+    "name": "troopermodder",
+    "nick": null,
+    "display_name": "Trooper",
+    "global_name": "Trooper",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:vduoj2dlelouam4verknsb33",
+        "name": "troopermodder.bsky.social",
+        "url": null
+      },
+      "github": {
+        "id": "71110031",
+        "name": "TrooperModder",
+        "url": "https://github.com/TrooperModder"
+      },
+      "steam": {
+        "id": "76561198165241925",
+        "name": "Trooper",
+        "url": "https://steamcommunity.com/profiles/76561198165241925"
+      },
+      "twitter": {
+        "id": "1824526317351469056",
+        "name": "TrooperModder",
+        "url": "https://twitter.com/TrooperModder"
+      }
+    },
+    "legacy_username": null
   }
 }
