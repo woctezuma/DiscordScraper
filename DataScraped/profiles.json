@@ -97130,5 +97130,57 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1193387842760605796": {
+    "id": 1193387842760605796,
+    "name": "elijah0584",
+    "nick": null,
+    "display_name": "Chef Eli",
+    "global_name": "Chef Eli",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Christ Is King Simple As That\n\nElijah (Eli) A Confirmed Chef   \n\n,,Things You Don't Understand Are Scary... Right?\" - Satori Tendou",
+    "guild_bio": null,
+    "display_bio": "Christ Is King Simple As That\n\nElijah (Eli) A Confirmed Chef   \n\n,,Things You Don't Understand Are Scary... Right?\" - Satori Tendou",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31wu57tzi3jfteucjk7niljqzpee",
+        "name": "El1x",
+        "url": "https://open.spotify.com/user/31wu57tzi3jfteucjk7niljqzpee"
+      }
+    },
+    "legacy_username": null
+  },
+  "394030528023625732": {
+    "id": 394030528023625732,
+    "name": "tvrtko9958",
+    "nick": null,
+    "display_name": "Tvrtko",
+    "global_name": "Tvrtko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198193985074",
+        "name": "HardmanX - Allkeyshop",
+        "url": "https://steamcommunity.com/profiles/76561198193985074"
+      }
+    },
+    "legacy_username": "Tvrtko#9958"
   }
 }
