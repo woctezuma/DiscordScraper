@@ -98020,5 +98020,25 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1261412924199800964": {
+    "id": 1261412924199800964,
+    "name": "ra4ndust",
+    "nick": null,
+    "display_name": "ra4ndust",
+    "global_name": "ra4ndust",
+    "pronouns": "nom/nom",
+    "guild_pronouns": null,
+    "bio": "(:",
+    "guild_bio": null,
+    "display_bio": "(:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
