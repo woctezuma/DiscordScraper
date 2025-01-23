@@ -98122,5 +98122,130 @@
       }
     },
     "legacy_username": "ZamoriXIII#8826"
+  },
+  "110834095814131712": {
+    "id": 110834095814131712,
+    "name": "cressel",
+    "nick": null,
+    "display_name": "Cressel",
+    "global_name": "Cressel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/110834095814131712/a_cec8a5301b9a1e61f3f957c265c5e8fc.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/110834095814131712/a_cec8a5301b9a1e61f3f957c265c5e8fc.gif?size=512",
+    "badges": [
+      "guild_booster_lvl6",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3778ku0cjhgkcgnjumiqhncs4",
+        "name": "Cressel",
+        "url": "https://open.spotify.com/user/3778ku0cjhgkcgnjumiqhncs4"
+      }
+    },
+    "legacy_username": "Cressel#0309"
+  },
+  "308942858268704770": {
+    "id": 308942858268704770,
+    "name": "realmrvideo",
+    "nick": null,
+    "display_name": "RealMrVideo",
+    "global_name": "RealMrVideo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "old web/games/tech enthusiast",
+    "guild_bio": null,
+    "display_bio": "old web/games/tech enthusiast",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "early_supporter",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2241611078809776438",
+        "name": "RealMrVideo",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198158087723",
+        "name": "RealMrVideo",
+        "url": "https://steamcommunity.com/profiles/76561198158087723"
+      },
+      "twitch": {
+        "id": "101108443",
+        "name": "realmrvideo",
+        "url": "https://www.twitch.tv/realmrvideo"
+      },
+      "twitter": {
+        "id": "3974031094",
+        "name": "RealMrVideo",
+        "url": "https://twitter.com/RealMrVideo"
+      },
+      "xbox": {
+        "id": "3071950107965108",
+        "name": "RealMrVideo",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RealMrVideo"
+      },
+      "youtube": {
+        "id": "UCx_V12x072BKKvwL-p7TJwQ",
+        "name": "Mr. Video",
+        "url": "https://www.youtube.com/channel/UCx_V12x072BKKvwL-p7TJwQ"
+      }
+    },
+    "legacy_username": "RealMrVideo#8276"
+  },
+  "496059284736573451": {
+    "id": 496059284736573451,
+    "name": "skinzer",
+    "nick": null,
+    "display_name": "Skinzer",
+    "global_name": "Skinzer",
+    "pronouns": "skinzer",
+    "guild_pronouns": null,
+    "bio": "1 Kings 5:4\nMatt 26:41\n\nI fw you",
+    "guild_bio": null,
+    "display_bio": "1 Kings 5:4\nMatt 26:41\n\nI fw you",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "8RO8VjX-g0mjg1rnvEWlZqeAVMY4jo73gItto7kNpXiQG9MTAeknbJuFDRmRqZ4-DJClirEMX5vTqw",
+        "name": "Skinzlette",
+        "url": null
+      },
+      "riot_games": {
+        "id": "8RO8VjX-g0mjg1rnvEWlZqeAVMY4jo73gItto7kNpXiQG9MTAeknbJuFDRmRqZ4-DJClirEMX5vTqw",
+        "name": "Skinzlette#NA1",
+        "url": null
+      },
+      "spotify": {
+        "id": "goyhupiv99mxe93i169puflnt",
+        "name": "Skinzer",
+        "url": "https://open.spotify.com/user/goyhupiv99mxe93i169puflnt"
+      },
+      "steam": {
+        "id": "76561198796668515",
+        "name": "Skinzer",
+        "url": "https://steamcommunity.com/profiles/76561198796668515"
+      }
+    },
+    "legacy_username": "Skinzer#1369"
   }
 }
