@@ -96694,5 +96694,25 @@
       }
     },
     "legacy_username": "Not Toxic#1524"
+  },
+  "528306530966175744": {
+    "id": 528306530966175744,
+    "name": "theonlystarinworld.",
+    "nick": null,
+    "display_name": "star",
+    "global_name": "star",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fai.#0001"
   }
 }
