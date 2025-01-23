@@ -97331,5 +97331,84 @@
     ],
     "connections": {},
     "legacy_username": "PK#1065"
+  },
+  "385207474333941762": {
+    "id": 385207474333941762,
+    "name": "luanlana",
+    "nick": null,
+    "display_name": "luan from brazil",
+    "global_name": "luan from brazil",
+    "pronouns": "maquina de combate",
+    "guild_pronouns": null,
+    "bio": "(_\nWindows Defender is always watching",
+    "guild_bio": null,
+    "display_bio": "(_\nWindows Defender is always watching",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Bobaphtt#1197",
+        "name": "Bobaphtt#1197",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ca2bdb083a0a4968971a4518307109f1",
+        "name": "Bobaphtt",
+        "url": null
+      },
+      "github": {
+        "id": "43503842",
+        "name": "Bobaphtt",
+        "url": "https://github.com/Bobaphtt"
+      },
+      "spotify": {
+        "id": "o602y3s9bwpxd45nh6w05521j",
+        "name": "Luan Lana",
+        "url": "https://open.spotify.com/user/o602y3s9bwpxd45nh6w05521j"
+      },
+      "steam": {
+        "id": "76561198210409604",
+        "name": "luan_from_brazil",
+        "url": "https://steamcommunity.com/profiles/76561198210409604"
+      },
+      "twitch": {
+        "id": "173835219",
+        "name": "luan_from_brazil",
+        "url": "https://www.twitch.tv/luan_from_brazil"
+      },
+      "xbox": {
+        "id": "3074235157574892",
+        "name": "bobaphet2524",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=bobaphet2524"
+      }
+    },
+    "legacy_username": "luan#7166"
+  },
+  "499487489917190144": {
+    "id": 499487489917190144,
+    "name": "scally.milano",
+    "nick": null,
+    "display_name": "Tony",
+    "global_name": "Tony",
+    "pronouns": "\ud83d\udc9a",
+    "guild_pronouns": null,
+    "bio": "BEST RUST - **https://t.me/RustEmpire**\nFounder of **https://RustStats.cc**",
+    "guild_bio": null,
+    "display_bio": "BEST RUST - **https://t.me/RustEmpire**\nFounder of **https://RustStats.cc**",
+    "banner": "https://cdn.discordapp.com/banners/499487489917190144/a_1d6f59adcc5fa341fb7b88a94dad3f68.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/499487489917190144/a_1d6f59adcc5fa341fb7b88a94dad3f68.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "T\u043eny#8888"
   }
 }
