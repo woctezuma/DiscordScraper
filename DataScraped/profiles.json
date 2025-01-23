@@ -96934,5 +96934,48 @@
       }
     },
     "legacy_username": null
+  },
+  "878399161555357767": {
+    "id": 878399161555357767,
+    "name": "carrot_1181",
+    "nick": null,
+    "display_name": "Carrot1181",
+    "global_name": "Carrot1181",
+    "pronouns": "Catss!!",
+    "guild_pronouns": null,
+    "bio": "Hello, my name is Carrot, and i want to be the best gamer that ever lived.",
+    "guild_bio": null,
+    "display_bio": "Hello, my name is Carrot, and i want to be the best gamer that ever lived.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "2a509b10fd504891b400daa07698b6a0",
+        "name": "Carrot1181",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199472619509",
+        "name": "Carrot1181",
+        "url": "https://steamcommunity.com/profiles/76561199472619509"
+      },
+      "twitch": {
+        "id": "1087166781",
+        "name": "carrot1181",
+        "url": "https://www.twitch.tv/carrot1181"
+      },
+      "xbox": {
+        "id": "3071337732226292",
+        "name": "Carrot11815524",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Carrot11815524"
+      }
+    },
+    "legacy_username": "Carrot1181#4808"
   }
 }
