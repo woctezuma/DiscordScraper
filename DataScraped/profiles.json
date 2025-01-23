@@ -98712,5 +98712,155 @@
     ],
     "connections": {},
     "legacy_username": "Goodman#8922"
+  },
+  "1152302103331614850": {
+    "id": 1152302103331614850,
+    "name": "octodevv5",
+    "nick": null,
+    "display_name": "Octo.",
+    "global_name": "Octo.",
+    "pronouns": "This account has been limited until 2026",
+    "guild_pronouns": null,
+    "bio": "My Profile : https://octodev-studios.fr/\ni like :\n3D Printing, Gaming, Hacking, Cybersecurity, ect\nBruh.",
+    "guild_bio": null,
+    "display_bio": "My Profile : https://octodev-studios.fr/\ni like :\n3D Printing, Gaming, Hacking, Cybersecurity, ect\nBruh.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "e793dcbd-e194-546b-a85a-8f46753221f0",
+        "name": "YoungVulture",
+        "url": null
+      },
+      "epic_games": {
+        "id": "d84c9b33595a4252ac2a1dadad43728c",
+        "name": "Le jeux ytb",
+        "url": null
+      },
+      "github": {
+        "id": "85993872",
+        "name": "OctoDevStudios",
+        "url": "https://github.com/OctoDevStudios"
+      },
+      "paypal": {
+        "id": "ywrpIJjqntf4OLCgc4A60DRUEBjLm6XZnT9It_gLz_s",
+        "name": "OctoDev Studios",
+        "url": null
+      },
+      "reddit": {
+        "id": "lru63j9g",
+        "name": "Smooth-Dig-4500",
+        "url": "https://www.reddit.com/u/Smooth-Dig-4500"
+      },
+      "unknown_roblox": {
+        "id": "1194717914",
+        "name": "lejeux_ytb1",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199105786598",
+        "name": "OctoDev",
+        "url": "https://steamcommunity.com/profiles/76561199105786598"
+      },
+      "tiktok": {
+        "id": "a8ad696e-61ae-53c2-931e-6b04daa26189",
+        "name": "octooff",
+        "url": "https://tiktok.com/@octooff"
+      },
+      "twitch": {
+        "id": "935266682",
+        "name": "iamcoollikeclyde",
+        "url": "https://www.twitch.tv/iamcoollikeclyde"
+      },
+      "xbox": {
+        "id": "3066054772260335",
+        "name": "lejeuxytb65",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=lejeuxytb65"
+      },
+      "youtube": {
+        "id": "UCualpCLhfkifrnxtiC9xHzg",
+        "name": "OctoDev",
+        "url": "https://www.youtube.com/channel/UCualpCLhfkifrnxtiC9xHzg"
+      }
+    },
+    "legacy_username": null
+  },
+  "409863923286933506": {
+    "id": 409863923286933506,
+    "name": "patojagulla",
+    "nick": null,
+    "display_name": "patojagulla",
+    "global_name": "patojagulla",
+    "pronouns": "hola",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "971041e6-2bd1-5af1-be89-58d4b7090f03",
+        "name": "Pato12_31",
+        "url": null
+      },
+      "instagram": {
+        "id": "6879206652170002",
+        "name": "pato.1231",
+        "url": "https://www.instagram.com/pato.1231"
+      },
+      "league_of_legends": {
+        "id": "1Vo575CWbJ7u8X0oR4FZiTPajAZ5CrfrvO58nBQ70487F4PPhaPvyFIq9txN0_97yB0bfoVi_Fp6gQ",
+        "name": "patojagulla",
+        "url": null
+      },
+      "riot_games": {
+        "id": "1Vo575CWbJ7u8X0oR4FZiTPajAZ5CrfrvO58nBQ70487F4PPhaPvyFIq9txN0_97yB0bfoVi_Fp6gQ",
+        "name": "patojagulla#LAN",
+        "url": null
+      },
+      "spotify": {
+        "id": "6z6grazzbgsff2p86xxyrhc3k",
+        "name": "Patricio",
+        "url": "https://open.spotify.com/user/6z6grazzbgsff2p86xxyrhc3k"
+      },
+      "steam": {
+        "id": "76561199049459558",
+        "name": "patojagulla",
+        "url": "https://steamcommunity.com/profiles/76561199049459558"
+      }
+    },
+    "legacy_username": "Hormiga Reina#8373"
+  },
+  "586709815032807464": {
+    "id": 586709815032807464,
+    "name": "skewat",
+    "nick": null,
+    "display_name": "Skewat",
+    "global_name": "Skewat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
