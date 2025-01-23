@@ -98247,5 +98247,25 @@
       }
     },
     "legacy_username": "Skinzer#1369"
+  },
+  "293553639367245824": {
+    "id": 293553639367245824,
+    "name": "jabberwocky6914",
+    "nick": null,
+    "display_name": "Jabberwocky",
+    "global_name": "Jabberwocky",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jabberwocky#5014"
   }
 }
