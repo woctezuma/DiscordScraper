@@ -96585,5 +96585,54 @@
     ],
     "connections": {},
     "legacy_username": "Quandale Dinglebottom#2594"
+  },
+  "291581263465283585": {
+    "id": 291581263465283585,
+    "name": "darkmoon8533",
+    "nick": null,
+    "display_name": "DarkMoon",
+    "global_name": "DarkMoon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "DDarkMoonn#1266",
+        "name": "DDarkMoonn#1266",
+        "url": null
+      },
+      "reddit": {
+        "id": "2khp6juy",
+        "name": "DDarkMoonn",
+        "url": "https://www.reddit.com/u/DDarkMoonn"
+      },
+      "steam": {
+        "id": "76561198170475515",
+        "name": "yoshijr321",
+        "url": "https://steamcommunity.com/profiles/76561198170475515"
+      },
+      "twitch": {
+        "id": "141457271",
+        "name": "ddarkmoonn",
+        "url": "https://www.twitch.tv/ddarkmoonn"
+      },
+      "twitter": {
+        "id": "985316571579957248",
+        "name": "DDarkMoonn_",
+        "url": "https://twitter.com/DDarkMoonn_"
+      },
+      "youtube": {
+        "id": "UCUq-9X2HafLvA4yvAuXPd_g",
+        "name": "Christian Moon",
+        "url": "https://www.youtube.com/channel/UCUq-9X2HafLvA4yvAuXPd_g"
+      }
+    },
+    "legacy_username": null
   }
 }
