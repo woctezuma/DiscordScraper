@@ -97021,5 +97021,58 @@
     ],
     "connections": {},
     "legacy_username": "NaDoan#6755"
+  },
+  "395417799771553793": {
+    "id": 395417799771553793,
+    "name": "pyro_ryuzimaki",
+    "nick": null,
+    "display_name": "Pyro Ryuzimaki",
+    "global_name": "Pyro Ryuzimaki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Use code Fireball for 10% off @ www.dubby.gg",
+    "guild_bio": null,
+    "display_bio": "Use code Fireball for 10% off @ www.dubby.gg",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198251816514",
+        "name": "Pyro Ryuzimaki",
+        "url": "https://steamcommunity.com/profiles/76561198251816514"
+      },
+      "xbox": {
+        "id": "MWE3YWQ1NDA3NjEwNDEyM2U4N2NjZTY0MjlmZWZiZjAxMjRhYmVlOGZjZTQwYTAyODJiNzM3ZmRhNGI5MTdkZg",
+        "name": "Pyro Ryuzi",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Pyro Ryuzi"
+      }
+    },
+    "legacy_username": null
+  },
+  "498194337805500416": {
+    "id": 498194337805500416,
+    "name": "mostagen",
+    "nick": null,
+    "display_name": "Mostagen",
+    "global_name": "Mostagen",
+    "pronouns": "steam/deck",
+    "guild_pronouns": null,
+    "bio": "he/him\npl/eng \nI HATE JONATHANGD!!\n:q_::w_::e_:\n:t_::y_::r_:",
+    "guild_bio": null,
+    "display_bio": "he/him\npl/eng \nI HATE JONATHANGD!!\n:q_::w_::e_:\n:t_::y_::r_:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Mostagen#4040"
   }
 }
