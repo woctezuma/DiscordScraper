@@ -97894,5 +97894,49 @@
       }
     },
     "legacy_username": "PIGEON \u30b7#3407"
+  },
+  "229594590477418496": {
+    "id": 229594590477418496,
+    "name": "skkegiold",
+    "nick": null,
+    "display_name": "Skkegiold",
+    "global_name": "Skkegiold",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "TDAH || TEA 1\nFate/Fag\nGame Producer na @h4hstudios \nAqui diz que sou ENFJ-A, n?",
+    "guild_bio": null,
+    "display_bio": "TDAH || TEA 1\nFate/Fag\nGame Producer na @h4hstudios \nAqui diz que sou ENFJ-A, n?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "JPSKK#1037"
+  },
+  "890224722434981909": {
+    "id": 890224722434981909,
+    "name": "shinnns_",
+    "nick": null,
+    "display_name": "Mother",
+    "global_name": "Mother",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/890224722434981909/579c2d8ea9b2c76ab15ca8e7ed945537.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/890224722434981909/579c2d8ea9b2c76ab15ca8e7ed945537.png?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "SHIN'S#0161"
   }
 }
