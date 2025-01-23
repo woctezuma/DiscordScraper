@@ -96391,5 +96391,136 @@
     ],
     "connections": {},
     "legacy_username": "Lilian1024#9548"
+  },
+  "286587698209095680": {
+    "id": 286587698209095680,
+    "name": "mainpybro",
+    "nick": null,
+    "display_name": "Main Pybro",
+    "global_name": "Main Pybro",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "W68mDuFwc6iamYupsSd3OC04GfFr02NjiCK1-CBEO4jYHEGVOz0ProYTlczJ8JTGHOpZ_Y9voqJNPw",
+        "name": "MainPybro#3605",
+        "url": null
+      },
+      "riot_games": {
+        "id": "W68mDuFwc6iamYupsSd3OC04GfFr02NjiCK1-CBEO4jYHEGVOz0ProYTlczJ8JTGHOpZ_Y9voqJNPw",
+        "name": "MainPybro#3605",
+        "url": null
+      }
+    },
+    "legacy_username": "MainPybro#4489"
+  },
+  "442905442549760012": {
+    "id": 442905442549760012,
+    "name": "palooni",
+    "nick": null,
+    "display_name": "Palooni",
+    "global_name": "Palooni",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Palooni#4937"
+  },
+  "394271850823417866": {
+    "id": 394271850823417866,
+    "name": "wolfranges",
+    "nick": null,
+    "display_name": "Axel",
+    "global_name": "Axel",
+    "pronouns": "man of  demonic cultivation",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a7b03feffd634677877de3487834292c",
+        "name": "AxelChaos",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198822699969",
+        "name": "AxelChaos",
+        "url": "https://steamcommunity.com/profiles/76561198822699969"
+      }
+    },
+    "legacy_username": "WolfRanges#3306"
+  },
+  "913116192888217600": {
+    "id": 913116192888217600,
+    "name": "dispair",
+    "nick": null,
+    "display_name": "    ",
+    "global_name": "    ",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "**PERSONAL ROLES   ` BETA `**\n\n` 22 `  ` Trans-Woman ` `Taken`\n\nWelcome to My Garden!\nStarted HRT <t:1704208800:R>\nRIP mako(Freedom), U will be missed \nhttps://linktr.ee/itspuppyrose",
+    "guild_bio": null,
+    "display_bio": "**PERSONAL ROLES   ` BETA `**\n\n` 22 `  ` Trans-Woman ` `Taken`\n\nWelcome to My Garden!\nStarted HRT <t:1704208800:R>\nRIP mako(Freedom), U will be missed \nhttps://linktr.ee/itspuppyrose",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Dispair#0513"
+  },
+  "653269818895499276": {
+    "id": 653269818895499276,
+    "name": "epic_owl",
+    "nick": null,
+    "display_name": "EpicOWL",
+    "global_name": "EpicOWL",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/653269818895499276/a_9d54f3a769a8b1ad27b0ec9205fe2cdc.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/653269818895499276/a_9d54f3a769a8b1ad27b0ec9205fe2cdc.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Epic_OWL#0001"
   }
 }
