@@ -98327,5 +98327,23 @@
       }
     },
     "legacy_username": null
+  },
+  "1327953613519327263": {
+    "id": 1327953613519327263,
+    "name": "leapydipy",
+    "nick": null,
+    "display_name": "leaping",
+    "global_name": "leaping",
+    "pronouns": "he",
+    "guild_pronouns": null,
+    "bio": "() signal: astroxxie.07 \n ",
+    "guild_bio": null,
+    "display_bio": "() signal: astroxxie.07 \n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
