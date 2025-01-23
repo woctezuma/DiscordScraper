@@ -98040,5 +98040,87 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "199221645322223616": {
+    "id": 199221645322223616,
+    "name": "grzesjam",
+    "nick": null,
+    "display_name": "Greg",
+    "global_name": "Greg",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Grzesjam#1686"
+  },
+  "537779712127139870": {
+    "id": 537779712127139870,
+    "name": "zamori13",
+    "nick": null,
+    "display_name": "ZamoriXIII",
+    "global_name": "ZamoriXIII",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "Put others first and the path ahead will be clear.",
+    "guild_bio": null,
+    "display_bio": "Put others first and the path ahead will be clear.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Quakesolid#1425",
+        "name": "Quakesolid#1425",
+        "url": null
+      },
+      "facebook": {
+        "id": "10158059847505027",
+        "name": "Devon Duckworth",
+        "url": null
+      },
+      "spotify": {
+        "id": "1274783389",
+        "name": "Devon Duckworth",
+        "url": "https://open.spotify.com/user/1274783389"
+      },
+      "steam": {
+        "id": "76561198017190862",
+        "name": "ZamoriXIII",
+        "url": "https://steamcommunity.com/profiles/76561198017190862"
+      },
+      "twitch": {
+        "id": "37628622",
+        "name": "quakesolid",
+        "url": "https://www.twitch.tv/quakesolid"
+      },
+      "twitter": {
+        "id": "15790924",
+        "name": "ZamoriXIII",
+        "url": "https://twitter.com/ZamoriXIII"
+      },
+      "xbox": {
+        "id": "ODNmMTc4YTljODI3NzA5ZDIyZmQ1MGZiYmY3NzNhMjkwN2I3YmM0NzdkOTc2MzhmNDUzMGZjZDEyNDUyMzI4Yw",
+        "name": "ZamoriXIII",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ZamoriXIII"
+      },
+      "youtube": {
+        "id": "UCsvpmDWImPK2hKUz9LLsqQw",
+        "name": "Devon Duckworth",
+        "url": "https://www.youtube.com/channel/UCsvpmDWImPK2hKUz9LLsqQw"
+      }
+    },
+    "legacy_username": "ZamoriXIII#8826"
   }
 }
