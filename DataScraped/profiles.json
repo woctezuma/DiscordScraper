@@ -98692,5 +98692,25 @@
       }
     },
     "legacy_username": "iXtremeFROST#5083"
+  },
+  "553332736610402304": {
+    "id": 553332736610402304,
+    "name": "peaceofmind22",
+    "nick": null,
+    "display_name": "Asteroid",
+    "global_name": "Asteroid",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Goodman#8922"
   }
 }
