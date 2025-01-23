@@ -97510,5 +97510,147 @@
     ],
     "connections": {},
     "legacy_username": "Firdaus Zulkepli#3613"
+  },
+  "295600340164804610": {
+    "id": 295600340164804610,
+    "name": "agyrn",
+    "nick": null,
+    "display_name": "Agy",
+    "global_name": "Agy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "*In the end We all do what we must...*",
+    "guild_bio": null,
+    "display_bio": "*In the end We all do what we must...*",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Agyrn#2398"
+  },
+  "250172430339801088": {
+    "id": 250172430339801088,
+    "name": "kingedward17",
+    "nick": null,
+    "display_name": "KingEdward",
+    "global_name": "KingEdward",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " fabulous",
+    "guild_bio": null,
+    "display_bio": " fabulous",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198378301495",
+        "name": "7MU KingEdw1",
+        "url": "https://steamcommunity.com/profiles/76561198378301495"
+      }
+    },
+    "legacy_username": "KingEdward#7835"
+  },
+  "696919364946886748": {
+    "id": 696919364946886748,
+    "name": "jaozim7",
+    "nick": null,
+    "display_name": "jo",
+    "global_name": "jo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "@aemacmim:matrix.org",
+    "guild_bio": null,
+    "display_bio": "@aemacmim:matrix.org",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198280395168",
+        "name": "j\u00e3o",
+        "url": "https://steamcommunity.com/profiles/76561198280395168"
+      },
+      "xbox": {
+        "id": "ZTQxMjE5YmJhNTYyOTRhMDhjYjFmNmJkYjA2NTMzYTNiYTFjMDNiYzI4ODcxZTM0NTcyMjQyMTNjM2QwNDM0Zg",
+        "name": "sohvamo4208",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=sohvamo4208"
+      }
+    },
+    "legacy_username": "j\u00e3o#7728"
+  },
+  "970717673921060985": {
+    "id": 970717673921060985,
+    "name": "47sha",
+    "nick": null,
+    "display_name": "47Sha",
+    "global_name": "47Sha",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "3c557d52c79348869a4af04c5662affb",
+        "name": "47Sha",
+        "url": null
+      },
+      "facebook": {
+        "id": "850881368450536",
+        "name": "Shanmu",
+        "url": null
+      },
+      "reddit": {
+        "id": "11soxu5kbu",
+        "name": "47Sha",
+        "url": "https://www.reddit.com/u/47Sha"
+      },
+      "spotify": {
+        "id": "shanmu_sat",
+        "name": "shanmu",
+        "url": "https://open.spotify.com/user/shanmu_sat"
+      },
+      "steam": {
+        "id": "76561199580522893",
+        "name": "47Sha",
+        "url": "https://steamcommunity.com/profiles/76561199580522893"
+      },
+      "twitch": {
+        "id": "784368346",
+        "name": "47sha",
+        "url": "https://www.twitch.tv/47sha"
+      },
+      "twitter": {
+        "id": "990953370780250113",
+        "name": "47Sha__",
+        "url": "https://twitter.com/47Sha__"
+      },
+      "youtube": {
+        "id": "UCED3Duyd1CpoCqgMy29T8Aw",
+        "name": "47Sha",
+        "url": "https://www.youtube.com/channel/UCED3Duyd1CpoCqgMy29T8Aw"
+      }
+    },
+    "legacy_username": "dot\u039exe \ud83c\udd65#0755"
   }
 }
