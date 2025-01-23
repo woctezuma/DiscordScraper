@@ -97182,5 +97182,27 @@
       }
     },
     "legacy_username": "Tvrtko#9958"
+  },
+  "710078309366759424": {
+    "id": 710078309366759424,
+    "name": "hero.araking",
+    "nick": null,
+    "display_name": "Araking",
+    "global_name": "Araking",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl8",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "HERO-Araking#2025"
   }
 }
