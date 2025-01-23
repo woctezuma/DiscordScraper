@@ -98291,5 +98291,41 @@
     ],
     "connections": {},
     "legacy_username": "bis#0244"
+  },
+  "447196120519540736": {
+    "id": 447196120519540736,
+    "name": "wokifam",
+    "nick": null,
+    "display_name": "Marcos",
+    "global_name": "Marcos",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "a vida continua...",
+    "guild_bio": null,
+    "display_bio": "a vida continua...",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "a1a13y8417sjh0bg44o5pgu1y",
+        "name": "DaryWolf",
+        "url": "https://open.spotify.com/user/a1a13y8417sjh0bg44o5pgu1y"
+      },
+      "steam": {
+        "id": "76561198841021500",
+        "name": "Wokifam",
+        "url": "https://steamcommunity.com/profiles/76561198841021500"
+      },
+      "twitch": {
+        "id": "559219165",
+        "name": "darywolf_",
+        "url": "https://www.twitch.tv/darywolf_"
+      }
+    },
+    "legacy_username": null
   }
 }
