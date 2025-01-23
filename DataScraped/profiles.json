@@ -96714,5 +96714,28 @@
     ],
     "connections": {},
     "legacy_username": "Fai.#0001"
+  },
+  "618224633493323816": {
+    "id": 618224633493323816,
+    "name": "devilearthling",
+    "nick": null,
+    "display_name": "FruitSalad",
+    "global_name": "FruitSalad",
+    "pronouns": "She/They",
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": "https://cdn.discordapp.com/banners/618224633493323816/a_88f206965ce88daf230d3c408690c458.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/618224633493323816/a_88f206965ce88daf230d3c408690c458.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "DevilEarthling#2954"
   }
 }
