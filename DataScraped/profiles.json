@@ -98363,5 +98363,37 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "737487473327996938": {
+    "id": 737487473327996938,
+    "name": "mcarney055",
+    "nick": null,
+    "display_name": "Mcarney055",
+    "global_name": "Mcarney055",
+    "pronouns": "Monkey/Ape",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "qoqzske6drloy1f368ejr1jmv",
+        "name": "Stlmnt5",
+        "url": "https://open.spotify.com/user/qoqzske6drloy1f368ejr1jmv"
+      },
+      "xbox": {
+        "id": "3069716132040823",
+        "name": "Stlmnt054",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Stlmnt054"
+      }
+    },
+    "legacy_username": "Mcarney055#6150"
   }
 }
