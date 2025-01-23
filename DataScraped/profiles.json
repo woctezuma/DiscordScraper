@@ -97786,5 +97786,27 @@
     ],
     "connections": {},
     "legacy_username": "begula#0613"
+  },
+  "479757098796974083": {
+    "id": 479757098796974083,
+    "name": "purdo_",
+    "nick": null,
+    "display_name": "Purdo",
+    "global_name": "Purdo",
+    "pronouns": "Pur/Do",
+    "guild_pronouns": null,
+    "bio": "Y dale a la harina Marina ",
+    "guild_bio": null,
+    "display_bio": "Y dale a la harina Marina ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Purdo#4184"
   }
 }
