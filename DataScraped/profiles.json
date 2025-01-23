@@ -96737,5 +96737,43 @@
     ],
     "connections": {},
     "legacy_username": "DevilEarthling#2954"
+  },
+  "1051185355866513439": {
+    "id": 1051185355866513439,
+    "name": "butter_finger_slap",
+    "nick": null,
+    "display_name": "butter_finger_slap",
+    "global_name": null,
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199388965516",
+        "name": "Butterfingerslap",
+        "url": "https://steamcommunity.com/profiles/76561199388965516"
+      },
+      "xbox": {
+        "id": "3076087053898231",
+        "name": "butterfinger307",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=butterfinger307"
+      },
+      "youtube": {
+        "id": "UCnkYSfArMOiIzj22qGf-kCQ",
+        "name": "Gaming Jordan",
+        "url": "https://www.youtube.com/channel/UCnkYSfArMOiIzj22qGf-kCQ"
+      }
+    },
+    "legacy_username": "TTG Slayz#8478"
   }
 }
