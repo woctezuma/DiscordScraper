@@ -98914,5 +98914,54 @@
       }
     },
     "legacy_username": "7jack396#6112"
+  },
+  "261522751695618048": {
+    "id": 261522751695618048,
+    "name": "mult1v4c",
+    "nick": null,
+    "display_name": "mult1v4c",
+    "global_name": "mult1v4c",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/261522751695618048/1c95883b577e2b61d75144b8b115b1ab.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/261522751695618048/1c95883b577e2b61d75144b8b115b1ab.png?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "8d2e1fa2a11b4e12a4c7f919ff9d9d1e",
+        "name": "mult1v4c",
+        "url": null
+      },
+      "spotify": {
+        "id": "_ryuzakii",
+        "name": "aaaaaaaaa",
+        "url": "https://open.spotify.com/user/_ryuzakii"
+      },
+      "steam": {
+        "id": "76561198046711949",
+        "name": "Ryuzakii",
+        "url": "https://steamcommunity.com/profiles/76561198046711949"
+      },
+      "twitch": {
+        "id": "491357308",
+        "name": "mult1v4c",
+        "url": "https://www.twitch.tv/mult1v4c"
+      },
+      "twitter": {
+        "id": "712660649273208832",
+        "name": "_mult1v4c",
+        "url": "https://twitter.com/_mult1v4c"
+      }
+    },
+    "legacy_username": "mult1v4c#8418"
   }
 }
