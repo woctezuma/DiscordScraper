@@ -98505,5 +98505,31 @@
       }
     },
     "legacy_username": null
+  },
+  "317719594917822464": {
+    "id": 317719594917822464,
+    "name": "sepiusz",
+    "nick": null,
+    "display_name": "sepiusz",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "mw8opy7surc9ewk1jm79lawpo",
+        "name": "zdybol.ek",
+        "url": "https://open.spotify.com/user/mw8opy7surc9ewk1jm79lawpo"
+      }
+    },
+    "legacy_username": "Sepiusz#2883"
   }
 }
