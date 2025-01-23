@@ -96652,5 +96652,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "277995240911273986": {
+    "id": 277995240911273986,
+    "name": "possiblytoxic",
+    "nick": null,
+    "display_name": "Not Toxic",
+    "global_name": "Not Toxic",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "NotToxic#1916",
+        "name": "NotToxic#1916",
+        "url": null
+      },
+      "riot_games": {
+        "id": "7aqlccd5CIxZswU79xwZGJkW7sYfT8BqcaYgBHu9Yz9WOsbCi0ICZJxXIo54QsSo3hpwuiTAxrKh8w",
+        "name": "Not Toxic#2506",
+        "url": null
+      },
+      "spotify": {
+        "id": "rw2k7fnp7mmkw89l79yt5yc06",
+        "name": "Violet",
+        "url": "https://open.spotify.com/user/rw2k7fnp7mmkw89l79yt5yc06"
+      },
+      "steam": {
+        "id": "76561198811332012",
+        "name": "Not Toxic",
+        "url": "https://steamcommunity.com/profiles/76561198811332012"
+      }
+    },
+    "legacy_username": "Not Toxic#1524"
   }
 }
