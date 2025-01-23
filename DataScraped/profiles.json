@@ -97410,5 +97410,41 @@
     ],
     "connections": {},
     "legacy_username": "T\u043eny#8888"
+  },
+  "383910092627771402": {
+    "id": 383910092627771402,
+    "name": "brodykus",
+    "nick": null,
+    "display_name": "Brodykus",
+    "global_name": "Brodykus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "hBBkaHlitKzIv_bGT_arLFDA8Bc0Mnk2y44ZuOHIce-TcCaaPw1FtN1XYkLq9lTbWcuaudtfm6nH5g",
+        "name": "Broduuu#EUNE",
+        "url": null
+      },
+      "riot_games": {
+        "id": "hBBkaHlitKzIv_bGT_arLFDA8Bc0Mnk2y44ZuOHIce-TcCaaPw1FtN1XYkLq9lTbWcuaudtfm6nH5g",
+        "name": "Broduuu#EUNE",
+        "url": null
+      },
+      "xbox": {
+        "id": "3076120038760621",
+        "name": "StandoffAphid3",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=StandoffAphid3"
+      }
+    },
+    "legacy_username": "Brodykus#8352"
   }
 }
