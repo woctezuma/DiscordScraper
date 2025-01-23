@@ -97938,5 +97938,67 @@
     ],
     "connections": {},
     "legacy_username": "SHIN'S#0161"
+  },
+  "1331594582315499541": {
+    "id": 1331594582315499541,
+    "name": "faceitsara",
+    "nick": null,
+    "display_name": "FACEIT Sara",
+    "global_name": "FACEIT Sara",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "<:FACEIT:1064525959761510431> Part of the FACEIT Community Management Team <:Overwatch:1202548196161626122>",
+    "guild_bio": null,
+    "display_bio": "<:FACEIT:1064525959761510431> Part of the FACEIT Community Management Team <:Overwatch:1202548196161626122>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "1882016925816860672",
+        "name": "FACEIT_Sara",
+        "url": "https://twitter.com/FACEIT_Sara"
+      }
+    },
+    "legacy_username": null
+  },
+  "513825192502624256": {
+    "id": 513825192502624256,
+    "name": "kei.daiske",
+    "nick": null,
+    "display_name": "Fons",
+    "global_name": "Fons",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1115316733",
+        "name": "Kim Fons Dons",
+        "url": "https://open.spotify.com/user/1115316733"
+      },
+      "steam": {
+        "id": "76561198023556516",
+        "name": "hyprokinetica",
+        "url": "https://steamcommunity.com/profiles/76561198023556516"
+      },
+      "youtube": {
+        "id": "UCtCZ_NrA2yvZTF-WyYU6dMQ",
+        "name": "Kim Dons",
+        "url": "https://www.youtube.com/channel/UCtCZ_NrA2yvZTF-WyYU6dMQ"
+      }
+    },
+    "legacy_username": "Kei.daiske#7338"
   }
 }
