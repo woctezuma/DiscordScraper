@@ -97652,5 +97652,33 @@
       }
     },
     "legacy_username": "dot\u039exe \ud83c\udd65#0755"
+  },
+  "578958637486309396": {
+    "id": 578958637486309396,
+    "name": "sinarria",
+    "nick": null,
+    "display_name": "Grumpy Granny",
+    "global_name": "Grumpy Granny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Another 365 days to offend people in all kinds of different ways <:AU_pepe_hehe:759609168016572434>",
+    "guild_bio": null,
+    "display_bio": "Another 365 days to offend people in all kinds of different ways <:AU_pepe_hehe:759609168016572434>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "688kp9i51vqmlc5z04h4i5h36",
+        "name": "Givemekisses",
+        "url": "https://open.spotify.com/user/688kp9i51vqmlc5z04h4i5h36"
+      }
+    },
+    "legacy_username": "Sinarria#6650"
   }
 }
