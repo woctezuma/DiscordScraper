@@ -97204,5 +97204,41 @@
     ],
     "connections": {},
     "legacy_username": "HERO-Araking#2025"
+  },
+  "215227108916592650": {
+    "id": 215227108916592650,
+    "name": "efreak",
+    "nick": null,
+    "display_name": "Efreak",
+    "global_name": "Efreak",
+    "pronouns": "Efreak/God",
+    "guild_pronouns": null,
+    "bio": "I'm me. Duh.",
+    "guild_bio": null,
+    "display_bio": "I'm me. Duh.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "cloud.efreakbnc.net",
+        "name": "cloud.efreakbnc.net",
+        "url": null
+      },
+      "github": {
+        "id": "125647602",
+        "name": "anonderpling",
+        "url": "https://github.com/anonderpling"
+      },
+      "steam": {
+        "id": "76561198055685680",
+        "name": "Miley Verisse #HairForceOne",
+        "url": "https://steamcommunity.com/profiles/76561198055685680"
+      }
+    },
+    "legacy_username": "Efreak#6134"
   }
 }
