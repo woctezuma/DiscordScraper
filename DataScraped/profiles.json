@@ -96977,5 +96977,49 @@
       }
     },
     "legacy_username": "Carrot1181#4808"
+  },
+  "1148077116198506506": {
+    "id": 1148077116198506506,
+    "name": "starxraven",
+    "nick": null,
+    "display_name": " [ Ro'stair/Rory ] ",
+    "global_name": " [ Ro'stair/Rory ] ",
+    "pronouns": "Any pronouns",
+    "guild_pronouns": null,
+    "bio": "The mystery of human existence lies in not staying alive,\nBut in finding something to live for.\n The Brothers Karamazov ",
+    "guild_bio": null,
+    "display_bio": "The mystery of human existence lies in not staying alive,\nBut in finding something to live for.\n The Brothers Karamazov ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198805178503",
+        "name": "blancxraven",
+        "url": "https://steamcommunity.com/profiles/76561198805178503"
+      }
+    },
+    "legacy_username": null
+  },
+  "837346192995123270": {
+    "id": 837346192995123270,
+    "name": "nadoan",
+    "nick": null,
+    "display_name": "NaDoan",
+    "global_name": "NaDoan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "NaDoan#6755"
   }
 }
