@@ -98531,5 +98531,103 @@
       }
     },
     "legacy_username": "Sepiusz#2883"
+  },
+  "442259265932230656": {
+    "id": 442259265932230656,
+    "name": "masterfail",
+    "nick": null,
+    "display_name": "Kate",
+    "global_name": "Kate",
+    "pronouns": "She/her",
+    "guild_pronouns": null,
+    "bio": "Hi Im Kate,\nim 19 Years Old,\nI love listening to music \nespecially cavetown.\nIm Bi and Trans  \nPronounce are She/They\n\nLove To All My Friends <:dankHug:837074933565489162>",
+    "guild_bio": null,
+    "display_bio": "Hi Im Kate,\nim 19 Years Old,\nI love listening to music \nespecially cavetown.\nIm Bi and Trans  \nPronounce are She/They\n\nLove To All My Friends <:dankHug:837074933565489162>",
+    "banner": "https://cdn.discordapp.com/banners/442259265932230656/a_74a7aee24982fb8d5e50a24f179a3fdc.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/442259265932230656/a_74a7aee24982fb8d5e50a24f179a3fdc.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "81631578",
+        "name": "mastrerfail",
+        "url": "https://github.com/mastrerfail"
+      },
+      "league_of_legends": {
+        "id": "2FSZ1AMa20I2A2tqC1psfiwaFuBvINrlPVgaHEzPaFZtlX9g6zyIFPfT8ic8fVLvXNy2-NH8WyldDQ",
+        "name": "mast3rfail",
+        "url": null
+      },
+      "playstation": {
+        "id": "397972120507477170",
+        "name": "Masterfail_",
+        "url": null
+      },
+      "reddit": {
+        "id": "95y8o632",
+        "name": "master_fail_",
+        "url": "https://www.reddit.com/u/master_fail_"
+      },
+      "riot_games": {
+        "id": "2FSZ1AMa20I2A2tqC1psfiwaFuBvINrlPVgaHEzPaFZtlX9g6zyIFPfT8ic8fVLvXNy2-NH8WyldDQ",
+        "name": "Masterfail#0442",
+        "url": null
+      },
+      "spotify": {
+        "id": "4261sudwhusufgae87ru4zl8r",
+        "name": "Katemate",
+        "url": "https://open.spotify.com/user/4261sudwhusufgae87ru4zl8r"
+      },
+      "steam": {
+        "id": "76561198834718398",
+        "name": "masterfail_",
+        "url": "https://steamcommunity.com/profiles/76561198834718398"
+      },
+      "twitch": {
+        "id": "257157882",
+        "name": "masterfail_",
+        "url": "https://www.twitch.tv/masterfail_"
+      },
+      "youtube": {
+        "id": "UCmEJlsKQkwuQzKVbvcGjJOg",
+        "name": "Kate Burchard",
+        "url": "https://www.youtube.com/channel/UCmEJlsKQkwuQzKVbvcGjJOg"
+      }
+    },
+    "legacy_username": "Masterfail#0442"
+  },
+  "245303158878765066": {
+    "id": 245303158878765066,
+    "name": "raktajino",
+    "nick": null,
+    "display_name": "raktajino",
+    "global_name": "raktajino",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "English  OK!\nEspaol  OK!\n  ",
+    "guild_bio": null,
+    "display_bio": "English  OK!\nEspaol  OK!\n  ",
+    "banner": "https://cdn.discordapp.com/banners/245303158878765066/a_1b6e7dab663eb2ea6f54679323ef72a0.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/245303158878765066/a_1b6e7dab663eb2ea6f54679323ef72a0.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198059190436",
+        "name": "Eltanin",
+        "url": "https://steamcommunity.com/profiles/76561198059190436"
+      }
+    },
+    "legacy_username": "raktajino#5879"
   }
 }
