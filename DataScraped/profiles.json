@@ -98862,5 +98862,25 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "946140583183941693": {
+    "id": 946140583183941693,
+    "name": "nickburrows",
+    "nick": null,
+    "display_name": "Nick Lin",
+    "global_name": "Nick Lin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "nickburrows#6725"
   }
 }
