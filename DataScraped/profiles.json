@@ -96522,5 +96522,68 @@
     ],
     "connections": {},
     "legacy_username": "Epic_OWL#0001"
+  },
+  "222899628725633024": {
+    "id": 222899628725633024,
+    "name": "millionsnake",
+    "nick": null,
+    "display_name": "MillionSnake",
+    "global_name": "MillionSnake",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"The world is just an elaborate tapestry of lies. My fury will never be quelled.\"",
+    "guild_bio": null,
+    "display_bio": "\"The world is just an elaborate tapestry of lies. My fury will never be quelled.\"",
+    "banner": "https://cdn.discordapp.com/banners/222899628725633024/9dbdc3ec05e45efc09701a49da75a0f4.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/222899628725633024/9dbdc3ec05e45efc09701a49da75a0f4.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl9",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "65226474",
+        "name": "millionsnake",
+        "url": "https://github.com/millionsnake"
+      },
+      "steam": {
+        "id": "76561198987407103",
+        "name": "MillionSnake",
+        "url": "https://steamcommunity.com/profiles/76561198987407103"
+      },
+      "youtube": {
+        "id": "UC2jLpU5BiKRYiwKvrHyU73w",
+        "name": "MillionSnake",
+        "url": "https://www.youtube.com/channel/UC2jLpU5BiKRYiwKvrHyU73w"
+      }
+    },
+    "legacy_username": "MillionSnake#0001"
+  },
+  "521219710113808384": {
+    "id": 521219710113808384,
+    "name": "bandito22",
+    "nick": null,
+    "display_name": "bandito",
+    "global_name": "bandito",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "A soldier once asked Eminem if he could have his autograph. Eminem said Only if I can have yours  ",
+    "guild_bio": null,
+    "display_bio": "A soldier once asked Eminem if he could have his autograph. Eminem said Only if I can have yours  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Quandale Dinglebottom#2594"
   }
 }
