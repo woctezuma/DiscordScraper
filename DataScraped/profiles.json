@@ -98882,5 +98882,37 @@
     ],
     "connections": {},
     "legacy_username": "nickburrows#6725"
+  },
+  "308310846432346112": {
+    "id": 308310846432346112,
+    "name": "7jack396",
+    "nick": null,
+    "display_name": "7jack396",
+    "global_name": "7jack396",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "\"Ironnnnnn...         \n                   ...Lunnnng...\n                                      ...WOOOOO!\"\n- Strange gizzard people",
+    "guild_bio": null,
+    "display_bio": "\"Ironnnnnn...         \n                   ...Lunnnng...\n                                      ...WOOOOO!\"\n- Strange gizzard people",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "28el96v2xdz7jmj8r5z15x5e1",
+        "name": "7jack396",
+        "url": "https://open.spotify.com/user/28el96v2xdz7jmj8r5z15x5e1"
+      },
+      "xbox": {
+        "id": "3076378284182301",
+        "name": "Wafflord362",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Wafflord362"
+      }
+    },
+    "legacy_username": "7jack396#6112"
   }
 }
