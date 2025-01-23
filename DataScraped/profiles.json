@@ -98432,5 +98432,78 @@
       }
     },
     "legacy_username": "Minami  Yoi#8907"
+  },
+  "679675928833818677": {
+    "id": 679675928833818677,
+    "name": "vodeka5",
+    "nick": null,
+    "display_name": "   VoDeKa'   ",
+    "global_name": "   VoDeKa'   ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " VoDeKa ; LeveL 25.\n V_Corp for Life\n I create soon my Asian Lofi Coffee\n Testeur Closed & Open Beta for @UbisoftFR.\n https://vodekavodekaprod.wixsite.com/v-corp ",
+    "guild_bio": null,
+    "display_bio": " VoDeKa ; LeveL 25.\n V_Corp for Life\n I create soon my Asian Lofi Coffee\n Testeur Closed & Open Beta for @UbisoftFR.\n https://vodekavodekaprod.wixsite.com/v-corp ",
+    "banner": "https://cdn.discordapp.com/banners/679675928833818677/b897c38ede08f4f3fd5f6d84e38177eb.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/679675928833818677/b897c38ede08f4f3fd5f6d84e38177eb.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "VoDeKa#21120",
+        "name": "VoDeKa#21120",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198867306931",
+        "name": "VoDeKa",
+        "url": "https://steamcommunity.com/profiles/76561198867306931"
+      },
+      "twitch": {
+        "id": "46456218",
+        "name": "vodeka",
+        "url": "https://www.twitch.tv/vodeka"
+      },
+      "xbox": {
+        "id": "YTM0OWJmYzdlOTg1NDYxZmRkMGYzNDIyMzhjODgyMjQ2MWU5ZjMxNGFiZThiZGQyZGQ5MjI3NzBkNDI4NTNmMA",
+        "name": "VoDeKa Sparrow",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=VoDeKa Sparrow"
+      },
+      "youtube": {
+        "id": "UCtHxHw3WYxrVQq_akg2EvvA",
+        "name": "VoDeKa",
+        "url": "https://www.youtube.com/channel/UCtHxHw3WYxrVQq_akg2EvvA"
+      }
+    },
+    "legacy_username": "\u03c9 \u72d0 \u611b VoDeKa' \u611b \u72d0 \u03c9#0705"
+  },
+  "1072664446805229619": {
+    "id": 1072664446805229619,
+    "name": "nekro.man",
+    "nick": null,
+    "display_name": "ItFakingWIMDY",
+    "global_name": "ItFakingWIMDY",
+    "pronouns": "Ligma/Balls",
+    "guild_pronouns": null,
+    "bio": "Trust is like a flame, play with it and you get burned. Like fire it can be extinguished. It can leave scars. Or it can heal.",
+    "guild_bio": null,
+    "display_bio": "Trust is like a flame, play with it and you get burned. Like fire it can be extinguished. It can leave scars. Or it can heal.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3064758277823312",
+        "name": "MostFlare05",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MostFlare05"
+      }
+    },
+    "legacy_username": null
   }
 }
