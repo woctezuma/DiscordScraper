@@ -97727,5 +97727,44 @@
       }
     },
     "legacy_username": "Gameflash#2492"
+  },
+  "895689937976983593": {
+    "id": 895689937976983593,
+    "name": "4apw",
+    "nick": null,
+    "display_name": ":)pika",
+    "global_name": ":)pika",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I do youtube :bored:\n\n:batmanhmm: I like batman a lot.\nand i love ||Pikachu||\n\n:emoji_64: Ash Echoes: UID22152911 >:3",
+    "guild_bio": null,
+    "display_bio": "I do youtube :bored:\n\n:batmanhmm: I like batman a lot.\nand i love ||Pikachu||\n\n:emoji_64: Ash Echoes: UID22152911 >:3",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:t63hbtrglzndvdkz7intyi6r",
+        "name": "ogasky.bsky.social",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "383004294",
+        "name": "PPPPPPPPP12222",
+        "url": null
+      },
+      "twitter": {
+        "id": "1581965922192850944",
+        "name": "cagforg",
+        "url": "https://twitter.com/cagforg"
+      }
+    },
+    "legacy_username": "Pika#1168"
   }
 }
