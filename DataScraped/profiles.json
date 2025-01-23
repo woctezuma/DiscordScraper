@@ -97446,5 +97446,69 @@
       }
     },
     "legacy_username": "Brodykus#8352"
+  },
+  "1324414876231274507": {
+    "id": 1324414876231274507,
+    "name": "adaryn.gr",
+    "nick": null,
+    "display_name": "Adaryn",
+    "global_name": "Adaryn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "742447138293940255": {
+    "id": 742447138293940255,
+    "name": ".wow.w",
+    "nick": null,
+    "display_name": "WoW",
+    "global_name": "WoW",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3072205847871292",
+        "name": "nuusi1",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=nuusi1"
+      }
+    },
+    "legacy_username": "woww#4260"
+  },
+  "704019554002534539": {
+    "id": 704019554002534539,
+    "name": "firdauszulkepli",
+    "nick": null,
+    "display_name": "Firdaus Zulkepli",
+    "global_name": "Firdaus Zulkepli",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Firdaus Zulkepli#3613"
   }
 }
