@@ -98267,5 +98267,29 @@
     ],
     "connections": {},
     "legacy_username": "Jabberwocky#5014"
+  },
+  "228009822149279755": {
+    "id": 228009822149279755,
+    "name": "bisnotch",
+    "nick": null,
+    "display_name": "bis",
+    "global_name": "bis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "chief monkey of the internet",
+    "guild_bio": null,
+    "display_bio": "chief monkey of the internet",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "bis#0244"
   }
 }
