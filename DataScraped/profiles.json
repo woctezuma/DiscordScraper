@@ -98395,5 +98395,42 @@
       }
     },
     "legacy_username": "Mcarney055#6150"
+  },
+  "916648470725677056": {
+    "id": 916648470725677056,
+    "name": "minamiyoi",
+    "nick": null,
+    "display_name": "MinamiYoi",
+    "global_name": "MinamiYoi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "They can't get the past out of me.\nBecause they cant stop thinking about it, they try to blame me for everything that went wrong in their lives. I am sorry to say that, but Fuck them.",
+    "guild_bio": null,
+    "display_bio": "They can't get the past out of me.\nBecause they cant stop thinking about it, they try to blame me for everything that went wrong in their lives. I am sorry to say that, but Fuck them.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "i-txP7oAKN8KdEeYoFp_TzGh3LnPo_61QZsybSggbo_F_GF3D00LoBvRsCdPxFP5FCfzAYP_qfWMcg",
+        "name": "MinamiYoi",
+        "url": null
+      },
+      "playstation": {
+        "id": "2372218863844351900",
+        "name": "VoidDust1998",
+        "url": null
+      },
+      "riot_games": {
+        "id": "i-txP7oAKN8KdEeYoFp_TzGh3LnPo_61QZsybSggbo_F_GF3D00LoBvRsCdPxFP5FCfzAYP_qfWMcg",
+        "name": "MinamiYoi#DEAD",
+        "url": null
+      }
+    },
+    "legacy_username": "Minami  Yoi#8907"
   }
 }
