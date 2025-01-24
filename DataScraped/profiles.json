@@ -99986,5 +99986,26 @@
       }
     },
     "legacy_username": "Wrades#4066"
+  },
+  "312132442528153601": {
+    "id": 312132442528153601,
+    "name": "seemsfit",
+    "nick": null,
+    "display_name": "Howard Roark",
+    "global_name": "Howard Roark",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Howard Roark#9925"
   }
 }
