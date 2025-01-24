@@ -101604,5 +101604,63 @@
       }
     },
     "legacy_username": "nilesh#5413"
+  },
+  "761633160832221225": {
+    "id": 761633160832221225,
+    "name": "fav.aynn",
+    "nick": null,
+    "display_name": " Y N",
+    "global_name": " Y N",
+    "pronouns": "\u02da\u208a\u2027\ua4b0\u10d0 \u2671 \u0ed2\ua4b1 \u2027\u208a\u02da",
+    "guild_pronouns": null,
+    "bio": "( >  < )\n\n\n : . :\n  ` . \n\n\n    \n\n\n . \n\n                       \n       -    )     \n       /     |         \n  (,  ",
+    "guild_bio": null,
+    "display_bio": "( >  < )\n\n\n : . :\n  ` . \n\n\n    \n\n\n . \n\n                       \n       -    )     \n       /     |         \n  (,  ",
+    "banner": "https://cdn.discordapp.com/banners/761633160832221225/7df54947a8bc7e1e56983d3e0c813fe7.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/761633160832221225/7df54947a8bc7e1e56983d3e0c813fe7.png?size=512",
+    "badges": [
+      "hypesquad_house_2",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c82a8ddf672044b08f696cd8898c88b7",
+        "name": "corvusdoom",
+        "url": null
+      },
+      "reddit": {
+        "id": "4zvypevkm",
+        "name": "Silver-Gas-5115",
+        "url": "https://www.reddit.com/u/Silver-Gas-5115"
+      },
+      "unknown_roblox": {
+        "id": "1541113875",
+        "name": "SOLO_ERIN",
+        "url": null
+      },
+      "spotify": {
+        "id": "up9rk3bmrzg0pxtqpfnv2lx71",
+        "name": "Corvusdoom",
+        "url": "https://open.spotify.com/user/up9rk3bmrzg0pxtqpfnv2lx71"
+      },
+      "steam": {
+        "id": "76561199729738027",
+        "name": "\u300eIrenic\u300f",
+        "url": "https://steamcommunity.com/profiles/76561199729738027"
+      },
+      "twitch": {
+        "id": "977450452",
+        "name": "corvusdoom",
+        "url": "https://www.twitch.tv/corvusdoom"
+      },
+      "youtube": {
+        "id": "UCYTZIUGNDChbYTt8bqC49Vg",
+        "name": "Love Aristo / Eryn",
+        "url": "https://www.youtube.com/channel/UCYTZIUGNDChbYTt8bqC49Vg"
+      }
+    },
+    "legacy_username": null
   }
 }
