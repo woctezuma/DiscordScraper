@@ -101038,5 +101038,45 @@
       }
     },
     "legacy_username": "Cursed_Face#1023"
+  },
+  "672147919712944158": {
+    "id": 672147919712944158,
+    "name": "raul.enciu",
+    "nick": null,
+    "display_name": "raul enciu",
+    "global_name": "raul enciu",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "<t:1736290140:R>",
+    "guild_bio": null,
+    "display_bio": "<t:1736290140:R>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "fl0rentiu#9373"
+  },
+  "1151151308359880725": {
+    "id": 1151151308359880725,
+    "name": "fuyighn",
+    "nick": null,
+    "display_name": "QluoQlu",
+    "global_name": "QluoQlu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "?",
+    "guild_bio": null,
+    "display_bio": "?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
