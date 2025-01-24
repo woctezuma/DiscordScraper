@@ -101100,5 +101100,46 @@
     ],
     "connections": {},
     "legacy_username": "sloane#4570"
+  },
+  "696047507066847283": {
+    "id": 696047507066847283,
+    "name": "fajai",
+    "nick": null,
+    "display_name": "Fajai",
+    "global_name": "Fajai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fajai#1125"
+  },
+  "609784281006604318": {
+    "id": 609784281006604318,
+    "name": "bangerhund",
+    "nick": null,
+    "display_name": "BangerHund",
+    "global_name": "BangerHund",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "schokolp1#0117"
   }
 }
