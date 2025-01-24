@@ -101772,5 +101772,41 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "548687586760327170": {
+    "id": 548687586760327170,
+    "name": "blainecook14",
+    "nick": null,
+    "display_name": "MASTER_117",
+    "global_name": "MASTER_117",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198392413929",
+        "name": "Master_117",
+        "url": "https://steamcommunity.com/profiles/76561198392413929"
+      },
+      "twitch": {
+        "id": "201935021",
+        "name": "blainecook14",
+        "url": "https://www.twitch.tv/blainecook14"
+      },
+      "xbox": {
+        "id": "3073641490691837",
+        "name": "MASTER1178217",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MASTER1178217"
+      }
+    },
+    "legacy_username": "BlaineCook14#5186"
   }
 }
