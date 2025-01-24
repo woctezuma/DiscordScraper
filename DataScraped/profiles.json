@@ -100541,5 +100541,45 @@
       }
     },
     "legacy_username": "jon2r#7347"
+  },
+  "1300757001675997187": {
+    "id": 1300757001675997187,
+    "name": "alaricer",
+    "nick": null,
+    "display_name": "Alaric er",
+    "global_name": "Alaric er",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "207117110407593984": {
+    "id": 207117110407593984,
+    "name": "gobelet69",
+    "nick": null,
+    "display_name": "gobelet69",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "streamez serane",
+    "guild_bio": null,
+    "display_bio": "streamez serane",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "gubellus#9849"
   }
 }
