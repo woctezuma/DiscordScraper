@@ -99694,5 +99694,53 @@
       }
     },
     "legacy_username": "TobhyiasYA#7411"
+  },
+  "589422679354769429": {
+    "id": 589422679354769429,
+    "name": "warandcheese",
+    "nick": null,
+    "display_name": "WarAndCheese",
+    "global_name": "WarAndCheese",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "Nzc2MDBiYzJjZDkyNzcyMWJiYzU1ODhiODllYjZlZThiNzU4MmZiOGNjNDhlMzJkZjQxYmRjYjYwMzU3OGQwMQ",
+        "name": "WarAndCheese",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=WarAndCheese"
+      }
+    },
+    "legacy_username": "WarAndCheese#7497"
+  },
+  "336159870367563777": {
+    "id": 336159870367563777,
+    "name": "codedeltastorm",
+    "nick": null,
+    "display_name": "Code Deltastorm",
+    "global_name": "Code Deltastorm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "||                         \n                                \n                                           \nWhy even bother looking?||",
+    "guild_bio": null,
+    "display_bio": "||                         \n                                \n                                           \nWhy even bother looking?||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Code Deltastorm#6186"
   }
 }
