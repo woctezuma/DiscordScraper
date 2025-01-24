@@ -99538,5 +99538,36 @@
     ],
     "connections": {},
     "legacy_username": "WarmlyKalt#0627"
+  },
+  "209472062518067201": {
+    "id": 209472062518067201,
+    "name": "zamasumanzon",
+    "nick": null,
+    "display_name": "ZamasuManzon",
+    "global_name": "ZamasuManzon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1831790204398617028",
+        "name": "ZamasuManzon",
+        "url": null
+      },
+      "twitch": {
+        "id": "431728857",
+        "name": "pedraomanzon",
+        "url": "https://www.twitch.tv/pedraomanzon"
+      }
+    },
+    "legacy_username": "ZamasuManzon#9243"
   }
 }
