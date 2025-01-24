@@ -99569,5 +99569,32 @@
       }
     },
     "legacy_username": "ZamasuManzon#9243"
+  },
+  "766667893249015828": {
+    "id": 766667893249015828,
+    "name": "youravggonk",
+    "nick": null,
+    "display_name": "Tydi",
+    "global_name": "Tydi",
+    "pronouns": "adam/smasher",
+    "guild_pronouns": null,
+    "bio": "D1 Gooner",
+    "guild_bio": null,
+    "display_bio": "D1 Gooner",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3072364454219260",
+        "name": "Tydi7039",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Tydi7039"
+      }
+    },
+    "legacy_username": "ThatGermanGuy#7545"
   }
 }
