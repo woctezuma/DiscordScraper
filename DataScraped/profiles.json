@@ -101078,5 +101078,27 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "418189008808574977": {
+    "id": 418189008808574977,
+    "name": "sloan3",
+    "nick": null,
+    "display_name": "sloane",
+    "global_name": "sloane",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "im sloane",
+    "guild_bio": null,
+    "display_bio": "im sloane",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "sloane#4570"
   }
 }
