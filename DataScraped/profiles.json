@@ -99881,5 +99881,41 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1007710075810492456": {
+    "id": 1007710075810492456,
+    "name": "ilgiro09",
+    "nick": null,
+    "display_name": "IlGiro09",
+    "global_name": "IlGiro09",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "b5a0b214704f446caea0c9348266bc20",
+        "name": "IlGiro09",
+        "url": null
+      },
+      "twitch": {
+        "id": "817009442",
+        "name": "ilgiro09",
+        "url": "https://www.twitch.tv/ilgiro09"
+      },
+      "xbox": {
+        "id": "3070882663384305",
+        "name": "IlGiro09",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=IlGiro09"
+      }
+    },
+    "legacy_username": "IlGiro09#8377"
   }
 }
