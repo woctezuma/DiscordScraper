@@ -100068,5 +100068,77 @@
     ],
     "connections": {},
     "legacy_username": "KosiakS#4043"
+  },
+  "533027615087394817": {
+    "id": 533027615087394817,
+    "name": "edryer",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "l\u00e1/ele",
+    "guild_pronouns": null,
+    "bio": "eu sou real armadilha\nhttps://soundcloud.com/goiaba73/sets/2024-novembro-demos-previas",
+    "guild_bio": null,
+    "display_bio": "eu sou real armadilha\nhttps://soundcloud.com/goiaba73/sets/2024-novembro-demos-previas",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Edryer73#1446",
+        "name": "Edryer73#1446",
+        "url": null
+      },
+      "github": {
+        "id": "71218844",
+        "name": "Edryer73",
+        "url": "https://github.com/Edryer73"
+      },
+      "league_of_legends": {
+        "id": "Z5vBePt1FSauBFtjChiMniwmMvBtRBJWysvxXO-sBOk6j3LJ8zbSBfdF6ybJJzWBIdka1UnwJv-Gfg",
+        "name": "goiaba#edry",
+        "url": null
+      },
+      "reddit": {
+        "id": "82rvrmfp",
+        "name": "CoolEdryer73",
+        "url": "https://www.reddit.com/u/CoolEdryer73"
+      },
+      "riot_games": {
+        "id": "Z5vBePt1FSauBFtjChiMniwmMvBtRBJWysvxXO-sBOk6j3LJ8zbSBfdF6ybJJzWBIdka1UnwJv-Gfg",
+        "name": "goiaba#edry",
+        "url": null
+      },
+      "spotify": {
+        "id": "tzzfnzjkyu0xh5yzao7tnllku",
+        "name": "edryer",
+        "url": "https://open.spotify.com/user/tzzfnzjkyu0xh5yzao7tnllku"
+      },
+      "steam": {
+        "id": "76561198897122574",
+        "name": "Edryer Goiaba",
+        "url": "https://steamcommunity.com/profiles/76561198897122574"
+      },
+      "twitch": {
+        "id": "489485825",
+        "name": "edryer73",
+        "url": "https://www.twitch.tv/edryer73"
+      },
+      "xbox": {
+        "id": "ODRmOGJjODRhODFiZDU2NTg4OGQ2ZWU3NzQ2MmU5ZDMxNmI2ZjA3ZmI2ZDlhYzNiZDNkOGNhNDgwZTc2ZDY4Nw",
+        "name": "Edryer73",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Edryer73"
+      },
+      "youtube": {
+        "id": "UCJrWgaVKg6kf7EZB1YpbdFQ",
+        "name": "Edryer Goiaba",
+        "url": "https://www.youtube.com/channel/UCJrWgaVKg6kf7EZB1YpbdFQ"
+      }
+    },
+    "legacy_username": null
   }
 }
