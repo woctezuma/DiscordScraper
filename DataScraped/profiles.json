@@ -99596,5 +99596,103 @@
       }
     },
     "legacy_username": "ThatGermanGuy#7545"
+  },
+  "1327544766937960449": {
+    "id": 1327544766937960449,
+    "name": "yungbuygg.",
+    "nick": null,
+    "display_name": "yungbuYGG",
+    "global_name": "yungbuYGG",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "883842822787199008": {
+    "id": 883842822787199008,
+    "name": "bhook5",
+    "nick": null,
+    "display_name": "bhook5",
+    "global_name": "bhook5",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "616507539679780178",
+        "name": "bhook_5",
+        "url": null
+      },
+      "xbox": {
+        "id": "3073330111567255",
+        "name": "bhook5",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=bhook5"
+      }
+    },
+    "legacy_username": "bhook5#2610"
+  },
+  "474050943466340354": {
+    "id": 474050943466340354,
+    "name": "tobhyiasya",
+    "nick": null,
+    "display_name": "TobhyiasYA",
+    "global_name": "TobhyiasYA",
+    "pronouns": "Admiral/Hipper",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/474050943466340354/b688922ae0623417885246396f14626c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/474050943466340354/b688922ae0623417885246396f14626c.png?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "NchukeRfMWN4VUz7zXfdN7qJKee2kTbmAE6B6LkCcazuc6Yr9M0Z2KaH0-70flldWzK8g24vu1VgSQ",
+        "name": "TobhyiasYA",
+        "url": null
+      },
+      "riot_games": {
+        "id": "NchukeRfMWN4VUz7zXfdN7qJKee2kTbmAE6B6LkCcazuc6Yr9M0Z2KaH0-70flldWzK8g24vu1VgSQ",
+        "name": "TobhyiasYA#7849",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198866642659",
+        "name": "TobhyiasYA",
+        "url": "https://steamcommunity.com/profiles/76561198866642659"
+      },
+      "xbox": {
+        "id": "3069096286313756",
+        "name": "Kaua221",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Kaua221"
+      },
+      "youtube": {
+        "id": "UCitMYELy4K5wl6-JoNCxxqQ",
+        "name": "KASY",
+        "url": "https://www.youtube.com/channel/UCitMYELy4K5wl6-JoNCxxqQ"
+      }
+    },
+    "legacy_username": "TobhyiasYA#7411"
   }
 }
