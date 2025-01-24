@@ -101442,5 +101442,119 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "893548909979390012": {
+    "id": 893548909979390012,
+    "name": "gamingmimi7",
+    "nick": null,
+    "display_name": "Gaming Mimi",
+    "global_name": "Gaming Mimi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Macherib#5300"
+  },
+  "295603860989411330": {
+    "id": 295603860989411330,
+    "name": "fireflybirb",
+    "nick": null,
+    "display_name": "Anduku",
+    "global_name": "Anduku",
+    "pronouns": "Andu/Andu",
+    "guild_pronouns": null,
+    "bio": "Live fast, burn gas, eat ass",
+    "guild_bio": null,
+    "display_bio": "Live fast, burn gas, eat ass",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MomoCrystal#2158",
+        "name": "MomoCrystal#2158",
+        "url": null
+      },
+      "epic_games": {
+        "id": "1145e4692997467da72e21876bb04677",
+        "name": "RealAnduku",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "rXUnTPS0a7T76tDQMU3YsqD5tDJh_VGIrqo9uCatlP4ekNGe_dbB4jLG5HDQP-D-8ZT8xDn3jpmkiQ",
+        "name": "Anduku",
+        "url": null
+      },
+      "riot_games": {
+        "id": "rXUnTPS0a7T76tDQMU3YsqD5tDJh_VGIrqo9uCatlP4ekNGe_dbB4jLG5HDQP-D-8ZT8xDn3jpmkiQ",
+        "name": "StampyCat#Epic",
+        "url": null
+      },
+      "spotify": {
+        "id": "21564stwjnypcy3cuxzqrt36y",
+        "name": "Andu",
+        "url": "https://open.spotify.com/user/21564stwjnypcy3cuxzqrt36y"
+      },
+      "steam": {
+        "id": "76561198131399453",
+        "name": "Andu",
+        "url": "https://steamcommunity.com/profiles/76561198131399453"
+      },
+      "xbox": {
+        "id": "OWJiYmFlZTdhYTYyMjVhM2RlODNiYWQwNjY1ZWMxZTliOWE1YmIwNjNkYjMxMzc3MGExMTQ3YTU0OGNhY2Q1MQ",
+        "name": "V5009",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=V5009"
+      }
+    },
+    "legacy_username": "Andu#8029"
+  },
+  "886976210343723019": {
+    "id": 886976210343723019,
+    "name": "offbrand_zues",
+    "nick": null,
+    "display_name": "OFFBrand_Zeus",
+    "global_name": "OFFBrand_Zeus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://youtube.com/watch?v=dQw4w9WgXcQ&si=DzfnEV5qW0_iarXE",
+    "guild_bio": null,
+    "display_bio": "https://youtube.com/watch?v=dQw4w9WgXcQ&si=DzfnEV5qW0_iarXE",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4674489195264706132",
+        "name": "OFFBrand_Zues",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199523986723",
+        "name": "OFFBrand_Zeus",
+        "url": "https://steamcommunity.com/profiles/76561199523986723"
+      },
+      "twitch": {
+        "id": "733152021",
+        "name": "theghostamongtheshadows",
+        "url": "https://www.twitch.tv/theghostamongtheshadows"
+      }
+    },
+    "legacy_username": "TheGhostAmongTheShadows#3374"
   }
 }
