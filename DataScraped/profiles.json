@@ -101383,5 +101383,46 @@
       }
     },
     "legacy_username": "Atikin#3679"
+  },
+  "217647346563940353": {
+    "id": 217647346563940353,
+    "name": ".hexide",
+    "nick": null,
+    "display_name": "Hexide",
+    "global_name": "Hexide",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Hexide#5643"
+  },
+  "809423416472895569": {
+    "id": 809423416472895569,
+    "name": "trosty1",
+    "nick": null,
+    "display_name": "Charcoal",
+    "global_name": "Charcoal",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Trosty#1492"
   }
 }
