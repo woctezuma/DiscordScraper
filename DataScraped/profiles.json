@@ -100271,5 +100271,47 @@
       }
     },
     "legacy_username": "laplace#0071"
+  },
+  "359962704875749376": {
+    "id": 359962704875749376,
+    "name": "uthishunter",
+    "nick": null,
+    "display_name": "LilUthis",
+    "global_name": "LilUthis",
+    "pronouns": "His Majesty",
+    "guild_pronouns": null,
+    "bio": "Life is Process",
+    "guild_bio": null,
+    "display_bio": "Life is Process",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "yvSjt0g2CY3bXs3Bg-xi5LQY3St8pLmsli5VSRBhKxMTavWBPVrhheIhPXZLhmlTzjbWztnzfrJ-Pw",
+        "name": "Uthis#3421",
+        "url": null
+      },
+      "riot_games": {
+        "id": "yvSjt0g2CY3bXs3Bg-xi5LQY3St8pLmsli5VSRBhKxMTavWBPVrhheIhPXZLhmlTzjbWztnzfrJ-Pw",
+        "name": "Uthis#3421",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "7255247670",
+        "name": "LilUthis",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198336007832",
+        "name": "Uthis",
+        "url": "https://steamcommunity.com/profiles/76561198336007832"
+      }
+    },
+    "legacy_username": "Uthis#4317"
   }
 }
