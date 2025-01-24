@@ -100980,5 +100980,63 @@
     ],
     "connections": {},
     "legacy_username": "Wan#5668"
+  },
+  "1000762935171371028": {
+    "id": 1000762935171371028,
+    "name": "the_cotton_picker18",
+    "nick": null,
+    "display_name": "negga",
+    "global_name": "negga",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4709160256716686133",
+        "name": "toma291210",
+        "url": null
+      },
+      "reddit": {
+        "id": "10rd7jpmb0",
+        "name": "AcousticGuy18",
+        "url": "https://www.reddit.com/u/AcousticGuy18"
+      },
+      "unknown_roblox": {
+        "id": "4286991831",
+        "name": "TheGuy291210",
+        "url": null
+      },
+      "spotify": {
+        "id": "317bwhzhzowwyceziko4guo7wgte",
+        "name": "Toma2912",
+        "url": "https://open.spotify.com/user/317bwhzhzowwyceziko4guo7wgte"
+      },
+      "steam": {
+        "id": "76561199234868362",
+        "name": "TheGuy",
+        "url": "https://steamcommunity.com/profiles/76561199234868362"
+      },
+      "twitch": {
+        "id": "916789590",
+        "name": "thepaperguy69",
+        "url": "https://www.twitch.tv/thepaperguy69"
+      },
+      "twitter": {
+        "id": "1734254054908346368",
+        "name": "AcousticGuy18",
+        "url": "https://twitter.com/AcousticGuy18"
+      }
+    },
+    "legacy_username": "Cursed_Face#1023"
   }
 }
