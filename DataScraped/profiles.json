@@ -100607,5 +100607,61 @@
       }
     },
     "legacy_username": null
+  },
+  "797506436120576031": {
+    "id": 797506436120576031,
+    "name": "samueleantonelli",
+    "nick": null,
+    "display_name": "darkbulldozer",
+    "global_name": "darkbulldozer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Samuele Antonelli#7666"
+  },
+  "975038173036027984": {
+    "id": 975038173036027984,
+    "name": "huykohony3243",
+    "nick": null,
+    "display_name": "Huy K Hny",
+    "global_name": "Huy K Hny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "334642136081367040": {
+    "id": 334642136081367040,
+    "name": "amyu",
+    "nick": null,
+    "display_name": "Amy",
+    "global_name": "Amy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
