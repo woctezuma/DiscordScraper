@@ -99373,5 +99373,150 @@
     ],
     "connections": {},
     "legacy_username": "KandyClo#1791"
+  },
+  "419860941572669443": {
+    "id": 419860941572669443,
+    "name": "twitchtobi4show382749853",
+    "nick": null,
+    "display_name": "TwitchTobi4Show",
+    "global_name": "TwitchTobi4Show",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "\u7d55\u975e#3588",
+        "name": "\u7d55\u975e#3588",
+        "url": null
+      },
+      "facebook": {
+        "id": "5811152332238425",
+        "name": "\u6df1\u6d77\u4e4b\u4e16",
+        "url": null
+      },
+      "reddit": {
+        "id": "thirbvrk",
+        "name": "Existing_Hope2594",
+        "url": "https://www.reddit.com/u/Existing_Hope2594"
+      },
+      "steam": {
+        "id": "76561198343015581",
+        "name": "a2154075",
+        "url": "https://steamcommunity.com/profiles/76561198343015581"
+      },
+      "twitch": {
+        "id": "835195015",
+        "name": "tobi4show",
+        "url": "https://www.twitch.tv/tobi4show"
+      },
+      "xbox": {
+        "id": "3065964800583516",
+        "name": "MarsupialEmu9",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MarsupialEmu9"
+      }
+    },
+    "legacy_username": "TwitchTobi4Show(382749853#0345"
+  },
+  "418839590057672705": {
+    "id": 418839590057672705,
+    "name": "_xen._",
+    "nick": null,
+    "display_name": "xen",
+    "global_name": "xen",
+    "pronouns": "xen",
+    "guild_pronouns": null,
+    "bio": "8 / *$*  \ni animate (sometimes)\nhttps://open.spotify.com/intl-es/track/1Vp4St7JcXaUoJcIahtf3L?si=ea31e280be8f49ca",
+    "guild_bio": null,
+    "display_bio": "8 / *$*  \ni animate (sometimes)\nhttps://open.spotify.com/intl-es/track/1Vp4St7JcXaUoJcIahtf3L?si=ea31e280be8f49ca",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "912346564",
+        "name": "ko73k",
+        "url": null
+      },
+      "spotify": {
+        "id": "0vkwuq2vzd366foe55jpbjg2s",
+        "name": "\ud835\udd86\ud835\udd91\ud835\udd8a",
+        "url": "https://open.spotify.com/user/0vkwuq2vzd366foe55jpbjg2s"
+      },
+      "steam": {
+        "id": "76561199022718294",
+        "name": "xen",
+        "url": "https://steamcommunity.com/profiles/76561199022718294"
+      }
+    },
+    "legacy_username": null
+  },
+  "735366053466734622": {
+    "id": 735366053466734622,
+    "name": "alingguri",
+    "nick": null,
+    "display_name": "Aliza",
+    "global_name": "Aliza",
+    "pronouns": "Wallmart bag",
+    "guild_pronouns": null,
+    "bio": "Aliza/Orbz  \n> Any pronounce\n> I'm in fandoms\n> ENFP\n",
+    "guild_bio": null,
+    "display_bio": "Aliza/Orbz  \n> Any pronounce\n> I'm in fandoms\n> ENFP\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199219379596",
+        "name": "OrbzPurple",
+        "url": "https://steamcommunity.com/profiles/76561199219379596"
+      },
+      "xbox": {
+        "id": "OTE2NWI2ODI2MmRjNWQ4YWYyNDc3N2QwODMzODQ3OGMyODM3MmYzZDYxZTRmZmQwYTU3Y2NjNjViMzY0MjBlNQ",
+        "name": "Alixates",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Alixates"
+      },
+      "youtube": {
+        "id": "UCw8bFRgVM9xOb7Xh8b-z-_A",
+        "name": "Alixates",
+        "url": "https://www.youtube.com/channel/UCw8bFRgVM9xOb7Xh8b-z-_A"
+      }
+    },
+    "legacy_username": "Alingguri#3542"
+  },
+  "743527343993389116": {
+    "id": 743527343993389116,
+    "name": "averagebowlofsoup",
+    "nick": null,
+    "display_name": "AverageBowlofSoup",
+    "global_name": "AverageBowlofSoup",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "FallenAG#2735"
   }
 }
