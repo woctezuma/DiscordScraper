@@ -101345,5 +101345,43 @@
     ],
     "connections": {},
     "legacy_username": "eX#4146"
+  },
+  "292719713673281537": {
+    "id": 292719713673281537,
+    "name": ".atikin",
+    "nick": null,
+    "display_name": "Atikin",
+    "global_name": "Atikin",
+    "pronouns": "\ud83d\uddff",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "injin1vxals4kohewok8747tc",
+        "name": "Atik1n",
+        "url": "https://open.spotify.com/user/injin1vxals4kohewok8747tc"
+      },
+      "steam": {
+        "id": "76561198108981102",
+        "name": "Atikin",
+        "url": "https://steamcommunity.com/profiles/76561198108981102"
+      },
+      "twitch": {
+        "id": "44314328",
+        "name": "atikingd",
+        "url": "https://www.twitch.tv/atikingd"
+      }
+    },
+    "legacy_username": "Atikin#3679"
   }
 }
