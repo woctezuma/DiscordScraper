@@ -100409,5 +100409,95 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "558716526694236160": {
+    "id": 558716526694236160,
+    "name": "eldingeald",
+    "nick": null,
+    "display_name": "Eldingato",
+    "global_name": "Eldingato",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": " Author of the Obilith Archives\n Average Sartre enjoyer \n Licensed Hater\n\nhttps://linktr.ee/tomwouters?utm_source=linktree_admin_share",
+    "guild_bio": null,
+    "display_bio": " Author of the Obilith Archives\n Average Sartre enjoyer \n Licensed Hater\n\nhttps://linktr.ee/tomwouters?utm_source=linktree_admin_share",
+    "banner": "https://cdn.discordapp.com/banners/558716526694236160/a_5a0edbd12e095e59e3a848275c32df04.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/558716526694236160/a_5a0edbd12e095e59e3a848275c32df04.gif?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3070969024777105",
+        "name": "Tman6300",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Tman6300"
+      }
+    },
+    "legacy_username": "Eldingeald#4077"
+  },
+  "1022487875465527327": {
+    "id": 1022487875465527327,
+    "name": "stefanos47",
+    "nick": null,
+    "display_name": "stefanos47",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "stefanos110#2835",
+        "name": "stefanos110#2835",
+        "url": null
+      },
+      "epic_games": {
+        "id": "c6b2d86df3c14475be006aecf86056ed",
+        "name": "STEFANOS110111",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "7043162126",
+        "name": "STEFANOS1147",
+        "url": null
+      },
+      "spotify": {
+        "id": "31empsnnd42cjbu56cj4iw7oiyue",
+        "name": "_stefanos_s_",
+        "url": "https://open.spotify.com/user/31empsnnd42cjbu56cj4iw7oiyue"
+      },
+      "steam": {
+        "id": "76561199103470386",
+        "name": "stsekkas",
+        "url": "https://steamcommunity.com/profiles/76561199103470386"
+      },
+      "tiktok": {
+        "id": "1dcd967b-5ca8-5905-a8f7-e31666fe5a27",
+        "name": "sekkasss",
+        "url": "https://tiktok.com/@sekkasss"
+      },
+      "twitch": {
+        "id": "1150710700",
+        "name": "stefanos1147",
+        "url": "https://www.twitch.tv/stefanos1147"
+      },
+      "youtube": {
+        "id": "UCF57lAax-bJz2sA1ftbHrzg",
+        "name": "stefo gaming",
+        "url": "https://www.youtube.com/channel/UCF57lAax-bJz2sA1ftbHrzg"
+      }
+    },
+    "legacy_username": "stefanos47#1130"
   }
 }
