@@ -100581,5 +100581,31 @@
     ],
     "connections": {},
     "legacy_username": "gubellus#9849"
+  },
+  "224039415880744960": {
+    "id": 224039415880744960,
+    "name": "ivo922",
+    "nick": null,
+    "display_name": "Ivo",
+    "global_name": "Ivo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ubw178",
+        "name": "ivo",
+        "url": "https://open.spotify.com/user/ubw178"
+      }
+    },
+    "legacy_username": null
   }
 }
