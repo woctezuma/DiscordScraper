@@ -101283,5 +101283,67 @@
       }
     },
     "legacy_username": "ASHAN#0187"
+  },
+  "690836847441608764": {
+    "id": 690836847441608764,
+    "name": "daniel.fortesque",
+    "nick": null,
+    "display_name": "Daniel Fortesque",
+    "global_name": "Daniel Fortesque",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Limitless",
+    "guild_bio": null,
+    "display_bio": "Limitless",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "DanielFort#2596",
+        "name": "DanielFort#2596",
+        "url": null
+      },
+      "epic_games": {
+        "id": "faf42e88c9324c16b97ffbcdf481e3a2",
+        "name": "DanieIFortesque",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198077826600",
+        "name": "Daniel Fortesque",
+        "url": "https://steamcommunity.com/profiles/76561198077826600"
+      },
+      "xbox": {
+        "id": "3061882649242607",
+        "name": "DenielFortesque",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DenielFortesque"
+      }
+    },
+    "legacy_username": "Daniel Fortesque#0283"
+  },
+  "325471543251566592": {
+    "id": 325471543251566592,
+    "name": "chex01",
+    "nick": null,
+    "display_name": "Ex",
+    "global_name": "Ex",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "eX#4146"
   }
 }
