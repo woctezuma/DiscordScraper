@@ -99742,5 +99742,32 @@
     ],
     "connections": {},
     "legacy_username": "Code Deltastorm#6186"
+  },
+  "99036778912022528": {
+    "id": 99036778912022528,
+    "name": "cblade",
+    "nick": null,
+    "display_name": "CBlade",
+    "global_name": "CBlade",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "95928534",
+        "name": "cbblade36",
+        "url": "https://www.twitch.tv/cbblade36"
+      }
+    },
+    "legacy_username": "CBlade#8451"
   }
 }
