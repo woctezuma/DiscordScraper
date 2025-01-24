@@ -99314,5 +99314,64 @@
       }
     },
     "legacy_username": "Hasigao#1225"
+  },
+  "315305897880715265": {
+    "id": 315305897880715265,
+    "name": "luizgcamaral",
+    "nick": null,
+    "display_name": "guga",
+    "global_name": "guga",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "?",
+    "guild_bio": null,
+    "display_bio": "?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "Gv_58MXlfV1W_I6ehw6NQUHJcVK90kzuu2O6Wyvvk5a4wCfwFkXm_JGcy0rkFL1Z9z9J8igA9F_j4w",
+        "name": "chaves del ocho",
+        "url": null
+      },
+      "spotify": {
+        "id": "jb7gq2slp1m5ezpelwvtqhgrr",
+        "name": "Gustavo Amaral",
+        "url": "https://open.spotify.com/user/jb7gq2slp1m5ezpelwvtqhgrr"
+      },
+      "steam": {
+        "id": "76561198353295533",
+        "name": "guga",
+        "url": "https://steamcommunity.com/profiles/76561198353295533"
+      }
+    },
+    "legacy_username": "guga#4184"
+  },
+  "691080586420551772": {
+    "id": 691080586420551772,
+    "name": "clovermon",
+    "nick": null,
+    "display_name": "Cloverpawn",
+    "global_name": "Cloverpawn",
+    "pronouns": "She/They",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/691080586420551772/bfb440d2a3c1e174dbb31f747ebdfd0f.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/691080586420551772/bfb440d2a3c1e174dbb31f747ebdfd0f.png?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "KandyClo#1791"
   }
 }
