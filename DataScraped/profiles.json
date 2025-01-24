@@ -99807,5 +99807,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "499255690318315521": {
+    "id": 499255690318315521,
+    "name": "itzsam6662",
+    "nick": null,
+    "display_name": "ItzSam",
+    "global_name": "ItzSam",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3mn2ffrqwuc4k81s5cmwr0ryq",
+        "name": "SAM",
+        "url": "https://open.spotify.com/user/3mn2ffrqwuc4k81s5cmwr0ryq"
+      },
+      "twitch": {
+        "id": "675867224",
+        "name": "itzsam31",
+        "url": "https://www.twitch.tv/itzsam31"
+      },
+      "youtube": {
+        "id": "UCj0KOE9QCVs4U27V5URzkkw",
+        "name": "Sam",
+        "url": "https://www.youtube.com/channel/UCj0KOE9QCVs4U27V5URzkkw"
+      }
+    },
+    "legacy_username": "ItzSam#6662"
   }
 }
