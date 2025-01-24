@@ -100331,5 +100331,45 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "518391172524277766": {
+    "id": 518391172524277766,
+    "name": "scoccyx",
+    "nick": null,
+    "display_name": "Scoccyx",
+    "global_name": "Scoccyx",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Scoccyx#9779"
+  },
+  "1301257539484127256": {
+    "id": 1301257539484127256,
+    "name": "tesak103",
+    "nick": null,
+    "display_name": "Tesak103",
+    "global_name": "Tesak103",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
