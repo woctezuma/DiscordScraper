@@ -101680,5 +101680,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1329240665636343919": {
+    "id": 1329240665636343919,
+    "name": "derrick_66678",
+    "nick": null,
+    "display_name": "derrick",
+    "global_name": "derrick",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "689038871387832398": {
+    "id": 689038871387832398,
+    "name": "thylakoi",
+    "nick": null,
+    "display_name": "Thylakoi",
+    "global_name": "Thylakoi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Moon.#8774"
   }
 }
