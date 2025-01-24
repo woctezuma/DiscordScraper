@@ -99518,5 +99518,25 @@
     ],
     "connections": {},
     "legacy_username": "FallenAG#2735"
+  },
+  "744805880171724890": {
+    "id": 744805880171724890,
+    "name": "warmlycold",
+    "nick": null,
+    "display_name": "Warmly Cold",
+    "global_name": "Warmly Cold",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "INFP ~The Dreamer~",
+    "guild_bio": null,
+    "display_bio": "INFP ~The Dreamer~",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "WarmlyKalt#0627"
   }
 }
