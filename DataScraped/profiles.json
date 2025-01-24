@@ -98963,5 +98963,114 @@
       }
     },
     "legacy_username": "mult1v4c#8418"
+  },
+  "234103280677027841": {
+    "id": 234103280677027841,
+    "name": "munkeeeee",
+    "nick": null,
+    "display_name": "Munkee",
+    "global_name": "Munkee",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Taken by Stella ",
+    "guild_bio": null,
+    "display_bio": "Taken by Stella ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "RobotMurloc#1136",
+        "name": "RobotMurloc#1136",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "938066da-9ffa-54ca-bbe7-2fd2077fb711",
+        "name": "Munkeee",
+        "url": null
+      },
+      "reddit": {
+        "id": "29ppiou8",
+        "name": "TheKillerFish666",
+        "url": "https://www.reddit.com/u/TheKillerFish666"
+      },
+      "spotify": {
+        "id": "fjgs8lzelf2g8m3644tja5k27",
+        "name": "Mr.Guy",
+        "url": "https://open.spotify.com/user/fjgs8lzelf2g8m3644tja5k27"
+      },
+      "steam": {
+        "id": "76561198308627404",
+        "name": "latta.taylor",
+        "url": "https://steamcommunity.com/profiles/76561198308627404"
+      },
+      "twitch": {
+        "id": "205206385",
+        "name": "pallyparrot",
+        "url": "https://www.twitch.tv/pallyparrot"
+      },
+      "xbox": {
+        "id": "7SQ4-tEK7DhsKsMlPzA3M2swza9DKxUVSuN-H3OTMSw",
+        "name": "TheKillerFish66",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TheKillerFish66"
+      }
+    },
+    "legacy_username": "Munkee#1360"
+  },
+  "1248461874882940940": {
+    "id": 1248461874882940940,
+    "name": "aidanthewarr_22154",
+    "nick": null,
+    "display_name": "AidanWar",
+    "global_name": "AidanWar",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "512417479012646932": {
+    "id": 512417479012646932,
+    "name": "eatmyash",
+    "nick": null,
+    "display_name": "EatMyAsh",
+    "global_name": "EatMyAsh",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "[ REDACTED ]",
+    "guild_bio": null,
+    "display_bio": "[ REDACTED ]",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199101384663",
+        "name": "asher-dat-boi",
+        "url": "https://steamcommunity.com/profiles/76561199101384663"
+      },
+      "xbox": {
+        "id": "MjU1YTljNTg4MDY2MDU2M2FiNGU2YTkyMWIwZTE2MTM4ODk3YmZhMDBkNWI2ZGI2YWRjZWI4ZjE3ZTBjYjc0Zg",
+        "name": "Arsonist3540",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Arsonist3540"
+      }
+    },
+    "legacy_username": "EatMyAsh#5884"
   }
 }
