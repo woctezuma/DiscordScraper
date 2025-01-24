@@ -100843,5 +100843,42 @@
     ],
     "connections": {},
     "legacy_username": "Boogeyman#2903"
+  },
+  "974344424266006558": {
+    "id": 974344424266006558,
+    "name": "borubar07",
+    "nick": null,
+    "display_name": "Borubar",
+    "global_name": "Borubar",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31f7cincchmyzq7gkcz2hp2ura6e",
+        "name": "Maciek Skibniewski",
+        "url": "https://open.spotify.com/user/31f7cincchmyzq7gkcz2hp2ura6e"
+      },
+      "steam": {
+        "id": "76561198803383799",
+        "name": "Sundacz Pospolity",
+        "url": "https://steamcommunity.com/profiles/76561198803383799"
+      },
+      "tiktok": {
+        "id": "cd6e60a1-1c82-5629-b097-2a1c8bfa43d8",
+        "name": "fabia.goat",
+        "url": "https://tiktok.com/@fabia.goat"
+      }
+    },
+    "legacy_username": "Borubar 0,7#7557"
   }
 }
