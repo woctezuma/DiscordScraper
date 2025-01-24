@@ -100960,5 +100960,25 @@
       }
     },
     "legacy_username": "shelter#0001"
+  },
+  "1064760911769894922": {
+    "id": 1064760911769894922,
+    "name": "wan0o0o",
+    "nick": null,
+    "display_name": "Wan",
+    "global_name": "Wan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Wan#5668"
   }
 }
