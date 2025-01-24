@@ -99935,5 +99935,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1332258134898507898": {
+    "id": 1332258134898507898,
+    "name": "zenithshadee",
+    "nick": null,
+    "display_name": "ZenithShade",
+    "global_name": "ZenithShade",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "527543439298920448": {
+    "id": 527543439298920448,
+    "name": "wrades",
+    "nick": null,
+    "display_name": "Wrades",
+    "global_name": "Wrades",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "||You know who I am.||",
+    "guild_bio": null,
+    "display_bio": "||You know who I am.||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "elliotward906",
+        "name": "Wrades",
+        "url": "https://open.spotify.com/user/elliotward906"
+      },
+      "steam": {
+        "id": "76561198315954542",
+        "name": "Wrades",
+        "url": "https://steamcommunity.com/profiles/76561198315954542"
+      }
+    },
+    "legacy_username": "Wrades#4066"
   }
 }
