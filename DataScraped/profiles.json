@@ -99769,5 +99769,25 @@
       }
     },
     "legacy_username": "CBlade#8451"
+  },
+  "447447309370916864": {
+    "id": 447447309370916864,
+    "name": "_hafidh",
+    "nick": null,
+    "display_name": "hafidh",
+    "global_name": "hafidh",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "hafidh#9351"
   }
 }
