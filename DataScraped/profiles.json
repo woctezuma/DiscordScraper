@@ -100007,5 +100007,46 @@
     ],
     "connections": {},
     "legacy_username": "Howard Roark#9925"
+  },
+  "1228556348891992074": {
+    "id": 1228556348891992074,
+    "name": "_weirdduck",
+    "nick": null,
+    "display_name": "weirdduck",
+    "global_name": "weirdduck",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i am currently living in vine wood hills and i will move to vice city this year",
+    "guild_bio": null,
+    "display_bio": "i am currently living in vine wood hills and i will move to vice city this year",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "0254754b5ed340bca0ff97f8634bc52a",
+        "name": "the_weird_duck23",
+        "url": null
+      },
+      "github": {
+        "id": "171875047",
+        "name": "Weirdduck23",
+        "url": "https://github.com/Weirdduck23"
+      },
+      "spotify": {
+        "id": "31hftccuj5hamdxkdwb4vyfuoaie",
+        "name": "Sean Kerr",
+        "url": "https://open.spotify.com/user/31hftccuj5hamdxkdwb4vyfuoaie"
+      },
+      "twitch": {
+        "id": "940102684",
+        "name": "the_weird_duck23",
+        "url": "https://www.twitch.tv/the_weird_duck23"
+      }
+    },
+    "legacy_username": null
   }
 }
