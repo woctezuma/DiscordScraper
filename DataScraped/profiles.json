@@ -100499,5 +100499,47 @@
       }
     },
     "legacy_username": "stefanos47#1130"
+  },
+  "137389790260625408": {
+    "id": 137389790260625408,
+    "name": "jon2r",
+    "nick": null,
+    "display_name": "Jon2R",
+    "global_name": "Jon2R",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7280087955199027015",
+        "name": "JON2R",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198030136105",
+        "name": "eLMoalim",
+        "url": "https://steamcommunity.com/profiles/76561198030136105"
+      },
+      "twitch": {
+        "id": "21139063",
+        "name": "jon2r",
+        "url": "https://www.twitch.tv/jon2r"
+      },
+      "xbox": {
+        "id": "3066142637469996",
+        "name": "Jon2R",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Jon2R"
+      }
+    },
+    "legacy_username": "jon2r#7347"
   }
 }
