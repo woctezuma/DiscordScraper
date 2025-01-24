@@ -100313,5 +100313,23 @@
       }
     },
     "legacy_username": "Uthis#4317"
+  },
+  "1332308468299857923": {
+    "id": 1332308468299857923,
+    "name": "mirthscorpio",
+    "nick": null,
+    "display_name": "scorp",
+    "global_name": "scorp",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
