@@ -101141,5 +101141,47 @@
     ],
     "connections": {},
     "legacy_username": "schokolp1#0117"
+  },
+  "1002534258327425107": {
+    "id": 1002534258327425107,
+    "name": "theabf",
+    "nick": null,
+    "display_name": "ABF",
+    "global_name": "ABF",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "NumB",
+    "guild_bio": null,
+    "display_bio": "NumB",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "ec206fc7a7ad43e88fb81cb84c6bd236",
+        "name": "The ABF",
+        "url": null
+      },
+      "spotify": {
+        "id": "31epfublwqynq7volswpgljnl3qm",
+        "name": "-ABF",
+        "url": "https://open.spotify.com/user/31epfublwqynq7volswpgljnl3qm"
+      },
+      "steam": {
+        "id": "76561199199719637",
+        "name": "ABF",
+        "url": "https://steamcommunity.com/profiles/76561199199719637"
+      },
+      "xbox": {
+        "id": "3068759818657027",
+        "name": "HajABF",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HajABF"
+      }
+    },
+    "legacy_username": null
   }
 }
