@@ -100048,5 +100048,25 @@
       }
     },
     "legacy_username": null
+  },
+  "223420143944990720": {
+    "id": 223420143944990720,
+    "name": "kosiaks",
+    "nick": null,
+    "display_name": "KosiakS",
+    "global_name": "KosiakS",
+    "pronouns": "\u0415\u0433\u043e \u0441\u0432\u044f\u0442\u0435\u0439\u0448\u0435\u0441\u0442\u0432\u043e",
+    "guild_pronouns": null,
+    "bio": "**   Alkad**\n> https://discord.gg/QcGFtgCP\n\n**    Alkad**\n> https://discord.gg/fdPJDxY",
+    "guild_bio": null,
+    "display_bio": "**   Alkad**\n> https://discord.gg/QcGFtgCP\n\n**    Alkad**\n> https://discord.gg/fdPJDxY",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "KosiakS#4043"
   }
 }
