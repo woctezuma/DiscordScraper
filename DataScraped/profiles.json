@@ -100140,5 +100140,68 @@
       }
     },
     "legacy_username": null
+  },
+  "112023553880158208": {
+    "id": 112023553880158208,
+    "name": "kiumaru",
+    "nick": null,
+    "display_name": "Kiumaru",
+    "global_name": "Kiumaru",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Kiumaru#1890",
+        "name": "Kiumaru#1890",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198050731600",
+        "name": "Kiumaru",
+        "url": "https://steamcommunity.com/profiles/76561198050731600"
+      },
+      "twitch": {
+        "id": "51737706",
+        "name": "kiumaru",
+        "url": "https://www.twitch.tv/kiumaru"
+      },
+      "youtube": {
+        "id": "UC8gHrjWsiqpllasLygiyDAw",
+        "name": "Kiumaru",
+        "url": "https://www.youtube.com/channel/UC8gHrjWsiqpllasLygiyDAw"
+      }
+    },
+    "legacy_username": "Kiumaru#5246"
+  },
+  "1024825963734896700": {
+    "id": 1024825963734896700,
+    "name": "not_oogway",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
