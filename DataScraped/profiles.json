@@ -100663,5 +100663,116 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "184159168838500353": {
+    "id": 184159168838500353,
+    "name": "shadowknight00",
+    "nick": null,
+    "display_name": "shadowknight",
+    "global_name": "shadowknight",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "shadowknight#7872"
+  },
+  "556987022284292100": {
+    "id": 556987022284292100,
+    "name": "covidcioso",
+    "nick": null,
+    "display_name": "Covidcioso",
+    "global_name": "Covidcioso",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "monko#1229",
+        "name": "monko#1229",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "858cb535-59e0-5eb9-8ba3-eef6b950051e",
+        "name": "Covidcioso",
+        "url": null
+      },
+      "ebay": {
+        "id": "b8dx6rsjtlq",
+        "name": "covidcioso",
+        "url": "https://www.ebay.com/usr/covidcioso"
+      },
+      "epic_games": {
+        "id": "f5a97cd12ada46d9b0bce547af8df19d",
+        "name": "Covidcioso",
+        "url": null
+      },
+      "github": {
+        "id": "151988143",
+        "name": "Covidcioso",
+        "url": "https://github.com/Covidcioso"
+      },
+      "instagram": {
+        "id": "6751309718251254",
+        "name": "oscarleonramirezdelapava",
+        "url": "https://www.instagram.com/oscarleonramirezdelapava"
+      },
+      "league_of_legends": {
+        "id": "2bstYwxJUcEWJDt2-lveRXgFYLItZSMDSEM24LXoH04TX7-fxR2XWlhYr3Fv8zqoUh904GR75-OPBg",
+        "name": "covidciozo",
+        "url": null
+      },
+      "reddit": {
+        "id": "lscngy71d",
+        "name": "Kovidcioso",
+        "url": "https://www.reddit.com/u/Kovidcioso"
+      },
+      "riot_games": {
+        "id": "2bstYwxJUcEWJDt2-lveRXgFYLItZSMDSEM24LXoH04TX7-fxR2XWlhYr3Fv8zqoUh904GR75-OPBg",
+        "name": "Covidcioso#4614",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198208111120",
+        "name": "Don Giovanni",
+        "url": "https://steamcommunity.com/profiles/76561198208111120"
+      },
+      "tiktok": {
+        "id": "fd7faca6-fd05-517a-9a85-fa8bb3bf1c6e",
+        "name": "covidcioso",
+        "url": "https://tiktok.com/@covidcioso"
+      },
+      "twitch": {
+        "id": "93118211",
+        "name": "pavanini",
+        "url": "https://www.twitch.tv/pavanini"
+      },
+      "xbox": {
+        "id": "MjU4YWRjNmE3ZTEwYzYwNjU4M2QzMTRhNjU1M2ViZjVmNjgzZmE0ZGUwZWZhYWU3MWZmMzBjMmE1YWRmOTg4Mg",
+        "name": "pavanninni",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=pavanninni"
+      },
+      "youtube": {
+        "id": "UCarmdqYXYaeJSO3pK8gs8xg",
+        "name": "Oscar Leon Ramirez De La Pava",
+        "url": "https://www.youtube.com/channel/UCarmdqYXYaeJSO3pK8gs8xg"
+      }
+    },
+    "legacy_username": "Covidcioso#7357"
   }
 }
