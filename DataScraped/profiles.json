@@ -102726,5 +102726,25 @@
       }
     },
     "legacy_username": "Light_#0517"
+  },
+  "642901496492720128": {
+    "id": 642901496492720128,
+    "name": "trashjeanie",
+    "nick": null,
+    "display_name": "TrashJeanie",
+    "global_name": "TrashJeanie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "25, She/Her, Bisexual, Single. Artschool Trash; Raccoon\nDoes much art at the speed of Nyoom!\nMean Girls 3:35",
+    "guild_bio": null,
+    "display_bio": "25, She/Her, Bisexual, Single. Artschool Trash; Raccoon\nDoes much art at the speed of Nyoom!\nMean Girls 3:35",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "TrashJeanie#4662"
   }
 }
