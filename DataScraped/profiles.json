@@ -102433,5 +102433,49 @@
     ],
     "connections": {},
     "legacy_username": "Papagou#5726"
+  },
+  "463173706353475614": {
+    "id": 463173706353475614,
+    "name": "skreamweaver",
+    "nick": null,
+    "display_name": "Screamweaver",
+    "global_name": "Screamweaver",
+    "pronouns": "He, him, you, they, that, it",
+    "guild_pronouns": null,
+    "bio": "Skippity bebop da dah dahhh,\nBoppadoppa dit dit dooooo.\n\nAnd how bout you?",
+    "guild_bio": null,
+    "display_bio": "Skippity bebop da dah dahhh,\nBoppadoppa dit dit dooooo.\n\nAnd how bout you?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "2665c44c34794a8ea8481b0b8e98abf9",
+        "name": "Skreamweaver",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197994828035",
+        "name": "Screamweaver",
+        "url": "https://steamcommunity.com/profiles/76561197994828035"
+      },
+      "twitch": {
+        "id": "541958085",
+        "name": "skreamweaver",
+        "url": "https://www.twitch.tv/skreamweaver"
+      },
+      "xbox": {
+        "id": "MDYxYzI4YzlmOWM5MDdlZTI5ZWJkNDc5ODg4M2MxMzIzYzZjZjg3ZTk0NWMxY2UyMzY0MDhhZDYzYTQ0NzBiYQ",
+        "name": "SkreamWeaver",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SkreamWeaver"
+      },
+      "youtube": {
+        "id": "UCTv4A0nn0S9z2Me7lsQ9lFA",
+        "name": "Skreamweaver",
+        "url": "https://www.youtube.com/channel/UCTv4A0nn0S9z2Me7lsQ9lFA"
+      }
+    },
+    "legacy_username": null
   }
 }
