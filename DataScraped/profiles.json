@@ -104087,5 +104087,31 @@
       }
     },
     "legacy_username": "JAYDEN_LS#8196"
+  },
+  "357368716448628738": {
+    "id": 357368716448628738,
+    "name": "seph0ly",
+    "nick": null,
+    "display_name": "seph0ly",
+    "global_name": "seph0ly",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "he/him",
+    "guild_bio": null,
+    "display_bio": "he/him",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "179560449",
+        "name": "seph0ly",
+        "url": "https://www.twitch.tv/seph0ly"
+      }
+    },
+    "legacy_username": "seph0ly#2613"
   }
 }
