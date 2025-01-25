@@ -104113,5 +104113,130 @@
       }
     },
     "legacy_username": "seph0ly#2613"
+  },
+  "1036523007721623653": {
+    "id": 1036523007721623653,
+    "name": "maxtt3927",
+    "nick": null,
+    "display_name": "Maxt",
+    "global_name": "Maxt",
+    "pronouns": "\u041e\u043d",
+    "guild_pronouns": null,
+    "bio": "24/7  ",
+    "guild_bio": null,
+    "display_bio": "24/7  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "5efb48a496264833b9e05f41ccec4622",
+        "name": "Lqpan",
+        "url": null
+      },
+      "riot_games": {
+        "id": "ZcFyY_z7Y7xq2cHSz3GdMbornW_cdCk1eQGXWhtjqxtLfwOge724u3nv1MLC5fprnGszcJcMHLpXow",
+        "name": "BebrikiM#7016",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3110560013",
+        "name": "MEMEsyN32",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199166954221",
+        "name": "Maxt",
+        "url": "https://steamcommunity.com/profiles/76561199166954221"
+      },
+      "twitch": {
+        "id": "665082651",
+        "name": "maximkomo",
+        "url": "https://www.twitch.tv/maximkomo"
+      },
+      "xbox": {
+        "id": "3073242427502183",
+        "name": "Men5736",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Men5736"
+      },
+      "youtube": {
+        "id": "UC94pstJzLs2FwH8fvEljqxw",
+        "name": "Mr.BebRik",
+        "url": "https://www.youtube.com/channel/UC94pstJzLs2FwH8fvEljqxw"
+      }
+    },
+    "legacy_username": "Maxtt#3927"
+  },
+  "757298894127235176": {
+    "id": 757298894127235176,
+    "name": "otsntedt",
+    "nick": null,
+    "display_name": "openyourass",
+    "global_name": "openyourass",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "openyourass#5257"
+  },
+  "1332793482661597207": {
+    "id": 1332793482661597207,
+    "name": "b.martinelimelo",
+    "nick": null,
+    "display_name": "Martineli",
+    "global_name": "Martineli",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "Martineli#21536",
+        "name": "Martineli#21536",
+        "url": null
+      },
+      "epic_games": {
+        "id": "1f0538d255c24533adb69fc10a33fab8",
+        "name": "Martineli_PC",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199821276901",
+        "name": "Martineli",
+        "url": "https://steamcommunity.com/profiles/76561199821276901"
+      },
+      "twitter": {
+        "id": "1883247688277221376",
+        "name": "martinelimelo",
+        "url": "https://twitter.com/martinelimelo"
+      },
+      "xbox": {
+        "id": "3062896961397221",
+        "name": "Martineli PC",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Martineli PC"
+      },
+      "youtube": {
+        "id": "UC5ozxIr-Isn8ltlAvYALk5Q",
+        "name": "Martineli",
+        "url": "https://www.youtube.com/channel/UC5ozxIr-Isn8ltlAvYALk5Q"
+      }
+    },
+    "legacy_username": null
   }
 }
