@@ -101980,5 +101980,26 @@
       }
     },
     "legacy_username": "Gritzmo#7678"
+  },
+  "821233444582457356": {
+    "id": 821233444582457356,
+    "name": "thatoneguy247",
+    "nick": null,
+    "display_name": "Occams Chainsaw",
+    "global_name": "Occams Chainsaw",
+    "pronouns": "Vicodin",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "That One Guy#2147"
   }
 }
