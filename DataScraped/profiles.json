@@ -103583,5 +103583,31 @@
       }
     },
     "legacy_username": null
+  },
+  "249024918841327616": {
+    "id": 249024918841327616,
+    "name": "herbalnekotea",
+    "nick": null,
+    "display_name": "HerbalNekoTea",
+    "global_name": "HerbalNekoTea",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Visual Novel Engine Hacker & Vintage Computer Keyboard Collector. I use Arch Linux BTW, with AwesomeWM.",
+    "guild_bio": null,
+    "display_bio": "Visual Novel Engine Hacker & Vintage Computer Keyboard Collector. I use Arch Linux BTW, with AwesomeWM.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198073667824",
+        "name": "HerbalNekoTea",
+        "url": "https://steamcommunity.com/profiles/76561198073667824"
+      }
+    },
+    "legacy_username": "HerbalNekoTea#0573"
   }
 }
