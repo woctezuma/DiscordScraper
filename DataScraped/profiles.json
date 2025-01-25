@@ -104238,5 +104238,100 @@
       }
     },
     "legacy_username": null
+  },
+  "739724932258463765": {
+    "id": 739724932258463765,
+    "name": "phantomicdubz",
+    "nick": null,
+    "display_name": "PhantomDubz",
+    "global_name": "PhantomDubz",
+    "pronouns": "ryan/gosling",
+    "guild_pronouns": null,
+    "bio": "It is what it is",
+    "guild_bio": null,
+    "display_bio": "It is what it is",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "phantomDUBZ#5248"
+  },
+  "588805251063218188": {
+    "id": 588805251063218188,
+    "name": "pan_ther994",
+    "nick": null,
+    "display_name": "pan_ther994",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Crazy mf",
+    "guild_bio": null,
+    "display_bio": "Crazy mf",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31zwfsilrl2gvtm2kkcjfcnmhkb4",
+        "name": "Power The Gamer",
+        "url": "https://open.spotify.com/user/31zwfsilrl2gvtm2kkcjfcnmhkb4"
+      }
+    },
+    "legacy_username": null
+  },
+  "690660671184175194": {
+    "id": 690660671184175194,
+    "name": "nuhhder",
+    "nick": null,
+    "display_name": "Shopcart",
+    "global_name": "Shopcart",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "came in that bih wit my friends !",
+    "guild_bio": null,
+    "display_bio": "came in that bih wit my friends !",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31vnaxkt6rwbovxqnt7j6mt3xstq",
+        "name": "Marius M\u00f8ller Davidsen",
+        "url": "https://open.spotify.com/user/31vnaxkt6rwbovxqnt7j6mt3xstq"
+      }
+    },
+    "legacy_username": "Nuhhder#9781"
+  },
+  "620264054757261313": {
+    "id": 620264054757261313,
+    "name": "kulturmarxist",
+    "nick": null,
+    "display_name": "Gopnik",
+    "global_name": "Gopnik",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Gopnik#9676"
   }
 }
