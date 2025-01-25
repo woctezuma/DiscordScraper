@@ -102674,5 +102674,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "224332639312674819": {
+    "id": 224332639312674819,
+    "name": "_rapti",
+    "nick": null,
+    "display_name": "RapTi",
+    "global_name": "RapTi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "RapTi#7952"
   }
 }
