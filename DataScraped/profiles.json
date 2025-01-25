@@ -103456,5 +103456,25 @@
       }
     },
     "legacy_username": "DoctorX#2851"
+  },
+  "1071421323403853955": {
+    "id": 1071421323403853955,
+    "name": "kokenboi",
+    "nick": null,
+    "display_name": "kokenboi",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "No fr tanks",
+    "guild_bio": null,
+    "display_bio": "No fr tanks",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "kokenball101#3746"
   }
 }
