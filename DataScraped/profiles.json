@@ -103627,5 +103627,38 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "966457584020246578": {
+    "id": 966457584020246578,
+    "name": "youssefsahmed",
+    "nick": null,
+    "display_name": "FloppaFBI",
+    "global_name": "FloppaFBI",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "all my opps be warned because im eating my fruits and veggies and getting really strong",
+    "guild_bio": null,
+    "display_bio": "all my opps be warned because im eating my fruits and veggies and getting really strong",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "dcd0b01ce4c64bd08e4a2cfeaf52704a",
+        "name": "Youssef S AHMED",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199435139103",
+        "name": "FloppaFBI",
+        "url": "https://steamcommunity.com/profiles/76561199435139103"
+      }
+    },
+    "legacy_username": "Youssef S Ahmed#9392"
   }
 }
