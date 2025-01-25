@@ -102901,5 +102901,59 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "788381716946485279": {
+    "id": 788381716946485279,
+    "name": "k.c.8829",
+    "nick": null,
+    "display_name": "k.c.",
+    "global_name": "k.c.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hee hee hoo haha hee hee wadawadabingbang",
+    "guild_bio": null,
+    "display_bio": "Hee hee hoo haha hee hee wadawadabingbang",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "k.c.#8829"
+  },
+  "815259856101572628": {
+    "id": 815259856101572628,
+    "name": "onlyonepen",
+    "nick": null,
+    "display_name": "onlyonepen",
+    "global_name": "onlyonepen",
+    "pronouns": "PEN",
+    "guild_pronouns": null,
+    "bio": "Semibisexual",
+    "guild_bio": null,
+    "display_bio": "Semibisexual",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3155mcqm6oskrsvopwoiffjusjpm",
+        "name": "onlyonepen",
+        "url": "https://open.spotify.com/user/3155mcqm6oskrsvopwoiffjusjpm"
+      },
+      "youtube": {
+        "id": "UChrroDPKBudimz7EY0HlkCg",
+        "name": "onlyonepen",
+        "url": "https://www.youtube.com/channel/UChrroDPKBudimz7EY0HlkCg"
+      }
+    },
+    "legacy_username": "onlyonepen#3373"
   }
 }
