@@ -103660,5 +103660,31 @@
       }
     },
     "legacy_username": "Youssef S Ahmed#9392"
+  },
+  "506053487952396289": {
+    "id": 506053487952396289,
+    "name": "hoshi6666",
+    "nick": null,
+    "display_name": "Hoshi",
+    "global_name": "Hoshi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3068748816289665",
+        "name": "Barleypoet",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Barleypoet"
+      }
+    },
+    "legacy_username": "Hoshi#0428"
   }
 }
