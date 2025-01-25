@@ -101890,5 +101890,64 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "584373832589246464": {
+    "id": 584373832589246464,
+    "name": ".x.0.x.",
+    "nick": null,
+    "display_name": "Anubis",
+    "global_name": "Anubis",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2270864853516645817",
+        "name": "GeeKnMAORl",
+        "url": null
+      },
+      "spotify": {
+        "id": "xman275x",
+        "name": "xman275x",
+        "url": "https://open.spotify.com/user/xman275x"
+      },
+      "xbox": {
+        "id": "3078127952384025",
+        "name": "GeeKnMAORl",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=GeeKnMAORl"
+      }
+    },
+    "legacy_username": "DAFEET#0557"
+  },
+  "948737520865271868": {
+    "id": 948737520865271868,
+    "name": "corimpetum",
+    "nick": null,
+    "display_name": "Cor",
+    "global_name": "Cor",
+    "pronouns": "lebron is awesome",
+    "guild_pronouns": null,
+    "bio": "19/21/9/3/9/4/1/12\n\"i shartled\"",
+    "guild_bio": null,
+    "display_bio": "19/21/9/3/9/4/1/12\n\"i shartled\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Cor impetum#9392"
   }
 }
