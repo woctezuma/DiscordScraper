@@ -102694,5 +102694,37 @@
     ],
     "connections": {},
     "legacy_username": "RapTi#7952"
+  },
+  "815657076394164234": {
+    "id": 815657076394164234,
+    "name": "light_83",
+    "nick": null,
+    "display_name": "Light_",
+    "global_name": "Light_",
+    "pronouns": "Croissant",
+    "guild_pronouns": null,
+    "bio": "||mu||\n||ha||\n||ha||\n||ha||\n||ha||\n ",
+    "guild_bio": null,
+    "display_bio": "||mu||\n||ha||\n||ha||\n||ha||\n||ha||\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "nq4hrg6tmzu0pduoyfij5it0v",
+        "name": "Light_craft",
+        "url": "https://open.spotify.com/user/nq4hrg6tmzu0pduoyfij5it0v"
+      },
+      "twitch": {
+        "id": "601373530",
+        "name": "fire_craft_live",
+        "url": "https://www.twitch.tv/fire_craft_live"
+      }
+    },
+    "legacy_username": "Light_#0517"
   }
 }
