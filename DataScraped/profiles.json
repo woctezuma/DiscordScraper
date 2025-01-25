@@ -103770,5 +103770,83 @@
       }
     },
     "legacy_username": null
+  },
+  "810835249655185419": {
+    "id": 810835249655185419,
+    "name": "daystrek",
+    "nick": null,
+    "display_name": "Daystrek",
+    "global_name": "Daystrek",
+    "pronouns": "Wenli",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/810835249655185419/a_37d487c3e70e90df06f350dda5140a64.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/810835249655185419/a_37d487c3e70e90df06f350dda5140a64.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198436755334",
+        "name": "Daystrek",
+        "url": "https://steamcommunity.com/profiles/76561198436755334"
+      },
+      "twitch": {
+        "id": "181551963",
+        "name": "daystrek",
+        "url": "https://www.twitch.tv/daystrek"
+      },
+      "xbox": {
+        "id": "3062123179627448",
+        "name": "ApicalNutria86",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ApicalNutria86"
+      }
+    },
+    "legacy_username": "daystrek#2688"
+  },
+  "712133698459271179": {
+    "id": 712133698459271179,
+    "name": "hyton",
+    "nick": null,
+    "display_name": "Hyton",
+    "global_name": "Hyton",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Hyton#1924",
+        "name": "Hyton#1924",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198056241899",
+        "name": "Snowy Dandelion",
+        "url": "https://steamcommunity.com/profiles/76561198056241899"
+      },
+      "xbox": {
+        "id": "3068056424331114",
+        "name": "Hyton959",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Hyton959"
+      }
+    },
+    "legacy_username": "Hyton#3783"
   }
 }
