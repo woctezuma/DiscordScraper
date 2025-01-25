@@ -102988,5 +102988,26 @@
       }
     },
     "legacy_username": "ThisUser#0494"
+  },
+  "345783996770156545": {
+    "id": 345783996770156545,
+    "name": "_execution_",
+    "nick": null,
+    "display_name": "Execution",
+    "global_name": "Execution",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Execution#8386"
   }
 }
