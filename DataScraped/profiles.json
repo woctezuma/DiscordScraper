@@ -103099,5 +103099,158 @@
       }
     },
     "legacy_username": null
+  },
+  "1025347462396907550": {
+    "id": 1025347462396907550,
+    "name": "fesanqu",
+    "nick": null,
+    "display_name": "316",
+    "global_name": "316",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "      ",
+    "guild_bio": null,
+    "display_bio": "      ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199522767797",
+        "name": "\u0421\u0430\u043d\u044f",
+        "url": "https://steamcommunity.com/profiles/76561199522767797"
+      },
+      "tiktok": {
+        "id": "779dc0c8-dbbe-56f3-871b-6d6f6fa9453f",
+        "name": "pelmen123456ddd",
+        "url": "https://tiktok.com/@pelmen123456ddd"
+      },
+      "youtube": {
+        "id": "UCqEoNXSpnOgYjBOeF7RHhuw",
+        "name": "\u041c\u0440. \u042f\u0439\u043a\u043e",
+        "url": "https://www.youtube.com/channel/UCqEoNXSpnOgYjBOeF7RHhuw"
+      }
+    },
+    "legacy_username": null
+  },
+  "744257840549593199": {
+    "id": 744257840549593199,
+    "name": "novumsb",
+    "nick": null,
+    "display_name": "NovumSB",
+    "global_name": "NovumSB",
+    "pronouns": "Cuca/Gado",
+    "guild_pronouns": null,
+    "bio": " PT C2 | EN C2 | ES B1 | DE A1",
+    "guild_bio": null,
+    "display_bio": " PT C2 | EN C2 | ES B1 | DE A1",
+    "banner": "https://cdn.discordapp.com/banners/744257840549593199/b4305d124e3c3afbdd77a57ee140e72f.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/744257840549593199/b4305d124e3c3afbdd77a57ee140e72f.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a75f57fc8ebb4661b0603d11b04fca61",
+        "name": "NovumSB",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "850633304",
+        "name": "Comoqeuvosabe",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198863734507",
+        "name": "NovumSB",
+        "url": "https://steamcommunity.com/profiles/76561198863734507"
+      },
+      "xbox": {
+        "id": "3066468400494168",
+        "name": "Novum9105",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Novum9105"
+      }
+    },
+    "legacy_username": "Novum#1650"
+  },
+  "109776937848733696": {
+    "id": 109776937848733696,
+    "name": "serchill",
+    "nick": null,
+    "display_name": "Serchill",
+    "global_name": "Serchill",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/109776937848733696/0eb07c8e4f34e4a544f20efb730fd6ea.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/109776937848733696/0eb07c8e4f34e4a544f20efb730fd6ea.png?size=512",
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl7",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "euw_40747776",
+        "name": "Mrserchill",
+        "url": null
+      },
+      "reddit": {
+        "id": "cp58frbyo",
+        "name": "ArmyFamous6848",
+        "url": "https://www.reddit.com/u/ArmyFamous6848"
+      },
+      "spotify": {
+        "id": "115218144",
+        "name": "Dag Magne Vik",
+        "url": "https://open.spotify.com/user/115218144"
+      },
+      "steam": {
+        "id": "76561198065466962",
+        "name": "Serchill",
+        "url": "https://steamcommunity.com/profiles/76561198065466962"
+      }
+    },
+    "legacy_username": "Serchill#0330"
+  },
+  "846685277035692052": {
+    "id": 846685277035692052,
+    "name": "adriftsoul_grim",
+    "nick": null,
+    "display_name": "ADRIFTSOUL",
+    "global_name": "ADRIFTSOUL",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "YWY4NjM4NDJlZjc1NTA5MmU4ODc5YTZlMDgxODExNDc5ZWJhZjA3Y2Y1ODk3NzI4YzRjNDUxMjBiODk2ZWIzNA",
+        "name": "ADRIFTSOUL7287",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ADRIFTSOUL7287"
+      }
+    },
+    "legacy_username": "ADRIFTSOUL#0907"
   }
 }
