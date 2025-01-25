@@ -102955,5 +102955,38 @@
       }
     },
     "legacy_username": "onlyonepen#3373"
+  },
+  "642551877132877839": {
+    "id": 642551877132877839,
+    "name": "thisjayx",
+    "nick": null,
+    "display_name": "ThisJay",
+    "global_name": "ThisJay",
+    "pronouns": "Automated Teller Machine (ATM)",
+    "guild_pronouns": null,
+    "bio": "@thisjayx@labyrinth.zone\n\n12:00 AM (Me) -> <t:1732345200:t> (You)\n\nBlueJay1048 when **G** **A** **M** **I** **N** **G**\n\n~~ThisUser0494~~ when not **G** **A** **M** **I** **N** **G**",
+    "guild_bio": null,
+    "display_bio": "@thisjayx@labyrinth.zone\n\n12:00 AM (Me) -> <t:1732345200:t> (You)\n\nBlueJay1048 when **G** **A** **M** **I** **N** **G**\n\n~~ThisUser0494~~ when not **G** **A** **M** **I** **N** **G**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199103977939",
+        "name": "BluJay",
+        "url": "https://steamcommunity.com/profiles/76561199103977939"
+      },
+      "xbox": {
+        "id": "3070256241938170",
+        "name": "BlueJay1048",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=BlueJay1048"
+      }
+    },
+    "legacy_username": "ThisUser#0494"
   }
 }
