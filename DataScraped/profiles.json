@@ -102477,5 +102477,36 @@
       }
     },
     "legacy_username": null
+  },
+  "646457997610057730": {
+    "id": 646457997610057730,
+    "name": "yobicorn",
+    "nick": null,
+    "display_name": "Yobicorn",
+    "global_name": "Yobicorn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Yobicorn#2431",
+        "name": "Yobicorn#2431",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198056210866",
+        "name": "Dragonfly",
+        "url": "https://steamcommunity.com/profiles/76561198056210866"
+      }
+    },
+    "legacy_username": "Yobicorn#7497"
   }
 }
