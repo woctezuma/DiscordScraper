@@ -103252,5 +103252,54 @@
       }
     },
     "legacy_username": "ADRIFTSOUL#0907"
+  },
+  "979745819236397126": {
+    "id": 979745819236397126,
+    "name": "timothy.debruyne1",
+    "nick": null,
+    "display_name": "Timothy.debruyne",
+    "global_name": "Timothy.debruyne",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Timothy.debruyne#2118"
+  },
+  "566976901504040960": {
+    "id": 566976901504040960,
+    "name": "1adam",
+    "nick": null,
+    "display_name": "dood",
+    "global_name": "dood",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Incase something happens to this acc, add:\n\ncatgamingofficial\n\n(I currently have 5 active violations)",
+    "guild_bio": null,
+    "display_bio": "Incase something happens to this acc, add:\n\ncatgamingofficial\n\n(I currently have 5 active violations)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198434111732",
+        "name": "Adam11042",
+        "url": "https://steamcommunity.com/profiles/76561198434111732"
+      }
+    },
+    "legacy_username": "1Adam#1574"
   }
 }
