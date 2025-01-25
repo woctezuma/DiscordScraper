@@ -103301,5 +103301,39 @@
       }
     },
     "legacy_username": "1Adam#1574"
+  },
+  "734332713447850114": {
+    "id": 734332713447850114,
+    "name": "owimoly",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "/\u0335\u0347\u033f/\u2019\u033f\u2019\u033f \u033f \u033f\u033f \u033f\u033f \u033f\u033f` \u1dbb \ud835\uddd3 \ud803\udc01 .\u141f",
+    "guild_pronouns": null,
+    "bio": ":lfg: https://discord.gg/AjtAzRGVBe \n:owii: https://www.twitch.tv/owimoly \n:owiii: https://www.tiktok.com/@lovetnrm ",
+    "guild_bio": null,
+    "display_bio": ":lfg: https://discord.gg/AjtAzRGVBe \n:owii: https://www.twitch.tv/owimoly \n:owiii: https://www.tiktok.com/@lovetnrm ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "nwiefm6micmoil3lt8lbf7kot",
+        "name": "\u2661",
+        "url": "https://open.spotify.com/user/nwiefm6micmoil3lt8lbf7kot"
+      },
+      "steam": {
+        "id": "76561199009899492",
+        "name": "\u2661",
+        "url": "https://steamcommunity.com/profiles/76561199009899492"
+      }
+    },
+    "legacy_username": "\u1cbc\u2661\u1cbc#0240"
   }
 }
