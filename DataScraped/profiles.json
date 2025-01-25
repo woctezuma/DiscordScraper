@@ -101949,5 +101949,36 @@
     ],
     "connections": {},
     "legacy_username": "Cor impetum#9392"
+  },
+  "879458034869485578": {
+    "id": 879458034869485578,
+    "name": "gritzmo",
+    "nick": null,
+    "display_name": "Gritzmo",
+    "global_name": "Gritzmo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I draw art.\n\nYou can find my art here:\nhttps://www.furaffinity.net/user/gritzmo/\nhttps://www.deviantart.com/gritzmo\nhttps://twitter.com/gritzmo",
+    "guild_bio": null,
+    "display_bio": "I draw art.\n\nYou can find my art here:\nhttps://www.furaffinity.net/user/gritzmo/\nhttps://www.deviantart.com/gritzmo\nhttps://twitter.com/gritzmo",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198449852682",
+        "name": "Eniko",
+        "url": "https://steamcommunity.com/profiles/76561198449852682"
+      },
+      "twitter": {
+        "id": "1486490791036039171",
+        "name": "gritzmo",
+        "url": "https://twitter.com/gritzmo"
+      }
+    },
+    "legacy_username": "Gritzmo#7678"
   }
 }
