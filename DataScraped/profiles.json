@@ -101844,5 +101844,51 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "400208274483576842": {
+    "id": 400208274483576842,
+    "name": "fr34kyr1ck",
+    "nick": null,
+    "display_name": "FR34KYR1CK",
+    "global_name": "FR34KYR1CK",
+    "pronouns": "(\u3063 \u00b0\u0414 \u00b0;)\u3063 PULL THE LEVER KRONK !!!",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "152272341",
+        "name": "fr34kyr1ck",
+        "url": "https://www.twitch.tv/fr34kyr1ck"
+      }
+    },
+    "legacy_username": "FR34KYR1CK#9432"
+  },
+  "1262948630638235649": {
+    "id": 1262948630638235649,
+    "name": "atilus0",
+    "nick": null,
+    "display_name": "Atilus",
+    "global_name": "Atilus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
