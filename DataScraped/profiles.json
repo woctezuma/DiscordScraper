@@ -104045,5 +104045,47 @@
     ],
     "connections": {},
     "legacy_username": "Briggs#4016"
+  },
+  "1074603607661494313": {
+    "id": 1074603607661494313,
+    "name": "lsjayden",
+    "nick": null,
+    "display_name": "JJ (JAY)",
+    "global_name": "JJ (JAY)",
+    "pronouns": "\ud835\udcd7\ud835\udcee/\ud835\udcd7\ud835\udcf2\ud835\udcf6",
+    "guild_pronouns": null,
+    "bio": "   :  **JAY!!**  \n\n || **dms open**  \n\n  **Male**  **Minor**  **Asian** o\n\n : **ALL SOCIALS: JAYLCYT**\n\n**OKOKOKOK**\n**M/W:F**\n\n**Yemu~ **\n\n||| - **CHROMAKOPIA**",
+    "guild_bio": null,
+    "display_bio": "   :  **JAY!!**  \n\n || **dms open**  \n\n  **Male**  **Minor**  **Asian** o\n\n : **ALL SOCIALS: JAYLCYT**\n\n**OKOKOKOK**\n**M/W:F**\n\n**Yemu~ **\n\n||| - **CHROMAKOPIA**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "fd2a7fe3-d9be-5d2f-b48b-da79a35c203e",
+        "name": "JaydenLuc",
+        "url": null
+      },
+      "spotify": {
+        "id": "31trgm5lzzachttazifqaez2lnzi",
+        "name": "JAYLCYT",
+        "url": "https://open.spotify.com/user/31trgm5lzzachttazifqaez2lnzi"
+      },
+      "tiktok": {
+        "id": "f7890c7f-85c0-51d1-b7a9-d2380dff8c9f",
+        "name": "jaylcyt",
+        "url": "https://tiktok.com/@jaylcyt"
+      },
+      "youtube": {
+        "id": "UCwiJLinnbnDI8tAEKM_9U-g",
+        "name": "Jay_YT",
+        "url": "https://www.youtube.com/channel/UCwiJLinnbnDI8tAEKM_9U-g"
+      }
+    },
+    "legacy_username": "JAYDEN_LS#8196"
   }
 }
