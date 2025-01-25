@@ -103968,5 +103968,82 @@
       }
     },
     "legacy_username": "iIIyThxel#9711"
+  },
+  "1287744145246650369": {
+    "id": 1287744145246650369,
+    "name": "pontee__jr",
+    "nick": null,
+    "display_name": "Pontee__jr",
+    "global_name": "Pontee__jr",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "ME SEGUE AQUI INSTA:@pontee_jr\nMAIS ALGUMA COISA DM OK ",
+    "guild_bio": null,
+    "display_bio": "ME SEGUE AQUI INSTA:@pontee_jr\nMAIS ALGUMA COISA DM OK ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "PONTEEJR#2922",
+        "name": "PONTEEJR#2922",
+        "url": null
+      },
+      "epic_games": {
+        "id": "8c7f362d1e014880822c463f83586a0e",
+        "name": "PONTEE_JR",
+        "url": null
+      },
+      "playstation": {
+        "id": "1702436628577817976",
+        "name": "PRO_PANDINHA",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "7603719591",
+        "name": "PONTEE_JR",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199052807481",
+        "name": "PONTEE_JR",
+        "url": "https://steamcommunity.com/profiles/76561199052807481"
+      },
+      "tiktok": {
+        "id": "6164a0ab-b97a-5f3f-8403-1e9148c75372",
+        "name": "ponteee_yt",
+        "url": "https://tiktok.com/@ponteee_yt"
+      },
+      "xbox": {
+        "id": "3078475645769722",
+        "name": "CHEFIM666",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=CHEFIM666"
+      }
+    },
+    "legacy_username": null
+  },
+  "1145069372541513878": {
+    "id": 1145069372541513878,
+    "name": "briggs2012",
+    "nick": null,
+    "display_name": "Briggs2012",
+    "global_name": "Briggs2012",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Briggs#4016"
   }
 }
