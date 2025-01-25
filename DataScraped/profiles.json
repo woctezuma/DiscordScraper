@@ -103848,5 +103848,72 @@
       }
     },
     "legacy_username": "Hyton#3783"
+  },
+  "400668055698669580": {
+    "id": 400668055698669580,
+    "name": "beemonx",
+    "nick": null,
+    "display_name": "Beemo",
+    "global_name": "Beemo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Beemo#7756"
+  },
+  "588871236596138014": {
+    "id": 588871236596138014,
+    "name": "olegpolin",
+    "nick": null,
+    "display_name": "Definitely",
+    "global_name": "Definitely",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Stand with Ukraine  \nCertified tech nerd \nWeb Developer \nPortfolio: \nhttps://olegpolin.com",
+    "guild_bio": null,
+    "display_bio": "Stand with Ukraine  \nCertified tech nerd \nWeb Developer \nPortfolio: \nhttps://olegpolin.com",
+    "banner": "https://cdn.discordapp.com/banners/588871236596138014/a_b95a0ae8233771f9efe241055a4fd464.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/588871236596138014/a_b95a0ae8233771f9efe241055a4fd464.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "140200108",
+        "name": "olegpolin",
+        "url": "https://github.com/olegpolin"
+      },
+      "spotify": {
+        "id": "31pgyyt5wxzz5v76rxdgrr6wywxi",
+        "name": "Oleg Polin",
+        "url": "https://open.spotify.com/user/31pgyyt5wxzz5v76rxdgrr6wywxi"
+      },
+      "twitter": {
+        "id": "1688666803675770880",
+        "name": "olegpolin",
+        "url": "https://twitter.com/olegpolin"
+      },
+      "youtube": {
+        "id": "UCSoQKpYwBY17NRTW-OFlgQQ",
+        "name": "Oleg Polin",
+        "url": "https://www.youtube.com/channel/UCSoQKpYwBY17NRTW-OFlgQQ"
+      }
+    },
+    "legacy_username": "Definitely#8668"
   }
 }
