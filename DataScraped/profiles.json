@@ -103009,5 +103009,95 @@
     ],
     "connections": {},
     "legacy_username": "Execution#8386"
+  },
+  "497074173655384064": {
+    "id": 497074173655384064,
+    "name": "alfrat",
+    "nick": null,
+    "display_name": "Alfrat",
+    "global_name": "Alfrat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Bunigie: Alfrat#5613\nMarvel rivals: Alfrat",
+    "guild_bio": null,
+    "display_bio": "Bunigie: Alfrat#5613\nMarvel rivals: Alfrat",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "5yrzpvu2hrvb6zckir7wft2c2",
+        "name": "Alfra",
+        "url": "https://open.spotify.com/user/5yrzpvu2hrvb6zckir7wft2c2"
+      },
+      "steam": {
+        "id": "76561198244136446",
+        "name": "Alfrat",
+        "url": "https://steamcommunity.com/profiles/76561198244136446"
+      },
+      "twitch": {
+        "id": "494989532",
+        "name": "alfrat03",
+        "url": "https://www.twitch.tv/alfrat03"
+      },
+      "xbox": {
+        "id": "YzRlNWM3NTg5YzIyNjQ0ZmFiMTJiODRkY2E3MTBmZTI4MTdjZTNhOWJlMTc2OTc2MzkwNDY2MDIyYTg0ZmI3NA",
+        "name": "AlFrat031552",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AlFrat031552"
+      },
+      "youtube": {
+        "id": "UCDH4P08tvXx5vcmCT3v-B6A",
+        "name": "alessandro fratini",
+        "url": "https://www.youtube.com/channel/UCDH4P08tvXx5vcmCT3v-B6A"
+      }
+    },
+    "legacy_username": "Alfrat#4274"
+  },
+  "380400163157442560": {
+    "id": 380400163157442560,
+    "name": "69azazel96",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " -    .    -   ,   , ,    .",
+    "guild_bio": null,
+    "display_bio": " -    .    -   ,   , ,    .",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Azazel#27950",
+        "name": "Azazel#27950",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "Wd7C-mxZCCl9SB4YMyXcPlVAxnG_5V0MLtbI8qPU7W08LFpU5ZjuvV05kL1HQU7k_APtXuehY43k1Q",
+        "name": "alibeka",
+        "url": null
+      },
+      "riot_games": {
+        "id": "Wd7C-mxZCCl9SB4YMyXcPlVAxnG_5V0MLtbI8qPU7W08LFpU5ZjuvV05kL1HQU7k_APtXuehY43k1Q",
+        "name": "alibeka#RU1",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198242426632",
+        "name": "Azazel\ud83d\udc09",
+        "url": "https://steamcommunity.com/profiles/76561198242426632"
+      }
+    },
+    "legacy_username": null
   }
 }
