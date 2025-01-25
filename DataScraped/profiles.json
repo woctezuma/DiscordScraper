@@ -103686,5 +103686,51 @@
       }
     },
     "legacy_username": "Hoshi#0428"
+  },
+  "749576291644211200": {
+    "id": 749576291644211200,
+    "name": "jannik9665",
+    "nick": null,
+    "display_name": "Jannik",
+    "global_name": "Jannik",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jannik#9665"
+  },
+  "69310124014972928": {
+    "id": 69310124014972928,
+    "name": "nooseygoosey",
+    "nick": null,
+    "display_name": "Nooseygoosey",
+    "global_name": "Nooseygoosey",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198051442784",
+        "name": "Hanged Hourai",
+        "url": "https://steamcommunity.com/profiles/76561198051442784"
+      }
+    },
+    "legacy_username": "Nooseygoosey#8576"
   }
 }
