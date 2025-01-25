@@ -102325,5 +102325,69 @@
     ],
     "connections": {},
     "legacy_username": "Sepm#8840"
+  },
+  "792085497874087937": {
+    "id": 792085497874087937,
+    "name": "clucast",
+    "nick": null,
+    "display_name": "Clucast",
+    "global_name": "Clucast",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Clucast, a 20XX model series created by the Unknown creator. His only purpose is to play games and entertain everyone. \n\n\"As always, CLU to be here!\"",
+    "guild_bio": null,
+    "display_bio": "Clucast, a 20XX model series created by the Unknown creator. His only purpose is to play games and entertain everyone. \n\n\"As always, CLU to be here!\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198124179147",
+        "name": "Clucast",
+        "url": "https://steamcommunity.com/profiles/76561198124179147"
+      }
+    },
+    "legacy_username": null
+  },
+  "880053092559769600": {
+    "id": 880053092559769600,
+    "name": "peka08_",
+    "nick": null,
+    "display_name": "Peka08",
+    "global_name": "Peka08",
+    "pronouns": "peka08 #savemc",
+    "guild_pronouns": null,
+    "bio": "YT: https://m.youtube.com/channel\n/UCBaciTSqlMo7OGIcYo6HaZw\n\nUlubiona gra?\n\n\nMinecraft\n#savemc",
+    "guild_bio": null,
+    "display_bio": "YT: https://m.youtube.com/channel\n/UCBaciTSqlMo7OGIcYo6HaZw\n\nUlubiona gra?\n\n\nMinecraft\n#savemc",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1938542242",
+        "name": "Peka08baby",
+        "url": null
+      },
+      "spotify": {
+        "id": "31a6z6tpgddpvwrhyudjrmzpiskm",
+        "name": "Peka08",
+        "url": "https://open.spotify.com/user/31a6z6tpgddpvwrhyudjrmzpiskm"
+      },
+      "steam": {
+        "id": "76561199122830853",
+        "name": "Peka08",
+        "url": "https://steamcommunity.com/profiles/76561199122830853"
+      }
+    },
+    "legacy_username": "Peka08#7558"
   }
 }
