@@ -103476,5 +103476,73 @@
     ],
     "connections": {},
     "legacy_username": "kokenball101#3746"
+  },
+  "852015264626245672": {
+    "id": 852015264626245672,
+    "name": "haze01460",
+    "nick": null,
+    "display_name": "haze",
+    "global_name": "haze",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "741503137172553771": {
+    "id": 741503137172553771,
+    "name": ".mayran",
+    "nick": null,
+    "display_name": "Mayran",
+    "global_name": "Mayran",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Mergulho em mim mesmo,\nSilncio profundo.\nSou eu e sou deus\nDe passagem no mundo,\nNadando sem rumo.",
+    "guild_bio": null,
+    "display_bio": "Mergulho em mim mesmo,\nSilncio profundo.\nSou eu e sou deus\nDe passagem no mundo,\nNadando sem rumo.",
+    "banner": "https://cdn.discordapp.com/banners/741503137172553771/a_889c21bb3175c03be689d9bcc5044192.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/741503137172553771/a_889c21bb3175c03be689d9bcc5044192.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "GBfUGZptOcutIQte98XVt6Oh_n1bXUTSeYT9TCIK5xD6XVLbck78tArLUOvsmTLp8v50JixboLOgxA",
+        "name": "Odeio C\u00f3lica#6969",
+        "url": null
+      },
+      "riot_games": {
+        "id": "GBfUGZptOcutIQte98XVt6Oh_n1bXUTSeYT9TCIK5xD6XVLbck78tArLUOvsmTLp8v50JixboLOgxA",
+        "name": "Odeio C\u00f3lica#6969",
+        "url": null
+      },
+      "spotify": {
+        "id": "jorgeluisfilho123",
+        "name": "mayran",
+        "url": "https://open.spotify.com/user/jorgeluisfilho123"
+      },
+      "steam": {
+        "id": "76561198856847819",
+        "name": "Mayran",
+        "url": "https://steamcommunity.com/profiles/76561198856847819"
+      },
+      "twitch": {
+        "id": "430832977",
+        "name": "mayran892",
+        "url": "https://www.twitch.tv/mayran892"
+      }
+    },
+    "legacy_username": "Mayran#6129"
   }
 }
