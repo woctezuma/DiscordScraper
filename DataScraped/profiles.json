@@ -102244,5 +102244,86 @@
       }
     },
     "legacy_username": "Luke Hatsune#2554"
+  },
+  "449903746864906250": {
+    "id": 449903746864906250,
+    "name": "elf0nzo",
+    "nick": null,
+    "display_name": "ELF0NZO",
+    "global_name": "ELF0NZO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "MAIN DI GANTENG\nMy Server : https://discord.gg/ZHZDsAxBHq",
+    "guild_bio": null,
+    "display_bio": "MAIN DI GANTENG\nMy Server : https://discord.gg/ZHZDsAxBHq",
+    "banner": "https://cdn.discordapp.com/banners/449903746864906250/be5f55f47b525f6061da2e3418970b11.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/449903746864906250/be5f55f47b525f6061da2e3418970b11.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198863423942",
+        "name": "Artama406",
+        "url": "https://steamcommunity.com/profiles/76561198863423942"
+      },
+      "tiktok": {
+        "id": "f4e10485-d3dc-5721-afb5-375c692a6339",
+        "name": "panggayuhprtma",
+        "url": "https://tiktok.com/@panggayuhprtma"
+      },
+      "youtube": {
+        "id": "UCNPecUMTsg6_tqRYMeTfHwg",
+        "name": "Ardhi Panggayuh Pratama",
+        "url": "https://www.youtube.com/channel/UCNPecUMTsg6_tqRYMeTfHwg"
+      }
+    },
+    "legacy_username": null
+  },
+  "759137891065528321": {
+    "id": 759137891065528321,
+    "name": "egglord69",
+    "nick": null,
+    "display_name": "Nickpocalpyse",
+    "global_name": "Nickpocalpyse",
+    "pronouns": "am/hungry",
+    "guild_pronouns": null,
+    "bio": "IMA GOOFY GOOBER!!!!\n\nIm a gamer who has no life, wife, a gambling addiction , commiting mass homicide on families of four and burning orphanages down!\nHoping AI gains sentience soon!",
+    "guild_bio": null,
+    "display_bio": "IMA GOOFY GOOBER!!!!\n\nIm a gamer who has no life, wife, a gambling addiction , commiting mass homicide on families of four and burning orphanages down!\nHoping AI gains sentience soon!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Gangster luigigi#6882"
+  },
+  "299816565992325120": {
+    "id": 299816565992325120,
+    "name": "sepm",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Sepm#8840"
   }
 }
