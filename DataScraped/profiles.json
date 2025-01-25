@@ -102630,5 +102630,31 @@
       }
     },
     "legacy_username": "Kachranun#7650"
+  },
+  "965226229072543784": {
+    "id": 965226229072543784,
+    "name": "dameyou",
+    "nick": null,
+    "display_name": "Dam",
+    "global_name": "Dam",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1962272656525314323",
+        "name": "AFulgens",
+        "url": null
+      }
+    },
+    "legacy_username": "Damero#8988"
   }
 }
