@@ -102001,5 +102001,77 @@
     ],
     "connections": {},
     "legacy_username": "That One Guy#2147"
+  },
+  "453114323896631298": {
+    "id": 453114323896631298,
+    "name": "markiegamie",
+    "nick": null,
+    "display_name": "markiegamie",
+    "global_name": "markiegamie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "eketsu#1940",
+        "name": "eketsu#1940",
+        "url": null
+      },
+      "spotify": {
+        "id": "12185593216",
+        "name": "Decade Mak",
+        "url": "https://open.spotify.com/user/12185593216"
+      },
+      "steam": {
+        "id": "76561198082373459",
+        "name": "whmak00",
+        "url": "https://steamcommunity.com/profiles/76561198082373459"
+      }
+    },
+    "legacy_username": null
+  },
+  "768879858289213470": {
+    "id": 768879858289213470,
+    "name": "_idkman_",
+    "nick": null,
+    "display_name": "_idkman_",
+    "global_name": null,
+    "pronouns": "I\u2019m that dude",
+    "guild_pronouns": null,
+    "bio": "My wife told me it was the PlayStation or her,god I miss her\n\nIdk man\n\n",
+    "guild_bio": null,
+    "display_bio": "My wife told me it was the PlayStation or her,god I miss her\n\nIdk man\n\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "744e406c74fa4f40a1295eb02c6deb62",
+        "name": "Ramusaw",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "1213535081",
+        "name": "ram70111",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199065897663",
+        "name": "Ramus",
+        "url": "https://steamcommunity.com/profiles/76561199065897663"
+      }
+    },
+    "legacy_username": "_idk man_#2948"
   }
 }
