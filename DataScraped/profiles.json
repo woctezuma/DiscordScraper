@@ -102218,5 +102218,31 @@
       }
     },
     "legacy_username": null
+  },
+  "379311762895273998": {
+    "id": 379311762895273998,
+    "name": "luke_hatsune",
+    "nick": null,
+    "display_name": "Luke Hatsune",
+    "global_name": "Luke Hatsune",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "For anyone reading this if i am an admin or mod of the server and you need help feel free to ping or dm me. I wish you all the best.",
+    "guild_bio": null,
+    "display_bio": "For anyone reading this if i am an admin or mod of the server and you need help feel free to ping or dm me. I wish you all the best.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198156483466",
+        "name": "Luke Hatsune",
+        "url": "https://steamcommunity.com/profiles/76561198156483466"
+      }
+    },
+    "legacy_username": "Luke Hatsune#2554"
   }
 }
