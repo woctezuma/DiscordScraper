@@ -103732,5 +103732,43 @@
       }
     },
     "legacy_username": "Nooseygoosey#8576"
+  },
+  "1291470900557910102": {
+    "id": 1291470900557910102,
+    "name": "917i",
+    "nick": null,
+    "display_name": "Gabriel",
+    "global_name": "Gabriel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "real man\nfinderx",
+    "guild_bio": null,
+    "display_bio": "real man\nfinderx",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31s2jxbwjpz35upwm42dvby42vvq",
+        "name": "Gabriel Araujo",
+        "url": "https://open.spotify.com/user/31s2jxbwjpz35upwm42dvby42vvq"
+      },
+      "steam": {
+        "id": "76561199601598708",
+        "name": "biel",
+        "url": "https://steamcommunity.com/profiles/76561199601598708"
+      },
+      "twitter": {
+        "id": "1839889694215000064",
+        "name": "gabrieeeew",
+        "url": "https://twitter.com/gabrieeeew"
+      }
+    },
+    "legacy_username": null
   }
 }
