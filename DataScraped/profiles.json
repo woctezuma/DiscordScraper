@@ -103915,5 +103915,58 @@
       }
     },
     "legacy_username": "Definitely#8668"
+  },
+  "910937887460175953": {
+    "id": 910937887460175953,
+    "name": "daffy66.",
+    "nick": null,
+    "display_name": "daffy",
+    "global_name": "daffy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199566909050",
+        "name": "xdelot567",
+        "url": "https://steamcommunity.com/profiles/76561199566909050"
+      }
+    },
+    "legacy_username": null
+  },
+  "856253170891882507": {
+    "id": 856253170891882507,
+    "name": "miyexuee",
+    "nick": null,
+    "display_name": "Miyexu-san",
+    "global_name": "Miyexu-san",
+    "pronouns": "Bar\u0131\u015f\u0131n Eci\u015fi",
+    "guild_pronouns": null,
+    "bio": "          * ,,\nDnyada mutluluun bir kokusu olsayd, bu senin kokun olurdu sevgilim...\nBay<33\n*nayue* *<33*",
+    "guild_bio": null,
+    "display_bio": "          * ,,\nDnyada mutluluun bir kokusu olsayd, bu senin kokun olurdu sevgilim...\nBay<33\n*nayue* *<33*",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "mwtqvr82vy0h442vadg7c4b86",
+        "name": "Thelxepeia",
+        "url": "https://open.spotify.com/user/mwtqvr82vy0h442vadg7c4b86"
+      }
+    },
+    "legacy_username": "iIIyThxel#9711"
   }
 }
