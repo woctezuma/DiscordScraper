@@ -102821,5 +102821,85 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "326932953034784768": {
+    "id": 326932953034784768,
+    "name": "ingridsuzuki",
+    "nick": null,
+    "display_name": "Suzuki",
+    "global_name": "Suzuki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  https://www.twitch.tv/suzukii ",
+    "guild_bio": null,
+    "display_bio": "  https://www.twitch.tv/suzukii ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "SuzukiLb#1280",
+        "name": "SuzukiLb#1280",
+        "url": null
+      },
+      "epic_games": {
+        "id": "e22fe3b84a324d15abcc3a37c416d67a",
+        "name": "Suzukii24",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "nY08xn5jmOkLYxAuiJEd26MGIxPbGU8-KzM-uah_Vli-rq9CYsWaEcj67_Yz_dSfv9wUGC1c5m8yng",
+        "name": "Suzuki1224",
+        "url": null
+      },
+      "riot_games": {
+        "id": "nY08xn5jmOkLYxAuiJEd26MGIxPbGU8-KzM-uah_Vli-rq9CYsWaEcj67_Yz_dSfv9wUGC1c5m8yng",
+        "name": "VKS Suzuki#4984",
+        "url": null
+      },
+      "spotify": {
+        "id": "ingridsuzuki",
+        "name": "ingridsuzuki",
+        "url": "https://open.spotify.com/user/ingridsuzuki"
+      },
+      "steam": {
+        "id": "76561198150074248",
+        "name": "Suzuki",
+        "url": "https://steamcommunity.com/profiles/76561198150074248"
+      },
+      "twitch": {
+        "id": "180847514",
+        "name": "ingridsuzuki",
+        "url": "https://www.twitch.tv/ingridsuzuki"
+      },
+      "twitter": {
+        "id": "895856848116396032",
+        "name": "Ingrid_Suzukii",
+        "url": "https://twitter.com/Ingrid_Suzukii"
+      }
+    },
+    "legacy_username": "Ingrid Suzuki#2528"
+  },
+  "1285217688527962153": {
+    "id": 1285217688527962153,
+    "name": "didimitri44",
+    "nick": null,
+    "display_name": "Dimitri",
+    "global_name": "Dimitri",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
