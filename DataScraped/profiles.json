@@ -102746,5 +102746,62 @@
     ],
     "connections": {},
     "legacy_username": "TrashJeanie#4662"
+  },
+  "1211894111615848479": {
+    "id": 1211894111615848479,
+    "name": "grandlord0927",
+    "nick": null,
+    "display_name": "GRANDLORD ",
+    "global_name": "GRANDLORD ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3066082706306520",
+        "name": "JOY5057",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JOY5057"
+      }
+    },
+    "legacy_username": null
+  },
+  "709749908562903113": {
+    "id": 709749908562903113,
+    "name": "kipoddo",
+    "nick": null,
+    "display_name": "Kipoddo",
+    "global_name": "Kipoddo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  Kipoddo \n\n  Join Kip's \n\nhttps://discord.gg/tDKYeh9eQn",
+    "guild_bio": null,
+    "display_bio": "  Kipoddo \n\n  Join Kip's \n\nhttps://discord.gg/tDKYeh9eQn",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "153996181",
+        "name": "Kipoddo",
+        "url": "https://github.com/Kipoddo"
+      },
+      "twitter": {
+        "id": "1736079705810272256",
+        "name": "Kipoddo",
+        "url": "https://twitter.com/Kipoddo"
+      }
+    },
+    "legacy_username": "Kipoddo#9999"
   }
 }
