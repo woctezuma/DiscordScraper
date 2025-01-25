@@ -102508,5 +102508,74 @@
       }
     },
     "legacy_username": "Yobicorn#7497"
+  },
+  "285561506987245569": {
+    "id": 285561506987245569,
+    "name": "gnomie86",
+    "nick": null,
+    "display_name": "Gnomie",
+    "global_name": "Gnomie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197989288013",
+        "name": "Gnomie",
+        "url": "https://steamcommunity.com/profiles/76561197989288013"
+      }
+    },
+    "legacy_username": "Gnomie#3299"
+  },
+  "610378743445323776": {
+    "id": 610378743445323776,
+    "name": "sunny.kel",
+    "nick": null,
+    "display_name": "Sunny",
+    "global_name": "Sunny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "01100101 01111001 01111001 00100000 01110111 01100001 01110011 01110011 01110101 01110000",
+    "guild_bio": null,
+    "display_bio": "01100101 01111001 01111001 00100000 01110111 01100001 01110011 01110011 01110101 01110000",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "u0thSsb_3kEME6JpNbDQZ4wH5tLpcotp8aYXzeK_qIizfvHiBvxkEIlmFG50yscmY6pkPGgqAeemhg",
+        "name": "Baeil",
+        "url": null
+      },
+      "riot_games": {
+        "id": "u0thSsb_3kEME6JpNbDQZ4wH5tLpcotp8aYXzeK_qIizfvHiBvxkEIlmFG50yscmY6pkPGgqAeemhg",
+        "name": "Sunny#omrii",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198991289547",
+        "name": "Sunny",
+        "url": "https://steamcommunity.com/profiles/76561198991289547"
+      },
+      "xbox": {
+        "id": "3069799279411549",
+        "name": "Jeromeblank",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Jeromeblank"
+      }
+    },
+    "legacy_username": "Jeromeblank#4619"
   }
 }
