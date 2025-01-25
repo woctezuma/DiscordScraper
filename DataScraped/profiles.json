@@ -102389,5 +102389,29 @@
       }
     },
     "legacy_username": "Peka08#7558"
+  },
+  "713349237567651874": {
+    "id": 713349237567651874,
+    "name": "dr_pancha",
+    "nick": null,
+    "display_name": "Dr_Pancha",
+    "global_name": "Dr_Pancha",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "p1wxfvrmmdz02tu96zvdo5cng",
+        "name": "DrPancha",
+        "url": "https://open.spotify.com/user/p1wxfvrmmdz02tu96zvdo5cng"
+      }
+    },
+    "legacy_username": null
   }
 }
