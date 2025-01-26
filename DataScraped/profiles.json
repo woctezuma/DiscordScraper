@@ -104796,5 +104796,25 @@
       }
     },
     "legacy_username": null
+  },
+  "1008312099690266758": {
+    "id": 1008312099690266758,
+    "name": "joabo.",
+    "nick": null,
+    "display_name": "myappleisjoabo",
+    "global_name": "myappleisjoabo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "joabo#0272"
   }
 }
