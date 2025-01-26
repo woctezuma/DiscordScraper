@@ -105438,5 +105438,43 @@
       }
     },
     "legacy_username": "ELANG#3309"
+  },
+  "1241415822392557710": {
+    "id": 1241415822392557710,
+    "name": "metmat2",
+    "nick": null,
+    "display_name": "METMAT2",
+    "global_name": "METMAT2",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "301049722586791937": {
+    "id": 301049722586791937,
+    "name": "2chili4chiliii",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": "ISFP-T",
+    "guild_pronouns": null,
+    "bio": "https://www.youtube.com/@Club_trap",
+    "guild_bio": null,
+    "display_bio": "https://www.youtube.com/@Club_trap",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "THoRioo#7174"
   }
 }
