@@ -105782,5 +105782,48 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1014789350585798726": {
+    "id": 1014789350585798726,
+    "name": "ptitmoin0",
+    "nick": null,
+    "display_name": "PtitMoinO",
+    "global_name": "PtitMoinO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "5762317100539760",
+        "name": "__adri_g",
+        "url": "https://www.instagram.com/__adri_g"
+      },
+      "spotify": {
+        "id": "31z7oww7kpmgybumrpfkz2upjzue",
+        "name": "PtitMoinO",
+        "url": "https://open.spotify.com/user/31z7oww7kpmgybumrpfkz2upjzue"
+      },
+      "steam": {
+        "id": "76561198448893133",
+        "name": "PtitMoinO",
+        "url": "https://steamcommunity.com/profiles/76561198448893133"
+      },
+      "twitch": {
+        "id": "446979972",
+        "name": "ptitmoino",
+        "url": "https://www.twitch.tv/ptitmoino"
+      }
+    },
+    "legacy_username": "PtitMoinO#2846"
   }
 }
