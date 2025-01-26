@@ -106547,5 +106547,66 @@
     ],
     "connections": {},
     "legacy_username": "neverbeforeseens#9363"
+  },
+  "289177511282343936": {
+    "id": 289177511282343936,
+    "name": "makeakill",
+    "nick": null,
+    "display_name": "Makeakill",
+    "global_name": "Makeakill",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "makeakill#1180",
+        "name": "makeakill#1180",
+        "url": null
+      },
+      "facebook": {
+        "id": "2481139661899515",
+        "name": "Gustavo Monteiro",
+        "url": null
+      },
+      "skype": {
+        "id": "gustavo-hoffmann",
+        "name": "gustavo-hoffmann",
+        "url": "skype:gustavo-hoffmann?userinfo"
+      },
+      "spotify": {
+        "id": "12181782327",
+        "name": "Gustavo Monteiro",
+        "url": "https://open.spotify.com/user/12181782327"
+      },
+      "steam": {
+        "id": "76561198004624520",
+        "name": "Makeakill",
+        "url": "https://steamcommunity.com/profiles/76561198004624520"
+      },
+      "twitch": {
+        "id": "41412735",
+        "name": "makeakill",
+        "url": "https://www.twitch.tv/makeakill"
+      },
+      "xbox": {
+        "id": "3067159335512451",
+        "name": "makeakill6570",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=makeakill6570"
+      },
+      "youtube": {
+        "id": "UCGNGkEf8XbnyWa30gIYSvPg",
+        "name": "Gustavo Monteiro",
+        "url": "https://www.youtube.com/channel/UCGNGkEf8XbnyWa30gIYSvPg"
+      }
+    },
+    "legacy_username": "Makeakill#2543"
   }
 }
