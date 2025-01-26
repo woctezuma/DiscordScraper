@@ -104577,5 +104577,104 @@
       }
     },
     "legacy_username": null
+  },
+  "643920302971027473": {
+    "id": 643920302971027473,
+    "name": "beasttorres992",
+    "nick": null,
+    "display_name": "Beasttorres992",
+    "global_name": "Beasttorres992",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I have mastered the shadows  ",
+    "guild_bio": null,
+    "display_bio": "I have mastered the shadows  ",
+    "banner": "https://cdn.discordapp.com/banners/643920302971027473/2ef7bc295e85fea886c89f467a941daa.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/643920302971027473/2ef7bc295e85fea886c89f467a941daa.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3211005906657573121",
+        "name": "beasttorres992",
+        "url": null
+      },
+      "twitch": {
+        "id": "525216674",
+        "name": "beasttorres9921",
+        "url": "https://www.twitch.tv/beasttorres9921"
+      }
+    },
+    "legacy_username": "beasttorres992#3554"
+  },
+  "629944866578759710": {
+    "id": 629944866578759710,
+    "name": "k_yatan",
+    "nick": null,
+    "display_name": "K_yatan",
+    "global_name": "K_yatan",
+    "pronouns": "nick/her",
+    "guild_pronouns": null,
+    "bio": "oj simpson",
+    "guild_bio": null,
+    "display_bio": "oj simpson",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "rlz31bnnfolosuax6u3lgfcw1",
+        "name": "Harry",
+        "url": "https://open.spotify.com/user/rlz31bnnfolosuax6u3lgfcw1"
+      },
+      "xbox": {
+        "id": "3078373947579241",
+        "name": "TrippyMcTrip900",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TrippyMcTrip900"
+      }
+    },
+    "legacy_username": "K_yatan#3518"
+  },
+  "561100323729702923": {
+    "id": 561100323729702923,
+    "name": "lulaecstasy",
+    "nick": null,
+    "display_name": "LulaEcstasy",
+    "global_name": "LulaEcstasy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "a moj stary wkreca wkreta i mu mowi nie krec wkreta moja stara pierdolnieta",
+    "guild_bio": null,
+    "display_bio": "a moj stary wkreca wkreta i mu mowi nie krec wkreta moja stara pierdolnieta",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "eune_78964527",
+        "name": "LosFalusos",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198016990729",
+        "name": "fck_ysf // .lula // CSGOSKINS",
+        "url": "https://steamcommunity.com/profiles/76561198016990729"
+      }
+    },
+    "legacy_username": "LulaEcstasy#9348"
   }
 }
