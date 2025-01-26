@@ -105960,5 +105960,59 @@
       }
     },
     "legacy_username": null
+  },
+  "1044132712715390999": {
+    "id": 1044132712715390999,
+    "name": "gabbee6907",
+    "nick": null,
+    "display_name": "Gabbe",
+    "global_name": "Gabbe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "kysy pelaa",
+    "guild_bio": null,
+    "display_bio": "kysy pelaa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199135578782",
+        "name": "Gabbe",
+        "url": "https://steamcommunity.com/profiles/76561199135578782"
+      },
+      "xbox": {
+        "id": "3072685237539749",
+        "name": "Gabbe4362",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gabbe4362"
+      }
+    },
+    "legacy_username": "Gabbee#6907"
+  },
+  "292612610522873858": {
+    "id": 292612610522873858,
+    "name": "spycyfruit",
+    "nick": null,
+    "display_name": "Kyabetsu",
+    "global_name": "Kyabetsu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "SpycyFruit#1261"
   }
 }
