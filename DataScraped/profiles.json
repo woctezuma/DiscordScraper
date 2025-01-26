@@ -106192,5 +106192,43 @@
       }
     },
     "legacy_username": null
+  },
+  "799558125387776010": {
+    "id": 799558125387776010,
+    "name": "yeleven11",
+    "nick": null,
+    "display_name": "Yeleven",
+    "global_name": "Yeleven",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "I love monkeytype\n170 wpm/15 sec",
+    "guild_bio": null,
+    "display_bio": "I love monkeytype\n170 wpm/15 sec",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d6bfe1d12e20435f9d1d4c3f223fa8d5",
+        "name": "TransparenteEnte",
+        "url": null
+      },
+      "github": {
+        "id": "86296484",
+        "name": "Yeleven11",
+        "url": "https://github.com/Yeleven11"
+      },
+      "steam": {
+        "id": "76561199210428631",
+        "name": "yeleven",
+        "url": "https://steamcommunity.com/profiles/76561199210428631"
+      }
+    },
+    "legacy_username": "StupidBeLike#5538"
   }
 }
