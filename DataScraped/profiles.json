@@ -106230,5 +106230,102 @@
       }
     },
     "legacy_username": "StupidBeLike#5538"
+  },
+  "781694557975871498": {
+    "id": 781694557975871498,
+    "name": "numbscxll117",
+    "nick": null,
+    "display_name": "Scully",
+    "global_name": "Scully",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "GOD LOVES YOU\nIm Scully\nCaffeine addicted funny man\nGuitarist and drummer\nMy fav bands are Deftones and Alice in Chains\nFav games are Ghost Of Tsushima and fallout new Vegas",
+    "guild_bio": null,
+    "display_bio": "GOD LOVES YOU\nIm Scully\nCaffeine addicted funny man\nGuitarist and drummer\nMy fav bands are Deftones and Alice in Chains\nFav games are Ghost Of Tsushima and fallout new Vegas",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MangaManAsh#1537",
+        "name": "MangaManAsh#1537",
+        "url": null
+      },
+      "epic_games": {
+        "id": "c2e995d17b5649c799ed399e3adf0c4f",
+        "name": "NumbScull117",
+        "url": null
+      },
+      "playstation": {
+        "id": "5238107620058651369",
+        "name": "BoltZY47",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "1525687350",
+        "name": "EATyoPEAS_12345",
+        "url": null
+      },
+      "spotify": {
+        "id": "31g5ilflb6rdx7p2cxzqdn2use3q",
+        "name": "Asher Tisor",
+        "url": "https://open.spotify.com/user/31g5ilflb6rdx7p2cxzqdn2use3q"
+      },
+      "steam": {
+        "id": "76561199298318362",
+        "name": "Skully",
+        "url": "https://steamcommunity.com/profiles/76561199298318362"
+      },
+      "xbox": {
+        "id": "3065928420433105",
+        "name": "BlackMyst7024",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=BlackMyst7024"
+      }
+    },
+    "legacy_username": "B1ackMist#6792"
+  },
+  "328989508462968832": {
+    "id": 328989508462968832,
+    "name": "mich1155",
+    "nick": null,
+    "display_name": "mich",
+    "global_name": "mich",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "G59",
+    "guild_bio": null,
+    "display_bio": "G59",
+    "banner": "https://cdn.discordapp.com/banners/328989508462968832/a_15e12466b6248fbfcab65b4b7ff2a12e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/328989508462968832/a_15e12466b6248fbfcab65b4b7ff2a12e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "9116694293069935331",
+        "name": "mich-1155",
+        "url": null
+      },
+      "spotify": {
+        "id": "btf2jgbphucnw5fwd3l8mh5xk",
+        "name": "Mich1155",
+        "url": "https://open.spotify.com/user/btf2jgbphucnw5fwd3l8mh5xk"
+      },
+      "steam": {
+        "id": "76561198951588897",
+        "name": "Mich1155",
+        "url": "https://steamcommunity.com/profiles/76561198951588897"
+      }
+    },
+    "legacy_username": "mich1155#3108"
   }
 }
