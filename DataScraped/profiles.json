@@ -104487,5 +104487,95 @@
       }
     },
     "legacy_username": null
+  },
+  "263111064298717184": {
+    "id": 263111064298717184,
+    "name": "chelseydagger",
+    "nick": null,
+    "display_name": "Chels",
+    "global_name": "Chels",
+    "pronouns": "She/her",
+    "guild_pronouns": null,
+    "bio": "https://www.twitch.tv/chelseydaggerdj",
+    "guild_bio": null,
+    "display_bio": "https://www.twitch.tv/chelseydaggerdj",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Cherushii#11630",
+        "name": "Cherushii#11630",
+        "url": null
+      },
+      "spotify": {
+        "id": "1231824780",
+        "name": "Chelsey K. J. Sanderson",
+        "url": "https://open.spotify.com/user/1231824780"
+      },
+      "steam": {
+        "id": "76561198020402324",
+        "name": "Chels",
+        "url": "https://steamcommunity.com/profiles/76561198020402324"
+      },
+      "twitch": {
+        "id": "144384045",
+        "name": "chelseydaggerdj",
+        "url": "https://www.twitch.tv/chelseydaggerdj"
+      }
+    },
+    "legacy_username": "Chels#6496"
+  },
+  "434990445278396436": {
+    "id": 434990445278396436,
+    "name": "roro.2480",
+    "nick": null,
+    "display_name": "roro",
+    "global_name": "roro",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/434990445278396436/a_f71e09268f01c773ab9100d54295c10b.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/434990445278396436/a_f71e09268f01c773ab9100d54295c10b.gif?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "roro.#1960"
+  },
+  "788135659663130636": {
+    "id": 788135659663130636,
+    "name": "scorpion06913",
+    "nick": null,
+    "display_name": "SCORPION",
+    "global_name": "SCORPION",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198957297127",
+        "name": "SCORPION \ufe3b\u30c7 \u4e00",
+        "url": "https://steamcommunity.com/profiles/76561198957297127"
+      }
+    },
+    "legacy_username": null
   }
 }
