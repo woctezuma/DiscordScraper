@@ -104749,5 +104749,52 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "125412982204268544": {
+    "id": 125412982204268544,
+    "name": "madroxidechild",
+    "nick": null,
+    "display_name": "Maddy",
+    "global_name": "Maddy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Liar, lawyer, what's the difference?",
+    "guild_bio": null,
+    "display_bio": "Liar, lawyer, what's the difference?",
+    "banner": "https://cdn.discordapp.com/banners/125412982204268544/a_b728f74e37f16f2ff0eee454ae3d33ec.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/125412982204268544/a_b728f74e37f16f2ff0eee454ae3d33ec.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Maddy#6721"
+  },
+  "725287736952619069": {
+    "id": 725287736952619069,
+    "name": "qizaki",
+    "nick": null,
+    "display_name": "kizaqi",
+    "global_name": "kizaqi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "178575328",
+        "name": "wetzoop",
+        "url": "https://www.twitch.tv/wetzoop"
+      }
+    },
+    "legacy_username": null
   }
 }
