@@ -106838,5 +106838,73 @@
       }
     },
     "legacy_username": "Alibre8790#3559"
+  },
+  "906694091612508180": {
+    "id": 906694091612508180,
+    "name": "kauan3",
+    "nick": null,
+    "display_name": "kau",
+    "global_name": "kau",
+    "pronouns": "\ud83e\udd28",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "72672576508f4bb58e430ac8858c0e9c",
+        "name": "Kau\u00e3br22",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "1847262466",
+        "name": "cauan24r",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199145363756",
+        "name": "kauan22",
+        "url": "https://steamcommunity.com/profiles/76561199145363756"
+      },
+      "xbox": {
+        "id": "3071439791544204",
+        "name": "Kauanbr18134",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Kauanbr18134"
+      }
+    },
+    "legacy_username": "kauan1#6385"
+  },
+  "173508412649373696": {
+    "id": 173508412649373696,
+    "name": "llehnori",
+    "nick": null,
+    "display_name": "llehnori",
+    "global_name": "llehnori",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197983064373",
+        "name": "llehnori",
+        "url": "https://steamcommunity.com/profiles/76561197983064373"
+      }
+    },
+    "legacy_username": null
   }
 }
