@@ -105603,5 +105603,79 @@
       }
     },
     "legacy_username": "Rubyrose#3022"
+  },
+  "798890040578539520": {
+    "id": 798890040578539520,
+    "name": "artificerpawjob",
+    "nick": null,
+    "display_name": "mrs teamkill",
+    "global_name": "mrs teamkill",
+    "pronouns": "wawa (she/her)",
+    "guild_pronouns": null,
+    "bio": "*PEOPLE NEVER CHANGE BUT SKIN WILL ROT IN ANY WEATHER!*\n\nlinks: https://linktr.ee/welldon\n\n\n\nbi/pan\n\nfurry\n\ni LOVE rain world\n\nyou **WILL** see me <t:91583419020:R>",
+    "guild_bio": null,
+    "display_bio": "*PEOPLE NEVER CHANGE BUT SKIN WILL ROT IN ANY WEATHER!*\n\nlinks: https://linktr.ee/welldon\n\n\n\nbi/pan\n\nfurry\n\ni LOVE rain world\n\nyou **WILL** see me <t:91583419020:R>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "c7fgyeef",
+        "name": "WellDonGD",
+        "url": "https://www.reddit.com/u/WellDonGD"
+      },
+      "unknown_roblox": {
+        "id": "3567892337",
+        "name": "ToeFungusNation",
+        "url": null
+      },
+      "twitter": {
+        "id": "1476100377644781568",
+        "name": "welldonian",
+        "url": "https://twitter.com/welldonian"
+      },
+      "youtube": {
+        "id": "UCoDu0VdeueSk6Ho7M_8wK3A",
+        "name": "welldonian",
+        "url": "https://www.youtube.com/channel/UCoDu0VdeueSk6Ho7M_8wK3A"
+      }
+    },
+    "legacy_username": "w\u0338\u031b\u0305\u01ddl\u0489\u3125\u1572\u14cd\u03b7#7648"
+  },
+  "644592730630258689": {
+    "id": 644592730630258689,
+    "name": "nojjjel",
+    "nick": null,
+    "display_name": "Noel",
+    "global_name": "Noel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "05e159affbb844f7ab0c1f1d6fbe801c",
+        "name": "Nojjjel",
+        "url": null
+      },
+      "spotify": {
+        "id": "hmny3e2e9iyy285sfxy2fu77j",
+        "name": "Nojjel",
+        "url": "https://open.spotify.com/user/hmny3e2e9iyy285sfxy2fu77j"
+      }
+    },
+    "legacy_username": null
   }
 }
