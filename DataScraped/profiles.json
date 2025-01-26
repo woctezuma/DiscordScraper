@@ -105395,5 +105395,48 @@
       }
     },
     "legacy_username": "seb#3197"
+  },
+  "388858216265547776": {
+    "id": 388858216265547776,
+    "name": ".elang",
+    "nick": null,
+    "display_name": "Call Me El",
+    "global_name": "Call Me El",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " ",
+    "guild_bio": null,
+    "display_bio": " ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "3437803016304712",
+        "name": "Elang Risqullah Ardo",
+        "url": null
+      },
+      "instagram": {
+        "id": "6141027149308611",
+        "name": "elangrisqullahardo",
+        "url": "https://www.instagram.com/elangrisqullahardo"
+      },
+      "steam": {
+        "id": "76561198288781059",
+        "name": "AJee",
+        "url": "https://steamcommunity.com/profiles/76561198288781059"
+      },
+      "youtube": {
+        "id": "UCA7pY2tY5vRjXFh2vIJa8MQ",
+        "name": "Mamank AJee",
+        "url": "https://www.youtube.com/channel/UCA7pY2tY5vRjXFh2vIJa8MQ"
+      }
+    },
+    "legacy_username": "ELANG#3309"
   }
 }
