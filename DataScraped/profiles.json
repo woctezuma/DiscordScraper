@@ -105323,5 +105323,77 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "923837278600720455": {
+    "id": 923837278600720455,
+    "name": "furmed",
+    "nick": null,
+    "display_name": "Furmed",
+    "global_name": "Furmed",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "711133570286092390": {
+    "id": 711133570286092390,
+    "name": "jackaroo_",
+    "nick": null,
+    "display_name": "Jackaroo",
+    "global_name": "Jackaroo",
+    "pronouns": "Conscious/Being",
+    "guild_pronouns": null,
+    "bio": "\"Life needed a bit of madness, but why should death be any different?\"\n-Wilford 'Motherloving' Warfstache",
+    "guild_bio": null,
+    "display_bio": "\"Life needed a bit of madness, but why should death be any different?\"\n-Wilford 'Motherloving' Warfstache",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Jackaroo#5244"
+  },
+  "727163764960526386": {
+    "id": 727163764960526386,
+    "name": "seb.epic",
+    "nick": null,
+    "display_name": "seb",
+    "global_name": "seb",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Human on discord \nCat in Real life ",
+    "guild_bio": null,
+    "display_bio": "Human on discord \nCat in Real life ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199198817650",
+        "name": "Seb",
+        "url": "https://steamcommunity.com/profiles/76561199198817650"
+      },
+      "xbox": {
+        "id": "3072212133133461",
+        "name": "SebIsStrange",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SebIsStrange"
+      }
+    },
+    "legacy_username": "seb#3197"
   }
 }
