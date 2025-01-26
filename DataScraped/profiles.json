@@ -106046,5 +106046,70 @@
       }
     },
     "legacy_username": null
+  },
+  "317752291144892416": {
+    "id": 317752291144892416,
+    "name": "shutd0wn_r",
+    "nick": null,
+    "display_name": "Guilherme",
+    "global_name": "Guilherme",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "init 5",
+    "guild_bio": null,
+    "display_bio": "init 5",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "32211071",
+        "name": "GuilhermeLuan",
+        "url": "https://github.com/GuilhermeLuan"
+      },
+      "steam": {
+        "id": "76561198220369724",
+        "name": "G",
+        "url": "https://steamcommunity.com/profiles/76561198220369724"
+      }
+    },
+    "legacy_username": "GuilhermeL#4591"
+  },
+  "768175550328995910": {
+    "id": 768175550328995910,
+    "name": "therealscpman",
+    "nick": null,
+    "display_name": "scp man",
+    "global_name": "scp man",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "scp secret lab funny\nmy channel: https://www.youtube.com/@therealscpman",
+    "guild_bio": null,
+    "display_bio": "scp secret lab funny\nmy channel: https://www.youtube.com/@therealscpman",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198416456648",
+        "name": "scp man",
+        "url": "https://steamcommunity.com/profiles/76561198416456648"
+      },
+      "youtube": {
+        "id": "UC3Z2iYRNKFIEHb_o88Vorqw",
+        "name": "scp man",
+        "url": "https://www.youtube.com/channel/UC3Z2iYRNKFIEHb_o88Vorqw"
+      }
+    },
+    "legacy_username": "Talentedfuzzycat#6695"
   }
 }
