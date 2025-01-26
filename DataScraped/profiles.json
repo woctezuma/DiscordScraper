@@ -104999,5 +104999,70 @@
     ],
     "connections": {},
     "legacy_username": "Rinori#6848"
+  },
+  "526566224331538462": {
+    "id": 526566224331538462,
+    "name": "voltaikz",
+    "nick": null,
+    "display_name": "wrd",
+    "global_name": "wrd",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "72776629",
+        "name": "samerop",
+        "url": "https://github.com/samerop"
+      }
+    },
+    "legacy_username": null
+  },
+  "1032627029687935067": {
+    "id": 1032627029687935067,
+    "name": "zhheka_",
+    "nick": null,
+    "display_name": "ZHHEka",
+    "global_name": "ZHHEka",
+    "pronouns": "not owl",
+    "guild_pronouns": null,
+    "bio": "hi its zhheka and owl",
+    "guild_bio": null,
+    "display_bio": "hi its zhheka and owl",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "3400807151",
+        "name": "adilzhan7755",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199279226668",
+        "name": "ZHHEka",
+        "url": "https://steamcommunity.com/profiles/76561199279226668"
+      },
+      "twitch": {
+        "id": "991694349",
+        "name": "zhhekas",
+        "url": "https://www.twitch.tv/zhhekas"
+      }
+    },
+    "legacy_username": "nekpytoi#8851"
   }
 }
