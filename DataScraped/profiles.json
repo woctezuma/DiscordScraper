@@ -107073,5 +107073,103 @@
       }
     },
     "legacy_username": "MjavadF#7989"
+  },
+  "353159194129596416": {
+    "id": 353159194129596416,
+    "name": "bananaboijohn",
+    "nick": null,
+    "display_name": "banana boi john",
+    "global_name": "banana boi john",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3424055046063125437",
+        "name": "DMGSPECIAL",
+        "url": null
+      },
+      "xbox": {
+        "id": "3077024410278706",
+        "name": "DMG SPECIAL",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DMG SPECIAL"
+      }
+    },
+    "legacy_username": "banana boi john#6152"
+  },
+  "362606821376000005": {
+    "id": 362606821376000005,
+    "name": "skynet.exe",
+    "nick": null,
+    "display_name": "Skynet.exe",
+    "global_name": "Skynet.exe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\n\n\n\n\n       ok",
+    "guild_bio": null,
+    "display_bio": "\n\n\n\n\n       ok",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "FilipGaminG#21409",
+        "name": "FilipGaminG#21409",
+        "url": null
+      },
+      "epic_games": {
+        "id": "831aef43b41e443493be1dd050b72778",
+        "name": "Skynetdotexe",
+        "url": null
+      },
+      "github": {
+        "id": "117482613",
+        "name": "Skynetexe",
+        "url": "https://github.com/Skynetexe"
+      },
+      "league_of_legends": {
+        "id": "lkSTx1uGPZpwW_B-7tASpt76EQ41V0gpMX0LM91KmKQg9J-QHkJwoh7maM_1jgTwyIyEfLTbQCUfRw",
+        "name": "Darius Brand0",
+        "url": null
+      },
+      "riot_games": {
+        "id": "lkSTx1uGPZpwW_B-7tASpt76EQ41V0gpMX0LM91KmKQg9J-QHkJwoh7maM_1jgTwyIyEfLTbQCUfRw",
+        "name": "Skynet#3131",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198073520717",
+        "name": "Skynet.exe",
+        "url": "https://steamcommunity.com/profiles/76561198073520717"
+      },
+      "twitch": {
+        "id": "248587993",
+        "name": "dat_boi_filip",
+        "url": "https://www.twitch.tv/dat_boi_filip"
+      },
+      "xbox": {
+        "id": "3062425954520653",
+        "name": "Skynet5619",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Skynet5619"
+      },
+      "youtube": {
+        "id": "UCODVt6S88huE1xw-UXwLMLg",
+        "name": "Skynet",
+        "url": "https://www.youtube.com/channel/UCODVt6S88huE1xw-UXwLMLg"
+      }
+    },
+    "legacy_username": "Skynet#8634"
   }
 }
