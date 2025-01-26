@@ -107308,5 +107308,25 @@
     ],
     "connections": {},
     "legacy_username": "contlt#8086"
+  },
+  "633883845606768651": {
+    "id": 633883845606768651,
+    "name": ".prac",
+    "nick": null,
+    "display_name": "Prac",
+    "global_name": "Prac",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Prac#3006"
   }
 }
