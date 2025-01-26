@@ -107171,5 +107171,142 @@
       }
     },
     "legacy_username": "Skynet#8634"
+  },
+  "444606110184243220": {
+    "id": 444606110184243220,
+    "name": "bru_rafael",
+    "nick": null,
+    "display_name": "Bru Rafael",
+    "global_name": "Bru Rafael",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "80's gamer",
+    "guild_bio": null,
+    "display_bio": "80's gamer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "BravoRomeu86#1849",
+        "name": "BravoRomeu86#1849",
+        "url": null
+      },
+      "epic_games": {
+        "id": "763ecade6b00430c9ef34ca03c709ad1",
+        "name": "bru_rafael_",
+        "url": null
+      },
+      "facebook": {
+        "id": "10156300303372482",
+        "name": "Bruno Rafael",
+        "url": null
+      },
+      "playstation": {
+        "id": "3104876123900518809",
+        "name": "bru_rafael86",
+        "url": null
+      },
+      "spotify": {
+        "id": "22cqx6cneato6kk76rnx6mv7a",
+        "name": "Bruno Rafael",
+        "url": "https://open.spotify.com/user/22cqx6cneato6kk76rnx6mv7a"
+      },
+      "steam": {
+        "id": "76561198195367325",
+        "name": "Bru_Rafa",
+        "url": "https://steamcommunity.com/profiles/76561198195367325"
+      },
+      "twitch": {
+        "id": "635754415",
+        "name": "bru_rafael_",
+        "url": "https://www.twitch.tv/bru_rafael_"
+      },
+      "xbox": {
+        "id": "3072635384214859",
+        "name": "BruRafael",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=BruRafael"
+      },
+      "youtube": {
+        "id": "UC_DjbCKwXTBakLUd1MA_3tw",
+        "name": "Bruno Rafael",
+        "url": "https://www.youtube.com/channel/UC_DjbCKwXTBakLUd1MA_3tw"
+      }
+    },
+    "legacy_username": "Bru_Rafael#5250"
+  },
+  "1279479032324558924": {
+    "id": 1279479032324558924,
+    "name": "kwrto",
+    "nick": null,
+    "display_name": "kwrto",
+    "global_name": "kwrto",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198428239755",
+        "name": "\ud83d\udfe5 mmmpuuuu \ud83d\udfe5",
+        "url": "https://steamcommunity.com/profiles/76561198428239755"
+      }
+    },
+    "legacy_username": null
+  },
+  "431173006895611934": {
+    "id": 431173006895611934,
+    "name": "duc_c",
+    "nick": null,
+    "display_name": "Tom",
+    "global_name": "Tom",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "pwease no dms, im shy",
+    "guild_bio": null,
+    "display_bio": "pwease no dms, im shy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198066254531",
+        "name": "Tom",
+        "url": "https://steamcommunity.com/profiles/76561198066254531"
+      }
+    },
+    "legacy_username": "duc#8067"
+  },
+  "1028224558743957525": {
+    "id": 1028224558743957525,
+    "name": "contlt",
+    "nick": null,
+    "display_name": "1309 contlt",
+    "global_name": "1309 contlt",
+    "pronouns": "\u751f\u7c8b\u306e\u3077\u3088\u3089\u30fc\u517c\u3061\u3087\u3063\u3068\u3066\u3068\u3089\u30fc",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "contlt#8086"
   }
 }
