@@ -106982,5 +106982,38 @@
       }
     },
     "legacy_username": null
+  },
+  "213376183147036672": {
+    "id": 213376183147036672,
+    "name": "ax_zone",
+    "nick": null,
+    "display_name": "ax_zone",
+    "global_name": "ax_zone",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Just play Outer Wilds. Don't search it ut, don't research, just trust me bro",
+    "guild_bio": null,
+    "display_bio": "Just play Outer Wilds. Don't search it ut, don't research, just trust me bro",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "16xbui",
+        "name": "AX_ZonE",
+        "url": "https://www.reddit.com/u/AX_ZonE"
+      },
+      "spotify": {
+        "id": "-black_thunder-",
+        "name": "-black_thunder-",
+        "url": "https://open.spotify.com/user/-black_thunder-"
+      }
+    },
+    "legacy_username": "ax_zone#9886"
   }
 }
