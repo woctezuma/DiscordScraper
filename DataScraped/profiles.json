@@ -104676,5 +104676,57 @@
       }
     },
     "legacy_username": "LulaEcstasy#9348"
+  },
+  "1257420797199388792": {
+    "id": 1257420797199388792,
+    "name": "dantheman05525",
+    "nick": null,
+    "display_name": "dantheman",
+    "global_name": "dantheman",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "premium"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "122159666462171129",
+        "name": "Daniel Black",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "7438013063",
+        "name": "Tattooboots69",
+        "url": null
+      },
+      "spotify": {
+        "id": "31mpbf7ebx76ssvx6hyt4i7jg3pu",
+        "name": "Daniel",
+        "url": "https://open.spotify.com/user/31mpbf7ebx76ssvx6hyt4i7jg3pu"
+      },
+      "steam": {
+        "id": "76561198272816543",
+        "name": "bob",
+        "url": "https://steamcommunity.com/profiles/76561198272816543"
+      },
+      "tiktok": {
+        "id": "07f4a3f7-b631-5f4e-b8a5-f9df372b3ff8",
+        "name": "dantheman715",
+        "url": "https://tiktok.com/@dantheman715"
+      },
+      "xbox": {
+        "id": "3063084803484897",
+        "name": "Tattooboots",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Tattooboots"
+      }
+    },
+    "legacy_username": null
   }
 }
