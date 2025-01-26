@@ -105178,5 +105178,79 @@
       }
     },
     "legacy_username": "Klodian#7250"
+  },
+  "488128021602107403": {
+    "id": 488128021602107403,
+    "name": "newbiesome",
+    "nick": null,
+    "display_name": "QueenOfNewbs",
+    "global_name": "QueenOfNewbs",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Well, what do we have here... Another lost soul... <a:BlobDevil:698240886227599480>",
+    "guild_bio": null,
+    "display_bio": "Well, what do we have here... Another lost soul... <a:BlobDevil:698240886227599480>",
+    "banner": "https://cdn.discordapp.com/banners/488128021602107403/a_99b29c06ad74840a40474317519b2824.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/488128021602107403/a_99b29c06ad74840a40474317519b2824.gif?size=512",
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198411446723",
+        "name": "micahlcassell",
+        "url": "https://steamcommunity.com/profiles/76561198411446723"
+      }
+    },
+    "legacy_username": null
+  },
+  "844575903227969597": {
+    "id": 844575903227969597,
+    "name": "bakaastasan",
+    "nick": null,
+    "display_name": "bakaasta",
+    "global_name": "bakaasta",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "All the cocaine in the world and your nose is in my business.",
+    "guild_bio": null,
+    "display_bio": "All the cocaine in the world and your nose is in my business.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199139604423",
+        "name": "Mikey-kun",
+        "url": "https://steamcommunity.com/profiles/76561199139604423"
+      }
+    },
+    "legacy_username": "bakaasta#1709"
+  },
+  "1109441134557663283": {
+    "id": 1109441134557663283,
+    "name": "porous_racket46",
+    "nick": null,
+    "display_name": "Scooby-Jew",
+    "global_name": "Scooby-Jew",
+    "pronouns": "i ain't no fag",
+    "guild_pronouns": null,
+    "bio": "_**Facts About Me:**_\n Im Scooby-Jew!\nQuote: Corruption Is THE Key!\n I LOVE Money\n\n\nmy ip: || nothin to see here||",
+    "guild_bio": null,
+    "display_bio": "_**Facts About Me:**_\n Im Scooby-Jew!\nQuote: Corruption Is THE Key!\n I LOVE Money\n\n\nmy ip: || nothin to see here||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Porous_Racket46#6029"
   }
 }
