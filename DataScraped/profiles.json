@@ -105577,5 +105577,31 @@
       }
     },
     "legacy_username": null
+  },
+  "441912276874690562": {
+    "id": 441912276874690562,
+    "name": "rubyrose62",
+    "nick": null,
+    "display_name": "Rubyrose",
+    "global_name": "Rubyrose",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3074712242652860",
+        "name": "RubyRose7657",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RubyRose7657"
+      }
+    },
+    "legacy_username": "Rubyrose#3022"
   }
 }
