@@ -106947,5 +106947,40 @@
       }
     },
     "legacy_username": "This.Elegant.Boy#5083"
+  },
+  "914440356995670036": {
+    "id": 914440356995670036,
+    "name": "h.12367195",
+    "nick": null,
+    "display_name": "jonkler",
+    "global_name": "jonkler",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<:offffffffffffffffffff:1333110540540575775>",
+    "guild_bio": null,
+    "display_bio": "<:offffffffffffffffffff:1333110540540575775>",
+    "banner": "https://cdn.discordapp.com/banners/914440356995670036/fe047a5fefa5fd8faabbccd2632f24d8.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/914440356995670036/fe047a5fefa5fd8faabbccd2632f24d8.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "3163c5323kv4ofwrdxa42wwvqrdi",
+        "name": "g?",
+        "url": "https://open.spotify.com/user/3163c5323kv4ofwrdxa42wwvqrdi"
+      },
+      "steam": {
+        "id": "76561199116418782",
+        "name": "h",
+        "url": "https://steamcommunity.com/profiles/76561199116418782"
+      }
+    },
+    "legacy_username": null
   }
 }
