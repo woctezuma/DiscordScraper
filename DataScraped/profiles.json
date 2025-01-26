@@ -106111,5 +106111,86 @@
       }
     },
     "legacy_username": "Talentedfuzzycat#6695"
+  },
+  "639109098301947955": {
+    "id": 639109098301947955,
+    "name": "kukierukie",
+    "nick": null,
+    "display_name": "Kukie",
+    "global_name": "Kukie",
+    "pronouns": "Among / us",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Kukie#31371",
+        "name": "Kukie#31371",
+        "url": null
+      },
+      "epic_games": {
+        "id": "379a629c0c684e808cf7fc76330735ab",
+        "name": "Kukie Rukie",
+        "url": null
+      },
+      "instagram": {
+        "id": "6765356216858583",
+        "name": "kukierukie",
+        "url": "https://www.instagram.com/kukierukie"
+      },
+      "league_of_legends": {
+        "id": "ioADTpGK6eIS0SAmEnIPSZALoW8LY1Lg8CBfh3_Qqt7K35TeuCAbkvJZ-61nkw7IJewhx415Zn4eBQ",
+        "name": "Kukie#Rukie",
+        "url": null
+      },
+      "riot_games": {
+        "id": "ioADTpGK6eIS0SAmEnIPSZALoW8LY1Lg8CBfh3_Qqt7K35TeuCAbkvJZ-61nkw7IJewhx415Zn4eBQ",
+        "name": "Kukie#Rukie",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198166813079",
+        "name": "Kukie",
+        "url": "https://steamcommunity.com/profiles/76561198166813079"
+      }
+    },
+    "legacy_username": "Kukie#1736"
+  },
+  "1065343098303025152": {
+    "id": 1065343098303025152,
+    "name": "kapsle5",
+    "nick": null,
+    "display_name": "Kapsle",
+    "global_name": "Kapsle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1065343098303025152/a_1652eb4b8250399a7666b11ab8e45209.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1065343098303025152/a_1652eb4b8250399a7666b11ab8e45209.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199395077439",
+        "name": "Kapsle",
+        "url": "https://steamcommunity.com/profiles/76561199395077439"
+      }
+    },
+    "legacy_username": null
   }
 }
