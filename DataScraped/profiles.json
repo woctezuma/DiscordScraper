@@ -105518,5 +105518,64 @@
       }
     },
     "legacy_username": null
+  },
+  "1237331106072756257": {
+    "id": 1237331106072756257,
+    "name": "chrapt",
+    "nick": null,
+    "display_name": "chrapt",
+    "global_name": "chrapt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "e6da596523ac419598980153f84aafff",
+        "name": "chrapt",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "BSLfKlTCL3O6uHSmcJ10UQC9drOamL5MfOvX6zSZKwfLOP_lQ1Uau71Mucn7ODZ1JI3oHF3ABJI3HA",
+        "name": "chrapt#000",
+        "url": null
+      },
+      "playstation": {
+        "id": "7469208982194241103",
+        "name": "chrapt",
+        "url": null
+      },
+      "riot_games": {
+        "id": "BSLfKlTCL3O6uHSmcJ10UQC9drOamL5MfOvX6zSZKwfLOP_lQ1Uau71Mucn7ODZ1JI3oHF3ABJI3HA",
+        "name": "chrapt#000",
+        "url": null
+      },
+      "spotify": {
+        "id": "qpno5kom1kpdqns5ha1wo33p2",
+        "name": "chrapt",
+        "url": "https://open.spotify.com/user/qpno5kom1kpdqns5ha1wo33p2"
+      },
+      "steam": {
+        "id": "76561199147260354",
+        "name": "_.raptopoulos",
+        "url": "https://steamcommunity.com/profiles/76561199147260354"
+      },
+      "twitch": {
+        "id": "476768970",
+        "name": "xraptopoulos08",
+        "url": "https://www.twitch.tv/xraptopoulos08"
+      },
+      "xbox": {
+        "id": "3063229921834129",
+        "name": "chrapt",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=chrapt"
+      }
+    },
+    "legacy_username": null
   }
 }
