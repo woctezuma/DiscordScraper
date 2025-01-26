@@ -105082,5 +105082,70 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1242557139218595861": {
+    "id": 1242557139218595861,
+    "name": "sevde1453",
+    "nick": "Azad",
+    "display_name": "Azad",
+    "global_name": null,
+    "pronouns": "' Sevde \u0623\u0648\u0632\u0627\u0646\u060c \u0645\u0646 \u0641\u0636\u0644\u0643 \u062e\u0630\u0646\u064a \u0625\u0644\u0649 \u0627\u0644\u0641\u0646\u062f\u0642.",
+    "guild_pronouns": null,
+    "bio": "Best duo: ||y||\nsteam:1100001353eb365\nxialspd",
+    "guild_bio": null,
+    "display_bio": "Best duo: ||y||\nsteam:1100001353eb365\nxialspd",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31b53neg4jxpjom7n7xhbht2tbty",
+        "name": "Eren",
+        "url": "https://open.spotify.com/user/31b53neg4jxpjom7n7xhbht2tbty"
+      },
+      "steam": {
+        "id": "76561199706223050",
+        "name": "Fatih Sultan Mehmet",
+        "url": "https://steamcommunity.com/profiles/76561199706223050"
+      }
+    },
+    "legacy_username": null
+  },
+  "1234141738239791246": {
+    "id": 1234141738239791246,
+    "name": "shivam_711",
+    "nick": null,
+    "display_name": "EvilXShivay",
+    "global_name": "EvilXShivay",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Ruler of my own tiny kingdom.\nKeep calm and game on.\nI don't have birthdays. I level up.\nI'm just here for the memes.\nEA SPORTS Player",
+    "guild_bio": null,
+    "display_bio": "Ruler of my own tiny kingdom.\nKeep calm and game on.\nI don't have birthdays. I level up.\nI'm just here for the memes.\nEA SPORTS Player",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1022406120062586960": {
+    "id": 1022406120062586960,
+    "name": "lan042270",
+    "nick": null,
+    "display_name": "Lan",
+    "global_name": "Lan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
