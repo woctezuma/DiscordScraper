@@ -106906,5 +106906,46 @@
       }
     },
     "legacy_username": null
+  },
+  "727761175315480627": {
+    "id": 727761175315480627,
+    "name": "this.elegant.boy",
+    "nick": null,
+    "display_name": "Ricardo Fort",
+    "global_name": "Ricardo Fort",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Less stress and more cats.",
+    "guild_bio": null,
+    "display_bio": "Less stress and more cats.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "E-uffBqkFeBKDqBCHCGIf5X9AGdE1GGHNtG1J4at6qUOkRahwwKGo01ZH0b2Lu-t0RBganag00191w",
+        "name": "JohannShadow",
+        "url": null
+      },
+      "riot_games": {
+        "id": "E-uffBqkFeBKDqBCHCGIf5X9AGdE1GGHNtG1J4at6qUOkRahwwKGo01ZH0b2Lu-t0RBganag00191w",
+        "name": "JohannShadow#LAS",
+        "url": null
+      },
+      "spotify": {
+        "id": "31e6ldzu7ol2dpygg4kpia6n5xtq",
+        "name": "Seb\u00e1stian",
+        "url": "https://open.spotify.com/user/31e6ldzu7ol2dpygg4kpia6n5xtq"
+      },
+      "youtube": {
+        "id": "UCMFggM2cXoU7-Ayrmj5aUQw",
+        "name": "Michi_Mate_Cocido",
+        "url": "https://www.youtube.com/channel/UCMFggM2cXoU7-Ayrmj5aUQw"
+      }
+    },
+    "legacy_username": "This.Elegant.Boy#5083"
   }
 }
