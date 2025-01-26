@@ -107328,5 +107328,65 @@
     ],
     "connections": {},
     "legacy_username": "Prac#3006"
+  },
+  "344769203573751808": {
+    "id": 344769203573751808,
+    "name": "thehoneybird",
+    "nick": null,
+    "display_name": "Honey Bird",
+    "global_name": "Honey Bird",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/344769203573751808/a_e5e2942ad3b1d82b6012d9e5f68c3ab6.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/344769203573751808/a_e5e2942ad3b1d82b6012d9e5f68c3ab6.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "EternalBliss#1645",
+        "name": "EternalBliss#1645",
+        "url": null
+      },
+      "riot_games": {
+        "id": "IatFioXhpNv8K0EAWYBjHzM9w9Mr4BGKhYanTB3Ns59tSYQSyEw1eawAtifwK_Zr8hZrX84IuP3mqQ",
+        "name": "Honey Bird#Birdy",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198249623668",
+        "name": "The Honey Bird",
+        "url": "https://steamcommunity.com/profiles/76561198249623668"
+      },
+      "twitch": {
+        "id": "246340891",
+        "name": "honeybirdgaming",
+        "url": "https://www.twitch.tv/honeybirdgaming"
+      },
+      "twitter": {
+        "id": "1305532252026097664",
+        "name": "TheHoneyBird1",
+        "url": "https://twitter.com/TheHoneyBird1"
+      },
+      "xbox": {
+        "id": "3076689146201168",
+        "name": "TheHoneyBird",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TheHoneyBird"
+      },
+      "youtube": {
+        "id": "UCBpcrN0equway4HNOub3dzg",
+        "name": "The Honey Bird",
+        "url": "https://www.youtube.com/channel/UCBpcrN0equway4HNOub3dzg"
+      }
+    },
+    "legacy_username": "TheHoneyBird#0013"
   }
 }
