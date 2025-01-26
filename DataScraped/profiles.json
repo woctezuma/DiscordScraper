@@ -105825,5 +105825,46 @@
       }
     },
     "legacy_username": "PtitMoinO#2846"
+  },
+  "216600577314914314": {
+    "id": 216600577314914314,
+    "name": "john2236",
+    "nick": null,
+    "display_name": "John",
+    "global_name": "John",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "John#2236"
+  },
+  "807988012373246023": {
+    "id": 807988012373246023,
+    "name": "mister_bimbastic_bimba_fantascti",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "    ",
+    "guild_bio": null,
+    "display_bio": "    ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u043c\u0438\u0441\u0442\u0435\u0440 \u0431\u0438\u043c\u0431\u0430\u0441\u0442\u0438\u043a \u0431\u0438\u043c\u0431\u0430 \u0444\u0430\u043d\u0442\u0430\u0441\u0442\u0438\u043a#6333"
   }
 }
