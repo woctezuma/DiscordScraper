@@ -105476,5 +105476,47 @@
     ],
     "connections": {},
     "legacy_username": "THoRioo#7174"
+  },
+  "1321594169923342356": {
+    "id": 1321594169923342356,
+    "name": "asterisflamemigo",
+    "nick": null,
+    "display_name": "asterisflamemigo",
+    "global_name": null,
+    "pronouns": "Star/asteri",
+    "guild_pronouns": null,
+    "bio": "I like Water",
+    "guild_bio": null,
+    "display_bio": "I like Water",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "291253885392388106": {
+    "id": 291253885392388106,
+    "name": "dtwardowsky",
+    "nick": null,
+    "display_name": "Paradise",
+    "global_name": "Paradise",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198872597551",
+        "name": "Paradise",
+        "url": "https://steamcommunity.com/profiles/76561198872597551"
+      }
+    },
+    "legacy_username": null
   }
 }
