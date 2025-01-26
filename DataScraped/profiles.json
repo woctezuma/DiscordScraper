@@ -106479,5 +106479,31 @@
       }
     },
     "legacy_username": null
+  },
+  "446166603432722432": {
+    "id": 446166603432722432,
+    "name": "moshy555",
+    "nick": null,
+    "display_name": "Mochi",
+    "global_name": "Mochi",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "||23|\n     ,      ...\n\nSky cotlIdentity VProject Sekai",
+    "guild_bio": null,
+    "display_bio": "||23|\n     ,      ...\n\nSky cotlIdentity VProject Sekai",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3067178576111892",
+        "name": "EdgarValden4671",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=EdgarValden4671"
+      }
+    },
+    "legacy_username": "\u2741Moshy\u2741#7923"
   }
 }
