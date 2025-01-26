@@ -105252,5 +105252,58 @@
     ],
     "connections": {},
     "legacy_username": "Porous_Racket46#6029"
+  },
+  "317187077269618690": {
+    "id": 317187077269618690,
+    "name": "raph2401",
+    "nick": null,
+    "display_name": "Raph",
+    "global_name": "Raph",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "KSF R1000 = 2024 ?",
+    "guild_bio": null,
+    "display_bio": "KSF R1000 = 2024 ?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199247507241",
+        "name": "\u272a Raph",
+        "url": "https://steamcommunity.com/profiles/76561199247507241"
+      },
+      "xbox": {
+        "id": "3064601680130674",
+        "name": "Raph2401",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Raph2401"
+      }
+    },
+    "legacy_username": "Raph#3211"
+  },
+  "653024830492377106": {
+    "id": 653024830492377106,
+    "name": "rustiestrat",
+    "nick": null,
+    "display_name": "rustiestrat",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "mufurbuns >>>",
+    "guild_bio": null,
+    "display_bio": "mufurbuns >>>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
