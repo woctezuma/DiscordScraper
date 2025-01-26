@@ -104884,5 +104884,62 @@
       }
     },
     "legacy_username": "Macegalaxy#3041"
+  },
+  "467988137403219978": {
+    "id": 467988137403219978,
+    "name": "deadshot5814",
+    "nick": null,
+    "display_name": "deadshot121",
+    "global_name": "deadshot121",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UC-SSBWijm5Fg8ktlh-0TB7g",
+        "name": "Umair Jutt",
+        "url": "https://www.youtube.com/channel/UC-SSBWijm5Fg8ktlh-0TB7g"
+      }
+    },
+    "legacy_username": "Deadshot#5814"
+  },
+  "553124331157454859": {
+    "id": 553124331157454859,
+    "name": "jennatayla",
+    "nick": null,
+    "display_name": "Jenna Tayla",
+    "global_name": "Jenna Tayla",
+    "pronouns": "Only 2 Genders",
+    "guild_pronouns": null,
+    "bio": "Im an asshole ",
+    "guild_bio": null,
+    "display_bio": "Im an asshole ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "226044052",
+        "name": "cristina0720",
+        "url": "https://www.twitch.tv/cristina0720"
+      },
+      "xbox": {
+        "id": "3073506121809416",
+        "name": "JennaTayla5570",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JennaTayla5570"
+      }
+    },
+    "legacy_username": "Jenna Tayla#8132"
   }
 }
