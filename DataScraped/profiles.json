@@ -105305,5 +105305,23 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1299282733041717288": {
+    "id": 1299282733041717288,
+    "name": "ddt_6969",
+    "nick": null,
+    "display_name": "DDT",
+    "global_name": "DDT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
