@@ -106669,5 +106669,120 @@
       }
     },
     "legacy_username": "jikssman#0335"
+  },
+  "1315698229224144906": {
+    "id": 1315698229224144906,
+    "name": "anes.ptw",
+    "nick": null,
+    "display_name": "Anes.ptw",
+    "global_name": "Anes.ptw",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "965625183677345852": {
+    "id": 965625183677345852,
+    "name": "professional732",
+    "nick": null,
+    "display_name": "h",
+    "global_name": "h",
+    "pronouns": "\u0107",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "516781554455019530": {
+    "id": 516781554455019530,
+    "name": "yunalunq",
+    "nick": null,
+    "display_name": "Yuna",
+    "global_name": "Yuna",
+    "pronouns": "Luna",
+    "guild_pronouns": null,
+    "bio": "ana_almerin",
+    "guild_bio": null,
+    "display_bio": "ana_almerin",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "01d137991874430bb26638ce0327becf",
+        "name": "YuunaLunaa",
+        "url": null
+      },
+      "facebook": {
+        "id": "223538572573454",
+        "name": "Ana Almerin",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "kt355pPAa_OMx2fdPIOHhdDa3iM2yCVhEizILsxFsRWZzyvwN5K4EytosJIFmpJIA2rJiVRb4HheNg",
+        "name": "Morgana#3837",
+        "url": null
+      },
+      "riot_games": {
+        "id": "kt355pPAa_OMx2fdPIOHhdDa3iM2yCVhEizILsxFsRWZzyvwN5K4EytosJIFmpJIA2rJiVRb4HheNg",
+        "name": "Morgana#3837",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198839268772",
+        "name": "Yuuna",
+        "url": "https://steamcommunity.com/profiles/76561198839268772"
+      },
+      "twitch": {
+        "id": "244306826",
+        "name": "lunayuuna",
+        "url": "https://www.twitch.tv/lunayuuna"
+      },
+      "xbox": {
+        "id": "3071388426345040",
+        "name": "YunnaLuuna",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=YunnaLuuna"
+      }
+    },
+    "legacy_username": "Yuuna#5804"
+  },
+  "708331359109644328": {
+    "id": 708331359109644328,
+    "name": "remory_747",
+    "nick": null,
+    "display_name": "Remory",
+    "global_name": "Remory",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Remory#8084"
   }
 }
