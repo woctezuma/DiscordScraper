@@ -104816,5 +104816,73 @@
     ],
     "connections": {},
     "legacy_username": "joabo#0272"
+  },
+  "225872068028137474": {
+    "id": 225872068028137474,
+    "name": "macegalaxy",
+    "nick": null,
+    "display_name": "Macegalaxy",
+    "global_name": "Macegalaxy",
+    "pronouns": "wee wombo",
+    "guild_pronouns": null,
+    "bio": "aka Jin\n\n\"Never say you can't do something, its a lie\"",
+    "guild_bio": null,
+    "display_bio": "aka Jin\n\n\"Never say you can't do something, its a lie\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Macegalaxy#1507",
+        "name": "Macegalaxy#1507",
+        "url": null
+      },
+      "epic_games": {
+        "id": "327dcd62aed34e9e81eb8af7337f264b",
+        "name": "Macegalaxy",
+        "url": null
+      },
+      "riot_games": {
+        "id": "36neShJk8La7RdEvhMtXXOfFSPIwjyLotelisVQ-pDHYFaQ-EvzpdS-N_7wzfZbGu6Qn71FwT7VSXg",
+        "name": "macegalaxy#asia",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "114901579",
+        "name": "Macegalaxy",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198147153782",
+        "name": "Macesu",
+        "url": "https://steamcommunity.com/profiles/76561198147153782"
+      },
+      "twitch": {
+        "id": "100216408",
+        "name": "macegalaxy",
+        "url": "https://www.twitch.tv/macegalaxy"
+      },
+      "twitter": {
+        "id": "3434792285",
+        "name": "macegalaxy",
+        "url": "https://twitter.com/macegalaxy"
+      },
+      "xbox": {
+        "id": "3064448036944557",
+        "name": "Macegalaxy95",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Macegalaxy95"
+      },
+      "youtube": {
+        "id": "UCwARkuGmlIyw6kc6Cwgh2bQ",
+        "name": "Macegalaxy",
+        "url": "https://www.youtube.com/channel/UCwARkuGmlIyw6kc6Cwgh2bQ"
+      }
+    },
+    "legacy_username": "Macegalaxy#3041"
   }
 }
