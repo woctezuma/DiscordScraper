@@ -105677,5 +105677,92 @@
       }
     },
     "legacy_username": null
+  },
+  "551861236774731781": {
+    "id": 551861236774731781,
+    "name": "oscarin_p",
+    "nick": null,
+    "display_name": "Oscarin",
+    "global_name": "Oscarin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31nvpkolsvbi3fwng53ahofr43uu",
+        "name": "Oscarin",
+        "url": "https://open.spotify.com/user/31nvpkolsvbi3fwng53ahofr43uu"
+      },
+      "steam": {
+        "id": "76561198918263163",
+        "name": "ChatGPT",
+        "url": "https://steamcommunity.com/profiles/76561198918263163"
+      },
+      "twitch": {
+        "id": "1045841422",
+        "name": "theoscarynhh",
+        "url": "https://www.twitch.tv/theoscarynhh"
+      },
+      "xbox": {
+        "id": "3078412161797009",
+        "name": "MrWaSSa777",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MrWaSSa777"
+      },
+      "youtube": {
+        "id": "UCuKiNEXdIikGUJL6WW7I3jA",
+        "name": "TheOscarynh",
+        "url": "https://www.youtube.com/channel/UCuKiNEXdIikGUJL6WW7I3jA"
+      }
+    },
+    "legacy_username": null
+  },
+  "1096425125873721414": {
+    "id": 1096425125873721414,
+    "name": "behnam1387",
+    "nick": null,
+    "display_name": "Behnam1387",
+    "global_name": "Behnam1387",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Behnam1387#7452"
+  },
+  "1250028942707003455": {
+    "id": 1250028942707003455,
+    "name": "vyn8338",
+    "nick": null,
+    "display_name": "Vyn",
+    "global_name": "Vyn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Genshin, Valo!",
+    "guild_bio": null,
+    "display_bio": "Genshin, Valo!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
