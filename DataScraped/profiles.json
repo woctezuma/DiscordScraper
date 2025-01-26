@@ -106525,5 +106525,27 @@
     ],
     "connections": {},
     "legacy_username": "SmallestBird#9642"
+  },
+  "225082644344340480": {
+    "id": 225082644344340480,
+    "name": "kookookoo13",
+    "nick": null,
+    "display_name": "kooya",
+    "global_name": "kooya",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i live so i love",
+    "guild_bio": null,
+    "display_bio": "i live so i love",
+    "banner": "https://cdn.discordapp.com/banners/225082644344340480/74242762e1a460a7303d9bbdb3fa63f1.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/225082644344340480/74242762e1a460a7303d9bbdb3fa63f1.png?size=512",
+    "badges": [
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "neverbeforeseens#9363"
   }
 }
