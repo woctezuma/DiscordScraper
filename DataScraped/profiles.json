@@ -105936,5 +105936,29 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "484240606571528232": {
+    "id": 484240606571528232,
+    "name": "deathangeltaco",
+    "nick": null,
+    "display_name": "deathangeltaco",
+    "global_name": "deathangeltaco",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199101519913",
+        "name": "deathangeltaco",
+        "url": "https://steamcommunity.com/profiles/76561199101519913"
+      }
+    },
+    "legacy_username": null
   }
 }
