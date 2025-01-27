@@ -107388,5 +107388,33 @@
       }
     },
     "legacy_username": "TheHoneyBird#0013"
+  },
+  "627976462561181696": {
+    "id": 627976462561181696,
+    "name": "thealces",
+    "nick": null,
+    "display_name": "Alces",
+    "global_name": "Alces",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Alces#11928",
+        "name": "Alces#11928",
+        "url": null
+      }
+    },
+    "legacy_username": "Alces#8941"
   }
 }
