@@ -108321,5 +108321,61 @@
       }
     },
     "legacy_username": "MonkeyJiblets#3229"
+  },
+  "625647605027962900": {
+    "id": 625647605027962900,
+    "name": "allus.ua",
+    "nick": null,
+    "display_name": "Allus",
+    "global_name": "Allus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCTLhTFHV_yr6RNjrwA1opVg",
+        "name": "Allus",
+        "url": "https://www.youtube.com/channel/UCTLhTFHV_yr6RNjrwA1opVg"
+      }
+    },
+    "legacy_username": "Funny#0640"
+  },
+  "638618418677022731": {
+    "id": 638618418677022731,
+    "name": "_ti.ko",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": "\u0428\u0430\u0442\u0430\u0442\u0435\u043b\u044c \u0416\u0435\u043f\u044b",
+    "guild_pronouns": null,
+    "bio": "-, ,   \n     \n    \n     \n   ,,\n,,  ",
+    "guild_bio": null,
+    "display_bio": "-, ,   \n     \n    \n     \n   ,,\n,,  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "313aeq3i5wxenpc2kv5ipwksimty",
+        "name": "Mrboogee",
+        "url": "https://open.spotify.com/user/313aeq3i5wxenpc2kv5ipwksimty"
+      }
+    },
+    "legacy_username": "Niko Skorpionov.#3883"
   }
 }
