@@ -112579,5 +112579,27 @@
       }
     },
     "legacy_username": null
+  },
+  "397334418336776202": {
+    "id": 397334418336776202,
+    "name": "lexa_ty",
+    "nick": null,
+    "display_name": "lexa_ty",
+    "global_name": "lexa_ty",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "lexa_ty#3114"
   }
 }
