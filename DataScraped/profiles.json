@@ -114003,5 +114003,77 @@
     ],
     "connections": {},
     "legacy_username": "36#0036"
+  },
+  "181349282933112833": {
+    "id": 181349282933112833,
+    "name": "skunkdealer",
+    "nick": null,
+    "display_name": "Jacob",
+    "global_name": "Jacob",
+    "pronouns": "Slut/Skunk",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Skrrt#21326",
+        "name": "Skrrt#21326",
+        "url": null
+      },
+      "spotify": {
+        "id": "skrrt24",
+        "name": "skrrt24",
+        "url": "https://open.spotify.com/user/skrrt24"
+      },
+      "steam": {
+        "id": "76561198271924738",
+        "name": "\u26a1 bhopper",
+        "url": "https://steamcommunity.com/profiles/76561198271924738"
+      },
+      "twitch": {
+        "id": "196249649",
+        "name": "skunkdealer",
+        "url": "https://www.twitch.tv/skunkdealer"
+      },
+      "xbox": {
+        "id": "avsKGSynE-J6w9HSsLYo8vu8b8nza_KxdW3_oZXDSqw",
+        "name": "son of chin",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=son of chin"
+      }
+    },
+    "legacy_username": "!jacob#3763"
+  },
+  "106970654493933568": {
+    "id": 106970654493933568,
+    "name": "stinkage",
+    "nick": null,
+    "display_name": "stinkage",
+    "global_name": "stinkage",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/106970654493933568/a_bcb61e7b8fbe1e85059cfc7f94e6c808.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/106970654493933568/a_bcb61e7b8fbe1e85059cfc7f94e6c808.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "stinkage#6518"
   }
 }
