@@ -113007,5 +113007,31 @@
       }
     },
     "legacy_username": "Sayo\u2606#0334"
+  },
+  "273691353332842497": {
+    "id": 273691353332842497,
+    "name": "blackxfusion",
+    "nick": null,
+    "display_name": "BlackXFusion",
+    "global_name": "BlackXFusion",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "75543253",
+        "name": "blackxfusion",
+        "url": "https://www.twitch.tv/blackxfusion"
+      }
+    },
+    "legacy_username": "BlackXFusion#0265"
   }
 }
