@@ -112530,5 +112530,54 @@
       }
     },
     "legacy_username": "abloodthirstypikachu#8737"
+  },
+  "692358558716788866": {
+    "id": 692358558716788866,
+    "name": "salah_emam",
+    "nick": null,
+    "display_name": "NUR-GAMER",
+    "global_name": "NUR-GAMER",
+    "pronouns": "S M E \ud83d\udc7e",
+    "guild_pronouns": null,
+    "bio": "Nursing Specialist Operations and Love Games ",
+    "guild_bio": null,
+    "display_bio": "Nursing Specialist Operations and Love Games ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "8a5cfba37a2a4cd69ba7ff1dc1b4bdae",
+        "name": "NURG2AMER",
+        "url": null
+      },
+      "facebook": {
+        "id": "589082435970859",
+        "name": "Salah Emam",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199345762964",
+        "name": "NURSE-GAMER",
+        "url": "https://steamcommunity.com/profiles/76561199345762964"
+      },
+      "tiktok": {
+        "id": "d7ffb512-4fe6-5453-805a-419e4e0591cf",
+        "name": "nurse.gamer",
+        "url": "https://tiktok.com/@nurse.gamer"
+      },
+      "twitter": {
+        "id": "1870509229112524800",
+        "name": "NURSE_G2MER",
+        "url": "https://twitter.com/NURSE_G2MER"
+      },
+      "youtube": {
+        "id": "UCMSeAwRvzvYhlmIHwDSyrdQ",
+        "name": "NURSE-GAMER",
+        "url": "https://www.youtube.com/channel/UCMSeAwRvzvYhlmIHwDSyrdQ"
+      }
+    },
+    "legacy_username": null
   }
 }
