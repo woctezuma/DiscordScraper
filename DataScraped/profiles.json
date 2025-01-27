@@ -107975,5 +107975,39 @@
       }
     },
     "legacy_username": "Ghost#5435"
+  },
+  "325941012495335425": {
+    "id": 325941012495335425,
+    "name": "h_2_so_4",
+    "nick": null,
+    "display_name": "HSO",
+    "global_name": "HSO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "H --- O -        ===0:hymmm: \n                 -S-\nH --- O -        ===0  :neonthink:",
+    "guild_bio": null,
+    "display_bio": "H --- O -        ===0:hymmm: \n                 -S-\nH --- O -        ===0  :neonthink:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "GromPL#2929",
+        "name": "GromPL#2929",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199508435083",
+        "name": "MaybeFest G4Skins",
+        "url": "https://steamcommunity.com/profiles/76561199508435083"
+      }
+    },
+    "legacy_username": "H\u2082SO\u2084#5685"
   }
 }
