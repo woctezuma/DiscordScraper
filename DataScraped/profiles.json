@@ -107658,5 +107658,52 @@
       }
     },
     "legacy_username": null
+  },
+  "276256952768659457": {
+    "id": 276256952768659457,
+    "name": "mtbkairyu",
+    "nick": null,
+    "display_name": "Kairyu",
+    "global_name": "Kairyu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Writer. Event Organizer. People Person. Currently hooked onto Touhou LostWord.\n\nJoin the Malaysian Touhou Brigade https://discord.gg/jwhDrQ7",
+    "guild_bio": null,
+    "display_bio": "Writer. Event Organizer. People Person. Currently hooked onto Touhou LostWord.\n\nJoin the Malaysian Touhou Brigade https://discord.gg/jwhDrQ7",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Kairyu#2386"
+  },
+  "189005702688145408": {
+    "id": 189005702688145408,
+    "name": "sinxful",
+    "nick": null,
+    "display_name": "sinxful",
+    "global_name": "sinxful",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198034037400",
+        "name": "SinXful",
+        "url": "https://steamcommunity.com/profiles/76561198034037400"
+      }
+    },
+    "legacy_username": "sinxful#0036"
   }
 }
