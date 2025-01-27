@@ -113829,5 +113829,130 @@
       }
     },
     "legacy_username": null
+  },
+  "433262650479214604": {
+    "id": 433262650479214604,
+    "name": "patrykos_9",
+    "nick": null,
+    "display_name": "Patrykos ",
+    "global_name": "Patrykos ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl5",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198317444070",
+        "name": "Patrykos \u30c4",
+        "url": "https://steamcommunity.com/profiles/76561198317444070"
+      }
+    },
+    "legacy_username": null
+  },
+  "730547059287130246": {
+    "id": 730547059287130246,
+    "name": "alexandr0v.",
+    "nick": null,
+    "display_name": "Alexandr0v.",
+    "global_name": "Alexandr0v.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198087855800",
+        "name": "Alexandr0v. \u2122",
+        "url": "https://steamcommunity.com/profiles/76561198087855800"
+      },
+      "twitch": {
+        "id": "773141038",
+        "name": "alexandr0w_",
+        "url": "https://www.twitch.tv/alexandr0w_"
+      }
+    },
+    "legacy_username": "Alexandr0v.#0018"
+  },
+  "1332503509299499180": {
+    "id": 1332503509299499180,
+    "name": "kyp29",
+    "nick": null,
+    "display_name": "Kyp",
+    "global_name": "Kyp",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "355483414155231235": {
+    "id": 355483414155231235,
+    "name": "shigery",
+    "nick": null,
+    "display_name": "Shigery Sasaki",
+    "global_name": "Shigery Sasaki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ndj2sd3evicfzw2blwmounqrem",
+        "name": "Shigery",
+        "url": "https://open.spotify.com/user/31ndj2sd3evicfzw2blwmounqrem"
+      }
+    },
+    "legacy_username": "shigery#2731"
+  },
+  "574974207117754389": {
+    "id": 574974207117754389,
+    "name": ".zipper.",
+    "nick": null,
+    "display_name": ":)",
+    "global_name": ":)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "AMBASING#2962"
   }
 }
