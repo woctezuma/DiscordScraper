@@ -113362,5 +113362,58 @@
       }
     },
     "legacy_username": "McCarty#0352"
+  },
+  "951170699555377185": {
+    "id": 951170699555377185,
+    "name": "marton2515",
+    "nick": null,
+    "display_name": "Mrton",
+    "global_name": "Mrton",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3066449224942865",
+        "name": "SearNumber14525",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SearNumber14525"
+      }
+    },
+    "legacy_username": "M\u00e1rton#2515"
+  },
+  "231225938703024128": {
+    "id": 231225938703024128,
+    "name": "errantventurer",
+    "nick": null,
+    "display_name": "ErrantVenturer",
+    "global_name": "ErrantVenturer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "YTdmNjk5ZTJhMmFmYmVjNDVkYTUwNTE4MTQ2ZWZhZDk5MzdjZDkyZWU4MTQyYzdkNzA4MjhmMzJkMzUxZjUxYw",
+        "name": "ErrantVenturer",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ErrantVenturer"
+      }
+    },
+    "legacy_username": "ErrantVenturer#4328"
   }
 }
