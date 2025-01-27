@@ -108053,5 +108053,75 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1004628663154778132": {
+    "id": 1004628663154778132,
+    "name": "didididi129",
+    "nick": null,
+    "display_name": "Didi",
+    "global_name": "Didi",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Apple kinda guy\n\nBirthday 30/4\nYou read my Bio!\n+1 Knowledge",
+    "guild_bio": null,
+    "display_bio": "Apple kinda guy\n\nBirthday 30/4\nYou read my Bio!\n+1 Knowledge",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f65a1e14c0f94786bb46a7e64580aaf1",
+        "name": "DidiDidi129",
+        "url": null
+      },
+      "github": {
+        "id": "136057713",
+        "name": "DidiDidi129",
+        "url": "https://github.com/DidiDidi129"
+      },
+      "playstation": {
+        "id": "5899777109088596970",
+        "name": "DidiDidi129",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3778045223",
+        "name": "DidiDidi1290",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199199521564",
+        "name": "DidiDidi129",
+        "url": "https://steamcommunity.com/profiles/76561199199521564"
+      },
+      "twitch": {
+        "id": "823549819",
+        "name": "didididi129",
+        "url": "https://www.twitch.tv/didididi129"
+      },
+      "twitter": {
+        "id": "1677498695208808449",
+        "name": "DidiDidi1290",
+        "url": "https://twitter.com/DidiDidi1290"
+      },
+      "xbox": {
+        "id": "3070510509577522",
+        "name": "DidiDidi129",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DidiDidi129"
+      },
+      "youtube": {
+        "id": "UCGSE1Z8rHzQ1KJAbKAM7tTg",
+        "name": "Didi",
+        "url": "https://www.youtube.com/channel/UCGSE1Z8rHzQ1KJAbKAM7tTg"
+      }
+    },
+    "legacy_username": "DidiDidi129#8702"
   }
 }
