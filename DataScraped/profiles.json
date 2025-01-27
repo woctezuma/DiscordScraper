@@ -112856,5 +112856,31 @@
       }
     },
     "legacy_username": "ythmxz#2927"
+  },
+  "691721666039906325": {
+    "id": 691721666039906325,
+    "name": "kitaezi_0",
+    "nick": null,
+    "display_name": "C0C0",
+    "global_name": "C0C0",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198973771547",
+        "name": "\u041e073\u041e\u0412",
+        "url": "https://steamcommunity.com/profiles/76561198973771547"
+      }
+    },
+    "legacy_username": null
   }
 }
