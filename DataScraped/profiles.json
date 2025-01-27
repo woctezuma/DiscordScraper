@@ -112673,5 +112673,81 @@
       }
     },
     "legacy_username": "balls_v2#8990"
+  },
+  "1331826346476699658": {
+    "id": 1331826346476699658,
+    "name": "tsun_93059",
+    "nick": null,
+    "display_name": "tsuntsun",
+    "global_name": "tsuntsun",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "hi hi hi hi hi hi hi hi hi\n\nhttps://x.com/tsuntsun995",
+    "guild_bio": null,
+    "display_bio": "hi hi hi hi hi hi hi hi hi\n\nhttps://x.com/tsuntsun995",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1100613580216356965": {
+    "id": 1100613580216356965,
+    "name": "emmythenem",
+    "nick": null,
+    "display_name": "Emily",
+    "global_name": "Emily",
+    "pronouns": "\u2728\u301c \ud835\udd98\ud835\udd8d\ud835\udd8a/\ud835\udd8d\ud835\udd8a\ud835\udd97\u301c\u2728",
+    "guild_pronouns": null,
+    "bio": "AIYGAWGWY-AIYDAWDWY",
+    "guild_bio": null,
+    "display_bio": "AIYGAWGWY-AIYDAWDWY",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "bubble <3#1094"
+  },
+  "400780382259249152": {
+    "id": 400780382259249152,
+    "name": "zirnitrax",
+    "nick": null,
+    "display_name": "Zirni",
+    "global_name": "Zirni",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ZirnitraX#2141",
+        "name": "ZirnitraX#2141",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "euw_122177156",
+        "name": "ZirnitraX",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198865225105",
+        "name": "ZirnitraX",
+        "url": "https://steamcommunity.com/profiles/76561198865225105"
+      }
+    },
+    "legacy_username": "ZirnitraX#0001"
   }
 }
