@@ -113188,5 +113188,68 @@
       }
     },
     "legacy_username": "scinyx#8152"
+  },
+  "609640779425775618": {
+    "id": 609640779425775618,
+    "name": "_ghost143_",
+    "nick": null,
+    "display_name": "Ghost143 | 143",
+    "global_name": "Ghost143 | 143",
+    "pronouns": "Developer/Dev",
+    "guild_pronouns": null,
+    "bio": "Jr. Dev (\"Python,JVM,C#\")\n\nhttps://ghost143.de",
+    "guild_bio": null,
+    "display_bio": "Jr. Dev (\"Python,JVM,C#\")\n\nhttps://ghost143.de",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Ghost143#2279",
+        "name": "Ghost143#2279",
+        "url": null
+      },
+      "epic_games": {
+        "id": "f509bb0e6d8642d09be1332ea2597016",
+        "name": "\u0262\u029c\u1d0fs\u1d1b143",
+        "url": null
+      },
+      "github": {
+        "id": "144170441",
+        "name": "DieserGhost",
+        "url": "https://github.com/DieserGhost"
+      },
+      "playstation": {
+        "id": "2318688562610436",
+        "name": "Lucky_Crizzle",
+        "url": null
+      },
+      "spotify": {
+        "id": "31snna5blfrzmagarfxqcfdyikau",
+        "name": "Ghost143",
+        "url": "https://open.spotify.com/user/31snna5blfrzmagarfxqcfdyikau"
+      },
+      "steam": {
+        "id": "76561198209028768",
+        "name": "Ghost143",
+        "url": "https://steamcommunity.com/profiles/76561198209028768"
+      },
+      "twitch": {
+        "id": "763494965",
+        "name": "gghost143",
+        "url": "https://www.twitch.tv/gghost143"
+      },
+      "xbox": {
+        "id": "3075151924437870",
+        "name": "LuckyCrizzle",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LuckyCrizzle"
+      }
+    },
+    "legacy_username": "Ghost143#2753"
   }
 }
