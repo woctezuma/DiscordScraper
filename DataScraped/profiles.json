@@ -107705,5 +107705,50 @@
       }
     },
     "legacy_username": "sinxful#0036"
+  },
+  "598916492935036958": {
+    "id": 598916492935036958,
+    "name": "klaniola",
+    "nick": null,
+    "display_name": "klaniola",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl6",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Invadr19#2656",
+        "name": "Invadr19#2656",
+        "url": null
+      },
+      "epic_games": {
+        "id": "644b935527824bd583a3eee64265b066",
+        "name": "Invadr19",
+        "url": null
+      },
+      "spotify": {
+        "id": "1elahuc0xrpvdtptk2iwe4nxi",
+        "name": "Nick",
+        "url": "https://open.spotify.com/user/1elahuc0xrpvdtptk2iwe4nxi"
+      },
+      "steam": {
+        "id": "76561198822383708",
+        "name": "FLY LO",
+        "url": "https://steamcommunity.com/profiles/76561198822383708"
+      }
+    },
+    "legacy_username": "Klaniola#7598"
   }
 }
