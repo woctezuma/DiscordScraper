@@ -108009,5 +108009,31 @@
       }
     },
     "legacy_username": "H\u2082SO\u2084#5685"
+  },
+  "489846876552691723": {
+    "id": 489846876552691723,
+    "name": "maniceclectic",
+    "nick": null,
+    "display_name": "ManicEclectic",
+    "global_name": "ManicEclectic",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198104860196",
+        "name": "ManicEclectic",
+        "url": "https://steamcommunity.com/profiles/76561198104860196"
+      }
+    },
+    "legacy_username": "ManicEclectic#0148"
   }
 }
