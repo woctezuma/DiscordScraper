@@ -112428,5 +112428,107 @@
       }
     },
     "legacy_username": null
+  },
+  "522118808886837288": {
+    "id": 522118808886837288,
+    "name": "mimmomarsala",
+    "nick": null,
+    "display_name": "Dom",
+    "global_name": "Dom",
+    "pronouns": "nick/gah",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AEWYJINMH2HZVUXWKTYYARTLVFEQ",
+        "name": "Giuseppe",
+        "url": null
+      },
+      "spotify": {
+        "id": "dom267",
+        "name": "dom267",
+        "url": "https://open.spotify.com/user/dom267"
+      },
+      "steam": {
+        "id": "76561198836466007",
+        "name": "mimmomarsala",
+        "url": "https://steamcommunity.com/profiles/76561198836466007"
+      },
+      "xbox": {
+        "id": "3073265721165483",
+        "name": "mimmomarsala",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=mimmomarsala"
+      }
+    },
+    "legacy_username": "mimmomarsala#9471"
+  },
+  "402699880088338433": {
+    "id": 402699880088338433,
+    "name": "abloodthirstypikachu",
+    "nick": null,
+    "display_name": "CookieTheOtter",
+    "global_name": "CookieTheOtter",
+    "pronouns": "He/her/she",
+    "guild_pronouns": null,
+    "bio": "Furry stoner otter gamer.\nCookie is my name.\n\"We survive together, or not at all\" - Takeo Maksaki. Drug Samurai",
+    "guild_bio": null,
+    "display_bio": "Furry stoner otter gamer.\nCookie is my name.\n\"We survive together, or not at all\" - Takeo Maksaki. Drug Samurai",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "RYWuee_eY3a8Eg4380nKtcNJM08QrQYX1wj-xQqsJAvZBboFctKaiBsc3f-D2_6FHeN6tTs5BhfOwg",
+        "name": "BearsGoneWild#NA1",
+        "url": null
+      },
+      "riot_games": {
+        "id": "RYWuee_eY3a8Eg4380nKtcNJM08QrQYX1wj-xQqsJAvZBboFctKaiBsc3f-D2_6FHeN6tTs5BhfOwg",
+        "name": "BearsGoneWild#NA1",
+        "url": null
+      },
+      "spotify": {
+        "id": "31uuldleoiio3nggz5t5sumv44qe",
+        "name": "Cookie",
+        "url": "https://open.spotify.com/user/31uuldleoiio3nggz5t5sumv44qe"
+      },
+      "steam": {
+        "id": "76561198110157423",
+        "name": "Cookie The Rudder Brudder",
+        "url": "https://steamcommunity.com/profiles/76561198110157423"
+      },
+      "tiktok": {
+        "id": "dc63a55a-9f7d-5fa8-84e8-1faaae350e6d",
+        "name": "bloodthirstypikachu",
+        "url": "https://tiktok.com/@bloodthirstypikachu"
+      },
+      "twitch": {
+        "id": "60611087",
+        "name": "abloodthirstypikachu",
+        "url": "https://www.twitch.tv/abloodthirstypikachu"
+      },
+      "xbox": {
+        "id": "3077279262893352",
+        "name": "TearingSydney",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TearingSydney"
+      },
+      "youtube": {
+        "id": "UCQhJQbMG6zGFAYFS30Ncmlg",
+        "name": "BloodthirstyPikachu",
+        "url": "https://www.youtube.com/channel/UCQhJQbMG6zGFAYFS30Ncmlg"
+      }
+    },
+    "legacy_username": "abloodthirstypikachu#8737"
   }
 }
