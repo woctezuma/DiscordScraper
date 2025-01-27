@@ -113679,5 +113679,155 @@
       }
     },
     "legacy_username": "badomen095#3870"
+  },
+  "523032089130434572": {
+    "id": 523032089130434572,
+    "name": "pfis",
+    "nick": null,
+    "display_name": "Pfis",
+    "global_name": "Pfis",
+    "pronouns": "Yura",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Pfis#2458",
+        "name": "Pfis#2458",
+        "url": null
+      },
+      "epic_games": {
+        "id": "e77d12a617374c998a0544ba0c294e59",
+        "name": "SETTONONE",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198889738281",
+        "name": "Pfis",
+        "url": "https://steamcommunity.com/profiles/76561198889738281"
+      },
+      "xbox": {
+        "id": "3069310524255240",
+        "name": "Pfis3455",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Pfis3455"
+      }
+    },
+    "legacy_username": "Pfis#7531"
+  },
+  "929925920083558452": {
+    "id": 929925920083558452,
+    "name": "hayjams",
+    "nick": null,
+    "display_name": "Hayden",
+    "global_name": "Hayden",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198124934455",
+        "name": "Jams",
+        "url": "https://steamcommunity.com/profiles/76561198124934455"
+      },
+      "youtube": {
+        "id": "UCvWitG_vEMs2el-8kpl7vBA",
+        "name": "Hayden",
+        "url": "https://www.youtube.com/channel/UCvWitG_vEMs2el-8kpl7vBA"
+      }
+    },
+    "legacy_username": "Jams#5484"
+  },
+  "1179850738445328435": {
+    "id": 1179850738445328435,
+    "name": "738432",
+    "nick": null,
+    "display_name": "Veki",
+    "global_name": "Veki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Married ",
+    "guild_bio": null,
+    "display_bio": "Married ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "cn5woiso99r8q69gegga3ss0s",
+        "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "url": "https://open.spotify.com/user/cn5woiso99r8q69gegga3ss0s"
+      },
+      "twitter": {
+        "id": "1664329340010504199",
+        "name": "738asd3",
+        "url": "https://twitter.com/738asd3"
+      }
+    },
+    "legacy_username": null
+  },
+  "584780124361195533": {
+    "id": 584780124361195533,
+    "name": "shadowtechfx",
+    "nick": null,
+    "display_name": "ShadowTechFX",
+    "global_name": "ShadowTechFX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "facebook": {
+        "id": "10156232514741436",
+        "name": "Stacie Moody",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198966655877",
+        "name": "ShadowTechFX",
+        "url": "https://steamcommunity.com/profiles/76561198966655877"
+      },
+      "twitch": {
+        "id": "273034026",
+        "name": "shadowtechfx",
+        "url": "https://www.twitch.tv/shadowtechfx"
+      },
+      "twitter": {
+        "id": "23770408",
+        "name": "ShadowTechFX",
+        "url": "https://twitter.com/ShadowTechFX"
+      },
+      "youtube": {
+        "id": "UCwadr-vDcZK_B0g2jUFDt2A",
+        "name": "Shadow TechFX",
+        "url": "https://www.youtube.com/channel/UCwadr-vDcZK_B0g2jUFDt2A"
+      }
+    },
+    "legacy_username": null
   }
 }
