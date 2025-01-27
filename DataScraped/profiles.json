@@ -112601,5 +112601,77 @@
     ],
     "connections": {},
     "legacy_username": "lexa_ty#3114"
+  },
+  "411691314992906253": {
+    "id": 411691314992906253,
+    "name": "balls_v2",
+    "nick": null,
+    "display_name": "balls_v2",
+    "global_name": "balls_v2",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "VegitoBlue78#1376",
+        "name": "VegitoBlue78#1376",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "6021b346-f33b-5559-8151-8d43324b5d47",
+        "name": "olollol",
+        "url": null
+      },
+      "instagram": {
+        "id": "5770100606434684",
+        "name": "balls_v1",
+        "url": "https://www.instagram.com/balls_v1"
+      },
+      "playstation": {
+        "id": "4847869869353898140",
+        "name": "VegitoBlue74",
+        "url": null
+      },
+      "spotify": {
+        "id": "vegitoblue78",
+        "name": "Balls_v2",
+        "url": "https://open.spotify.com/user/vegitoblue78"
+      },
+      "steam": {
+        "id": "76561198873536373",
+        "name": "VegitoBlue78",
+        "url": "https://steamcommunity.com/profiles/76561198873536373"
+      },
+      "tiktok": {
+        "id": "ec0712ba-d5e0-449b-870b-96e11d14cf3d",
+        "name": "balls_v2",
+        "url": "https://tiktok.com/@balls_v2"
+      },
+      "twitch": {
+        "id": "274621881",
+        "name": "notvegito_blue78",
+        "url": "https://www.twitch.tv/notvegito_blue78"
+      },
+      "xbox": {
+        "id": "3078212152383646",
+        "name": "VegitoBlue78",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=VegitoBlue78"
+      },
+      "youtube": {
+        "id": "UCrdgtVWhM2icIcI_8ZKNe_g",
+        "name": "VegitoBlue 78",
+        "url": "https://www.youtube.com/channel/UCrdgtVWhM2icIcI_8ZKNe_g"
+      }
+    },
+    "legacy_username": "balls_v2#8990"
   }
 }
