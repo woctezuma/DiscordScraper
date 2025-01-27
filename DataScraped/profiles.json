@@ -113145,5 +113145,48 @@
       }
     },
     "legacy_username": "\u30df\u30b1\u30e9Mao\ud83d\udc7b#9173"
+  },
+  "507319579261796352": {
+    "id": 507319579261796352,
+    "name": "scinyxx",
+    "nick": null,
+    "display_name": "scinyx",
+    "global_name": "scinyx",
+    "pronouns": "ant/ico",
+    "guild_pronouns": null,
+    "bio": "top 1 gnar in Trentino",
+    "guild_bio": null,
+    "display_bio": "top 1 gnar in Trentino",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "8683689085039808",
+        "name": "bombardelli_davide",
+        "url": "https://www.instagram.com/bombardelli_davide"
+      },
+      "league_of_legends": {
+        "id": "keSoq0WmDeHe9jK3o4qq7qOPnSD8HMpLvsnyAQfZD0ZUV3qsw0Pr2qXSIo-1-854KLY8uifG9z9DRw",
+        "name": "antico#1111",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198311519724",
+        "name": "scinyx",
+        "url": "https://steamcommunity.com/profiles/76561198311519724"
+      },
+      "twitch": {
+        "id": "458161304",
+        "name": "sc1nyx",
+        "url": "https://www.twitch.tv/sc1nyx"
+      }
+    },
+    "legacy_username": "scinyx#8152"
   }
 }
