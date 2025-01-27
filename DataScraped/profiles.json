@@ -112767,5 +112767,94 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "392371133229432853": {
+    "id": 392371133229432853,
+    "name": "p_darksy_r",
+    "nick": null,
+    "display_name": "p_darksy_r",
+    "global_name": "p_darksy_r",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "BDay  06 Nov  |  22y  |  Ig: @p_darksy_r\nSocials: http://beacons.ai/darksy2020\nDiscord: https://discord.gg/teXqBsg",
+    "guild_bio": null,
+    "display_bio": "BDay  06 Nov  |  22y  |  Ig: @p_darksy_r\nSocials: http://beacons.ai/darksy2020\nDiscord: https://discord.gg/teXqBsg",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "801404280070144",
+        "name": "Pedro Ramos",
+        "url": null
+      },
+      "playstation": {
+        "id": "509646477344168472",
+        "name": "p_darksy_r",
+        "url": null
+      },
+      "spotify": {
+        "id": "1188656823",
+        "name": "Pedro Ramos",
+        "url": "https://open.spotify.com/user/1188656823"
+      },
+      "steam": {
+        "id": "76561198371244030",
+        "name": "darkshadow",
+        "url": "https://steamcommunity.com/profiles/76561198371244030"
+      },
+      "twitch": {
+        "id": "236395764",
+        "name": "darksy2020",
+        "url": "https://www.twitch.tv/darksy2020"
+      },
+      "xbox": {
+        "id": "3066574811902810",
+        "name": "darksy2018",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=darksy2018"
+      }
+    },
+    "legacy_username": "p_darksy_r#3752"
+  },
+  "431880971550457866": {
+    "id": 431880971550457866,
+    "name": "ythmxz",
+    "nick": null,
+    "display_name": "ythmxz",
+    "global_name": null,
+    "pronouns": "tchu tcha tcha / tchetchereretchetche",
+    "guild_pronouns": null,
+    "bio": ":)",
+    "guild_bio": null,
+    "display_bio": ":)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2783984100340505888",
+        "name": "ythmxz",
+        "url": null
+      },
+      "spotify": {
+        "id": "31uhfc6wcof7lysi5ozge32mmxnq",
+        "name": "Yuri Thomaz",
+        "url": "https://open.spotify.com/user/31uhfc6wcof7lysi5ozge32mmxnq"
+      },
+      "xbox": {
+        "id": "3075127484738788",
+        "name": "ythmxz",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ythmxz"
+      }
+    },
+    "legacy_username": "ythmxz#2927"
   }
 }
