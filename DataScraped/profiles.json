@@ -107788,5 +107788,82 @@
       }
     },
     "legacy_username": "Kloyn#6833"
+  },
+  "613670621238394926": {
+    "id": 613670621238394926,
+    "name": "myr8252",
+    "nick": null,
+    "display_name": "Myr",
+    "global_name": "Myr",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "myr#8252"
+  },
+  "988443897602666526": {
+    "id": 988443897602666526,
+    "name": "napasitng",
+    "nick": null,
+    "display_name": "Napasitng",
+    "global_name": "Napasitng",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "151610cf1a1e4e1a857467c899735e9c",
+        "name": "napasitng",
+        "url": null
+      },
+      "github": {
+        "id": "118649086",
+        "name": "napasitng",
+        "url": "https://github.com/napasitng"
+      },
+      "instagram": {
+        "id": "6991169217603662",
+        "name": "napasitng",
+        "url": "https://www.instagram.com/napasitng"
+      },
+      "riot_games": {
+        "id": "5YO8Isc41u6XJnMHeUFuLNrwsUzCmtZZz9jYV60CBVw-2yAYjg23oLxSopLk7FDiYaZwQHxbDEBafQ",
+        "name": "napasitng#8025",
+        "url": null
+      }
+    },
+    "legacy_username": null
+  },
+  "1275117627236417548": {
+    "id": 1275117627236417548,
+    "name": "daemon_12357",
+    "nick": null,
+    "display_name": "daemon",
+    "global_name": "daemon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
