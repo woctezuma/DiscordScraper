@@ -107416,5 +107416,100 @@
       }
     },
     "legacy_username": "Alces#8941"
+  },
+  "473966376684486697": {
+    "id": 473966376684486697,
+    "name": "cnmngqf",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u6d41\u6c13\u62f3\u6cd5#9673"
+  },
+  "1269020830596202529": {
+    "id": 1269020830596202529,
+    "name": "reallol20135",
+    "nick": null,
+    "display_name": "Himy_LOL",
+    "global_name": "Himy_LOL",
+    "pronouns": "Hey/Wassup",
+    "guild_pronouns": null,
+    "bio": "Pepsi Cat\nIm  but i also speak ",
+    "guild_bio": null,
+    "display_bio": "Pepsi Cat\nIm  but i also speak ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "4211449047244133680",
+        "name": "himy_lol",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "1573869880",
+        "name": "himynimanimou",
+        "url": null
+      },
+      "youtube": {
+        "id": "UCXbPTXXoQztJEu0sLHNwpLg",
+        "name": "trackpad_gamer14",
+        "url": "https://www.youtube.com/channel/UCXbPTXXoQztJEu0sLHNwpLg"
+      }
+    },
+    "legacy_username": null
+  },
+  "860960496962371604": {
+    "id": 860960496962371604,
+    "name": "._.sundude",
+    "nick": null,
+    "display_name": "The Atomic Crusader",
+    "global_name": "The Atomic Crusader",
+    "pronouns": "Call me what you want",
+    "guild_pronouns": null,
+    "bio": "Your local crusader.\nI love parry based combat games\nI have maxed out my charisma, and willpower.\n\n\nDm me when needed ill \nalways respond. (Probably)\n\nHavta lock in",
+    "guild_bio": null,
+    "display_bio": "Your local crusader.\nI love parry based combat games\nI have maxed out my charisma, and willpower.\n\n\nDm me when needed ill \nalways respond. (Probably)\n\nHavta lock in",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "3503306936",
+        "name": "Jeomamaat3am",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199465508294",
+        "name": "Your SunCrusader",
+        "url": "https://steamcommunity.com/profiles/76561199465508294"
+      },
+      "twitch": {
+        "id": "1114196821",
+        "name": "the_atomiccrusader",
+        "url": "https://www.twitch.tv/the_atomiccrusader"
+      },
+      "xbox": {
+        "id": "3076226050973688",
+        "name": "NMCBLUE",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=NMCBLUE"
+      }
+    },
+    "legacy_username": "Sun crusader#1914"
   }
 }
