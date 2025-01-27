@@ -113614,5 +113614,38 @@
       }
     },
     "legacy_username": "LucianoTrindade#9478"
+  },
+  "596409181792239647": {
+    "id": 596409181792239647,
+    "name": "blazingrod51_deluxe",
+    "nick": null,
+    "display_name": "BlazingRod51",
+    "global_name": "BlazingRod51",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "When I'm Idle, I'm still avalible!",
+    "guild_bio": null,
+    "display_bio": "When I'm Idle, I'm still avalible!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "7234569163408152829",
+        "name": "KirbySegaFan65",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199047472620",
+        "name": "BlazingRod51",
+        "url": "https://steamcommunity.com/profiles/76561199047472620"
+      }
+    },
+    "legacy_username": "BlazingRod51#9625"
   }
 }
