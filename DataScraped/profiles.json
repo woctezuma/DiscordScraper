@@ -113519,5 +113519,100 @@
       }
     },
     "legacy_username": "albertomeleleo#1012"
+  },
+  "289776022205759488": {
+    "id": 289776022205759488,
+    "name": "galaxy.fr",
+    "nick": null,
+    "display_name": "Galaxy",
+    "global_name": "Galaxy",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "```README.Md                ```\nINFJ-A & 21. \nHobbies: Games, Coding, Music \n& anything horror.",
+    "guild_bio": null,
+    "display_bio": "```README.Md                ```\nINFJ-A & 21. \nHobbies: Games, Coding, Music \n& anything horror.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "89454349",
+        "name": "GalaxyBoy13",
+        "url": "https://github.com/GalaxyBoy13"
+      },
+      "spotify": {
+        "id": "jxsjwa6ol3znpgr2vsc40f14a",
+        "name": "GalaxyBoy",
+        "url": "https://open.spotify.com/user/jxsjwa6ol3znpgr2vsc40f14a"
+      },
+      "twitch": {
+        "id": "616566171",
+        "name": "ragalax",
+        "url": "https://www.twitch.tv/ragalax"
+      },
+      "xbox": {
+        "id": "3064411291264564",
+        "name": "GalaxyBoy7118",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=GalaxyBoy7118"
+      }
+    },
+    "legacy_username": "GalaxyBoy#6240"
+  },
+  "408620847255781376": {
+    "id": 408620847255781376,
+    "name": "lucianotrindade",
+    "nick": null,
+    "display_name": "LucianoTrindade",
+    "global_name": "LucianoTrindade",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Assim como na vida, cada fase do jogo exige concentrao e fora de vontade para ser vencida.",
+    "guild_bio": null,
+    "display_bio": "Assim como na vida, cada fase do jogo exige concentrao e fora de vontade para ser vencida.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "7321247754601287",
+        "name": "luciannotrindade",
+        "url": "https://www.instagram.com/luciannotrindade"
+      },
+      "reddit": {
+        "id": "1dpnt6er14",
+        "name": "LucianoTrindade",
+        "url": "https://www.reddit.com/u/LucianoTrindade"
+      },
+      "spotify": {
+        "id": "luciano23.messenger",
+        "name": "Luciano Trindade",
+        "url": "https://open.spotify.com/user/luciano23.messenger"
+      },
+      "steam": {
+        "id": "76561198191693181",
+        "name": "\u029f\u1d1c\u1d04\u026a\u1d00\u0274\u1d0f",
+        "url": "https://steamcommunity.com/profiles/76561198191693181"
+      },
+      "twitch": {
+        "id": "114679407",
+        "name": "lucianotrindade",
+        "url": "https://www.twitch.tv/lucianotrindade"
+      },
+      "twitter": {
+        "id": "2933546085",
+        "name": "LucianoSTrindad",
+        "url": "https://twitter.com/LucianoSTrindad"
+      }
+    },
+    "legacy_username": "LucianoTrindade#9478"
   }
 }
