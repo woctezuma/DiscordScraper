@@ -113451,5 +113451,73 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "218132211776356363": {
+    "id": 218132211776356363,
+    "name": "zaioc",
+    "nick": null,
+    "display_name": "Mrneotokio",
+    "global_name": "Mrneotokio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " otaku basado y gamer part time ",
+    "guild_bio": null,
+    "display_bio": " otaku basado y gamer part time ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "10214915894481047",
+        "name": "Julio Ignacio Barrios Riquelme",
+        "url": null
+      },
+      "spotify": {
+        "id": "11137316755",
+        "name": "Julio Ignacio Barrios Riquelme",
+        "url": "https://open.spotify.com/user/11137316755"
+      },
+      "steam": {
+        "id": "76561198029253332",
+        "name": "Zaioc",
+        "url": "https://steamcommunity.com/profiles/76561198029253332"
+      }
+    },
+    "legacy_username": "Zaioc#9948"
+  },
+  "955931595712364597": {
+    "id": 955931595712364597,
+    "name": "albertomeleleo",
+    "nick": null,
+    "display_name": "albertomeleleo",
+    "global_name": "albertomeleleo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "ebay": {
+        "id": "hz-DEMdwQ0q",
+        "name": "agm_983",
+        "url": "https://www.ebay.com/usr/agm_983"
+      },
+      "twitch": {
+        "id": "400494291",
+        "name": "albertomeleleo",
+        "url": "https://www.twitch.tv/albertomeleleo"
+      }
+    },
+    "legacy_username": "albertomeleleo#1012"
   }
 }
