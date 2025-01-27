@@ -108463,5 +108463,54 @@
       }
     },
     "legacy_username": "Beicin#3175"
+  },
+  "486207218903941121": {
+    "id": 486207218903941121,
+    "name": "janbocloud",
+    "nick": null,
+    "display_name": "JANBO",
+    "global_name": "JANBO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Official: https://janbocloud.com",
+    "guild_bio": null,
+    "display_bio": "Official: https://janbocloud.com",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "814972009",
+        "name": "janbocloud",
+        "url": "https://www.twitch.tv/janbocloud"
+      },
+      "twitter": {
+        "id": "198020136",
+        "name": "janbocloud",
+        "url": "https://twitter.com/janbocloud"
+      }
+    },
+    "legacy_username": "JANBOCLOUD#3573"
+  },
+  "1332973550222442587": {
+    "id": 1332973550222442587,
+    "name": "blee1337.",
+    "nick": null,
+    "display_name": "Blee1337",
+    "global_name": "Blee1337",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
