@@ -112308,5 +112308,78 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "349168377882869760": {
+    "id": 349168377882869760,
+    "name": "vanderhaven",
+    "nick": null,
+    "display_name": "Vanderhaven",
+    "global_name": "Vanderhaven",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":smile:",
+    "guild_bio": null,
+    "display_bio": ":smile:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Vanderhaven#3563",
+        "name": "Vanderhaven#3563",
+        "url": null
+      },
+      "epic_games": {
+        "id": "d43a7199a92b4bbb811eb6504eb88f8f",
+        "name": "Vanderha\u1d20en",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198389998118",
+        "name": "Vanderhaven",
+        "url": "https://steamcommunity.com/profiles/76561198389998118"
+      }
+    },
+    "legacy_username": null
+  },
+  "1333009493935521792": {
+    "id": 1333009493935521792,
+    "name": "theavatarnomad",
+    "nick": null,
+    "display_name": "Astral",
+    "global_name": "Astral",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e1d3c739d92242f5a69b6bd28916ffd3",
+        "name": "AvatarManu",
+        "url": null
+      },
+      "spotify": {
+        "id": "lu92e5duny8z4pvxemzgeo2mc",
+        "name": "Avatar Manu \u269b",
+        "url": "https://open.spotify.com/user/lu92e5duny8z4pvxemzgeo2mc"
+      },
+      "steam": {
+        "id": "76561198267738744",
+        "name": "Avatar Manu",
+        "url": "https://steamcommunity.com/profiles/76561198267738744"
+      }
+    },
+    "legacy_username": null
   }
 }
