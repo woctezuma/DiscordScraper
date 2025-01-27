@@ -113073,5 +113073,77 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1046358133896921090": {
+    "id": 1046358133896921090,
+    "name": "adk0904",
+    "nick": null,
+    "display_name": "Adk",
+    "global_name": "Adk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "398124006848331776": {
+    "id": 398124006848331776,
+    "name": "mikeramao",
+    "nick": null,
+    "display_name": "Mao",
+    "global_name": "Mao",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "<:michel114WOOW:1033731902332489869> <:michel114Sip:1033244715962863646> \nIG: mikeramao\nJapan Guru",
+    "guild_bio": null,
+    "display_bio": "<:michel114WOOW:1033731902332489869> <:michel114Sip:1033244715962863646> \nIG: mikeramao\nJapan Guru",
+    "banner": "https://cdn.discordapp.com/banners/398124006848331776/a_b79390a1718c6fd74b8a1d6f38af39d6.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/398124006848331776/a_b79390a1718c6fd74b8a1d6f38af39d6.gif?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MichelaMao#2816",
+        "name": "MichelaMao#2816",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "CDEh7Ior-RWOcJ4SNsG9V25wFxgTbxGzv4sCyMSKSURdQzsW-2Ylonm1Ey-1iJHbapThAdTJv3eUgg",
+        "name": "\u30df\u30b1\u30e9Mao#Mao",
+        "url": null
+      },
+      "riot_games": {
+        "id": "CDEh7Ior-RWOcJ4SNsG9V25wFxgTbxGzv4sCyMSKSURdQzsW-2Ylonm1Ey-1iJHbapThAdTJv3eUgg",
+        "name": "\u30df\u30b1\u30e9Mao#Mao",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198075862328",
+        "name": "\u30df\u30b1\u30e9Mao",
+        "url": "https://steamcommunity.com/profiles/76561198075862328"
+      },
+      "xbox": {
+        "id": "YjRmMjEyYmM4ODBkOGJmYmRlYzEyYjlkYzkxMmJjMTUwN2E5YzVjYWNmZDMxYTk1YzE2ZDdlNjkwMjBkYTA4MA",
+        "name": "MichelaMao",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MichelaMao"
+      },
+      "youtube": {
+        "id": "UC9-nUb6sdLq2oDjOjiHSTmw",
+        "name": "Michela Mao",
+        "url": "https://www.youtube.com/channel/UC9-nUb6sdLq2oDjOjiHSTmw"
+      }
+    },
+    "legacy_username": "\u30df\u30b1\u30e9Mao\ud83d\udc7b#9173"
   }
 }
