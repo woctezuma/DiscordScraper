@@ -108436,5 +108436,32 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "908344491948253295": {
+    "id": 908344491948253295,
+    "name": "magring0d",
+    "nick": null,
+    "display_name": "0",
+    "global_name": "0",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198827832725",
+        "name": "Magrin God",
+        "url": "https://steamcommunity.com/profiles/76561198827832725"
+      }
+    },
+    "legacy_username": "Beicin#3175"
   }
 }
