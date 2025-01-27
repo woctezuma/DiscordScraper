@@ -113954,5 +113954,54 @@
     ],
     "connections": {},
     "legacy_username": "AMBASING#2962"
+  },
+  "934728359118798879": {
+    "id": 934728359118798879,
+    "name": "cammy666",
+    "nick": null,
+    "display_name": "Cammy",
+    "global_name": "Cammy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i is femboy hihi",
+    "guild_bio": null,
+    "display_bio": "i is femboy hihi",
+    "banner": "https://cdn.discordapp.com/banners/934728359118798879/a_292a9b9618363a7b54a686985642dc75.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/934728359118798879/a_292a9b9618363a7b54a686985642dc75.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "sph89kcxqdojybh5oimi0jrqi",
+        "name": "LK",
+        "url": "https://open.spotify.com/user/sph89kcxqdojybh5oimi0jrqi"
+      }
+    },
+    "legacy_username": "Cammy#7246"
+  },
+  "795349902942928947": {
+    "id": 795349902942928947,
+    "name": "yorxck",
+    "nick": null,
+    "display_name": "36",
+    "global_name": "36",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<t:1739574060:R>",
+    "guild_bio": null,
+    "display_bio": "<t:1739574060:R>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "36#0036"
   }
 }
