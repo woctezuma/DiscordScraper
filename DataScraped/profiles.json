@@ -112882,5 +112882,130 @@
       }
     },
     "legacy_username": null
+  },
+  "1028390502015438929": {
+    "id": 1028390502015438929,
+    "name": "s.scarecrow",
+    "nick": null,
+    "display_name": "SCARECROW",
+    "global_name": "SCARECROW",
+    "pronouns": "Mr.17.5",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e888ad36650145d8a64b93057b35303d",
+        "name": "Scarecrow.88",
+        "url": null
+      },
+      "spotify": {
+        "id": "31m7um636ejey6k4xh374zul2znm",
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/user/31m7um636ejey6k4xh374zul2znm"
+      },
+      "steam": {
+        "id": "76561199401269894",
+        "name": "Scarecrow",
+        "url": "https://steamcommunity.com/profiles/76561199401269894"
+      },
+      "twitch": {
+        "id": "998781174",
+        "name": "sscarecrow8",
+        "url": "https://www.twitch.tv/sscarecrow8"
+      }
+    },
+    "legacy_username": "Scarecrow#9089"
+  },
+  "495283919575318549": {
+    "id": 495283919575318549,
+    "name": "vixen.007",
+    "nick": null,
+    "display_name": "Vixen",
+    "global_name": "Vixen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Pixel Punching ",
+    "guild_bio": null,
+    "display_bio": "Pixel Punching ",
+    "banner": "https://cdn.discordapp.com/banners/495283919575318549/a_640605cac60dd060e20e85765b9d8a71.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/495283919575318549/a_640605cac60dd060e20e85765b9d8a71.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Vixen#7170"
+  },
+  "455198758381027349": {
+    "id": 455198758381027349,
+    "name": "say0_",
+    "nick": null,
+    "display_name": "Sayo",
+    "global_name": "Sayo",
+    "pronouns": "he/they",
+    "guild_pronouns": null,
+    "bio": "(o`o)\n08/06/06",
+    "guild_bio": null,
+    "display_bio": "(o`o)\n08/06/06",
+    "banner": "https://cdn.discordapp.com/banners/455198758381027349/8b5caa8a83774785c8f1593bd9f89a47.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/455198758381027349/8b5caa8a83774785c8f1593bd9f89a47.png?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "CostcoHotDog#1232",
+        "name": "CostcoHotDog#1232",
+        "url": null
+      },
+      "playstation": {
+        "id": "4096527247477128652",
+        "name": "im_stevn",
+        "url": null
+      },
+      "spotify": {
+        "id": "x46exrx0mb40onqjbiflcslmg",
+        "name": "Sayonara",
+        "url": "https://open.spotify.com/user/x46exrx0mb40onqjbiflcslmg"
+      },
+      "steam": {
+        "id": "76561198969133180",
+        "name": "Sayo",
+        "url": "https://steamcommunity.com/profiles/76561198969133180"
+      },
+      "twitter": {
+        "id": "1168748542258638849",
+        "name": "0h_sayo",
+        "url": "https://twitter.com/0h_sayo"
+      },
+      "xbox": {
+        "id": "MGM2Yzg3N2VmZjg3YmIzNTNjNWE4M2U1NmVjNWJkMDBiZTI1Zjc3NDE1YWU2OTMyOTA0MjM4YWIyNTVmMmUxMg",
+        "name": "OhayouSayonara",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=OhayouSayonara"
+      },
+      "youtube": {
+        "id": "UCgrkgNKGIYpTjpxgRJ6M8-Q",
+        "name": "Sayonara",
+        "url": "https://www.youtube.com/channel/UCgrkgNKGIYpTjpxgRJ6M8-Q"
+      }
+    },
+    "legacy_username": "Sayo\u2606#0334"
   }
 }
