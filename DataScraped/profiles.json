@@ -107609,5 +107609,54 @@
     ],
     "connections": {},
     "legacy_username": "bananas#0849"
+  },
+  "531228913519820833": {
+    "id": 531228913519820833,
+    "name": "bittermang",
+    "nick": null,
+    "display_name": "bittermang",
+    "global_name": "bittermang",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " more markdown to come later...",
+    "guild_bio": null,
+    "display_bio": " more markdown to come later...",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:b2kltdrv5svpwklslni5h7om",
+        "name": "bittermang.bsky.social",
+        "url": null
+      },
+      "github": {
+        "id": "76075198",
+        "name": "MarkusBitterman",
+        "url": "https://github.com/MarkusBitterman"
+      },
+      "reddit": {
+        "id": "4aj7r",
+        "name": "bittermang",
+        "url": "https://www.reddit.com/u/bittermang"
+      },
+      "steam": {
+        "id": "76561197969313954",
+        "name": "Markus Bitterman",
+        "url": "https://steamcommunity.com/profiles/76561197969313954"
+      },
+      "xbox": {
+        "id": "3064122866173535",
+        "name": "Bittermang",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Bittermang"
+      },
+      "youtube": {
+        "id": "UCJCgYOMU0H8R3mVtLCUQ6FA",
+        "name": "Matthew 'bittermang' Hall",
+        "url": "https://www.youtube.com/channel/UCJCgYOMU0H8R3mVtLCUQ6FA"
+      }
+    },
+    "legacy_username": null
   }
 }
