@@ -112381,5 +112381,52 @@
       }
     },
     "legacy_username": null
+  },
+  "908573735571816488": {
+    "id": 908573735571816488,
+    "name": "._.yuuyuuki",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\ud83d\udc9cmeru_chan",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/908573735571816488/90a755bee3bd55ef812afee30b8cb696.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/908573735571816488/90a755bee3bd55ef812afee30b8cb696.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "2295201280829844",
+        "name": "\u0110\u1ed7 Ng\u1ecdc Di\u1ec7u Hi\u1ec1n",
+        "url": null
+      },
+      "instagram": {
+        "id": "24253531824234222",
+        "name": "_yuu.yuuki",
+        "url": "https://www.instagram.com/_yuu.yuuki"
+      },
+      "league_of_legends": {
+        "id": "M5fNw9ndtZ8zhY0MmLRcwvSwKTnqmOCevFoJmDVIWgdpu3pHtmi9Iji05s5-vZkJEcoAQ9wWtervUQ",
+        "name": "YuuYuuki#2808",
+        "url": null
+      },
+      "riot_games": {
+        "id": "M5fNw9ndtZ8zhY0MmLRcwvSwKTnqmOCevFoJmDVIWgdpu3pHtmi9Iji05s5-vZkJEcoAQ9wWtervUQ",
+        "name": "YuuYuuki#2808",
+        "url": null
+      },
+      "tiktok": {
+        "id": "8297bcac-1b7e-57a8-9cd8-21fa5ddf7f22",
+        "name": "._.yuu.yuuki",
+        "url": "https://tiktok.com/@._.yuu.yuuki"
+      }
+    },
+    "legacy_username": null
   }
 }
