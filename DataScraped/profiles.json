@@ -114075,5 +114075,56 @@
     ],
     "connections": {},
     "legacy_username": "stinkage#6518"
+  },
+  "270674767315468288": {
+    "id": 270674767315468288,
+    "name": "juniper0604",
+    "nick": null,
+    "display_name": "juniper#0604",
+    "global_name": "juniper#0604",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198055447792",
+        "name": "Juniper",
+        "url": "https://steamcommunity.com/profiles/76561198055447792"
+      },
+      "twitch": {
+        "id": "534119789",
+        "name": "juniper917",
+        "url": "https://www.twitch.tv/juniper917"
+      }
+    },
+    "legacy_username": "juniper#0604"
+  },
+  "487604351981060098": {
+    "id": 487604351981060098,
+    "name": "piotras_420",
+    "nick": null,
+    "display_name": "Piotras",
+    "global_name": "Piotras",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Piotras#5067"
   }
 }
