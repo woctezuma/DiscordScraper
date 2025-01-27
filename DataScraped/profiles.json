@@ -108377,5 +108377,64 @@
       }
     },
     "legacy_username": "Niko Skorpionov.#3883"
+  },
+  "117838099123404808": {
+    "id": 117838099123404808,
+    "name": "zimpapke",
+    "nick": null,
+    "display_name": "Zimpapke",
+    "global_name": "Zimpapke",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Zimpapke#2478",
+        "name": "Zimpapke#2478",
+        "url": null
+      },
+      "twitch": {
+        "id": "494635504",
+        "name": "zimpapketv",
+        "url": "https://www.twitch.tv/zimpapketv"
+      },
+      "twitter": {
+        "id": "3399852681",
+        "name": "Zimpapke",
+        "url": "https://twitter.com/Zimpapke"
+      },
+      "xbox": {
+        "id": "3076121859844653",
+        "name": "Zimpapke",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Zimpapke"
+      }
+    },
+    "legacy_username": "Zimpapke#6578"
+  },
+  "1304540662900854855": {
+    "id": 1304540662900854855,
+    "name": "ammarnob123",
+    "nick": null,
+    "display_name": "AmmarNob",
+    "global_name": "AmmarNob",
+    "pronouns": "Nig/er",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
