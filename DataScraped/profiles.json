@@ -113033,5 +113033,25 @@
       }
     },
     "legacy_username": "BlackXFusion#0265"
+  },
+  "288379813394120715": {
+    "id": 288379813394120715,
+    "name": "gonza_vega",
+    "nick": null,
+    "display_name": "Gonza",
+    "global_name": "Gonza",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Gonza#9123"
   }
 }
