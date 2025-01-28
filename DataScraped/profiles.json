@@ -115763,5 +115763,26 @@
       }
     },
     "legacy_username": "Monti#9778"
+  },
+  "700385804996051094": {
+    "id": 700385804996051094,
+    "name": "akiforger.",
+    "nick": null,
+    "display_name": "aki ke ni?",
+    "global_name": "aki ke ni?",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "fkoff",
+    "guild_bio": null,
+    "display_bio": "fkoff",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Aki Forger.#3537"
   }
 }
