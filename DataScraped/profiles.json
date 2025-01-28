@@ -115961,5 +115961,43 @@
       }
     },
     "legacy_username": "jolisona#0866"
+  },
+  "819110470568247296": {
+    "id": 819110470568247296,
+    "name": "ufr7",
+    "nick": null,
+    "display_name": "kid",
+    "global_name": "kid",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "gfyyg#7182"
+  },
+  "1193997065336926350": {
+    "id": 1193997065336926350,
+    "name": "james932l0731_01048",
+    "nick": null,
+    "display_name": "MichaelLopez",
+    "global_name": "MichaelLopez",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "AURELIUS \n27 Years old\n",
+    "guild_bio": null,
+    "display_bio": "AURELIUS \n27 Years old\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
