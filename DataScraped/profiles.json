@@ -114664,5 +114664,23 @@
     ],
     "connections": {},
     "legacy_username": "Mastertrap21#9968"
+  },
+  "1328389155373322312": {
+    "id": 1328389155373322312,
+    "name": "the.gareth",
+    "nick": null,
+    "display_name": "the.Gareth",
+    "global_name": "the.Gareth",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
