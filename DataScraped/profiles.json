@@ -115122,5 +115122,32 @@
       }
     },
     "legacy_username": "GaminG0at#0623"
+  },
+  "883425998853513266": {
+    "id": 883425998853513266,
+    "name": "mufasa33",
+    "nick": null,
+    "display_name": "Mufasa33",
+    "global_name": "Mufasa33",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2747491780093151095",
+        "name": "KingMufasaa64",
+        "url": null
+      }
+    },
+    "legacy_username": "mufasa33#2174"
   }
 }
