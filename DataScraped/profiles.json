@@ -115006,5 +115006,40 @@
       }
     },
     "legacy_username": null
+  },
+  "1320853611269587048": {
+    "id": 1320853611269587048,
+    "name": "42bolo0",
+    "nick": null,
+    "display_name": "42bolo0",
+    "global_name": "42bolo0",
+    "pronouns": "he/his",
+    "guild_pronouns": null,
+    "bio": "**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561199763498145/?cc=pl))*\n* **Value:** 490z\n* **Games owned:** 12* **Games played:** 11 *(91%)*\n* **Hours on record:*",
+    "guild_bio": null,
+    "display_bio": "**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561199763498145/?cc=pl))*\n* **Value:** 490z\n* **Games owned:** 12* **Games played:** 11 *(91%)*\n* **Hours on record:*",
+    "banner": "https://cdn.discordapp.com/banners/1320853611269587048/a_8244fdf4a82a52901a35be6d7f40a78e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1320853611269587048/a_8244fdf4a82a52901a35be6d7f40a78e.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "7248610918",
+        "name": "42bolo0",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199763498145",
+        "name": "42bolo0",
+        "url": "https://steamcommunity.com/profiles/76561199763498145"
+      }
+    },
+    "legacy_username": null
   }
 }
