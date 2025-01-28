@@ -116458,5 +116458,89 @@
       }
     },
     "legacy_username": "Hbomb0001#4332"
+  },
+  "939304086363336765": {
+    "id": 939304086363336765,
+    "name": "smartbaby",
+    "nick": null,
+    "display_name": "SmartBaby",
+    "global_name": "SmartBaby",
+    "pronouns": "god knows",
+    "guild_pronouns": null,
+    "bio": "Call me Ray in DMs unless you know my real name.\n\nI like helluva boss too much :3",
+    "guild_bio": null,
+    "display_bio": "Call me Ray in DMs unless you know my real name.\n\nI like helluva boss too much :3",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "8751252736d446778edca9dbdfd264a0",
+        "name": "SmartBaby6262",
+        "url": null
+      },
+      "github": {
+        "id": "121777187",
+        "name": "SmartBaby626",
+        "url": "https://github.com/SmartBaby626"
+      },
+      "steam": {
+        "id": "76561199193965912",
+        "name": "SmartBaby6262",
+        "url": "https://steamcommunity.com/profiles/76561199193965912"
+      },
+      "twitch": {
+        "id": "900860250",
+        "name": "the_sm0rtest",
+        "url": "https://www.twitch.tv/the_sm0rtest"
+      },
+      "xbox": {
+        "id": "3070946090822286",
+        "name": "SmartBaby6502",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SmartBaby6502"
+      },
+      "youtube": {
+        "id": "UCah9XAIzbZSzAgjtb8s-yHQ",
+        "name": "the_sm0rtest",
+        "url": "https://www.youtube.com/channel/UCah9XAIzbZSzAgjtb8s-yHQ"
+      }
+    },
+    "legacy_username": "SmartBaby#7994"
+  },
+  "720106762086121493": {
+    "id": 720106762086121493,
+    "name": "jesus1004099",
+    "nick": null,
+    "display_name": "mexicanchuy2007",
+    "global_name": "mexicanchuy2007",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Na mejor cambio lo que tenia",
+    "guild_bio": null,
+    "display_bio": "Na mejor cambio lo que tenia",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "2647554497",
+        "name": "jesudani2021",
+        "url": null
+      },
+      "youtube": {
+        "id": "UC6sY9OhlukiPhWdBh6jfrrQ",
+        "name": "Mrslimeofficial",
+        "url": "https://www.youtube.com/channel/UC6sY9OhlukiPhWdBh6jfrrQ"
+      }
+    },
+    "legacy_username": "jesus100#4099"
   }
 }
