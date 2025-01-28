@@ -115238,5 +115238,97 @@
     ],
     "connections": {},
     "legacy_username": "Erikqwe#5453"
+  },
+  "1019313889424461855": {
+    "id": 1019313889424461855,
+    "name": "umay_4195",
+    "nick": null,
+    "display_name": "Elif Umay",
+    "global_name": "Elif Umay",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "TR/ENG\n Portugal, Lisboa",
+    "guild_bio": null,
+    "display_bio": "TR/ENG\n Portugal, Lisboa",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "315avh7f3dib5gkgbxbnghgowj24",
+        "name": "Elif Umay",
+        "url": "https://open.spotify.com/user/315avh7f3dib5gkgbxbnghgowj24"
+      }
+    },
+    "legacy_username": null
+  },
+  "405926937823936514": {
+    "id": 405926937823936514,
+    "name": "igodzilla",
+    "nick": null,
+    "display_name": "iGodzilla",
+    "global_name": "iGodzilla",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "early_supporter",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "nathanstrunk332",
+        "name": "iGodzilla",
+        "url": "https://open.spotify.com/user/nathanstrunk332"
+      },
+      "steam": {
+        "id": "76561198287385065",
+        "name": "iGodzilla",
+        "url": "https://steamcommunity.com/profiles/76561198287385065"
+      },
+      "twitch": {
+        "id": "209620646",
+        "name": "igodzilla",
+        "url": "https://www.twitch.tv/igodzilla"
+      },
+      "youtube": {
+        "id": "UCc-94LNRDhnwW0UukCaAHmg",
+        "name": "iGodzilla",
+        "url": "https://www.youtube.com/channel/UCc-94LNRDhnwW0UukCaAHmg"
+      }
+    },
+    "legacy_username": "iGodzilla#0001"
+  },
+  "333268528306061315": {
+    "id": 333268528306061315,
+    "name": "manbearpig999",
+    "nick": null,
+    "display_name": "Manbearpig",
+    "global_name": "Manbearpig",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Manbearpig#0860"
   }
 }
