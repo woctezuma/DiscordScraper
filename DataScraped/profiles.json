@@ -115041,5 +115041,48 @@
       }
     },
     "legacy_username": null
+  },
+  "858752529625514024": {
+    "id": 858752529625514024,
+    "name": "whester_",
+    "nick": null,
+    "display_name": "Whester",
+    "global_name": "Whester",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/858752529625514024/a_be066460d159bad9e606b41b12b36190.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/858752529625514024/a_be066460d159bad9e606b41b12b36190.gif?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "18d0zek6ks",
+        "name": "Whester-",
+        "url": "https://www.reddit.com/u/Whester-"
+      },
+      "riot_games": {
+        "id": "xOuQKkPc6PBgFQUbeIi_-JN7lRAwEwDGZXIUWYatEJ9EV_4gxg9rzUbEfNyPCDWiz7RkFKmpEJZYVQ",
+        "name": "Whester#\u5f71\u4f1d\u901a",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199447603162",
+        "name": "Whester",
+        "url": "https://steamcommunity.com/profiles/76561199447603162"
+      },
+      "xbox": {
+        "id": "3061578209357562",
+        "name": "Whestere",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Whestere"
+      }
+    },
+    "legacy_username": null
   }
 }
