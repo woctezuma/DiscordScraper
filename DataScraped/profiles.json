@@ -114921,5 +114921,62 @@
       }
     },
     "legacy_username": "Kenta Grace#4058"
+  },
+  "377820022372040704": {
+    "id": 377820022372040704,
+    "name": "rena1ssance_man",
+    "nick": null,
+    "display_name": "escalatE",
+    "global_name": "escalatE",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Libero#1336",
+        "name": "Libero#1336",
+        "url": null
+      },
+      "facebook": {
+        "id": "1034687226682626",
+        "name": "Nontagorn Keawjumrus",
+        "url": null
+      },
+      "playstation": {
+        "id": "260323152995457685",
+        "name": "escalatE_digital",
+        "url": null
+      },
+      "spotify": {
+        "id": "greanver",
+        "name": "Nontagorn Keawjumrus",
+        "url": "https://open.spotify.com/user/greanver"
+      },
+      "steam": {
+        "id": "76561198116361481",
+        "name": "escalatE-",
+        "url": "https://steamcommunity.com/profiles/76561198116361481"
+      },
+      "twitch": {
+        "id": "119692418",
+        "name": "escalate666",
+        "url": "https://www.twitch.tv/escalate666"
+      },
+      "xbox": {
+        "id": "3070752603020876",
+        "name": "CryonicCargo8",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=CryonicCargo8"
+      }
+    },
+    "legacy_username": "Machiavellian#3221"
   }
 }
