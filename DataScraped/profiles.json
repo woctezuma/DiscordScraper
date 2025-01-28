@@ -114756,5 +114756,49 @@
       }
     },
     "legacy_username": null
+  },
+  "988919698454351872": {
+    "id": 988919698454351872,
+    "name": "general923",
+    "nick": null,
+    "display_name": "GENERAL",
+    "global_name": "GENERAL",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "GENERAL#7039"
+  },
+  "440146094450802688": {
+    "id": 440146094450802688,
+    "name": "seelenloser",
+    "nick": null,
+    "display_name": "Seelenloser",
+    "global_name": "Seelenloser",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  : Megalovania\n\n\n0:37 / 2:36     ",
+    "guild_bio": null,
+    "display_bio": "  : Megalovania\n\n\n0:37 / 2:36     ",
+    "banner": "https://cdn.discordapp.com/banners/440146094450802688/a_97a668615369b7413109af3c3db7e89e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/440146094450802688/a_97a668615369b7413109af3c3db7e89e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Seelenloser#2634"
   }
 }
