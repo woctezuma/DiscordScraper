@@ -117050,5 +117050,177 @@
       }
     },
     "legacy_username": "BossPanda#6037"
+  },
+  "273104589803487232": {
+    "id": 273104589803487232,
+    "name": "tyde_ez",
+    "nick": null,
+    "display_name": "tyde | Lucas",
+    "global_name": "tyde | Lucas",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "UTC +01:00",
+    "guild_bio": null,
+    "display_bio": "UTC +01:00",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6148961198487541",
+        "name": "tyde_ez",
+        "url": "https://www.instagram.com/tyde_ez"
+      },
+      "playstation": {
+        "id": "8626733453621261417",
+        "name": "tyde_eZ",
+        "url": null
+      },
+      "spotify": {
+        "id": "tyde_ez",
+        "name": "tyde_ez",
+        "url": "https://open.spotify.com/user/tyde_ez"
+      },
+      "steam": {
+        "id": "76561198085646052",
+        "name": "tyde_eZ",
+        "url": "https://steamcommunity.com/profiles/76561198085646052"
+      },
+      "twitch": {
+        "id": "108337724",
+        "name": "tyde_ez",
+        "url": "https://www.twitch.tv/tyde_ez"
+      }
+    },
+    "legacy_username": "tyde | Lucas#0769"
+  },
+  "473395838929076224": {
+    "id": 473395838929076224,
+    "name": "skillerplays",
+    "nick": null,
+    "display_name": "Skiller",
+    "global_name": "Skiller",
+    "pronouns": "male/masculine",
+    "guild_pronouns": null,
+    "bio": " s    !\n s    \nhttps://discord.gg/T4TEgGX",
+    "guild_bio": null,
+    "display_bio": " s    !\n s    \nhttps://discord.gg/T4TEgGX",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Sk1ller#21882",
+        "name": "Sk1ller#21882",
+        "url": null
+      },
+      "epic_games": {
+        "id": "3a2af0a830554915913675f5181deed0",
+        "name": "Sk1llerPlays",
+        "url": null
+      },
+      "facebook": {
+        "id": "1356360891225946",
+        "name": "Muhammad UR Rahman ",
+        "url": null
+      },
+      "instagram": {
+        "id": "6034988019900507",
+        "name": "skiller_plays",
+        "url": "https://www.instagram.com/skiller_plays"
+      },
+      "riot_games": {
+        "id": "255vh30s-FI_POwG3uauZAuO3iz0z6Q22dMi6TUQ17RKH-qUuUwKJeklp_2TyH4hTR0mpcSI8XGDMQ",
+        "name": "SK1LLER#7726",
+        "url": null
+      },
+      "spotify": {
+        "id": "uv7xpn0p86h10llup5962wiu4",
+        "name": "Sk1lleR",
+        "url": "https://open.spotify.com/user/uv7xpn0p86h10llup5962wiu4"
+      },
+      "steam": {
+        "id": "76561199403663469",
+        "name": "Sk1ller",
+        "url": "https://steamcommunity.com/profiles/76561199403663469"
+      },
+      "twitch": {
+        "id": "563351623",
+        "name": "skillerplays1000",
+        "url": "https://www.twitch.tv/skillerplays1000"
+      },
+      "twitter": {
+        "id": "971417983183663104",
+        "name": "am_skillerplays",
+        "url": "https://twitter.com/am_skillerplays"
+      },
+      "youtube": {
+        "id": "UCLgVAgz99WaS63ueJjldzXA",
+        "name": "Skiller Plays",
+        "url": "https://www.youtube.com/channel/UCLgVAgz99WaS63ueJjldzXA"
+      }
+    },
+    "legacy_username": "Skiller#1962"
+  },
+  "96790110640562176": {
+    "id": 96790110640562176,
+    "name": "devon1998",
+    "nick": null,
+    "display_name": "devin",
+    "global_name": "devin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "maazda#11680",
+        "name": "maazda#11680",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "na1_50974123",
+        "name": "maazda",
+        "url": null
+      },
+      "spotify": {
+        "id": "devinschwartz",
+        "name": "devinschwartz",
+        "url": "https://open.spotify.com/user/devinschwartz"
+      },
+      "steam": {
+        "id": "76561198046796095",
+        "name": "chief keef",
+        "url": "https://steamcommunity.com/profiles/76561198046796095"
+      },
+      "twitch": {
+        "id": "21120701",
+        "name": "maazda",
+        "url": "https://www.twitch.tv/maazda"
+      },
+      "xbox": {
+        "id": "3061863325880312",
+        "name": "xMaazda",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=xMaazda"
+      }
+    },
+    "legacy_username": "devon#7056"
   }
 }
