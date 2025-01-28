@@ -116975,5 +116975,80 @@
       }
     },
     "legacy_username": "samsiii#2618"
+  },
+  "1071878220439371856": {
+    "id": 1071878220439371856,
+    "name": "mexus1065",
+    "nick": null,
+    "display_name": "mexus",
+    "global_name": "mexus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1217218455946924174": {
+    "id": 1217218455946924174,
+    "name": "miccentilsharleis",
+    "nick": null,
+    "display_name": "Charlieskebab",
+    "global_name": "Charlieskebab",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "bennech123",
+        "name": "Woaddell",
+        "url": "https://open.spotify.com/user/bennech123"
+      }
+    },
+    "legacy_username": null
+  },
+  "285120210862866433": {
+    "id": 285120210862866433,
+    "name": "bosspanda_",
+    "nick": null,
+    "display_name": "BossPanda",
+    "global_name": "BossPanda",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561197986934948",
+        "name": "Boss Panda",
+        "url": "https://steamcommunity.com/profiles/76561197986934948"
+      },
+      "twitch": {
+        "id": "908929161",
+        "name": "ttheninth",
+        "url": "https://www.twitch.tv/ttheninth"
+      }
+    },
+    "legacy_username": "BossPanda#6037"
   }
 }
