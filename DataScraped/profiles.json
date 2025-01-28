@@ -115197,5 +115197,25 @@
     ],
     "connections": {},
     "legacy_username": "judas#3889"
+  },
+  "909889809428934747": {
+    "id": 909889809428934747,
+    "name": "fosholo35",
+    "nick": null,
+    "display_name": "Fosholo",
+    "global_name": "Fosholo",
+    "pronouns": "Fosho/Yolo",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Fosholo35#3017"
   }
 }
