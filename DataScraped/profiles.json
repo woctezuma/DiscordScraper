@@ -114436,5 +114436,104 @@
       }
     },
     "legacy_username": null
+  },
+  "383749631756075018": {
+    "id": 383749631756075018,
+    "name": "70uza",
+    "nick": null,
+    "display_name": "Jouza.",
+    "global_name": "Jouza.",
+    "pronouns": "/\u02c8\u02a4u\u02d0\u02d0s\u0251/",
+    "guild_pronouns": null,
+    "bio": " http://jouza.zip\n> ->|| https://fsharp.org/download||\n> ->|| https://youtu.be/j0wk7pPNoEc||",
+    "guild_bio": null,
+    "display_bio": " http://jouza.zip\n> ->|| https://fsharp.org/download||\n> ->|| https://youtu.be/j0wk7pPNoEc||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "github": {
+        "id": "16809201",
+        "name": "70uza",
+        "url": "https://github.com/70uza"
+      },
+      "spotify": {
+        "id": "itsjustjeff1",
+        "name": "Jouza.",
+        "url": "https://open.spotify.com/user/itsjustjeff1"
+      },
+      "steam": {
+        "id": "76561199236431352",
+        "name": "Jouza",
+        "url": "https://steamcommunity.com/profiles/76561199236431352"
+      }
+    },
+    "legacy_username": null
+  },
+  "1323942326921334866": {
+    "id": 1323942326921334866,
+    "name": "excited521436897",
+    "nick": null,
+    "display_name": "Excited",
+    "global_name": "Excited",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "don't mind me i'm just levitating",
+    "guild_bio": null,
+    "display_bio": "don't mind me i'm just levitating",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199814002326",
+        "name": "Excited",
+        "url": "https://steamcommunity.com/profiles/76561199814002326"
+      }
+    },
+    "legacy_username": null
+  },
+  "624537160489369600": {
+    "id": 624537160489369600,
+    "name": "warrior_3242",
+    "nick": null,
+    "display_name": "Dipper Pines",
+    "global_name": "Dipper Pines",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "riot_games": {
+        "id": "-stO_0jrXB_a2ABj9HGpcJNLSINUV5u-drR3hi-99EnSKJ_lrPqpRQNsiHSPH1FoiKk3E48zRivSdQ",
+        "name": "Dipper Pines#8520",
+        "url": null
+      },
+      "spotify": {
+        "id": "31mhf7xb7ptwkisvfrodknjdz3ei",
+        "name": "Dipper Pines",
+        "url": "https://open.spotify.com/user/31mhf7xb7ptwkisvfrodknjdz3ei"
+      },
+      "steam": {
+        "id": "76561199194838055",
+        "name": "Dipper Pines",
+        "url": "https://steamcommunity.com/profiles/76561199194838055"
+      },
+      "youtube": {
+        "id": "UCf597CIOHsUIXrgqQyINgtQ",
+        "name": "Dipper Pines",
+        "url": "https://www.youtube.com/channel/UCf597CIOHsUIXrgqQyINgtQ"
+      }
+    },
+    "legacy_username": null
   }
 }
