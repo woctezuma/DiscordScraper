@@ -115149,5 +115149,53 @@
       }
     },
     "legacy_username": "mufasa33#2174"
+  },
+  "883847048405848165": {
+    "id": 883847048405848165,
+    "name": "yuyu.bi",
+    "nick": null,
+    "display_name": "YuYu-Bi",
+    "global_name": "YuYu-Bi",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Hello!! It's me, YuYu-Bi! :)",
+    "guild_bio": null,
+    "display_bio": "Hello!! It's me, YuYu-Bi! :)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitter": {
+        "id": "1603501526286274560",
+        "name": "YuYuBi9",
+        "url": "https://twitter.com/YuYuBi9"
+      }
+    },
+    "legacy_username": "YuYu-Bi#1476"
+  },
+  "257272837415370773": {
+    "id": 257272837415370773,
+    "name": "pastorjudas",
+    "nick": null,
+    "display_name": "judas",
+    "global_name": "judas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "lord's sleepiest soldier",
+    "guild_bio": null,
+    "display_bio": "lord's sleepiest soldier",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "judas#3889"
   }
 }
