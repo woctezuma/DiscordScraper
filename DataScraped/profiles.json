@@ -118560,5 +118560,58 @@
       }
     },
     "legacy_username": "rybka kiwii#3546"
+  },
+  "376172688852647936": {
+    "id": 376172688852647936,
+    "name": "unusual69",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "784073879039508480": {
+    "id": 784073879039508480,
+    "name": "adren._.",
+    "nick": null,
+    "display_name": "adren.",
+    "global_name": "adren.",
+    "pronouns": "yours/truly",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198896299994",
+        "name": "a.",
+        "url": "https://steamcommunity.com/profiles/76561198896299994"
+      },
+      "youtube": {
+        "id": "UCFD53bBHKM8O62nUkPN3Z2g",
+        "name": "adren",
+        "url": "https://www.youtube.com/channel/UCFD53bBHKM8O62nUkPN3Z2g"
+      }
+    },
+    "legacy_username": null
   }
 }
