@@ -116829,5 +116829,88 @@
       }
     },
     "legacy_username": "Jonxu#8816"
+  },
+  "346674816989921291": {
+    "id": 346674816989921291,
+    "name": "konrat5",
+    "nick": null,
+    "display_name": "Real Tard",
+    "global_name": "Real Tard",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "474616028",
+        "name": "gordon_xd_",
+        "url": "https://www.twitch.tv/gordon_xd_"
+      }
+    },
+    "legacy_username": "Konrat#3659"
+  },
+  "531179358052810772": {
+    "id": 531179358052810772,
+    "name": "zpedro6",
+    "nick": null,
+    "display_name": "zpedro6",
+    "global_name": "zpedro6",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198332298052",
+        "name": "zpedro6,ff",
+        "url": "https://steamcommunity.com/profiles/76561198332298052"
+      }
+    },
+    "legacy_username": "zpedro6#7025"
+  },
+  "294932195980607510": {
+    "id": 294932195980607510,
+    "name": "lause0033",
+    "nick": null,
+    "display_name": "Lause",
+    "global_name": "Lause",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1126572774",
+        "name": "Laurits Richter",
+        "url": "https://open.spotify.com/user/1126572774"
+      },
+      "steam": {
+        "id": "76561198078283362",
+        "name": "skinkepat",
+        "url": "https://steamcommunity.com/profiles/76561198078283362"
+      }
+    },
+    "legacy_username": "Lause#0033"
   }
 }
