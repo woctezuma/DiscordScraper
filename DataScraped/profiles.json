@@ -114703,5 +114703,58 @@
     ],
     "connections": {},
     "legacy_username": "n3mi#7508"
+  },
+  "663194343049527306": {
+    "id": 663194343049527306,
+    "name": "legen_dary42",
+    "nick": null,
+    "display_name": "Legen_dary42",
+    "global_name": "Legen_dary42",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Just a guy that plays a lot of Fallout 4.",
+    "guild_bio": null,
+    "display_bio": "Just a guy that plays a lot of Fallout 4.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:fwo6ufgnwmdisgu4dwbsu7p5",
+        "name": "legen-dary.bsky.social",
+        "url": null
+      },
+      "github": {
+        "id": "20022081",
+        "name": "Bus42",
+        "url": "https://github.com/Bus42"
+      },
+      "spotify": {
+        "id": "4a8nafldc7pagxteonr38dzb4",
+        "name": "Greg",
+        "url": "https://open.spotify.com/user/4a8nafldc7pagxteonr38dzb4"
+      },
+      "steam": {
+        "id": "76561198163016848",
+        "name": "SatansGerbil",
+        "url": "https://steamcommunity.com/profiles/76561198163016848"
+      },
+      "twitch": {
+        "id": "666425316",
+        "name": "satansgerbil420",
+        "url": "https://www.twitch.tv/satansgerbil420"
+      },
+      "xbox": {
+        "id": "3062958513193370",
+        "name": "Legen dary9318",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Legen dary9318"
+      }
+    },
+    "legacy_username": null
   }
 }
