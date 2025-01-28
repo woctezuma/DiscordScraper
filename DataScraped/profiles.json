@@ -114682,5 +114682,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "251701572088627202": {
+    "id": 251701572088627202,
+    "name": ".n3mi",
+    "nick": null,
+    "display_name": "n3mi",
+    "global_name": "n3mi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "n3mi#7508"
   }
 }
