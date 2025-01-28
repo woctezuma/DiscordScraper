@@ -114978,5 +114978,33 @@
       }
     },
     "legacy_username": "Machiavellian#3221"
+  },
+  "1181304256041603176": {
+    "id": 1181304256041603176,
+    "name": "petrfider",
+    "nick": null,
+    "display_name": "<FBKM> Lost_P3TR",
+    "global_name": "<FBKM> Lost_P3TR",
+    "pronouns": "#FURTBOKEM nech zahr\u00e1t rap",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1181304256041603176/a_751de7e2d9d089b3ed04ce3a28cff021.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1181304256041603176/a_751de7e2d9d089b3ed04ce3a28cff021.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31yvktx7kuv2cxquvxiwn2hfftay",
+        "name": "Willi22",
+        "url": "https://open.spotify.com/user/31yvktx7kuv2cxquvxiwn2hfftay"
+      }
+    },
+    "legacy_username": null
   }
 }
