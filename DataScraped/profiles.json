@@ -115999,5 +115999,185 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "511951348045053978": {
+    "id": 511951348045053978,
+    "name": "amusai",
+    "nick": null,
+    "display_name": "EscobaR",
+    "global_name": "EscobaR",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "bhoy666#4485"
+  },
+  "424811138023424010": {
+    "id": 424811138023424010,
+    "name": "raiffirma",
+    "nick": null,
+    "display_name": "D Fresh ",
+    "global_name": "D Fresh ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "0f417590f1164a15a5c1489495d3dccb",
+        "name": "Raiffirma",
+        "url": null
+      },
+      "spotify": {
+        "id": "raiff.silva207",
+        "name": "raiff.silva207",
+        "url": "https://open.spotify.com/user/raiff.silva207"
+      },
+      "steam": {
+        "id": "76561198347439460",
+        "name": "D Fresh \u262d",
+        "url": "https://steamcommunity.com/profiles/76561198347439460"
+      },
+      "twitch": {
+        "id": "203571327",
+        "name": "dfreshcomunista",
+        "url": "https://www.twitch.tv/dfreshcomunista"
+      },
+      "xbox": {
+        "id": "NDA1ODZjZTFhYTJhZTYxYTk5NTE2MDAxOTRiYzBmYmEwNzEyZDJhY2MwMGE4ZGRkMzhlNDRlZGVkOWMwM2QyOQ",
+        "name": "Raiffirma",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Raiffirma"
+      },
+      "youtube": {
+        "id": "UCljxTbT9eGh4enJLWsLCYuw",
+        "name": "D Fresh \u262d",
+        "url": "https://www.youtube.com/channel/UCljxTbT9eGh4enJLWsLCYuw"
+      }
+    },
+    "legacy_username": "D Fresh \u262d#5973"
+  },
+  "661332240185163804": {
+    "id": 661332240185163804,
+    "name": "gizigizo",
+    "nick": null,
+    "display_name": "gizi-gizo",
+    "global_name": "gizi-gizo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6368993687312662136",
+        "name": "gizi-gizo",
+        "url": null
+      },
+      "spotify": {
+        "id": "dikicigizem4",
+        "name": "Gizem",
+        "url": "https://open.spotify.com/user/dikicigizem4"
+      },
+      "steam": {
+        "id": "76561198414500798",
+        "name": "g.dikici",
+        "url": "https://steamcommunity.com/profiles/76561198414500798"
+      }
+    },
+    "legacy_username": "gizi-gizo#5556"
+  },
+  "553922066189910028": {
+    "id": 553922066189910028,
+    "name": "apollyonowicz",
+    "nick": null,
+    "display_name": "Apollyon",
+    "global_name": "Apollyon",
+    "pronouns": "Uderz/j\u0105",
+    "guild_pronouns": null,
+    "bio": "||\"Racist, Sexist and generally unpleasant man\" - Horlis 08.03.2024||\n - Tax evasion\n  - War crimes\n - Funds defraudation",
+    "guild_bio": null,
+    "display_bio": "||\"Racist, Sexist and generally unpleasant man\" - Horlis 08.03.2024||\n - Tax evasion\n  - War crimes\n - Funds defraudation",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "ifzqrxzl",
+        "name": "ZestycloseCut7608",
+        "url": "https://www.reddit.com/u/ZestycloseCut7608"
+      },
+      "spotify": {
+        "id": "31srkocabr56cqrweah732svewda",
+        "name": "Apollyon",
+        "url": "https://open.spotify.com/user/31srkocabr56cqrweah732svewda"
+      },
+      "steam": {
+        "id": "76561198851967287",
+        "name": "Apollyon",
+        "url": "https://steamcommunity.com/profiles/76561198851967287"
+      }
+    },
+    "legacy_username": "Apollyon#4164"
+  },
+  "1235684922581188749": {
+    "id": 1235684922581188749,
+    "name": "itz_benihamad",
+    "nick": null,
+    "display_name": "BeniHamad_-_-_",
+    "global_name": "BeniHamad_-_-_",
+    "pronouns": "The Goat",
+    "guild_pronouns": null,
+    "bio": "         .  ",
+    "guild_bio": null,
+    "display_bio": "         .  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1673862156",
+        "name": "benihamed123",
+        "url": null
+      },
+      "spotify": {
+        "id": "31kjkpigu4cycgvn4pe7hzebptsm",
+        "name": "takiking123",
+        "url": "https://open.spotify.com/user/31kjkpigu4cycgvn4pe7hzebptsm"
+      }
+    },
+    "legacy_username": null
   }
 }
