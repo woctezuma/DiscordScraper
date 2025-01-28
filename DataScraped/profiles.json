@@ -115330,5 +115330,149 @@
     ],
     "connections": {},
     "legacy_username": "Manbearpig#0860"
+  },
+  "301252205422575617": {
+    "id": 301252205422575617,
+    "name": "gohuleo",
+    "nick": null,
+    "display_name": "gohuleo",
+    "global_name": "gohuleo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "My lists and Last.fm: \n   https://linktr.ee/gohuleo",
+    "guild_bio": null,
+    "display_bio": "My lists and Last.fm: \n   https://linktr.ee/gohuleo",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "gohuleo#11224",
+        "name": "gohuleo#11224",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "389aa668-6313-502e-a384-1deb11e0b15d",
+        "name": "gohuleo",
+        "url": null
+      },
+      "epic_games": {
+        "id": "f1783f5e54594dad9c27d384fcaa314c",
+        "name": "gohuleo",
+        "url": null
+      },
+      "github": {
+        "id": "5911780",
+        "name": "gohuleo",
+        "url": "https://github.com/gohuleo"
+      },
+      "league_of_legends": {
+        "id": "AJZJkC6KYVw01zbUIEO9ohwBQVWUKlNmrfdHLwE2F1kfGo3z9zslPJx_6pQCL7O7cW8B2UbmGrnkFg",
+        "name": "gohuleo",
+        "url": null
+      },
+      "riot_games": {
+        "id": "AJZJkC6KYVw01zbUIEO9ohwBQVWUKlNmrfdHLwE2F1kfGo3z9zslPJx_6pQCL7O7cW8B2UbmGrnkFg",
+        "name": "gohuleo#LAN",
+        "url": null
+      },
+      "spotify": {
+        "id": "0fnjnlhfjq2cn6gxgkj1w47lg",
+        "name": "gohuleo",
+        "url": "https://open.spotify.com/user/0fnjnlhfjq2cn6gxgkj1w47lg"
+      },
+      "steam": {
+        "id": "76561198077709027",
+        "name": "gohuleo",
+        "url": "https://steamcommunity.com/profiles/76561198077709027"
+      },
+      "twitch": {
+        "id": "159689528",
+        "name": "gohuleo",
+        "url": "https://www.twitch.tv/gohuleo"
+      },
+      "twitter": {
+        "id": "886955283662196737",
+        "name": "gohuleo2",
+        "url": "https://twitter.com/gohuleo2"
+      },
+      "xbox": {
+        "id": "YzhhODBhZWQyMWMwNWQ2MDlmOTA0MmFhZTM1ODgzYmYwYTBmMzE1YWQ2NThjNWQxZGQwOGQ4NjcxNzgxNmRhOA",
+        "name": "gohuleo2",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=gohuleo2"
+      },
+      "youtube": {
+        "id": "UCYlscC_eya4oCsK86qPUGGw",
+        "name": "gohuleo",
+        "url": "https://www.youtube.com/channel/UCYlscC_eya4oCsK86qPUGGw"
+      }
+    },
+    "legacy_username": "gohuleo#4377"
+  },
+  "804332687597895721": {
+    "id": 804332687597895721,
+    "name": "gabrielryuu",
+    "nick": null,
+    "display_name": "Gabrielo",
+    "global_name": "Gabrielo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Goodbye",
+    "guild_bio": null,
+    "display_bio": "Goodbye",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "33f9af70e24f418080fd964321cd6b08",
+        "name": "\u30ac\u30d6\u30ea\u30a8\u30eb\u4e03",
+        "url": null
+      },
+      "playstation": {
+        "id": "7825914347330605136",
+        "name": "Gualdinho07",
+        "url": null
+      },
+      "spotify": {
+        "id": "31l5emvvmwqg4sh4jkzs3frop4du",
+        "name": "Gabri\u00eblo",
+        "url": "https://open.spotify.com/user/31l5emvvmwqg4sh4jkzs3frop4du"
+      },
+      "steam": {
+        "id": "76561199378871388",
+        "name": "ggd1",
+        "url": "https://steamcommunity.com/profiles/76561199378871388"
+      }
+    },
+    "legacy_username": "Gabri\u00ebl#2854"
+  },
+  "1138853960476799077": {
+    "id": 1138853960476799077,
+    "name": "xo._.x",
+    "nick": null,
+    "display_name": "4yp3",
+    "global_name": "4yp3",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "The palest ink is better than the best memory.   -Chinese Proverb",
+    "guild_bio": null,
+    "display_bio": "The palest ink is better than the best memory.   -Chinese Proverb",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
