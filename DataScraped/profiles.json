@@ -116685,5 +116685,123 @@
     ],
     "connections": {},
     "legacy_username": "kr1pt0nic#0546"
+  },
+  "358937031445053451": {
+    "id": 358937031445053451,
+    "name": "kimistylee",
+    "nick": null,
+    "display_name": "Kimi Style",
+    "global_name": "Kimi Style",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "9ggrfwjg",
+        "name": "AdseNijo",
+        "url": "https://www.reddit.com/u/AdseNijo"
+      },
+      "steam": {
+        "id": "76561199119201681",
+        "name": "adseN",
+        "url": "https://steamcommunity.com/profiles/76561199119201681"
+      },
+      "twitch": {
+        "id": "637363270",
+        "name": "adsenijo",
+        "url": "https://www.twitch.tv/adsenijo"
+      }
+    },
+    "legacy_username": "Kimi#5510"
+  },
+  "587693464314183680": {
+    "id": 587693464314183680,
+    "name": "shriyan666",
+    "nick": null,
+    "display_name": "shriyan",
+    "global_name": "shriyan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "immortalgaming007#1885"
+  },
+  "307111641940754432": {
+    "id": 307111641940754432,
+    "name": "saivx_",
+    "nick": null,
+    "display_name": "Star",
+    "global_name": "Star",
+    "pronouns": "sin(6) opposite |  tan(f) = \u2014\u2014\u2014 = EMP, =",
+    "guild_pronouns": null,
+    "bio": "()",
+    "guild_bio": null,
+    "display_bio": "()",
+    "banner": "https://cdn.discordapp.com/banners/307111641940754432/a_7fc9cfc3ed4dfeda057a213aa265ff3d.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/307111641940754432/a_7fc9cfc3ed4dfeda057a213aa265ff3d.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "saivxs#2972",
+        "name": "saivxs#2972",
+        "url": null
+      },
+      "epic_games": {
+        "id": "2d21b3ef9f184b5eb857a3ce458add66",
+        "name": "saivxs",
+        "url": null
+      },
+      "playstation": {
+        "id": "5836534312678018446",
+        "name": "S-T-A-R3",
+        "url": null
+      },
+      "riot_games": {
+        "id": "jTp_e14jeToEPmp9gBqFWh6g2iyDVbln17zgIPz-wTrMU8jfB90vewmTBi6sY25Lld1IYIVYWyuwBA",
+        "name": "saivx#3899",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199089890318",
+        "name": "star",
+        "url": "https://steamcommunity.com/profiles/76561199089890318"
+      },
+      "twitter": {
+        "id": "1777025070700912640",
+        "name": "saivx_",
+        "url": "https://twitter.com/saivx_"
+      },
+      "xbox": {
+        "id": "3070789405247594",
+        "name": "SAIVXS",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SAIVXS"
+      }
+    },
+    "legacy_username": "star#0650"
   }
 }
