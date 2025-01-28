@@ -116912,5 +116912,68 @@
       }
     },
     "legacy_username": "Lause#0033"
+  },
+  "489820540601761802": {
+    "id": 489820540601761802,
+    "name": "michugamingtv",
+    "nick": null,
+    "display_name": "michugamingtv",
+    "global_name": "michugamingtv",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Z bratem zarabiam papier",
+    "guild_bio": null,
+    "display_bio": "Z bratem zarabiam papier",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "michu-219",
+        "name": "michu-219",
+        "url": "https://open.spotify.com/user/michu-219"
+      },
+      "steam": {
+        "id": "76561198332763890",
+        "name": "Nemo Legenda",
+        "url": "https://steamcommunity.com/profiles/76561198332763890"
+      },
+      "youtube": {
+        "id": "UCQDOkni4pduE6LNtKQkDzIg",
+        "name": "Michu Gaming TV",
+        "url": "https://www.youtube.com/channel/UCQDOkni4pduE6LNtKQkDzIg"
+      }
+    },
+    "legacy_username": "michugamingtv#3980"
+  },
+  "182817712190259201": {
+    "id": 182817712190259201,
+    "name": "samsiii",
+    "nick": null,
+    "display_name": "samsiii",
+    "global_name": "samsiii",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198018085765",
+        "name": ".SamsiiiPxL_^",
+        "url": "https://steamcommunity.com/profiles/76561198018085765"
+      }
+    },
+    "legacy_username": "samsiii#2618"
   }
 }
