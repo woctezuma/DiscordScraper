@@ -114615,5 +114615,34 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "252581567468273664": {
+    "id": 252581567468273664,
+    "name": "black_star_racer",
+    "nick": null,
+    "display_name": "Black_Star_Racer",
+    "global_name": "Black_Star_Racer",
+    "pronouns": "I see you stalker",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/252581567468273664/886106e09a4a3ba72ee244ec62515000.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/252581567468273664/886106e09a4a3ba72ee244ec62515000.png?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198075352274",
+        "name": "Nat_turner3.0",
+        "url": "https://steamcommunity.com/profiles/76561198075352274"
+      }
+    },
+    "legacy_username": "Black_Star_Racer#7222"
   }
 }
