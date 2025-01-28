@@ -116386,5 +116386,77 @@
       }
     },
     "legacy_username": null
+  },
+  "579262040787386389": {
+    "id": 579262040787386389,
+    "name": "madick228",
+    "nick": null,
+    "display_name": "truebeliever",
+    "global_name": "truebeliever",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "45146992",
+        "name": "truebeliever17",
+        "url": "https://github.com/truebeliever17"
+      }
+    },
+    "legacy_username": "truebeliever#5512"
+  },
+  "1189739981166616639": {
+    "id": 1189739981166616639,
+    "name": "sds1111_61023",
+    "nick": null,
+    "display_name": "kimus",
+    "global_name": "kimus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "741621328628678666": {
+    "id": 741621328628678666,
+    "name": "hbomb0001",
+    "nick": null,
+    "display_name": "Hbomb0001",
+    "global_name": "Hbomb0001",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3072690403734941",
+        "name": "Hbomb0001",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Hbomb0001"
+      }
+    },
+    "legacy_username": "Hbomb0001#4332"
   }
 }
