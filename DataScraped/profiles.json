@@ -114889,5 +114889,37 @@
       }
     },
     "legacy_username": "Olega#7685"
+  },
+  "149276636259418112": {
+    "id": 149276636259418112,
+    "name": "kentagrace",
+    "nick": null,
+    "display_name": "Kenta",
+    "global_name": "Kenta",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "22372386",
+        "name": "kentagrace",
+        "url": "https://www.twitch.tv/kentagrace"
+      },
+      "twitter": {
+        "id": "45753158",
+        "name": "KentaGrace",
+        "url": "https://twitter.com/KentaGrace"
+      }
+    },
+    "legacy_username": "Kenta Grace#4058"
   }
 }
