@@ -115084,5 +115084,43 @@
       }
     },
     "legacy_username": null
+  },
+  "392810508325224468": {
+    "id": 392810508325224468,
+    "name": "gaming0at",
+    "nick": null,
+    "display_name": "GaminG0at",
+    "global_name": "GaminG0at",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198308591744",
+        "name": "tanishathomas94",
+        "url": "https://steamcommunity.com/profiles/76561198308591744"
+      },
+      "twitch": {
+        "id": "426022950",
+        "name": "gaming0at",
+        "url": "https://www.twitch.tv/gaming0at"
+      },
+      "xbox": {
+        "id": "3067116237802148",
+        "name": "GaminG0at",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=GaminG0at"
+      }
+    },
+    "legacy_username": "GaminG0at#0623"
   }
 }
