@@ -116803,5 +116803,31 @@
       }
     },
     "legacy_username": "star#0650"
+  },
+  "139181168628072448": {
+    "id": 139181168628072448,
+    "name": "jonxu",
+    "nick": null,
+    "display_name": "Jonxu",
+    "global_name": "Jonxu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "43745071",
+        "name": "jonxu_",
+        "url": "https://www.twitch.tv/jonxu_"
+      }
+    },
+    "legacy_username": "Jonxu#8816"
   }
 }
