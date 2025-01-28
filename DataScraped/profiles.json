@@ -114861,5 +114861,33 @@
       }
     },
     "legacy_username": null
+  },
+  "541673995804737546": {
+    "id": 541673995804737546,
+    "name": "1_glitch_",
+    "nick": null,
+    "display_name": "(Glitch)",
+    "global_name": "(Glitch)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31boy6wbbeyr4wjfaqwvnoutkwka",
+        "name": "\u0414\u0438\u043c\u0430 \u041b\u0438\u043d\u0434\u0430\u043d\u043e\u0432",
+        "url": "https://open.spotify.com/user/31boy6wbbeyr4wjfaqwvnoutkwka"
+      }
+    },
+    "legacy_username": "Olega#7685"
   }
 }
