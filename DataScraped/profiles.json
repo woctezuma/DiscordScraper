@@ -114644,5 +114644,25 @@
       }
     },
     "legacy_username": "Black_Star_Racer#7222"
+  },
+  "209709909309128704": {
+    "id": 209709909309128704,
+    "name": "mastertrap21",
+    "nick": null,
+    "display_name": "Mastertrap21",
+    "global_name": "Mastertrap21",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Mastertrap21#9968"
   }
 }
