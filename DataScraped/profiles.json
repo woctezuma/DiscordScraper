@@ -116542,5 +116542,148 @@
       }
     },
     "legacy_username": "jesus100#4099"
+  },
+  "818724602096123965": {
+    "id": 818724602096123965,
+    "name": "atseek",
+    "nick": null,
+    "display_name": "Atseek",
+    "global_name": "Atseek",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "*' Use The Force Harry! -  Gandalf '*",
+    "guild_bio": null,
+    "display_bio": "*' Use The Force Harry! -  Gandalf '*",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "8db829f20591411e8a08e05a5628190d",
+        "name": "Atseeek",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199087738985",
+        "name": "Atseek",
+        "url": "https://steamcommunity.com/profiles/76561199087738985"
+      }
+    },
+    "legacy_username": "Atseek#3100"
+  },
+  "620290729196912650": {
+    "id": 620290729196912650,
+    "name": "venauu",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198861792746",
+        "name": "\u30f4\u30a7\u30ca\u30a6",
+        "url": "https://steamcommunity.com/profiles/76561198861792746"
+      },
+      "youtube": {
+        "id": "UCqgrBlfoqptB9jx2_pE707Q",
+        "name": "Venau",
+        "url": "https://www.youtube.com/channel/UCqgrBlfoqptB9jx2_pE707Q"
+      }
+    },
+    "legacy_username": "\u30f4\u30a7\u30ca\u30a6#1325"
+  },
+  "1146606136334749799": {
+    "id": 1146606136334749799,
+    "name": "azurejellyy",
+    "nick": null,
+    "display_name": "azure",
+    "global_name": "azure",
+    "pronouns": "he/they",
+    "guild_pronouns": null,
+    "bio": "nothing really mattress\nwho chairs",
+    "guild_bio": null,
+    "display_bio": "nothing really mattress\nwho chairs",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:pemyvfkxhqqd44p247irb4ef",
+        "name": "azu.cool",
+        "url": null
+      },
+      "github": {
+        "id": "178000437",
+        "name": "azurejelly",
+        "url": "https://github.com/azurejelly"
+      },
+      "steam": {
+        "id": "76561199629604094",
+        "name": "Azure",
+        "url": "https://steamcommunity.com/profiles/76561199629604094"
+      },
+      "twitch": {
+        "id": "1046733081",
+        "name": "azureshiko",
+        "url": "https://www.twitch.tv/azureshiko"
+      },
+      "twitter": {
+        "id": "1747561923187458048",
+        "name": "possiblyazure",
+        "url": "https://twitter.com/possiblyazure"
+      },
+      "xbox": {
+        "id": "3061970921930333",
+        "name": "azurejellyy",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=azurejellyy"
+      },
+      "youtube": {
+        "id": "UCSIaIRVaxlsBQsk2nEa8mNQ",
+        "name": "Azure",
+        "url": "https://www.youtube.com/channel/UCSIaIRVaxlsBQsk2nEa8mNQ"
+      }
+    },
+    "legacy_username": null
+  },
+  "970153787090165791": {
+    "id": 970153787090165791,
+    "name": "kr1pt0nic",
+    "nick": null,
+    "display_name": "kr1pt0nic",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "kr1pt0nic#0546"
   }
 }
