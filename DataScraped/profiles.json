@@ -115833,5 +115833,133 @@
       }
     },
     "legacy_username": "Gin\u00f8#0670"
+  },
+  "215949173235777536": {
+    "id": 215949173235777536,
+    "name": "venganzz",
+    "nick": null,
+    "display_name": "Venganzz",
+    "global_name": "Venganzz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2391732268208899655",
+        "name": "venganzz1",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198071711279",
+        "name": "venganzz",
+        "url": "https://steamcommunity.com/profiles/76561198071711279"
+      }
+    },
+    "legacy_username": "Venganzz#0674"
+  },
+  "1193819908509798401": {
+    "id": 1193819908509798401,
+    "name": "john633j_42330",
+    "nick": null,
+    "display_name": "Johnny",
+    "global_name": "Johnny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "AURELIUS \n27 Years old\n",
+    "guild_bio": null,
+    "display_bio": "AURELIUS \n27 Years old\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "952918411900489742": {
+    "id": 952918411900489742,
+    "name": "aurem0006",
+    "nick": null,
+    "display_name": "John baltimore",
+    "global_name": "John baltimore",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "BrianMitchell1709195#2391"
+  },
+  "869690615196184646": {
+    "id": 869690615196184646,
+    "name": "jolisona",
+    "nick": null,
+    "display_name": "Magalhes",
+    "global_name": "Magalhes",
+    "pronouns": "Honda/Civic",
+    "guild_pronouns": null,
+    "bio": "Dale",
+    "guild_bio": null,
+    "display_bio": "Dale",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "bd459c1de6464249922d0ac04593a7d3",
+        "name": "Magalh\u00e3es._.",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "72tNlwc2Yu36pX_B9MCWKAySm3xdGcB7-otPY43ZE18iSsKmpThSOqStX4hyKPH_LbzsMnnSOjVPvQ",
+        "name": "elaztik#BR1",
+        "url": null
+      },
+      "riot_games": {
+        "id": "72tNlwc2Yu36pX_B9MCWKAySm3xdGcB7-otPY43ZE18iSsKmpThSOqStX4hyKPH_LbzsMnnSOjVPvQ",
+        "name": "elaztik#BR1",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "2454594783",
+        "name": "bluezinbr00",
+        "url": null
+      },
+      "spotify": {
+        "id": "rx7ndlarhmc8q9zvl5h4x0sz7",
+        "name": "Magalh\u00e3es",
+        "url": "https://open.spotify.com/user/rx7ndlarhmc8q9zvl5h4x0sz7"
+      },
+      "steam": {
+        "id": "76561199162402162",
+        "name": "Magalh\u00e3es",
+        "url": "https://steamcommunity.com/profiles/76561199162402162"
+      },
+      "xbox": {
+        "id": "3071884756002480",
+        "name": "matheusmegaxx",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=matheusmegaxx"
+      }
+    },
+    "legacy_username": "jolisona#0866"
   }
 }
