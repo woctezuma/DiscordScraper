@@ -121414,5 +121414,31 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "741600260249354292": {
+    "id": 741600260249354292,
+    "name": "jakieduck",
+    "nick": null,
+    "display_name": "jakieduck",
+    "global_name": "jakieduck",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "If you see a jakieduck in any video game it's probably me ",
+    "guild_bio": null,
+    "display_bio": "If you see a jakieduck in any video game it's probably me ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3073017757174299",
+        "name": "jakiewiky",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=jakiewiky"
+      }
+    },
+    "legacy_username": "jakieduck#4175"
   }
 }
