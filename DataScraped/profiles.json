@@ -121318,5 +121318,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "318550856452800514": {
+    "id": 318550856452800514,
+    "name": "kamadin",
+    "nick": null,
+    "display_name": "RDI",
+    "global_name": "RDI",
+    "pronouns": "Hello",
+    "guild_pronouns": null,
+    "bio": "Mesmo diante da beleza das luzes da cidade, o vazio entre ns  o que brilha mais forte.",
+    "guild_bio": null,
+    "display_bio": "Mesmo diante da beleza das luzes da cidade, o vazio entre ns  o que brilha mais forte.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "aecb576023ae43b1bbf05846788eab12",
+        "name": "Prime RDI",
+        "url": null
+      },
+      "spotify": {
+        "id": "31qrvcnspwwqgpkcqszsyzeovmzi",
+        "name": "RDI",
+        "url": "https://open.spotify.com/user/31qrvcnspwwqgpkcqszsyzeovmzi"
+      },
+      "xbox": {
+        "id": "3068020216545223",
+        "name": "Kamado8782",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Kamado8782"
+      }
+    },
+    "legacy_username": "Kamadin#2207"
   }
 }
