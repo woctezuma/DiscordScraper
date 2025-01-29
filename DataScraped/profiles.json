@@ -119499,5 +119499,75 @@
     ],
     "connections": {},
     "legacy_username": "Pewpew#2463"
+  },
+  "375486243309617152": {
+    "id": 375486243309617152,
+    "name": "roflmango3",
+    "nick": null,
+    "display_name": "roflmango3",
+    "global_name": "roflmango3",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Zzzzzz",
+    "guild_bio": null,
+    "display_bio": "Zzzzzz",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198883482351",
+        "name": "roflmango3",
+        "url": "https://steamcommunity.com/profiles/76561198883482351"
+      },
+      "twitch": {
+        "id": "151388396",
+        "name": "roflmango3",
+        "url": "https://www.twitch.tv/roflmango3"
+      }
+    },
+    "legacy_username": "roflmango3#9978"
+  },
+  "1036776944550825994": {
+    "id": 1036776944550825994,
+    "name": "zitolity",
+    "nick": null,
+    "display_name": "Zitolity",
+    "global_name": "Zitolity",
+    "pronouns": "was/him",
+    "guild_pronouns": null,
+    "bio": "> `` **Minecraft Server Dev**\n> `` **Small Content Creator**\n> `` **Decent At Pixel Art**\n> `` **BuitByBit Vendor**\n\n> https://discord.gg/Wrp9HphqES",
+    "guild_bio": null,
+    "display_bio": "> `` **Minecraft Server Dev**\n> `` **Small Content Creator**\n> `` **Decent At Pixel Art**\n> `` **BuitByBit Vendor**\n\n> https://discord.gg/Wrp9HphqES",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31iywkrd5e2gagsyqp7fecjojmca",
+        "name": "NotSuis",
+        "url": "https://open.spotify.com/user/31iywkrd5e2gagsyqp7fecjojmca"
+      },
+      "steam": {
+        "id": "76561199522474510",
+        "name": "Zitolity",
+        "url": "https://steamcommunity.com/profiles/76561199522474510"
+      },
+      "youtube": {
+        "id": "UCYZRXrbb3CSUwqlOrSDi7kg",
+        "name": "Zitolity",
+        "url": "https://www.youtube.com/channel/UCYZRXrbb3CSUwqlOrSDi7kg"
+      }
+    },
+    "legacy_username": "Zitolity#7403"
   }
 }
