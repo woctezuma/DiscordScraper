@@ -119569,5 +119569,71 @@
       }
     },
     "legacy_username": "Zitolity#7403"
+  },
+  "788288503162601472": {
+    "id": 788288503162601472,
+    "name": "jockel4244",
+    "nick": null,
+    "display_name": "Jockel",
+    "global_name": "Jockel",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jockel#4244"
+  },
+  "1334073468823797842": {
+    "id": 1334073468823797842,
+    "name": "ehlisseah",
+    "nick": null,
+    "display_name": "EhLisseAh",
+    "global_name": "EhLisseAh",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "749223597494763531": {
+    "id": 749223597494763531,
+    "name": "chase_0224",
+    "nick": null,
+    "display_name": "chase",
+    "global_name": "chase",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "bored na ako sa life bhie wala bang plot twist jan",
+    "guild_bio": null,
+    "display_bio": "bored na ako sa life bhie wala bang plot twist jan",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199233150390",
+        "name": "Jextrae",
+        "url": "https://steamcommunity.com/profiles/76561199233150390"
+      }
+    },
+    "legacy_username": "chase.#2899"
   }
 }
