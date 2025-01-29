@@ -120972,5 +120972,44 @@
       }
     },
     "legacy_username": "tantu#6473"
+  },
+  "188735925088419840": {
+    "id": 188735925088419840,
+    "name": "sac9000",
+    "nick": null,
+    "display_name": "Sac: Special Edition",
+    "global_name": "Sac: Special Edition",
+    "pronouns": "PIZZA/PASTA",
+    "guild_pronouns": null,
+    "bio": "- Lawful good sci-fantasy boi <a:MiyabiEarTwitch:1318711500436799590> \n- Bioinformatics nerd <a:SW_KeyboardSmash:1137939451247607950> \n- Fightscene enjoyer<a:AcheronSpin:1220184707308982272>",
+    "guild_bio": null,
+    "display_bio": "- Lawful good sci-fantasy boi <a:MiyabiEarTwitch:1318711500436799590> \n- Bioinformatics nerd <a:SW_KeyboardSmash:1137939451247607950> \n- Fightscene enjoyer<a:AcheronSpin:1220184707308982272>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:ze63gbwapjkw6fckdjdfbkae",
+        "name": "hackysacsuperrift.bsky.social",
+        "url": null
+      },
+      "spotify": {
+        "id": "31njsd2igwblgtcad73tgmnhhhy4",
+        "name": "hackysack00",
+        "url": "https://open.spotify.com/user/31njsd2igwblgtcad73tgmnhhhy4"
+      },
+      "youtube": {
+        "id": "UCEB5TDgpVJCBFdl4nL_WErw",
+        "name": "Superrift",
+        "url": "https://www.youtube.com/channel/UCEB5TDgpVJCBFdl4nL_WErw"
+      }
+    },
+    "legacy_username": "Sac#9000"
   }
 }
