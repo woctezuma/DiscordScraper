@@ -120511,5 +120511,80 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "163354413979664384": {
+    "id": 163354413979664384,
+    "name": "demiurgoskie",
+    "nick": null,
+    "display_name": "Demiurgo",
+    "global_name": "Demiurgo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "In development.",
+    "guild_bio": null,
+    "display_bio": "In development.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "YjQwMWM2NTA1ZmFmN2Y2Mjk3ZjJlYmIxNDJmZGFiNGZkZGIyNGUxZTBmYWNhODZlYjY3MWFhNGY1MzU4ZTVkYQ",
+        "name": "Gaexok",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Gaexok"
+      }
+    },
+    "legacy_username": "Demiurgo#5288"
+  },
+  "1224769181891821698": {
+    "id": 1224769181891821698,
+    "name": "fort.02",
+    "nick": null,
+    "display_name": "Fort",
+    "global_name": "Fort",
+    "pronouns": "26M. Britannia / Polonia.",
+    "guild_pronouns": null,
+    "bio": "**Alexa, play [insert Maidcore artist].\nLoop for 10 hours.**\n\nUA war OSINT, no schedule.\nRadio and RU hardware.\nDM for 'quiries.\n\n   .     , .\nSlava.",
+    "guild_bio": null,
+    "display_bio": "**Alexa, play [insert Maidcore artist].\nLoop for 10 hours.**\n\nUA war OSINT, no schedule.\nRadio and RU hardware.\nDM for 'quiries.\n\n   .     , .\nSlava.",
+    "banner": "https://cdn.discordapp.com/banners/1224769181891821698/011a03335ff4168c0eb0df8e7b6893b5.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1224769181891821698/011a03335ff4168c0eb0df8e7b6893b5.png?size=512",
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "21aidgx2cebwnhx45yxjwnqpi",
+        "name": "Andesfort",
+        "url": "https://open.spotify.com/user/21aidgx2cebwnhx45yxjwnqpi"
+      },
+      "steam": {
+        "id": "76561198077310914",
+        "name": "Andesfort",
+        "url": "https://steamcommunity.com/profiles/76561198077310914"
+      }
+    },
+    "legacy_username": null
+  },
+  "1193921081401167923": {
+    "id": 1193921081401167923,
+    "name": "kevin592vatag0312_92972",
+    "nick": null,
+    "display_name": "Kevin hooray",
+    "global_name": "Kevin hooray",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "AURELIUS \n27 Years old\n",
+    "guild_bio": null,
+    "display_bio": "AURELIUS \n27 Years old\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
