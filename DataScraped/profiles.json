@@ -119388,5 +119388,96 @@
     ],
     "connections": {},
     "legacy_username": "_Mike#2491"
+  },
+  "852012561129013260": {
+    "id": 852012561129013260,
+    "name": "superiorcal",
+    "nick": null,
+    "display_name": "Cal <3",
+    "global_name": "Cal <3",
+    "pronouns": "I\u2019m a dude",
+    "guild_pronouns": null,
+    "bio": "Filipino-American living in California\n========================\nPsalm 27:1 \nBHS Alumni '24\nVery Patriotic Person ",
+    "guild_bio": null,
+    "display_bio": "Filipino-American living in California\n========================\nPsalm 27:1 \nBHS Alumni '24\nVery Patriotic Person ",
+    "banner": "https://cdn.discordapp.com/banners/852012561129013260/a_3b5d3574526ec80bcfd1eccb37f7f251.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/852012561129013260/a_3b5d3574526ec80bcfd1eccb37f7f251.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1061814301",
+        "name": "N0tCalifornia",
+        "url": null
+      },
+      "spotify": {
+        "id": "m6ego58e0ttzef0w8bezsn2nh",
+        "name": "SuperiorCal",
+        "url": "https://open.spotify.com/user/m6ego58e0ttzef0w8bezsn2nh"
+      },
+      "steam": {
+        "id": "76561199232496472",
+        "name": "SuperiorCal",
+        "url": "https://steamcommunity.com/profiles/76561199232496472"
+      },
+      "twitch": {
+        "id": "847221253",
+        "name": "n0tcalifornia",
+        "url": "https://www.twitch.tv/n0tcalifornia"
+      },
+      "twitter": {
+        "id": "1764548330162667520",
+        "name": "OhHeyItsCal_",
+        "url": "https://twitter.com/OhHeyItsCal_"
+      },
+      "xbox": {
+        "id": "NDg5Zjk4NjliOTAxMjFmNTc2NjZlMGJlYWZlZDJlNzBkZDEzOTU0NTY0NjJlZmRhMTljMTQ3Y2U1YTgxZDY4ZA",
+        "name": "Cal1fornia1588",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Cal1fornia1588"
+      },
+      "youtube": {
+        "id": "UCPlUh6ifU7kADQO33rb7VuQ",
+        "name": "SuperiorCal",
+        "url": "https://www.youtube.com/channel/UCPlUh6ifU7kADQO33rb7VuQ"
+      }
+    },
+    "legacy_username": "SuperiorCal#8172"
+  },
+  "609403266564096006": {
+    "id": 609403266564096006,
+    "name": "kooldr",
+    "nick": null,
+    "display_name": "KooLDR",
+    "global_name": "KooLDR",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198981682637",
+        "name": "KooLDR",
+        "url": "https://steamcommunity.com/profiles/76561198981682637"
+      },
+      "xbox": {
+        "id": "3067810917725806",
+        "name": "KooLDR6897",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=KooLDR6897"
+      }
+    },
+    "legacy_username": "KooLDR#5292"
   }
 }
