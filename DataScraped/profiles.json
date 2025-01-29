@@ -119087,5 +119087,58 @@
     ],
     "connections": {},
     "legacy_username": "Kameb541R#9281"
+  },
+  "214346707293437952": {
+    "id": 214346707293437952,
+    "name": "senpaiix",
+    "nick": null,
+    "display_name": "Senpaiix",
+    "global_name": "Senpaiix",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/214346707293437952/a_515cd3d9b9179018ca0a74d6fa6cd0a1.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/214346707293437952/a_515cd3d9b9179018ca0a74d6fa6cd0a1.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Senpaiix#2785",
+        "name": "Senpaiix#2785",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198016054876",
+        "name": "Senpaii",
+        "url": "https://steamcommunity.com/profiles/76561198016054876"
+      }
+    },
+    "legacy_username": "Senpaiix#8888"
+  },
+  "1198887304320782420": {
+    "id": 1198887304320782420,
+    "name": "orsis0842",
+    "nick": null,
+    "display_name": "ORSIS",
+    "global_name": "ORSIS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
