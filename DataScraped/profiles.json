@@ -119366,5 +119366,27 @@
     ],
     "connections": {},
     "legacy_username": "pyroto#8823"
+  },
+  "615619102505041931": {
+    "id": 615619102505041931,
+    "name": "_uxcmike",
+    "nick": null,
+    "display_name": "_Mike",
+    "global_name": "_Mike",
+    "pronouns": "him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "_Mike#2491"
   }
 }
