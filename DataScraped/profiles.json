@@ -120586,5 +120586,66 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "249248038768345089": {
+    "id": 249248038768345089,
+    "name": "bencecomeback",
+    "nick": null,
+    "display_name": "BENCE",
+    "global_name": "BENCE",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I Always Come Back!\n\nI'm working here: Ministry of National Defense (HM)",
+    "guild_bio": null,
+    "display_bio": "I Always Come Back!\n\nI'm working here: Ministry of National Defense (HM)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "BattlePants#211255",
+        "name": "BattlePants#211255",
+        "url": null
+      },
+      "skype": {
+        "id": "bastibence1",
+        "name": "bastibence1",
+        "url": "skype:bastibence1?userinfo"
+      },
+      "steam": {
+        "id": "76561198420180863",
+        "name": "Black | \u9ed2 | Noir | mb. Supreme",
+        "url": "https://steamcommunity.com/profiles/76561198420180863"
+      },
+      "youtube": {
+        "id": "UCHCa63SKQUaFZRaTVYpzRig",
+        "name": "Bence B\u00e1sti",
+        "url": "https://www.youtube.com/channel/UCHCa63SKQUaFZRaTVYpzRig"
+      }
+    },
+    "legacy_username": "BENCE#9230"
+  },
+  "1202641768533860362": {
+    "id": 1202641768533860362,
+    "name": "an_nhan_72842",
+    "nick": null,
+    "display_name": "An nhn",
+    "global_name": "An nhn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
