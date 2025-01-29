@@ -121248,5 +121248,57 @@
       }
     },
     "legacy_username": "Germ\u00e1n\u0f04 \u1d49\u1d9c#7869"
+  },
+  "830090871172104203": {
+    "id": 830090871172104203,
+    "name": "l.r.72",
+    "nick": null,
+    "display_name": "luchi",
+    "global_name": "luchi",
+    "pronouns": "\u00c9l",
+    "guild_pronouns": null,
+    "bio": "Si queres charlamos. ",
+    "guild_bio": null,
+    "display_bio": "Si queres charlamos. ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "JETS#21477",
+        "name": "JETS#21477",
+        "url": null
+      },
+      "epic_games": {
+        "id": "e3074d8c661d41e3beca4e6371097855",
+        "name": "Matt rixx",
+        "url": null
+      },
+      "playstation": {
+        "id": "3621781680606492500",
+        "name": "DEX-M00D",
+        "url": null
+      },
+      "riot_games": {
+        "id": "txrFSaPP4LUrJV6toNADjTWXmTNWHszjGOfFEetv9XyroTpYI4A7NinQBDVV2SacWKwD_EtWMcz40A",
+        "name": "Luchiito#HOLA",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199251467601",
+        "name": "velmo",
+        "url": "https://steamcommunity.com/profiles/76561199251467601"
+      },
+      "xbox": {
+        "id": "3078559255707793",
+        "name": "DexMood2752",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DexMood2752"
+      }
+    },
+    "legacy_username": null
   }
 }
