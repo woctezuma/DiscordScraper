@@ -121181,5 +121181,72 @@
     ],
     "connections": {},
     "legacy_username": "RotundOctopus#5950"
+  },
+  "471449582979645450": {
+    "id": 471449582979645450,
+    "name": "german_kg",
+    "nick": null,
+    "display_name": "Germn ",
+    "global_name": "Germn ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "*Me gustan las chicas con orejas de gato / I like girls with cat ears*\n\nhttps://ko-fi.com/german_kg\n\nPor si me quieren donar algo :konatacry:",
+    "guild_bio": null,
+    "display_bio": "*Me gustan las chicas con orejas de gato / I like girls with cat ears*\n\nhttps://ko-fi.com/german_kg\n\nPor si me quieren donar algo :konatacry:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Germ\u00e1nKG#1907",
+        "name": "Germ\u00e1nKG#1907",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "42d7b205-26ec-5894-bddd-6332a4582ed9",
+        "name": "GermanKG",
+        "url": null
+      },
+      "epic_games": {
+        "id": "c7cc10016a734f7caef9c4ffb0d6f431",
+        "name": "YukiOne1",
+        "url": null
+      },
+      "facebook": {
+        "id": "310856110764201",
+        "name": "\u30d9\u30eb \u30b4\u30fc\u30eb\u30c7\u30f3",
+        "url": null
+      },
+      "playstation": {
+        "id": "5820742457468494886",
+        "name": "YukiOne1",
+        "url": null
+      },
+      "riot_games": {
+        "id": "_PjF39m_r863gTpUwVVVMXby-N-G_-bMbM56VGCCRjHM9GHNcdlFmguH3A6muGPkJKxYB0weWl-TMA",
+        "name": "Yuki \u96ea#9941",
+        "url": null
+      },
+      "spotify": {
+        "id": "axjupl621bjrs7afld0llx2zx",
+        "name": "German",
+        "url": "https://open.spotify.com/user/axjupl621bjrs7afld0llx2zx"
+      },
+      "twitter": {
+        "id": "1647174068045594625",
+        "name": "German_KG_",
+        "url": "https://twitter.com/German_KG_"
+      },
+      "xbox": {
+        "id": "3073896123912186",
+        "name": "Warfre pro",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Warfre pro"
+      }
+    },
+    "legacy_username": "Germ\u00e1n\u0f04 \u1d49\u1d9c#7869"
   }
 }
