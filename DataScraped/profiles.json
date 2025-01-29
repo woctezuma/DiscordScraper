@@ -121011,5 +121011,60 @@
       }
     },
     "legacy_username": "Sac#9000"
+  },
+  "478987616751058944": {
+    "id": 478987616751058944,
+    "name": "mayori",
+    "nick": null,
+    "display_name": "mayori",
+    "global_name": null,
+    "pronouns": "Kisuke Urahara",
+    "guild_pronouns": null,
+    "bio": "` `",
+    "guild_bio": null,
+    "display_bio": "` `",
+    "banner": "https://cdn.discordapp.com/banners/478987616751058944/3bc4b58c0fee43044024820538cd2f7e.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/478987616751058944/3bc4b58c0fee43044024820538cd2f7e.png?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198849300771",
+        "name": "moremby",
+        "url": "https://steamcommunity.com/profiles/76561198849300771"
+      },
+      "twitch": {
+        "id": "245951074",
+        "name": "mayori_btw",
+        "url": "https://www.twitch.tv/mayori_btw"
+      }
+    },
+    "legacy_username": "mayori#0777"
+  },
+  "281487896563941377": {
+    "id": 281487896563941377,
+    "name": "poxuistomindet",
+    "nick": null,
+    "display_name": "gamblecore enjoyer",
+    "global_name": "gamblecore enjoyer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "      .     Discord:\nhttps://discord.com/guidelines",
+    "guild_bio": null,
+    "display_bio": "      .     Discord:\nhttps://discord.com/guidelines",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u30af\u30cc\u30fc\u30c8#8709"
   }
 }
