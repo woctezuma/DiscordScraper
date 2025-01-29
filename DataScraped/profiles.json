@@ -120685,5 +120685,63 @@
       }
     },
     "legacy_username": null
+  },
+  "405132122140049408": {
+    "id": 405132122140049408,
+    "name": "naturalselectioniscoming",
+    "nick": null,
+    "display_name": "NaturalSelection",
+    "global_name": "NaturalSelection",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "They are weak, natural selection is coming for them.",
+    "guild_bio": null,
+    "display_bio": "They are weak, natural selection is coming for them.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "195740374",
+        "name": "naturalselectioniscoming",
+        "url": "https://www.twitch.tv/naturalselectioniscoming"
+      }
+    },
+    "legacy_username": "NaturalSelectionisComing#0199"
+  },
+  "690127636810301442": {
+    "id": 690127636810301442,
+    "name": "ruepaaa",
+    "nick": null,
+    "display_name": "[Reaper]",
+    "global_name": "[Reaper]",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "    \n      ",
+    "guild_bio": null,
+    "display_bio": "    \n      ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "dwfkjbfpcwpjflt3j7itr69ed",
+        "name": "R\u00fcpa",
+        "url": "https://open.spotify.com/user/dwfkjbfpcwpjflt3j7itr69ed"
+      },
+      "steam": {
+        "id": "76561198176617509",
+        "name": "[Reaper]",
+        "url": "https://steamcommunity.com/profiles/76561198176617509"
+      }
+    },
+    "legacy_username": "[Reaper]#8424"
   }
 }
