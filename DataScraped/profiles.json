@@ -119479,5 +119479,25 @@
       }
     },
     "legacy_username": "KooLDR#5292"
+  },
+  "235730493625204736": {
+    "id": 235730493625204736,
+    "name": "pewpew2463",
+    "nick": null,
+    "display_name": "Pewpew",
+    "global_name": "Pewpew",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Pewpew#2463"
   }
 }
