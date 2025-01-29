@@ -120008,5 +120008,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "710127391426740296": {
+    "id": 710127391426740296,
+    "name": "starkiller._.",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "\n\n",
+    "guild_bio": null,
+    "display_bio": "\n\n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "$tarkiller#9527"
   }
 }
