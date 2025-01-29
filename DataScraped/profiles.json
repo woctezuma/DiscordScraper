@@ -120106,5 +120106,31 @@
       }
     },
     "legacy_username": "SISKA167#9218"
+  },
+  "514311247626371072": {
+    "id": 514311247626371072,
+    "name": "job_mob",
+    "nick": null,
+    "display_name": "JobMob",
+    "global_name": "JobMob",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  ",
+    "guild_bio": null,
+    "display_bio": "  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198451867830",
+        "name": "JobMob",
+        "url": "https://steamcommunity.com/profiles/76561198451867830"
+      }
+    },
+    "legacy_username": "\ucd08\ub871\uc774#7155"
   }
 }
