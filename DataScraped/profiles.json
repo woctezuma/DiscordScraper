@@ -119819,5 +119819,42 @@
       }
     },
     "legacy_username": "basim#5914"
+  },
+  "618160556133842970": {
+    "id": 618160556133842970,
+    "name": "sciaopersone",
+    "nick": null,
+    "display_name": "Sciaopersone",
+    "global_name": "Sciaopersone",
+    "pronouns": "Carro/Armato",
+    "guild_pronouns": null,
+    "bio": "dQw4w9WgXcQ, solo i  capiranno",
+    "guild_bio": null,
+    "display_bio": "dQw4w9WgXcQ, solo i  capiranno",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "4u989nee",
+        "name": "Sciaopersone",
+        "url": "https://www.reddit.com/u/Sciaopersone"
+      },
+      "spotify": {
+        "id": "je3reosq6adlvmkewqgelmvxg",
+        "name": "Nome",
+        "url": "https://open.spotify.com/user/je3reosq6adlvmkewqgelmvxg"
+      },
+      "youtube": {
+        "id": "UCMQpFRNWqSsk7dTbAFeT7ig",
+        "name": "Sciaopersone",
+        "url": "https://www.youtube.com/channel/UCMQpFRNWqSsk7dTbAFeT7ig"
+      }
+    },
+    "legacy_username": "Sciaopersone#6786"
   }
 }
