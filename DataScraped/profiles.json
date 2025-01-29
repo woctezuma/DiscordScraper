@@ -119856,5 +119856,27 @@
       }
     },
     "legacy_username": "Sciaopersone#6786"
+  },
+  "1226095488806420523": {
+    "id": 1226095488806420523,
+    "name": "youtubecreators_",
+    "nick": null,
+    "display_name": "YouTube Creators",
+    "global_name": "YouTube Creators",
+    "pronouns": "YouTube Creators",
+    "guild_pronouns": null,
+    "bio": "Welcome to Discord official YouTube for Creators!\nSubscribe for YouTube Creators Channel: https://youtube.com/@youtubecreators?si=txBHarTwUlOCMj85\nTwitter: https://x.com/youtubecreators?s=21",
+    "guild_bio": null,
+    "display_bio": "Welcome to Discord official YouTube for Creators!\nSubscribe for YouTube Creators Channel: https://youtube.com/@youtubecreators?si=txBHarTwUlOCMj85\nTwitter: https://x.com/youtubecreators?s=21",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
