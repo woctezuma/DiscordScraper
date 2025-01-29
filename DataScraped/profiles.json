@@ -120934,5 +120934,43 @@
       }
     },
     "legacy_username": "Kayze#2656"
+  },
+  "526330519386980374": {
+    "id": 526330519386980374,
+    "name": "tantu2008",
+    "nick": null,
+    "display_name": "tantu",
+    "global_name": "tantu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31djljm2zj7ypkpazrq7xaub3qtm",
+        "name": "Irakli Chincharashvili",
+        "url": "https://open.spotify.com/user/31djljm2zj7ypkpazrq7xaub3qtm"
+      },
+      "steam": {
+        "id": "76561199205048342",
+        "name": "[delta] _tantu_",
+        "url": "https://steamcommunity.com/profiles/76561199205048342"
+      },
+      "xbox": {
+        "id": "3068326159454212",
+        "name": "tantukun2008",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=tantukun2008"
+      }
+    },
+    "legacy_username": "tantu#6473"
   }
 }
