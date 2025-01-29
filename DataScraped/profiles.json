@@ -119793,5 +119793,31 @@
     ],
     "connections": {},
     "legacy_username": "Garraafiada#6873"
+  },
+  "1078903592490106982": {
+    "id": 1078903592490106982,
+    "name": "basim5914",
+    "nick": null,
+    "display_name": "basim5914",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1889160883545441584",
+        "name": "vezr_72",
+        "url": null
+      }
+    },
+    "legacy_username": "basim#5914"
   }
 }
