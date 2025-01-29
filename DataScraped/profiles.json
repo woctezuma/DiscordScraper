@@ -118963,5 +118963,81 @@
       }
     },
     "legacy_username": null
+  },
+  "302811466233544705": {
+    "id": 302811466233544705,
+    "name": "say4chan",
+    "nick": null,
+    "display_name": "say4chan",
+    "global_name": "say4chan",
+    "pronouns": "King/Rex",
+    "guild_pronouns": null,
+    "bio": "people yap when they are yapping\n\nmy instagram\nhttps://www.instagram.com/simpsoy_homer",
+    "guild_bio": null,
+    "display_bio": "people yap when they are yapping\n\nmy instagram\nhttps://www.instagram.com/simpsoy_homer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_bluesky": {
+        "id": "did:plc:rhxrlnc63pdqawvweh2h6ejm",
+        "name": "heraldelijah.bsky.social",
+        "url": null
+      },
+      "epic_games": {
+        "id": "7c511539ded345529ae19436b8a15c27",
+        "name": "Say4chan",
+        "url": null
+      },
+      "facebook": {
+        "id": "2291489164510651",
+        "name": "Muhammad Saya Ilyas",
+        "url": null
+      },
+      "reddit": {
+        "id": "19zn0fn2n5",
+        "name": "mile_sepherd",
+        "url": "https://www.reddit.com/u/mile_sepherd"
+      },
+      "unknown_roblox": {
+        "id": "7241034428",
+        "name": "say4chan",
+        "url": null
+      },
+      "spotify": {
+        "id": "21vmu5cfldecshkz62cgpgl4i",
+        "name": "Muhammad Saya Ilyas",
+        "url": "https://open.spotify.com/user/21vmu5cfldecshkz62cgpgl4i"
+      },
+      "steam": {
+        "id": "76561198381517059",
+        "name": "elijah",
+        "url": "https://steamcommunity.com/profiles/76561198381517059"
+      },
+      "tiktok": {
+        "id": "138be8c5-c391-5c88-a0e8-a130051e6197",
+        "name": "trykstar",
+        "url": "https://tiktok.com/@trykstar"
+      },
+      "twitch": {
+        "id": "230177118",
+        "name": "say4chan",
+        "url": "https://www.twitch.tv/say4chan"
+      },
+      "twitter": {
+        "id": "1127591514375217153",
+        "name": "SAYA_elias",
+        "url": "https://twitter.com/SAYA_elias"
+      },
+      "youtube": {
+        "id": "UC1PfDW9X2QkuEy1tq-o4rQg",
+        "name": "Mile Sepherd",
+        "url": "https://www.youtube.com/channel/UC1PfDW9X2QkuEy1tq-o4rQg"
+      }
+    },
+    "legacy_username": "Nosferatu#8663"
   }
 }
