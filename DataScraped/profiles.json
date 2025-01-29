@@ -119197,5 +119197,62 @@
       }
     },
     "legacy_username": null
+  },
+  "246838403218276352": {
+    "id": 246838403218276352,
+    "name": "jumble.",
+    "nick": null,
+    "display_name": "Jumble.-",
+    "global_name": "Jumble.-",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/246838403218276352/a_fe6027a2e4fc4e26b99c4f0bea2252e2.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/246838403218276352/a_fe6027a2e4fc4e26b99c4f0bea2252e2.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ccselcon9wh1g65vujhl966ky",
+        "name": "Jumble",
+        "url": "https://open.spotify.com/user/ccselcon9wh1g65vujhl966ky"
+      },
+      "steam": {
+        "id": "76561198150133893",
+        "name": "Jumble.-",
+        "url": "https://steamcommunity.com/profiles/76561198150133893"
+      }
+    },
+    "legacy_username": "Jumble.-#4923"
+  },
+  "334174356152385560": {
+    "id": 334174356152385560,
+    "name": "holdingaleech",
+    "nick": null,
+    "display_name": "Sippa",
+    "global_name": "Sippa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/334174356152385560/874e625b11ae705d8cf27ec6dd267199.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/334174356152385560/874e625b11ae705d8cf27ec6dd267199.png?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Sippa#0765"
   }
 }
