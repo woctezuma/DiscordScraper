@@ -120814,5 +120814,37 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "755220042953654282": {
+    "id": 755220042953654282,
+    "name": "pablitoracista",
+    "nick": null,
+    "display_name": "ElPabli_",
+    "global_name": "ElPabli_",
+    "pronouns": "Pablo/Cuervo",
+    "guild_pronouns": null,
+    "bio": "Puto el que lo lea",
+    "guild_bio": null,
+    "display_bio": "Puto el que lo lea",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ka6poe8xo38n41x045o7kow1l",
+        "name": "cuerbrock",
+        "url": "https://open.spotify.com/user/ka6poe8xo38n41x045o7kow1l"
+      },
+      "xbox": {
+        "id": "MmM3MmM2OWQyNzc4MzAxNmIzZDJmM2EzZWY4ODU4N2Y0MmUwZmFlM2FjZDBkY2RiOWNkZmRhNmI4NzhhNWJlNg",
+        "name": "Cuerbrock205",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Cuerbrock205"
+      }
+    },
+    "legacy_username": "Pabli Empresario#4352"
   }
 }
