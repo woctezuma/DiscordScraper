@@ -120266,5 +120266,47 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "133543772746153984": {
+    "id": 133543772746153984,
+    "name": "_gabuki",
+    "nick": null,
+    "display_name": "Gabu ",
+    "global_name": "Gabu ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " doido",
+    "guild_bio": null,
+    "display_bio": " doido",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "cebe23642b78451e8253d8d94e767d03",
+        "name": "Berskurs",
+        "url": null
+      },
+      "spotify": {
+        "id": "2243e5roxgbpaeswuew3jw4rq",
+        "name": "Gabu",
+        "url": "https://open.spotify.com/user/2243e5roxgbpaeswuew3jw4rq"
+      },
+      "steam": {
+        "id": "76561198366914256",
+        "name": "Gabu",
+        "url": "https://steamcommunity.com/profiles/76561198366914256"
+      },
+      "twitch": {
+        "id": "172062860",
+        "name": "k4tsubae",
+        "url": "https://www.twitch.tv/k4tsubae"
+      }
+    },
+    "legacy_username": "Gabu#7189"
   }
 }
