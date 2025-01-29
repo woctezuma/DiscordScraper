@@ -120647,5 +120647,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1189557866873495553": {
+    "id": 1189557866873495553,
+    "name": "dasikdaniel.",
+    "nick": null,
+    "display_name": "Dasik",
+    "global_name": "Dasik",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "Favourite game: GTA V\nFavourite colour: \n \n   \n\nhttps://discord.gg/39QS3mwkXE",
+    "guild_bio": null,
+    "display_bio": "Favourite game: GTA V\nFavourite colour: \n \n   \n\nhttps://discord.gg/39QS3mwkXE",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199797869527",
+        "name": "DasikDaniel",
+        "url": "https://steamcommunity.com/profiles/76561199797869527"
+      },
+      "tiktok": {
+        "id": "0bdd63e3-782c-5745-81f0-84f4900af107",
+        "name": "dasikdaniel",
+        "url": "https://tiktok.com/@dasikdaniel"
+      },
+      "twitter": {
+        "id": "1715302679046508544",
+        "name": "DasikDaniel",
+        "url": "https://twitter.com/DasikDaniel"
+      }
+    },
+    "legacy_username": null
   }
 }
