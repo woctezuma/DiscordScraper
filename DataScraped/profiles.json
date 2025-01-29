@@ -119039,5 +119039,53 @@
       }
     },
     "legacy_username": "Nosferatu#8663"
+  },
+  "826211299259187262": {
+    "id": 826211299259187262,
+    "name": "skylanderjace41",
+    "nick": null,
+    "display_name": "skylanderjace41",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199162353359",
+        "name": "skylanderjace41",
+        "url": "https://steamcommunity.com/profiles/76561199162353359"
+      }
+    },
+    "legacy_username": "skylanderjace41#6382"
+  },
+  "924896827889844224": {
+    "id": 924896827889844224,
+    "name": "gb_kameb541r",
+    "nick": null,
+    "display_name": "Lelouch Vi Britania",
+    "global_name": "Lelouch Vi Britania",
+    "pronouns": "Alucard",
+    "guild_pronouns": null,
+    "bio": "Hao is gay, nothing more, nothing less\nThe Bird Of Hermes Is My Name\nEating My Wings To Make Me Tame",
+    "guild_bio": null,
+    "display_bio": "Hao is gay, nothing more, nothing less\nThe Bird Of Hermes Is My Name\nEating My Wings To Make Me Tame",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Kameb541R#9281"
   }
 }
