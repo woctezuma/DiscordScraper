@@ -120905,5 +120905,34 @@
       }
     },
     "legacy_username": "ArconZ_rAr_YT#0944"
+  },
+  "184036339824459777": {
+    "id": 184036339824459777,
+    "name": "kayze.",
+    "nick": null,
+    "display_name": "Kayze",
+    "global_name": "Kayze",
+    "pronouns": "\u201c\ud835\ude10 \ud835\ude2c\ud835\ude2f\ud835\ude30\ud835\ude38 \ud835\ude2a\ud835\ude35\u2019\ud835\ude34 \ud835\ude33\ud835\ude26\ud835\ude22\ud835\ude2d, \ud835\ude10 \ud835\ude24\ud835\ude22\ud835\ude2f \ud835\ude27\ud835\ude26\ud835\ude26\ud835\ude2d \ud835\ude2a\ud835\ude35.\u201d",
+    "guild_pronouns": null,
+    "bio": "fairy of shampoo and no rules enthusiasts ",
+    "guild_bio": null,
+    "display_bio": "fairy of shampoo and no rules enthusiasts ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "kayseis",
+        "name": "kayseis",
+        "url": "https://open.spotify.com/user/kayseis"
+      }
+    },
+    "legacy_username": "Kayze#2656"
   }
 }
