@@ -119254,5 +119254,117 @@
     ],
     "connections": {},
     "legacy_username": "Sippa#0765"
+  },
+  "217648091896086528": {
+    "id": 217648091896086528,
+    "name": "aisukrim",
+    "nick": null,
+    "display_name": "Aisu",
+    "global_name": "Aisu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "early_supporter",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Mayu#11496",
+        "name": "Mayu#11496",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "na_93630544",
+        "name": "MayuReina",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198068618469",
+        "name": "Shoo~",
+        "url": "https://steamcommunity.com/profiles/76561198068618469"
+      }
+    },
+    "legacy_username": "Shoo#0847"
+  },
+  "347585044497563648": {
+    "id": 347585044497563648,
+    "name": "lkyubi",
+    "nick": null,
+    "display_name": "Kyubi",
+    "global_name": "Kyubi",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "In my Stardew Valley Era   \nLost In Space   \nExorcising Ghosts   ",
+    "guild_bio": null,
+    "display_bio": "In my Stardew Valley Era   \nLost In Space   \nExorcising Ghosts   ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "3cD1-06rzud-sDHacKlXgCyDq5xuAlxpPDgijWybFYFlkLuR9IwZuFYjf9At9frp29S-tUQubgtXRQ",
+        "name": "Palette Pioneer#INK",
+        "url": null
+      },
+      "riot_games": {
+        "id": "3cD1-06rzud-sDHacKlXgCyDq5xuAlxpPDgijWybFYFlkLuR9IwZuFYjf9At9frp29S-tUQubgtXRQ",
+        "name": "Palette Pioneer#INK",
+        "url": null
+      },
+      "spotify": {
+        "id": "9fgd3sm1ucsqaapyfd14grzix",
+        "name": "KyubiSama",
+        "url": "https://open.spotify.com/user/9fgd3sm1ucsqaapyfd14grzix"
+      },
+      "steam": {
+        "id": "76561198797056812",
+        "name": "IKyubi",
+        "url": "https://steamcommunity.com/profiles/76561198797056812"
+      },
+      "tiktok": {
+        "id": "815fadf7-541f-5d44-b10a-0e07ddc37017",
+        "name": "2weikyubi",
+        "url": "https://tiktok.com/@2weikyubi"
+      },
+      "twitter": {
+        "id": "1218079517920677889",
+        "name": "AhriSimpp",
+        "url": "https://twitter.com/AhriSimpp"
+      }
+    },
+    "legacy_username": "Kyubi#2390"
+  },
+  "272520570506313729": {
+    "id": 272520570506313729,
+    "name": "_pyroto",
+    "nick": null,
+    "display_name": "pyroto",
+    "global_name": "pyroto",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "pyroto#8823"
   }
 }
