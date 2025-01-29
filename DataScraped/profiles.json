@@ -120743,5 +120743,76 @@
       }
     },
     "legacy_username": "[Reaper]#8424"
+  },
+  "132253368054710272": {
+    "id": 132253368054710272,
+    "name": "huangxinjie",
+    "nick": null,
+    "display_name": "huangxinjie",
+    "global_name": "huangxinjie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "huangxinjie#1911",
+        "name": "huangxinjie#1911",
+        "url": null
+      },
+      "unknown_domain": {
+        "id": "huangxinjie.com",
+        "name": "huangxinjie.com",
+        "url": null
+      },
+      "github": {
+        "id": "4690552",
+        "name": "huangxinjie",
+        "url": "https://github.com/huangxinjie"
+      },
+      "steam": {
+        "id": "76561198119912931",
+        "name": "huangxinjie",
+        "url": "https://steamcommunity.com/profiles/76561198119912931"
+      },
+      "twitch": {
+        "id": "88968574",
+        "name": "huangxinjie",
+        "url": "https://www.twitch.tv/huangxinjie"
+      },
+      "xbox": {
+        "id": "MmNiYWQ4ZDA1OWFiM2VkYTUxYjEyYWU2ZDAxZTJlN2VmZmUyNWVhOGM3MDZkMzVmODAwM2M4NzU2OTUxMDM5NA",
+        "name": "huangxinjie6997",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=huangxinjie6997"
+      }
+    },
+    "legacy_username": "huangxinjie#5659"
+  },
+  "1154290084892397568": {
+    "id": 1154290084892397568,
+    "name": "joanmari1981",
+    "nick": null,
+    "display_name": "Jolyne1981",
+    "global_name": "Jolyne1981",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
