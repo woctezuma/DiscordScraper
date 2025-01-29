@@ -119140,5 +119140,62 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1247556023343124616": {
+    "id": 1247556023343124616,
+    "name": "imuthatuckeri",
+    "nick": null,
+    "display_name": "IMuthaTuckerI",
+    "global_name": "IMuthaTuckerI",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "876718826593611788": {
+    "id": 876718826593611788,
+    "name": "iluvcatz1",
+    "nick": null,
+    "display_name": "alaska",
+    "global_name": "alaska",
+    "pronouns": "8008",
+    "guild_pronouns": null,
+    "bio": "<:jellyfish:479723952890052608>  <:bluejellyfish:479723952265232396>",
+    "guild_bio": null,
+    "display_bio": "<:jellyfish:479723952890052608>  <:bluejellyfish:479723952265232396>",
+    "banner": "https://cdn.discordapp.com/banners/876718826593611788/a_60de2d00d3ea33b57c024c3cc370061b.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/876718826593611788/a_60de2d00d3ea33b57c024c3cc370061b.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_1",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "leahmillerx12",
+        "name": "crybabyxoxo",
+        "url": "https://open.spotify.com/user/leahmillerx12"
+      },
+      "steam": {
+        "id": "76561198968853363",
+        "name": "iluvcatz",
+        "url": "https://steamcommunity.com/profiles/76561198968853363"
+      },
+      "twitch": {
+        "id": "480810827",
+        "name": "sincerelyalaskax",
+        "url": "https://www.twitch.tv/sincerelyalaskax"
+      }
+    },
+    "legacy_username": null
   }
 }
