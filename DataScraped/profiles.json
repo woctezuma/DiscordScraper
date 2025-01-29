@@ -121374,5 +121374,45 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1121233580941656164": {
+    "id": 1121233580941656164,
+    "name": "carlasousa123987",
+    "nick": null,
+    "display_name": "Carla Sousa",
+    "global_name": "Carla Sousa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ryzer#9820"
+  },
+  "1131868139932614677": {
+    "id": 1131868139932614677,
+    "name": "nellixar.",
+    "nick": null,
+    "display_name": "nellixar",
+    "global_name": "nellixar",
+    "pronouns": "// !",
+    "guild_pronouns": null,
+    "bio": "   ",
+    "guild_bio": null,
+    "display_bio": "   ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
