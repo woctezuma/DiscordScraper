@@ -119710,5 +119710,36 @@
       }
     },
     "legacy_username": "Nartsu#0001"
+  },
+  "303108488786083851": {
+    "id": 303108488786083851,
+    "name": "curryfishball",
+    "nick": null,
+    "display_name": "DeluluUwU",
+    "global_name": "DeluluUwU",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "462944832",
+        "name": "curryfishball",
+        "url": "https://www.twitch.tv/curryfishball"
+      },
+      "xbox": {
+        "id": "YjM5NjAxYzNkMDliOWI3NzlmZTVlOWI3Mjk3MjBkOTg4MmYwZmRhOGU2YzI3NTdkZmZlYjI3ZTRmYjI4OWM3NQ",
+        "name": "UbiquitousUwU",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=UbiquitousUwU"
+      }
+    },
+    "legacy_username": "CurryFishball#3250"
   }
 }
