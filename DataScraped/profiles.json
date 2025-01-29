@@ -121115,5 +121115,71 @@
       }
     },
     "legacy_username": "wendyx#0001"
+  },
+  "1188784687099936838": {
+    "id": 1188784687099936838,
+    "name": "falsnab",
+    "nick": null,
+    "display_name": "falsnab",
+    "global_name": null,
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "Game Developa, 2D/3D Artist",
+    "guild_bio": null,
+    "display_bio": "Game Developa, 2D/3D Artist",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198411011949",
+        "name": "falsnab",
+        "url": "https://steamcommunity.com/profiles/76561198411011949"
+      }
+    },
+    "legacy_username": null
+  },
+  "826065209638649866": {
+    "id": 826065209638649866,
+    "name": "kackodziob",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": "\u041a\u044b\u0445 \u0423\u0439 \u0410\u043c",
+    "guild_pronouns": null,
+    "bio": "||https://www.youtube.com/watch?v=8K10CJ9IOg4&ab_channel=Vladlite||",
+    "guild_bio": null,
+    "display_bio": "||https://www.youtube.com/watch?v=8K10CJ9IOg4&ab_channel=Vladlite||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "\u043a\u0430\u0447\u043a\u043e\u0434\u0437\u044c\u043e\u0431#8747"
+  },
+  "306516407842242571": {
+    "id": 306516407842242571,
+    "name": "rotundoctopus",
+    "nick": null,
+    "display_name": "RotundOctopus",
+    "global_name": "RotundOctopus",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "RotundOctopus#5950"
   }
 }
