@@ -119741,5 +119741,36 @@
       }
     },
     "legacy_username": "CurryFishball#3250"
+  },
+  "171338416645079041": {
+    "id": 171338416645079041,
+    "name": "harvey_uk",
+    "nick": null,
+    "display_name": "Harvey_UK",
+    "global_name": "Harvey_UK",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "32984213",
+        "name": "harvey_uk",
+        "url": "https://www.twitch.tv/harvey_uk"
+      },
+      "xbox": {
+        "id": "3070296719578922",
+        "name": "HarveyUK7437",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HarveyUK7437"
+      }
+    },
+    "legacy_username": "Harvey_UK#4542"
   }
 }
