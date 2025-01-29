@@ -119942,5 +119942,53 @@
     ],
     "connections": {},
     "legacy_username": "NIKO 253 BOSSKING KT#6017"
+  },
+  "197223885966409730": {
+    "id": 197223885966409730,
+    "name": "alialenafoals",
+    "nick": null,
+    "display_name": "Alialena(Foals)",
+    "global_name": "Alialena(Foals)",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Alialena(Foals)#8792"
+  },
+  "1322627399313133641": {
+    "id": 1322627399313133641,
+    "name": "moundo1",
+    "nick": null,
+    "display_name": "Shadow",
+    "global_name": "Shadow",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**Another bad day, just like every day. But we keep going. Join us and let's make it better: https://discord.gg/Mq4Ca7TXc7**",
+    "guild_bio": null,
+    "display_bio": "**Another bad day, just like every day. But we keep going. Join us and let's make it better: https://discord.gg/Mq4Ca7TXc7**",
+    "banner": "https://cdn.discordapp.com/banners/1322627399313133641/a_e8e94eec9865db05ca9d0c19bd75390c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1322627399313133641/a_e8e94eec9865db05ca9d0c19bd75390c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1076158941",
+        "name": "omar1tark",
+        "url": null
+      }
+    },
+    "legacy_username": null
   }
 }
