@@ -120867,5 +120867,43 @@
     ],
     "connections": {},
     "legacy_username": "Heed#6166"
+  },
+  "208347465546465280": {
+    "id": 208347465546465280,
+    "name": "arconz_rar_yt",
+    "nick": null,
+    "display_name": "ArconZ_rAr_YT",
+    "global_name": "ArconZ_rAr_YT",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\n          Five M, ETS 2\n                         - Mapping\n                         - Designing \n",
+    "guild_bio": null,
+    "display_bio": "\n          Five M, ETS 2\n                         - Mapping\n                         - Designing \n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Niklas5230#21160",
+        "name": "Niklas5230#21160",
+        "url": null
+      },
+      "twitch": {
+        "id": "437964963",
+        "name": "elwr_cortez",
+        "url": "https://www.twitch.tv/elwr_cortez"
+      },
+      "youtube": {
+        "id": "UClevYf2AlLJVgZDLX4Llnqw",
+        "name": "ArconZ_RaR",
+        "url": "https://www.youtube.com/channel/UClevYf2AlLJVgZDLX4Llnqw"
+      }
+    },
+    "legacy_username": "ArconZ_rAr_YT#0944"
   }
 }
