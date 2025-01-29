@@ -120029,5 +120029,34 @@
     ],
     "connections": {},
     "legacy_username": "$tarkiller#9527"
+  },
+  "995370240697442386": {
+    "id": 995370240697442386,
+    "name": "officialsevn",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "f7f58f400dd7491a867b5d84e688324b",
+        "name": "Winnie Ng",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198310857199",
+        "name": "JULY\u8001\u67d2",
+        "url": "https://steamcommunity.com/profiles/76561198310857199"
+      }
+    },
+    "legacy_username": null
   }
 }
