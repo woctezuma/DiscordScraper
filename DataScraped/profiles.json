@@ -119635,5 +119635,80 @@
       }
     },
     "legacy_username": "chase.#2899"
+  },
+  "210732692411514882": {
+    "id": 210732692411514882,
+    "name": "nartsu",
+    "nick": null,
+    "display_name": "Nartsu",
+    "global_name": "Nartsu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/210732692411514882/daf3927e437267d6accae5c782d0fdfc.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/210732692411514882/daf3927e437267d6accae5c782d0fdfc.png?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Nartsu#2972",
+        "name": "Nartsu#2972",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018472044349",
+        "name": "Nartsu",
+        "url": null
+      },
+      "epic_games": {
+        "id": "2733db3f743b4456a4815e00ace3a558",
+        "name": "Nartsu",
+        "url": null
+      },
+      "github": {
+        "id": "35219554",
+        "name": "Nartsu",
+        "url": "https://github.com/Nartsu"
+      },
+      "playstation": {
+        "id": "381628618953874490",
+        "name": "Nartsu55000",
+        "url": null
+      },
+      "riot_games": {
+        "id": "uFc0K80hOapHHfWQg3uJ45t1tbNjimZV7eA2CQ3cY6yvrSKnR7pIMDAQRZzBlUn0tVL_ajHoreZapA",
+        "name": "Nartsu55#lag",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198258763447",
+        "name": "Nartsu",
+        "url": "https://steamcommunity.com/profiles/76561198258763447"
+      },
+      "twitch": {
+        "id": "127222304",
+        "name": "nartsu_",
+        "url": "https://www.twitch.tv/nartsu_"
+      },
+      "xbox": {
+        "id": "3063097570252215",
+        "name": "Nartsu4846",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Nartsu4846"
+      },
+      "youtube": {
+        "id": "UClL4BuStAPuSBgAAojcxZEg",
+        "name": "Nartsu_",
+        "url": "https://www.youtube.com/channel/UClL4BuStAPuSBgAAojcxZEg"
+      }
+    },
+    "legacy_username": "Nartsu#0001"
   }
 }
