@@ -123166,5 +123166,39 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1309477652750536726": {
+    "id": 1309477652750536726,
+    "name": "fuck_you_bitches",
+    "nick": null,
+    "display_name": "test234576788",
+    "global_name": "test234576788",
+    "pronouns": "345/557776",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199081735998",
+        "name": "Pj Primal Peashooter #Fixtf2",
+        "url": "https://steamcommunity.com/profiles/76561199081735998"
+      },
+      "twitch": {
+        "id": "1104006294",
+        "name": "pjtheprimalpeashootergame",
+        "url": "https://www.twitch.tv/pjtheprimalpeashootergame"
+      },
+      "youtube": {
+        "id": "UCGH67IiJIwhwGmhbwDFIYSw",
+        "name": "pj the Primal peashooter gaming Hq",
+        "url": "https://www.youtube.com/channel/UCGH67IiJIwhwGmhbwDFIYSw"
+      }
+    },
+    "legacy_username": null
   }
 }
