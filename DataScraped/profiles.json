@@ -123759,5 +123759,46 @@
     ],
     "connections": {},
     "legacy_username": "lpokoradi#9578"
+  },
+  "538734620485746688": {
+    "id": 538734620485746688,
+    "name": "annieran",
+    "nick": null,
+    "display_name": "annieran",
+    "global_name": "annieran",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "annieran#2814",
+        "name": "annieran#2814",
+        "url": null
+      },
+      "epic_games": {
+        "id": "8c190c4eac204d4e9db0e9577398e0cd",
+        "name": "annieran",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197989080538",
+        "name": "Annieran",
+        "url": "https://steamcommunity.com/profiles/76561197989080538"
+      },
+      "twitch": {
+        "id": "89512322",
+        "name": "annieran",
+        "url": "https://www.twitch.tv/annieran"
+      }
+    },
+    "legacy_username": "annieran#3128"
   }
 }
