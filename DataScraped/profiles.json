@@ -121898,5 +121898,78 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "801282298426818570": {
+    "id": 801282298426818570,
+    "name": "jeldan",
+    "nick": null,
+    "display_name": "Jeldan",
+    "global_name": "Jeldan",
+    "pronouns": "verdammde/aggsd",
+    "guild_pronouns": null,
+    "bio": "<:PES_Clown_alt:585724565968125982> Cockbilder im Profil",
+    "guild_bio": null,
+    "display_bio": "<:PES_Clown_alt:585724565968125982> Cockbilder im Profil",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium_tenure_24_month_v2"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Jeldan#21676",
+        "name": "Jeldan#21676",
+        "url": null
+      },
+      "epic_games": {
+        "id": "8c4a685d8d9c40418a5b942fcf772ba5",
+        "name": "Jeldan_van_Boven",
+        "url": null
+      },
+      "github": {
+        "id": "40852327",
+        "name": "Jeldan",
+        "url": "https://github.com/Jeldan"
+      },
+      "league_of_legends": {
+        "id": "SlkaiEhqvzH8u0-kVUUaPFsBG22ac4dUmwHuCxIFtZBMOT_BQXyUbp4a2nazDLWbt6HYUdfhAKDvFw",
+        "name": "Jeldan",
+        "url": null
+      },
+      "riot_games": {
+        "id": "SlkaiEhqvzH8u0-kVUUaPFsBG22ac4dUmwHuCxIFtZBMOT_BQXyUbp4a2nazDLWbt6HYUdfhAKDvFw",
+        "name": "Jeldan#EUW",
+        "url": null
+      },
+      "spotify": {
+        "id": "derherrepic",
+        "name": "Jeldan",
+        "url": "https://open.spotify.com/user/derherrepic"
+      },
+      "steam": {
+        "id": "76561198084591950",
+        "name": "Jeldan\ud834\udd77\u2067\u2067\ud83e\uddb6",
+        "url": "https://steamcommunity.com/profiles/76561198084591950"
+      },
+      "twitch": {
+        "id": "109577885",
+        "name": "jeldan_van_boven",
+        "url": "https://www.twitch.tv/jeldan_van_boven"
+      },
+      "twitter": {
+        "id": "1261634594920685574",
+        "name": "JeldanVanBoven",
+        "url": "https://twitter.com/JeldanVanBoven"
+      },
+      "xbox": {
+        "id": "MjlkODBmOGZmNzc1ZjM3YjczNTFlNzUzMzUzMTczZjhhMWUyMTRhNTU3NDRjYzkyYzE3MWUwYmE1ZjdjZTdhNw",
+        "name": "Jeldan3142",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Jeldan3142"
+      }
+    },
+    "legacy_username": "Jeldan#1337"
   }
 }
