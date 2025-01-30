@@ -121440,5 +121440,158 @@
       }
     },
     "legacy_username": "jakieduck#4175"
+  },
+  "1217978728165146646": {
+    "id": 1217978728165146646,
+    "name": "_itzash.",
+    "nick": null,
+    "display_name": "Ash",
+    "global_name": "Ash",
+    "pronouns": "Himothy",
+    "guild_pronouns": null,
+    "bio": "Love Gtag, Orion Drift, and Minecraft\n61 at 14\nFeel free to ping me\nD1 discord mod\nDm me the word Muffin for a surprise\n\nTop Gamers:\nFresha\nKingllama \nYeetar\nDart",
+    "guild_bio": null,
+    "display_bio": "Love Gtag, Orion Drift, and Minecraft\n61 at 14\nFeel free to ping me\nD1 discord mod\nDm me the word Muffin for a surprise\n\nTop Gamers:\nFresha\nKingllama \nYeetar\nDart",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCRl39K5UrpBCJrUMrfDiqAg",
+        "name": "Ash",
+        "url": "https://www.youtube.com/channel/UCRl39K5UrpBCJrUMrfDiqAg"
+      }
+    },
+    "legacy_username": null
+  },
+  "603320312154685440": {
+    "id": 603320312154685440,
+    "name": "scratchkarma14",
+    "nick": null,
+    "display_name": "Scratchkarma14 ",
+    "global_name": "Scratchkarma14 ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "fq1sg7preeidrupdznfi2hyph",
+        "name": "Lalo",
+        "url": "https://open.spotify.com/user/fq1sg7preeidrupdznfi2hyph"
+      },
+      "steam": {
+        "id": "76561198819816986",
+        "name": "Scratchkarma14",
+        "url": "https://steamcommunity.com/profiles/76561198819816986"
+      },
+      "xbox": {
+        "id": "3070704632699822",
+        "name": "Scratchkarma14",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Scratchkarma14"
+      }
+    },
+    "legacy_username": null
+  },
+  "599748305030742026": {
+    "id": 599748305030742026,
+    "name": "big_monk",
+    "nick": null,
+    "display_name": "arsenal",
+    "global_name": "arsenal",
+    "pronouns": "He/him/them/was/they/semi-truck/whale/it",
+    "guild_pronouns": null,
+    "bio": "me like food",
+    "guild_bio": null,
+    "display_bio": "me like food",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "573d4980b26247d9bf204e4ea41a59c1",
+        "name": "DeathHunter5772",
+        "url": null
+      },
+      "playstation": {
+        "id": "3745860103403352261",
+        "name": "DeathHunter5772",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199073995185",
+        "name": "connor",
+        "url": "https://steamcommunity.com/profiles/76561199073995185"
+      },
+      "xbox": {
+        "id": "3061905896188971",
+        "name": "DeathHunter5772",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DeathHunter5772"
+      }
+    },
+    "legacy_username": "Big_Monk#8556"
+  },
+  "1165249173570994209": {
+    "id": 1165249173570994209,
+    "name": "emme9494",
+    "nick": null,
+    "display_name": "emme9494",
+    "global_name": "emme9494",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1075833554661032089": {
+    "id": 1075833554661032089,
+    "name": "sharpclown.",
+    "nick": null,
+    "display_name": "sharpclown",
+    "global_name": "sharpclown",
+    "pronouns": "DMs closed",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1075833554661032089/15262fc3b51824f18cf256820f948a62.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1075833554661032089/15262fc3b51824f18cf256820f948a62.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "premium_tenure_3_month_v2"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "555341626",
+        "name": "Gustavpede",
+        "url": null
+      },
+      "twitch": {
+        "id": "1147085788",
+        "name": "mrducktheduck03",
+        "url": "https://www.twitch.tv/mrducktheduck03"
+      }
+    },
+    "legacy_username": null
   }
 }
