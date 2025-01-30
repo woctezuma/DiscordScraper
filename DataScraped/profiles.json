@@ -122243,5 +122243,32 @@
       }
     },
     "legacy_username": "Formentor#2496"
+  },
+  "822415837431595009": {
+    "id": 822415837431595009,
+    "name": "khx1225",
+    "nick": null,
+    "display_name": "KHX1225",
+    "global_name": "KHX1225",
+    "pronouns": "He",
+    "guild_pronouns": null,
+    "bio": "ahhhhh",
+    "guild_bio": null,
+    "display_bio": "ahhhhh",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199197334784",
+        "name": "KHX1225",
+        "url": "https://steamcommunity.com/profiles/76561199197334784"
+      }
+    },
+    "legacy_username": "KHX1225#2381"
   }
 }
