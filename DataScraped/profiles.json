@@ -122959,5 +122959,46 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "924395236438966322": {
+    "id": 924395236438966322,
+    "name": "swazy_07",
+    "nick": null,
+    "display_name": "Swazy",
+    "global_name": "Swazy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "A mazahir cavanligin harda qaldi Mazahirrr",
+    "guild_bio": null,
+    "display_bio": "A mazahir cavanligin harda qaldi Mazahirrr",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "2b721e7032f5431f87ed42de1385a174",
+        "name": "Swazy_01",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199236712439",
+        "name": "swazy31",
+        "url": "https://steamcommunity.com/profiles/76561199236712439"
+      },
+      "tiktok": {
+        "id": "af19841e-4525-5f9a-beed-c3e5b8f1fba0",
+        "name": "swazy.ios",
+        "url": "https://tiktok.com/@swazy.ios"
+      },
+      "twitch": {
+        "id": "758647610",
+        "name": "swazypm",
+        "url": "https://www.twitch.tv/swazypm"
+      }
+    },
+    "legacy_username": "Swazy#3371"
   }
 }
