@@ -123346,5 +123346,59 @@
       }
     },
     "legacy_username": null
+  },
+  "1312733852963438653": {
+    "id": 1312733852963438653,
+    "name": "gradlew",
+    "nick": null,
+    "display_name": "Max",
+    "global_name": "Max",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "maxpanicle.github.io",
+        "name": "maxpanicle.github.io",
+        "url": null
+      },
+      "github": {
+        "id": "49094486",
+        "name": "MaxPanicle",
+        "url": "https://github.com/MaxPanicle"
+      },
+      "spotify": {
+        "id": "316uxokc5z4ifjpxka45qictpsa4",
+        "name": "Max",
+        "url": "https://open.spotify.com/user/316uxokc5z4ifjpxka45qictpsa4"
+      }
+    },
+    "legacy_username": null
+  },
+  "1065917988580102164": {
+    "id": 1065917988580102164,
+    "name": "mina258",
+    "nick": null,
+    "display_name": "!mina258",
+    "global_name": "!mina258",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
