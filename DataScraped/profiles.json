@@ -122565,5 +122565,48 @@
       }
     },
     "legacy_username": "NotYou#2881"
+  },
+  "104693884474376192": {
+    "id": 104693884474376192,
+    "name": "fatfatpoofikcat",
+    "nick": null,
+    "display_name": "PoofiCat",
+    "global_name": "PoofiCat",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium_tenure_3_month_v2"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31phvoiydqtfmyobhh3numoyo57q",
+        "name": "FatFatPoofikCat",
+        "url": "https://open.spotify.com/user/31phvoiydqtfmyobhh3numoyo57q"
+      },
+      "steam": {
+        "id": "76561198042160937",
+        "name": "FatFatPoofikCat",
+        "url": "https://steamcommunity.com/profiles/76561198042160937"
+      },
+      "twitch": {
+        "id": "1046354762",
+        "name": "pooficat",
+        "url": "https://www.twitch.tv/pooficat"
+      },
+      "youtube": {
+        "id": "UCcrVAnjlccxakoi3c6rCQgg",
+        "name": "FatFatPoofikCat",
+        "url": "https://www.youtube.com/channel/UCcrVAnjlccxakoi3c6rCQgg"
+      }
+    },
+    "legacy_username": "Nicholas B#4938"
   }
 }
