@@ -122098,5 +122098,40 @@
       }
     },
     "legacy_username": "DwarfLord420#2563"
+  },
+  "381271226494091274": {
+    "id": 381271226494091274,
+    "name": "thefullesthorse",
+    "nick": null,
+    "display_name": "SoliaX3",
+    "global_name": "SoliaX3",
+    "pronouns": "Weezer/Weezy",
+    "guild_pronouns": null,
+    "bio": "https://www.youtube.com/watch?v=uV0Duy0VouY",
+    "guild_bio": null,
+    "display_bio": "https://www.youtube.com/watch?v=uV0Duy0VouY",
+    "banner": "https://cdn.discordapp.com/banners/381271226494091274/d43a1c518681ada74f145bc3c58615e4.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/381271226494091274/d43a1c518681ada74f145bc3c58615e4.png?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "8449804992983491105",
+        "name": "FullestHorse",
+        "url": null
+      },
+      "spotify": {
+        "id": "j26oj0nsovgtzobuasi6hx2qz",
+        "name": "FullestHorse",
+        "url": "https://open.spotify.com/user/j26oj0nsovgtzobuasi6hx2qz"
+      }
+    },
+    "legacy_username": "soliax#4328"
   }
 }
