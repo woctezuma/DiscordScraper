@@ -121636,5 +121636,47 @@
     ],
     "connections": {},
     "legacy_username": "Sliver#6325"
+  },
+  "467400086163554304": {
+    "id": 467400086163554304,
+    "name": "shorts_weather",
+    "nick": null,
+    "display_name": "stevej",
+    "global_name": "stevej",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "twitch": {
+        "id": "70200965",
+        "name": "shortsweather",
+        "url": "https://www.twitch.tv/shortsweather"
+      }
+    },
+    "legacy_username": null
+  },
+  "1268550001425121385": {
+    "id": 1268550001425121385,
+    "name": "renmun.",
+    "nick": null,
+    "display_name": "Starsnipe",
+    "global_name": "Starsnipe",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
