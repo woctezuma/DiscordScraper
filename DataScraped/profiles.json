@@ -122652,5 +122652,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "968652999574560808": {
+    "id": 968652999574560808,
+    "name": "lasergrunt",
+    "nick": null,
+    "display_name": "LaserGrunt",
+    "global_name": "LaserGrunt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Commercial engraving services and comprehensive laser training\nLaser Engraving (Fiber, UV, CO2, & Diod)\nWater Jet & Milling (Wood, Soft Metals, Etc..)\n3d Printing\nwww.LaserGrunt.com",
+    "guild_bio": null,
+    "display_bio": "Commercial engraving services and comprehensive laser training\nLaser Engraving (Fiber, UV, CO2, & Diod)\nWater Jet & Milling (Wood, Soft Metals, Etc..)\n3d Printing\nwww.LaserGrunt.com",
+    "banner": "https://cdn.discordapp.com/banners/968652999574560808/061dfd488727dc194b1579802a4ea09c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/968652999574560808/061dfd488727dc194b1579802a4ea09c.png?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium_tenure_3_month_v2"
+    ],
+    "connections": {},
+    "legacy_username": "LaserGrunt#6746"
+  },
+  "425239502781415427": {
+    "id": 425239502781415427,
+    "name": "vishor",
+    "nick": null,
+    "display_name": "Vishor",
+    "global_name": "Vishor",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**-** 20 aos <a:emoji_180:630089249688911876> \n**-** Piastri <:F_:670806196005109760>\n**-** Isa ",
+    "guild_bio": null,
+    "display_bio": "**-** 20 aos <a:emoji_180:630089249688911876> \n**-** Piastri <:F_:670806196005109760>\n**-** Isa ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "21zmjcck7yga5wu5twttycp4i",
+        "name": "Viktor",
+        "url": "https://open.spotify.com/user/21zmjcck7yga5wu5twttycp4i"
+      }
+    },
+    "legacy_username": "Vishor#0999"
   }
 }
