@@ -123611,5 +123611,133 @@
       }
     },
     "legacy_username": "Ghully#5975"
+  },
+  "1246841377908723775": {
+    "id": 1246841377908723775,
+    "name": "dapyxl11yt",
+    "nick": null,
+    "display_name": "DaPyxl11",
+    "global_name": "DaPyxl11",
+    "pronouns": "he/him/his",
+    "guild_pronouns": null,
+    "bio": "main PSN: pyxl505\nyoutuber, gamer, streamer and amateur in coding\nGreen: Online/Streaming\nYellow: AFK\nRed: Recording/Busy/Working\nGray: Offline (if gone for 1y then quit discord/dead)",
+    "guild_bio": null,
+    "display_bio": "main PSN: pyxl505\nyoutuber, gamer, streamer and amateur in coding\nGreen: Online/Streaming\nYellow: AFK\nRed: Recording/Busy/Working\nGray: Offline (if gone for 1y then quit discord/dead)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "b51cdceb75f64a62bb946d66212bfac1",
+        "name": "DaPyxl11",
+        "url": null
+      },
+      "github": {
+        "id": "93357849",
+        "name": "PyxlDev29",
+        "url": "https://github.com/PyxlDev29"
+      },
+      "playstation": {
+        "id": "1864861840735426121",
+        "name": "dapyxl11",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3090627138",
+        "name": "Googl_e3",
+        "url": null
+      },
+      "spotify": {
+        "id": "3165qgjyptp6qkr6rczlzboatj6m",
+        "name": "pyxls spotify!!!!",
+        "url": "https://open.spotify.com/user/3165qgjyptp6qkr6rczlzboatj6m"
+      },
+      "tiktok": {
+        "id": "c5073712-ab18-4e29-bb05-d0a95059bb77",
+        "name": "dapyxl11",
+        "url": "https://tiktok.com/@dapyxl11"
+      },
+      "twitch": {
+        "id": "1093270754",
+        "name": "dapyxl11",
+        "url": "https://www.twitch.tv/dapyxl11"
+      },
+      "xbox": {
+        "id": "3068371484694280",
+        "name": "DaPyxl2689",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DaPyxl2689"
+      },
+      "youtube": {
+        "id": "UC_5xlAa-0p85AdYhWHDwKyw",
+        "name": "DaPyxl11",
+        "url": "https://www.youtube.com/channel/UC_5xlAa-0p85AdYhWHDwKyw"
+      }
+    },
+    "legacy_username": null
+  },
+  "701380093167009852": {
+    "id": 701380093167009852,
+    "name": "zlango553",
+    "nick": null,
+    "display_name": "Zlango",
+    "global_name": "Zlango",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2792583954679360332",
+        "name": "Zlango553",
+        "url": null
+      },
+      "reddit": {
+        "id": "4uy4eui6",
+        "name": "JumpyRestaurant8717",
+        "url": "https://www.reddit.com/u/JumpyRestaurant8717"
+      },
+      "steam": {
+        "id": "76561198089856294",
+        "name": "Zlango",
+        "url": "https://steamcommunity.com/profiles/76561198089856294"
+      },
+      "youtube": {
+        "id": "UCf7OoaDH-l1jlIM0lbRtVTA",
+        "name": "Zlango555",
+        "url": "https://www.youtube.com/channel/UCf7OoaDH-l1jlIM0lbRtVTA"
+      }
+    },
+    "legacy_username": "Zlango553#1661"
+  },
+  "578023824709124096": {
+    "id": 578023824709124096,
+    "name": "devthenair",
+    "nick": null,
+    "display_name": "devthenair",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "devthenair#6203"
   }
 }
