@@ -121778,5 +121778,125 @@
     ],
     "connections": {},
     "legacy_username": "Bsimp#1744"
+  },
+  "863954197724266536": {
+    "id": 863954197724266536,
+    "name": "tv2098",
+    "nick": null,
+    "display_name": "Trav",
+    "global_name": "Trav",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "Clash Royale addict ",
+    "guild_bio": null,
+    "display_bio": "Clash Royale addict ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "5a29db3c-028a-529b-ac83-6a1a00bf21e8",
+        "name": "Trav2098",
+        "url": null
+      },
+      "epic_games": {
+        "id": "badfe2f4e55549f28ff65c818b0d6628",
+        "name": "Trav2098",
+        "url": null
+      },
+      "riot_games": {
+        "id": "082shnZDsyzpJmA3WHYln7RRHG-XEu8qpnQliUH0ykWXLyC3ubbWwWi2zVI8eJNm6FcVt8gPoiU8EA",
+        "name": "Trav#2098",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "3173588301",
+        "name": "IIlllllIIIllIllllI",
+        "url": null
+      },
+      "spotify": {
+        "id": "r9nvod6d89aq0xiwvc7h6wrdw",
+        "name": "Trav",
+        "url": "https://open.spotify.com/user/r9nvod6d89aq0xiwvc7h6wrdw"
+      },
+      "steam": {
+        "id": "76561199196859708",
+        "name": "Trav2098",
+        "url": "https://steamcommunity.com/profiles/76561199196859708"
+      },
+      "twitch": {
+        "id": "609229906",
+        "name": "trav300",
+        "url": "https://www.twitch.tv/trav300"
+      },
+      "twitter": {
+        "id": "1644547303154548737",
+        "name": "Trav2098",
+        "url": "https://twitter.com/Trav2098"
+      },
+      "youtube": {
+        "id": "UC_G6bi22tbNVJT2ujOQR20w",
+        "name": "Trav Guy",
+        "url": "https://www.youtube.com/channel/UC_G6bi22tbNVJT2ujOQR20w"
+      }
+    },
+    "legacy_username": "Trav#2098"
+  },
+  "852885813318647828": {
+    "id": 852885813318647828,
+    "name": "jota6323",
+    "nick": null,
+    "display_name": "jota'  ",
+    "global_name": "jota'  ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "4075225889414379812",
+        "name": "jotabo_",
+        "url": null
+      },
+      "spotify": {
+        "id": "31fl3cgzn6oyymmyxhdw3sep42sq",
+        "name": "jota7",
+        "url": "https://open.spotify.com/user/31fl3cgzn6oyymmyxhdw3sep42sq"
+      }
+    },
+    "legacy_username": "jota'  \ud83c\uddf5\ud83c\uddf9#6323"
+  },
+  "278708960985612288": {
+    "id": 278708960985612288,
+    "name": "sho_mi",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":Angry: :Angry: :Angry: :Angry:\n**` English /  `** \n`  ` ` JST (UTC+9) ` ` INTP-A `",
+    "guild_bio": null,
+    "display_bio": ":Angry: :Angry: :Angry: :Angry:\n**` English /  `** \n`  ` ` JST (UTC+9) ` ` INTP-A `",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
