@@ -122309,5 +122309,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1333695729935454295": {
+    "id": 1333695729935454295,
+    "name": "robbiegan",
+    "nick": null,
+    "display_name": "GAN",
+    "global_name": "GAN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "roblox",
+    "guild_bio": null,
+    "display_bio": "roblox",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "980072603819589643": {
+    "id": 980072603819589643,
+    "name": "gooddodge",
+    "nick": null,
+    "display_name": "GoodDodge",
+    "global_name": "GoodDodge",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I write some songs now.\nA lot of inspirations keep leaping at me.\n\nThere's a lot to write about in Lyric.",
+    "guild_bio": null,
+    "display_bio": "I write some songs now.\nA lot of inspirations keep leaping at me.\n\nThere's a lot to write about in Lyric.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "GoodDodge#8985"
   }
 }
