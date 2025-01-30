@@ -122901,5 +122901,43 @@
       }
     },
     "legacy_username": "Skames#1839"
+  },
+  "1030503491615064135": {
+    "id": 1030503491615064135,
+    "name": "twuj_stary12",
+    "nick": null,
+    "display_name": "taki_typo_CL",
+    "global_name": "taki_typo_CL",
+    "pronouns": "Getler cwel",
+    "guild_pronouns": null,
+    "bio": ":checkmark: Napisz do mnie Mandarynka a zobaczysz co si stanie",
+    "guild_bio": null,
+    "display_bio": ":checkmark: Napisz do mnie Mandarynka a zobaczysz co si stanie",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "d9c839ceca7f4c1b9c83b699d23f65ad",
+        "name": "Dam8a",
+        "url": null
+      },
+      "spotify": {
+        "id": "31cynkikirvdogqh4k5wibskfbmm",
+        "name": "SATSUMA STUTUTTU",
+        "url": "https://open.spotify.com/user/31cynkikirvdogqh4k5wibskfbmm"
+      },
+      "xbox": {
+        "id": "3071771930095303",
+        "name": "Sebalolo3899",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Sebalolo3899"
+      }
+    },
+    "legacy_username": "ferdek kiepski#7205"
   }
 }
