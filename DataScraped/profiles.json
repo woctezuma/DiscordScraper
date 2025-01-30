@@ -121593,5 +121593,48 @@
       }
     },
     "legacy_username": null
+  },
+  "152253612289032192": {
+    "id": 152253612289032192,
+    "name": "nixeen",
+    "nick": null,
+    "display_name": "Nixeen",
+    "global_name": "Nixeen",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "Amateur writer and artist.",
+    "guild_bio": null,
+    "display_bio": "Amateur writer and artist.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "987576516869242910": {
+    "id": 987576516869242910,
+    "name": "sliver._",
+    "nick": null,
+    "display_name": "Sliver",
+    "global_name": "Sliver",
+    "pronouns": "he/they",
+    "guild_pronouns": null,
+    "bio": "working on an actual website\nif you want a dedicated mc server lmk (mods, plugins, crossplay, etc)\nguy that does stuff for reasons",
+    "guild_bio": null,
+    "display_bio": "working on an actual website\nif you want a dedicated mc server lmk (mods, plugins, crossplay, etc)\nguy that does stuff for reasons",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Sliver#6325"
   }
 }
