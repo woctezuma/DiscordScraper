@@ -122703,5 +122703,113 @@
       }
     },
     "legacy_username": "Vishor#0999"
+  },
+  "1327740330409459743": {
+    "id": 1327740330409459743,
+    "name": "novaois",
+    "nick": null,
+    "display_name": "Nov",
+    "global_name": "Nov",
+    "pronouns": "I don't care",
+    "guild_pronouns": null,
+    "bio": "IMPOSSIBLE TERRARIA SERVER!\nPLAYING ALMOST EVERY DAY!\nhttps://discord.gg/qSWpX92J",
+    "guild_bio": null,
+    "display_bio": "IMPOSSIBLE TERRARIA SERVER!\nPLAYING ALMOST EVERY DAY!\nhttps://discord.gg/qSWpX92J",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "7075887923",
+        "name": "Novaoiis",
+        "url": null
+      },
+      "spotify": {
+        "id": "31klqxkpz6c7b2nr6tei27fjwi44",
+        "name": "Daveo",
+        "url": "https://open.spotify.com/user/31klqxkpz6c7b2nr6tei27fjwi44"
+      },
+      "steam": {
+        "id": "76561199532632277",
+        "name": "Novaoiis",
+        "url": "https://steamcommunity.com/profiles/76561199532632277"
+      },
+      "twitch": {
+        "id": "1235011773",
+        "name": "novaoiis",
+        "url": "https://www.twitch.tv/novaoiis"
+      },
+      "youtube": {
+        "id": "UC7qEPPUNFmhIWCUIKfEj5-g",
+        "name": "Novaoiis",
+        "url": "https://www.youtube.com/channel/UC7qEPPUNFmhIWCUIKfEj5-g"
+      }
+    },
+    "legacy_username": null
+  },
+  "284397678412955649": {
+    "id": 284397678412955649,
+    "name": "dashboi1",
+    "nick": null,
+    "display_name": "dash",
+    "global_name": "dash",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6198672696837434",
+        "name": "dashboi1",
+        "url": "https://www.instagram.com/dashboi1"
+      },
+      "spotify": {
+        "id": "oeruct1iytldrz8fvqs3pzaap",
+        "name": "dashboi1",
+        "url": "https://open.spotify.com/user/oeruct1iytldrz8fvqs3pzaap"
+      },
+      "twitter": {
+        "id": "1247893487409721346",
+        "name": "dashboi1",
+        "url": "https://twitter.com/dashboi1"
+      },
+      "xbox": {
+        "id": "3072920833416514",
+        "name": "dashboi1x",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=dashboi1x"
+      }
+    },
+    "legacy_username": "dashboi1#8486"
+  },
+  "827944255859064843": {
+    "id": 827944255859064843,
+    "name": "hryth",
+    "nick": null,
+    "display_name": "hryth",
+    "global_name": "hryth",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "hryth#3080"
   }
 }
