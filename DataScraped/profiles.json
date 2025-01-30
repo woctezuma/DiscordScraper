@@ -123488,5 +123488,62 @@
     ],
     "connections": {},
     "legacy_username": "TrichterIH#4752"
+  },
+  "298975993044140033": {
+    "id": 298975993044140033,
+    "name": "nali.blitz",
+    "nick": null,
+    "display_name": "Nali",
+    "global_name": "Nali",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/298975993044140033/ff3630a42f8faa42b344d6841fb36d60.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/298975993044140033/ff3630a42f8faa42b344d6841fb36d60.png?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "6136670d-35a3-54f6-aa14-6d47f5d2fbd4",
+        "name": "Nali-zero",
+        "url": null
+      },
+      "spotify": {
+        "id": "lordnali",
+        "name": "lordnali",
+        "url": "https://open.spotify.com/user/lordnali"
+      },
+      "twitch": {
+        "id": "212562277",
+        "name": "nali_fma",
+        "url": "https://www.twitch.tv/nali_fma"
+      }
+    },
+    "legacy_username": "Nali.Blitz#9315"
+  },
+  "507339177994485761": {
+    "id": 507339177994485761,
+    "name": "naviscript1105",
+    "nick": null,
+    "display_name": "naviscript",
+    "global_name": "naviscript",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
