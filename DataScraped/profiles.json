@@ -122537,5 +122537,33 @@
       }
     },
     "legacy_username": null
+  },
+  "446311592829648896": {
+    "id": 446311592829648896,
+    "name": "itz_deadshark",
+    "nick": null,
+    "display_name": "Dw2",
+    "global_name": "Dw2",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "nanananabooboo",
+    "guild_bio": null,
+    "display_bio": "nanananabooboo",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ki0ektyyqyn9y5trgqeszrwbp",
+        "name": "Itz_DeadShark",
+        "url": "https://open.spotify.com/user/ki0ektyyqyn9y5trgqeszrwbp"
+      }
+    },
+    "legacy_username": "NotYou#2881"
   }
 }
