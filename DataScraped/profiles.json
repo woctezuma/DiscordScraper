@@ -122811,5 +122811,63 @@
     ],
     "connections": {},
     "legacy_username": "hryth#3080"
+  },
+  "1333909218322812940": {
+    "id": 1333909218322812940,
+    "name": "fakerkataker",
+    "nick": null,
+    "display_name": "faker",
+    "global_name": "faker",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1325119522809577563": {
+    "id": 1325119522809577563,
+    "name": "marakuje26_",
+    "nick": null,
+    "display_name": "Marakuje26",
+    "global_name": "Marakuje26",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "872910853102526474": {
+    "id": 872910853102526474,
+    "name": "1xnds_",
+    "nick": null,
+    "display_name": "1xnds_",
+    "global_name": null,
+    "pronouns": "G: Z",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "zIarley#4075"
   }
 }
