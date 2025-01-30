@@ -122186,5 +122186,62 @@
     ],
     "connections": {},
     "legacy_username": "Taufiq Odhi#0326"
+  },
+  "228225296019488769": {
+    "id": 228225296019488769,
+    "name": "ris_ok",
+    "nick": null,
+    "display_name": "Risok",
+    "global_name": "Risok",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ris#2336",
+        "name": "ris#2336",
+        "url": null
+      }
+    },
+    "legacy_username": "RIS#3129"
+  },
+  "600516393317695504": {
+    "id": 600516393317695504,
+    "name": "scumplexity",
+    "nick": null,
+    "display_name": "Qeem",
+    "global_name": "Qeem",
+    "pronouns": "I HATE ADAM BADRUL",
+    "guild_pronouns": null,
+    "bio": "F",
+    "guild_bio": null,
+    "display_bio": "F",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198992089250",
+        "name": "SynchLy",
+        "url": "https://steamcommunity.com/profiles/76561198992089250"
+      },
+      "youtube": {
+        "id": "UCWAsYFFwJjl5wPRcOjGEamw",
+        "name": "Mr. tofu boi",
+        "url": "https://www.youtube.com/channel/UCWAsYFFwJjl5wPRcOjGEamw"
+      }
+    },
+    "legacy_username": "Formentor#2496"
   }
 }
