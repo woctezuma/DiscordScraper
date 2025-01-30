@@ -121740,5 +121740,23 @@
       }
     },
     "legacy_username": null
+  },
+  "823923490582560828": {
+    "id": 823923490582560828,
+    "name": "azkalufthansa",
+    "nick": null,
+    "display_name": "AKAZ",
+    "global_name": "AKAZ",
+    "pronouns": "hehe",
+    "guild_pronouns": null,
+    "bio": "*still formulating a way to live a relaxed and happy life",
+    "guild_bio": null,
+    "display_bio": "*still formulating a way to live a relaxed and happy life",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
