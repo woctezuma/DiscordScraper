@@ -123739,5 +123739,25 @@
     ],
     "connections": {},
     "legacy_username": "devthenair#6203"
+  },
+  "843144467757269003": {
+    "id": 843144467757269003,
+    "name": "lpokoradi",
+    "nick": null,
+    "display_name": "lpokoradi",
+    "global_name": "lpokoradi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "lpokoradi#9578"
   }
 }
