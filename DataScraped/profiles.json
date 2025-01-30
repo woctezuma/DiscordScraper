@@ -122608,5 +122608,31 @@
       }
     },
     "legacy_username": "Nicholas B#4938"
+  },
+  "451269049888800779": {
+    "id": 451269049888800779,
+    "name": "l.9187",
+    "nick": null,
+    "display_name": "L.",
+    "global_name": "L.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ul2n2rujhmo3sp7ff0r7wc54t",
+        "name": "L",
+        "url": "https://open.spotify.com/user/ul2n2rujhmo3sp7ff0r7wc54t"
+      }
+    },
+    "legacy_username": "L.#9187"
   }
 }
