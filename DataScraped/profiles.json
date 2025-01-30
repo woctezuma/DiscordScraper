@@ -122454,5 +122454,61 @@
       }
     },
     "legacy_username": "Timokot#6408"
+  },
+  "1080073700877008937": {
+    "id": 1080073700877008937,
+    "name": "genjay_",
+    "nick": null,
+    "display_name": "Nighthtraven",
+    "global_name": "Nighthtraven",
+    "pronouns": "Skill/issue",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1315285020969275422": {
+    "id": 1315285020969275422,
+    "name": "lumberingeejit.",
+    "nick": null,
+    "display_name": "LumberingEejit",
+    "global_name": "LumberingEejit",
+    "pronouns": "Eff/Ewe",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "988037857488797736": {
+    "id": 988037857488797736,
+    "name": "profestus",
+    "nick": null,
+    "display_name": "profestus",
+    "global_name": "profestus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "profestus#6332"
   }
 }
