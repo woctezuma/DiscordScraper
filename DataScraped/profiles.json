@@ -122391,5 +122391,68 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "567556760819204096": {
+    "id": 567556760819204096,
+    "name": "joshuaumali_",
+    "nick": null,
+    "display_name": "Umali, Joshua Vincent M.",
+    "global_name": "Umali, Joshua Vincent M.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "22dlflapixmg3bhdkegcip52q",
+        "name": "Joshua Vincent Umali",
+        "url": "https://open.spotify.com/user/22dlflapixmg3bhdkegcip52q"
+      }
+    },
+    "legacy_username": "jotwa#9002"
+  },
+  "524936981075984404": {
+    "id": 524936981075984404,
+    "name": "timokot",
+    "nick": null,
+    "display_name": "Timokot",
+    "global_name": "Timokot",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "-cO0VdqlB1_eTgeuqgG5Nki2tJnwDbEI8nxozd1rliwyjtibMy-cwY1jhVOEvFSCGgbzNnj_ksAm9A",
+        "name": "Timokot",
+        "url": null
+      },
+      "riot_games": {
+        "id": "-cO0VdqlB1_eTgeuqgG5Nki2tJnwDbEI8nxozd1rliwyjtibMy-cwY1jhVOEvFSCGgbzNnj_ksAm9A",
+        "name": "Timokot#EUW",
+        "url": null
+      },
+      "xbox": {
+        "id": "OTU0YTVkOGZjZWMyYmNmN2NhYWVjZWY3NWJjOThkZjZhZjIzZDY1ZjJkYjhmN2Y5ZGI4NjJiYmNjZTVjNDYwYQ",
+        "name": "Timokot5614",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Timokot5614"
+      }
+    },
+    "legacy_username": "Timokot#6408"
   }
 }
