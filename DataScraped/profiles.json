@@ -121678,5 +121678,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "568159273289252885": {
+    "id": 568159273289252885,
+    "name": "elieljoth",
+    "nick": null,
+    "display_name": "elieljoth",
+    "global_name": "elieljoth",
+    "pronouns": "te amo spotify\ud83d\udc9a",
+    "guild_pronouns": null,
+    "bio": ":cruzgif:  budokai tenkaichi player.\n:que:  me gusta los juegos de lucha.\n get way from her, you bitch.",
+    "guild_bio": null,
+    "display_bio": ":cruzgif:  budokai tenkaichi player.\n:que:  me gusta los juegos de lucha.\n get way from her, you bitch.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "32vb7umfyti0uiol7xe5n6m56",
+        "name": "elieljoth",
+        "url": "https://open.spotify.com/user/32vb7umfyti0uiol7xe5n6m56"
+      },
+      "steam": {
+        "id": "76561198119770321",
+        "name": "elieljoth",
+        "url": "https://steamcommunity.com/profiles/76561198119770321"
+      },
+      "youtube": {
+        "id": "UCWF6xB9o4t7Nr8sSmNW57Ow",
+        "name": "elieljoth",
+        "url": "https://www.youtube.com/channel/UCWF6xB9o4t7Nr8sSmNW57Ow"
+      }
+    },
+    "legacy_username": "Elielmazoku#8669"
   }
 }
