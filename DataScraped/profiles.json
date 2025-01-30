@@ -123285,5 +123285,66 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "734114113407549562": {
+    "id": 734114113407549562,
+    "name": "shirasurobo",
+    "nick": null,
+    "display_name": "NekkiShirasu",
+    "global_name": "NekkiShirasu",
+    "pronouns": "Mecha/Tokusatsu/JRPG",
+    "guild_pronouns": null,
+    "bio": "CAST IN THE NAME OF GOD\nYE NOT GUILTY\n\nhttps://soraryuufansub.blogspot.com/\nhttps://myanimelist.net/profile/ShirasuRobo\nhttps://anilist.co/user/ShirasuRobo/",
+    "guild_bio": null,
+    "display_bio": "CAST IN THE NAME OF GOD\nYE NOT GUILTY\n\nhttps://soraryuufansub.blogspot.com/\nhttps://myanimelist.net/profile/ShirasuRobo\nhttps://anilist.co/user/ShirasuRobo/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "047be222edaf49999e4c5ef1896dbd50",
+        "name": "TheShirasuRobo",
+        "url": null
+      },
+      "facebook": {
+        "id": "1604506300355062",
+        "name": "Silvanio Silas Ramos de Sousa",
+        "url": null
+      },
+      "instagram": {
+        "id": "24603714582610678",
+        "name": "silvaniosilas",
+        "url": "https://www.instagram.com/silvaniosilas"
+      },
+      "unknown_roblox": {
+        "id": "7183406326",
+        "name": "RoboGiganteDoLula",
+        "url": null
+      },
+      "spotify": {
+        "id": "31mhmjhc5ysf5zsmmwwpid4vz4w4",
+        "name": "ShirasuRobo",
+        "url": "https://open.spotify.com/user/31mhmjhc5ysf5zsmmwwpid4vz4w4"
+      },
+      "steam": {
+        "id": "76561199697404770",
+        "name": "TheShirasuRobo",
+        "url": "https://steamcommunity.com/profiles/76561199697404770"
+      },
+      "twitter": {
+        "id": "1752141055770738688",
+        "name": "SilvanioShirasu",
+        "url": "https://twitter.com/SilvanioShirasu"
+      },
+      "youtube": {
+        "id": "UCuT-MLACBeKaXjTF0ew4r9Q",
+        "name": "Silvanio Silas",
+        "url": "https://www.youtube.com/channel/UCuT-MLACBeKaXjTF0ew4r9Q"
+      }
+    },
+    "legacy_username": null
   }
 }
