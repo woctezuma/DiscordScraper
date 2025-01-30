@@ -123200,5 +123200,72 @@
       }
     },
     "legacy_username": null
+  },
+  "1201153910090502224": {
+    "id": 1201153910090502224,
+    "name": "calibanhun",
+    "nick": null,
+    "display_name": "CalibanHUN",
+    "global_name": "CalibanHUN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "battle_net": {
+        "id": "CalibanHUN#2546",
+        "name": "CalibanHUN#2546",
+        "url": null
+      },
+      "epic_games": {
+        "id": "f49b884a574f4e63abdeea328000f108",
+        "name": "CalibanHUN",
+        "url": null
+      },
+      "playstation": {
+        "id": "280759026015169891",
+        "name": "CalibanHUN",
+        "url": null
+      },
+      "spotify": {
+        "id": "aurel.kekezovics",
+        "name": "aurel.kekezovics",
+        "url": "https://open.spotify.com/user/aurel.kekezovics"
+      },
+      "steam": {
+        "id": "76561197970738132",
+        "name": "CalibanHUN",
+        "url": "https://steamcommunity.com/profiles/76561197970738132"
+      },
+      "xbox": {
+        "id": "3066560013501730",
+        "name": "HumanautHUN",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HumanautHUN"
+      }
+    },
+    "legacy_username": null
+  },
+  "1328239767900651602": {
+    "id": 1328239767900651602,
+    "name": "kuumo69",
+    "nick": null,
+    "display_name": "Ben",
+    "global_name": "Ben",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
