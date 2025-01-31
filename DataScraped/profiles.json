@@ -124169,5 +124169,31 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "974524821440446464": {
+    "id": 974524821440446464,
+    "name": "ash158474",
+    "nick": null,
+    "display_name": "ash158474",
+    "global_name": "ash158474",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "v9s4pv6x4madq2tbobe0p73dx",
+        "name": "Nicholas Tan :)",
+        "url": "https://open.spotify.com/user/v9s4pv6x4madq2tbobe0p73dx"
+      }
+    },
+    "legacy_username": "yo it me ash#0855"
   }
 }
