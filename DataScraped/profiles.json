@@ -125325,5 +125325,31 @@
       }
     },
     "legacy_username": "Krist\u00f3f#1868"
+  },
+  "1036652270596657264": {
+    "id": 1036652270596657264,
+    "name": "_manny31",
+    "nick": null,
+    "display_name": "Manny31",
+    "global_name": "Manny31",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198054660461",
+        "name": "eallard4",
+        "url": "https://steamcommunity.com/profiles/76561198054660461"
+      }
+    },
+    "legacy_username": "Manny31#1714"
   }
 }
