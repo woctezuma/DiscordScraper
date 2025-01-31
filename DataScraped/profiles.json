@@ -125421,5 +125421,91 @@
       }
     },
     "legacy_username": "\uff25\uff52\uff49\uff43\u3000\u30a8\u30ea\u30c3\u30af#9669"
+  },
+  "347024844124323840": {
+    "id": 347024844124323840,
+    "name": "yourkillers",
+    "nick": null,
+    "display_name": "yourkillers",
+    "global_name": "yourkillers",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "39543721",
+        "name": "yourkillers",
+        "url": "https://www.twitch.tv/yourkillers"
+      },
+      "youtube": {
+        "id": "UCatVAAsVBLDw1bGcaRlgNxw",
+        "name": "yourkillers",
+        "url": "https://www.youtube.com/channel/UCatVAAsVBLDw1bGcaRlgNxw"
+      }
+    },
+    "legacy_username": "yourkillers#6879"
+  },
+  "1187775312122085446": {
+    "id": 1187775312122085446,
+    "name": "frostchanger",
+    "nick": null,
+    "display_name": "shimo",
+    "global_name": "shimo",
+    "pronouns": "CLICK LINK IN BIO FOR FREE SKINS!",
+    "guild_pronouns": null,
+    "bio": "CEO of https://frostchanger.de/ \nPortfolio https://frostly.de/ \nTweaks https://frozentweaks.com/ \n\nhttps://youtube.com/c/frostlive  \nhttps://discord.gg/frostchanger ",
+    "guild_bio": null,
+    "display_bio": "CEO of https://frostchanger.de/ \nPortfolio https://frostly.de/ \nTweaks https://frozentweaks.com/ \n\nhttps://youtube.com/c/frostlive  \nhttps://discord.gg/frostchanger ",
+    "banner": "https://cdn.discordapp.com/banners/1187775312122085446/a_1b0bef74b6a22ea182a55584af6ad6b1.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1187775312122085446/a_1b0bef74b6a22ea182a55584af6ad6b1.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl5",
+      "hypesquad_house_2",
+      "premium_tenure_6_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "63714818",
+        "name": "FrostOnAcid",
+        "url": "https://github.com/FrostOnAcid"
+      },
+      "spotify": {
+        "id": "q4xtubima8e5cn44oei8dft4b",
+        "name": "Frost\u30c4",
+        "url": "https://open.spotify.com/user/q4xtubima8e5cn44oei8dft4b"
+      },
+      "steam": {
+        "id": "76561198283966604",
+        "name": "frost.",
+        "url": "https://steamcommunity.com/profiles/76561198283966604"
+      },
+      "tiktok": {
+        "id": "cf418300-e247-5ba4-9e90-01fb83cab7f1",
+        "name": "frost.999k",
+        "url": "https://tiktok.com/@frost.999k"
+      },
+      "twitch": {
+        "id": "244009205",
+        "name": "frostchanger",
+        "url": "https://www.twitch.tv/frostchanger"
+      },
+      "youtube": {
+        "id": "UCWnptKZFAcn99Qxpqz5pojw",
+        "name": "Frost LIVE",
+        "url": "https://www.youtube.com/channel/UCWnptKZFAcn99Qxpqz5pojw"
+      }
+    },
+    "legacy_username": null
   }
 }
