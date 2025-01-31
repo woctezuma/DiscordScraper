@@ -125777,5 +125777,42 @@
       }
     },
     "legacy_username": "Night Walker#2616"
+  },
+  "587656860333506570": {
+    "id": 587656860333506570,
+    "name": "_kruasun_",
+    "nick": null,
+    "display_name": "_KrUaSuN_",
+    "global_name": "_KrUaSuN_",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31nk2bcfkc7jb3oophrwunstwfnm",
+        "name": "Freddy",
+        "url": "https://open.spotify.com/user/31nk2bcfkc7jb3oophrwunstwfnm"
+      },
+      "steam": {
+        "id": "76561198402453094",
+        "name": "_KrUaSuN_",
+        "url": "https://steamcommunity.com/profiles/76561198402453094"
+      },
+      "xbox": {
+        "id": "3073194344727354",
+        "name": "KrUaSuN1513",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=KrUaSuN1513"
+      }
+    },
+    "legacy_username": "_KrUaSuN_#8626"
   }
 }
