@@ -125739,5 +125739,43 @@
       }
     },
     "legacy_username": "ejoyyy#0110"
+  },
+  "711685785770000476": {
+    "id": 711685785770000476,
+    "name": "nighttwalker",
+    "nick": null,
+    "display_name": "Night Walker",
+    "global_name": "Night Walker",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198240563070",
+        "name": "Night Walker",
+        "url": "https://steamcommunity.com/profiles/76561198240563070"
+      },
+      "twitch": {
+        "id": "244467011",
+        "name": "niighttwalker",
+        "url": "https://www.twitch.tv/niighttwalker"
+      },
+      "xbox": {
+        "id": "NjY0ZTQ1NGRkOWI4YzZhZjcxOTBlODFiYTNlZTQ3OTJmNDlmZGRiMjgxOTQ5OTU2ZDczNTc0MTMzYTBiYjI3Zg",
+        "name": "Night Walker175",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Night Walker175"
+      }
+    },
+    "legacy_username": "Night Walker#2616"
   }
 }
