@@ -124635,5 +124635,23 @@
       }
     },
     "legacy_username": "Willie#0112"
+  },
+  "913709362030202880": {
+    "id": 913709362030202880,
+    "name": "kartik1889",
+    "nick": null,
+    "display_name": "Kartik",
+    "global_name": "Kartik",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I am a gamer",
+    "guild_bio": null,
+    "display_bio": "I am a gamer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
