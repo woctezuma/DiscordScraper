@@ -124195,5 +124195,112 @@
       }
     },
     "legacy_username": "yo it me ash#0855"
+  },
+  "1320371498094952485": {
+    "id": 1320371498094952485,
+    "name": "turbo4x.",
+    "nick": null,
+    "display_name": "turbo",
+    "global_name": "turbo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "109227527112757248": {
+    "id": 109227527112757248,
+    "name": "maikerru",
+    "nick": null,
+    "display_name": "Maikeru",
+    "global_name": "Maikeru",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198059671893",
+        "name": "Maikeru",
+        "url": "https://steamcommunity.com/profiles/76561198059671893"
+      }
+    },
+    "legacy_username": "Maikeru#4391"
+  },
+  "795966300693463051": {
+    "id": 795966300693463051,
+    "name": "mister.hope",
+    "nick": null,
+    "display_name": "Mister-Hope",
+    "global_name": "Mister-Hope",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Personal blog: https://mister-hope.com",
+    "guild_bio": null,
+    "display_bio": "Personal blog: https://mister-hope.com",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "github": {
+        "id": "33315834",
+        "name": "Mister-Hope",
+        "url": "https://github.com/Mister-Hope"
+      },
+      "reddit": {
+        "id": "9azf4hpl",
+        "name": "Mister-Hope",
+        "url": "https://www.reddit.com/u/Mister-Hope"
+      },
+      "steam": {
+        "id": "76561198372908009",
+        "name": "Mr.Hope",
+        "url": "https://steamcommunity.com/profiles/76561198372908009"
+      }
+    },
+    "legacy_username": null
+  },
+  "368076522906451969": {
+    "id": 368076522906451969,
+    "name": ".flugelmann",
+    "nick": null,
+    "display_name": "Flugelmann",
+    "global_name": "Flugelmann",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3061288274069608",
+        "name": "SnakeBytes7847",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=SnakeBytes7847"
+      }
+    },
+    "legacy_username": "Flugelmann#4977"
   }
 }
