@@ -125209,5 +125209,121 @@
     ],
     "connections": {},
     "legacy_username": "raider#1809"
+  },
+  "944602632419414026": {
+    "id": 944602632419414026,
+    "name": "asanporo",
+    "nick": null,
+    "display_name": "Asanporo",
+    "global_name": "Asanporo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199172620589",
+        "name": "Asanporo",
+        "url": "https://steamcommunity.com/profiles/76561199172620589"
+      }
+    },
+    "legacy_username": "Asanporo#4648"
+  },
+  "365646526204084224": {
+    "id": 365646526204084224,
+    "name": "mattrot",
+    "nick": null,
+    "display_name": "MatTrot",
+    "global_name": "MatTrot",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "A diferena entre o louco e o visionrio  o futuro.",
+    "guild_bio": null,
+    "display_bio": "A diferena entre o louco e o visionrio  o futuro.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "263580008",
+        "name": "mattrot",
+        "url": "https://www.twitch.tv/mattrot"
+      },
+      "xbox": {
+        "id": "MTRmNDlmMzI4MWMyNjNmMmNiNmQ2MWE3YWY4ZDFmMDE3MWFhNWJmZWFhNzE2MDUwMmEwMWM0YzA0M2M3YjU2YQ",
+        "name": "MatTrot",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MatTrot"
+      }
+    },
+    "legacy_username": "MatTrot#9975"
+  },
+  "1210179688547491870": {
+    "id": 1210179688547491870,
+    "name": "mhmd0409_89551",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "394925405661822976": {
+    "id": 394925405661822976,
+    "name": "kristof1868",
+    "nick": null,
+    "display_name": "Kristf",
+    "global_name": "Kristf",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "legoharcos11#2413",
+        "name": "legoharcos11#2413",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "eune_56238319",
+        "name": "Legoharcos0911",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198194528733",
+        "name": "kristof",
+        "url": "https://steamcommunity.com/profiles/76561198194528733"
+      }
+    },
+    "legacy_username": "Krist\u00f3f#1868"
   }
 }
