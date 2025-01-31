@@ -125107,5 +125107,107 @@
       }
     },
     "legacy_username": "tdhl4#5426"
+  },
+  "546048288965656576": {
+    "id": 546048288965656576,
+    "name": "pingu9247",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "cos pko",
+    "guild_bio": null,
+    "display_bio": "cos pko",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "hScQgq1x-knpkSYGsTWdg7BZiq1fHPtjikGjocpnhEjvy6_S0XZkmfZfnfEunEIEtQRmwVkS6FaCwQ",
+        "name": "tabwuga",
+        "url": null
+      },
+      "riot_games": {
+        "id": "hScQgq1x-knpkSYGsTWdg7BZiq1fHPtjikGjocpnhEjvy6_S0XZkmfZfnfEunEIEtQRmwVkS6FaCwQ",
+        "name": "PINGUUUUUUUUU#2511",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198959119363",
+        "name": "PINGU",
+        "url": "https://steamcommunity.com/profiles/76561198959119363"
+      },
+      "youtube": {
+        "id": "UCLMRVd5XAiNrxYAlyENpe0Q",
+        "name": "Pingu",
+        "url": "https://www.youtube.com/channel/UCLMRVd5XAiNrxYAlyENpe0Q"
+      }
+    },
+    "legacy_username": "<?PINGU?>#9247"
+  },
+  "744820915077906492": {
+    "id": 744820915077906492,
+    "name": "cathy3727",
+    "nick": null,
+    "display_name": "Little Cherry ",
+    "global_name": "Little Cherry ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Cathy\ud83d\udda4\ud83d\udc80#3727"
+  },
+  "1334498147770171495": {
+    "id": 1334498147770171495,
+    "name": "vuobio",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "765816143155822603": {
+    "id": 765816143155822603,
+    "name": "raider1447",
+    "nick": null,
+    "display_name": "raider",
+    "global_name": "raider",
+    "pronouns": "hopelessly devoted to you",
+    "guild_pronouns": null,
+    "bio": "brand ng kotse ko misyubibi",
+    "guild_bio": null,
+    "display_bio": "brand ng kotse ko misyubibi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "raider#1809"
   }
 }
