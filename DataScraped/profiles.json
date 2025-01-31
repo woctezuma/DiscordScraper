@@ -124982,5 +124982,69 @@
       }
     },
     "legacy_username": "\u039bLIR\u039eZ\u039b#5121"
+  },
+  "1303421278111273002": {
+    "id": 1303421278111273002,
+    "name": "aardishh",
+    "nick": null,
+    "display_name": "Ardishh.",
+    "global_name": "Ardishh.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Dino e bg.\n-?=`+P`?",
+    "guild_bio": null,
+    "display_bio": "Dino e bg.\n-?=`+P`?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "814079071415173132": {
+    "id": 814079071415173132,
+    "name": "zsxb2468",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "62994932",
+        "name": "ZSXB2468",
+        "url": "https://github.com/ZSXB2468"
+      },
+      "steam": {
+        "id": "76561199175303095",
+        "name": "\u8d44\u6df1\u5c0f\u767d\u7a0b\u5e8f\u733f",
+        "url": "https://steamcommunity.com/profiles/76561199175303095"
+      },
+      "twitch": {
+        "id": "840529559",
+        "name": "zsxb2468",
+        "url": "https://www.twitch.tv/zsxb2468"
+      },
+      "xbox": {
+        "id": "3078070799488177",
+        "name": "ZSXB2468",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ZSXB2468"
+      },
+      "youtube": {
+        "id": "UCVf_-p9wT7NHeEMSpIGt1zg",
+        "name": "\u8d44\u6df1\u5c0f\u767d\u7a0b\u5e8f\u733f",
+        "url": "https://www.youtube.com/channel/UCVf_-p9wT7NHeEMSpIGt1zg"
+      }
+    },
+    "legacy_username": "ZSXB2468#2953"
   }
 }
