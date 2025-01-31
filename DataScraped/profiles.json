@@ -124087,5 +124087,51 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "365769031766114305": {
+    "id": 365769031766114305,
+    "name": "abnormalvampire",
+    "nick": null,
+    "display_name": "Abnormal Vampire",
+    "global_name": "Abnormal Vampire",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "abnormalvampire",
+        "name": "jilaomi",
+        "url": "https://open.spotify.com/user/abnormalvampire"
+      }
+    },
+    "legacy_username": null
+  },
+  "900568166122536980": {
+    "id": 900568166122536980,
+    "name": "_minhluong",
+    "nick": null,
+    "display_name": "Minh Lng",
+    "global_name": "Minh Lng",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Minh L\u01b0\u01a1ng#1850"
   }
 }
