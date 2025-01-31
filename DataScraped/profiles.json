@@ -124400,5 +124400,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "786163564205047839": {
+    "id": 786163564205047839,
+    "name": "05.07am",
+    "nick": null,
+    "display_name": "05:07 am",
+    "global_name": "05:07 am",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://discord.com/invite/uDRaNE7M2b",
+    "guild_bio": null,
+    "display_bio": "https://discord.com/invite/uDRaNE7M2b",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6883734368312104",
+        "name": "adityaa_df",
+        "url": "https://www.instagram.com/adityaa_df"
+      },
+      "spotify": {
+        "id": "314wbvwbhkztldncsuql6tu7tg7y",
+        "name": "L",
+        "url": "https://open.spotify.com/user/314wbvwbhkztldncsuql6tu7tg7y"
+      },
+      "steam": {
+        "id": "76561199466593100",
+        "name": "05:07 am",
+        "url": "https://steamcommunity.com/profiles/76561199466593100"
+      }
+    },
+    "legacy_username": "05.07am#0886"
   }
 }
