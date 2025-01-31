@@ -124755,5 +124755,147 @@
       }
     },
     "legacy_username": null
+  },
+  "1334899554381987913": {
+    "id": 1334899554381987913,
+    "name": "hello_75061",
+    "nick": null,
+    "display_name": "hello",
+    "global_name": "hello",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "135908858198622209": {
+    "id": 135908858198622209,
+    "name": "lurksy",
+    "nick": null,
+    "display_name": "Danny",
+    "global_name": "Danny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": ":widepeepoHappy1::widepeepoHappy2::widepeepoHappy3::widepeepoHappy4: - Hi",
+    "guild_bio": null,
+    "display_bio": ":widepeepoHappy1::widepeepoHappy2::widepeepoHappy3::widepeepoHappy4: - Hi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "early_supporter",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "287429452588407c9aa2caf3917b1224",
+        "name": "\u216eanny",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "cBC47CQ7la-IO-lGfZtiCQnn8YXdvujZuzW_WEY7DszVrfs3jyYy62ZsfzRH89qka0FzwUVQh6__HA",
+        "name": "Lurksi",
+        "url": null
+      },
+      "playstation": {
+        "id": "4607310577324158820",
+        "name": "LurkerShark",
+        "url": null
+      },
+      "riot_games": {
+        "id": "cBC47CQ7la-IO-lGfZtiCQnn8YXdvujZuzW_WEY7DszVrfs3jyYy62ZsfzRH89qka0FzwUVQh6__HA",
+        "name": "Danny#Dan",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198044383636",
+        "name": "\udb40\udc21\udb40\udc21",
+        "url": "https://steamcommunity.com/profiles/76561198044383636"
+      },
+      "xbox": {
+        "id": "3077287013370089",
+        "name": "Lurker Shark",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Lurker Shark"
+      }
+    },
+    "legacy_username": "Danny#5811"
+  },
+  "221968215545217024": {
+    "id": 221968215545217024,
+    "name": "roko_",
+    "nick": null,
+    "display_name": "Roko",
+    "global_name": "Roko",
+    "pronouns": "Silly / Frog",
+    "guild_pronouns": null,
+    "bio": "- Ezreal fanboy\n- Tea connoisseur\n- Visual Kei enjoyer\n- Secretly a frog\n- Self proclaimed greatest goblin on the planet\n\nJoin for a free hat\nhttps://discord.gg/22awgMrS34",
+    "guild_bio": null,
+    "display_bio": "- Ezreal fanboy\n- Tea connoisseur\n- Visual Kei enjoyer\n- Secretly a frog\n- Self proclaimed greatest goblin on the planet\n\nJoin for a free hat\nhttps://discord.gg/22awgMrS34",
+    "banner": "https://cdn.discordapp.com/banners/221968215545217024/aab60a7a8d20cc22086e2fc5b7f99d3b.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/221968215545217024/aab60a7a8d20cc22086e2fc5b7f99d3b.png?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_36_month_v2"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "8400951941905767278",
+        "name": "Rokoboy1",
+        "url": null
+      },
+      "spotify": {
+        "id": "9c2cyk6dtud458ifjdfm580xf",
+        "name": "Roko",
+        "url": "https://open.spotify.com/user/9c2cyk6dtud458ifjdfm580xf"
+      }
+    },
+    "legacy_username": "Roko#5342"
+  },
+  "369118634666229770": {
+    "id": 369118634666229770,
+    "name": "quocviettran45445",
+    "nick": null,
+    "display_name": "QuocVietTran45445",
+    "global_name": "QuocVietTran45445",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Ryan25592#1202",
+        "name": "Ryan25592#1202",
+        "url": null
+      },
+      "facebook": {
+        "id": "1898411770180492",
+        "name": "Tr\u1ea7n Vi\u1ec7t",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198056848032",
+        "name": "Ryan",
+        "url": "https://steamcommunity.com/profiles/76561198056848032"
+      }
+    },
+    "legacy_username": "Ryan25592#7129"
   }
 }
