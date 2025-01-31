@@ -124924,5 +124924,63 @@
       }
     },
     "legacy_username": "FreePix#2800"
+  },
+  "638765931950243850": {
+    "id": 638765931950243850,
+    "name": ".alireza_",
+    "nick": null,
+    "display_name": "Alireza",
+    "global_name": "Alireza",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**in the moment, it could all... POOW!** :jinxshoot:",
+    "guild_bio": null,
+    "display_bio": "**in the moment, it could all... POOW!** :jinxshoot:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a155c4bad1384a7fb5fcac4a9bbab66a",
+        "name": "\u039bLIR\u039eZ\u039b",
+        "url": null
+      },
+      "github": {
+        "id": "57150633",
+        "name": "its-alireza",
+        "url": "https://github.com/its-alireza"
+      },
+      "league_of_legends": {
+        "id": "6MHx6Od0f0xQh3Q3fzCmXTSgK0xhPhpF8E2_sULYPnME69BfWDoynWgpvbqCWkzIVJVghAlUEME3RA",
+        "name": "ItsAlireza#6969",
+        "url": null
+      },
+      "riot_games": {
+        "id": "6MHx6Od0f0xQh3Q3fzCmXTSgK0xhPhpF8E2_sULYPnME69BfWDoynWgpvbqCWkzIVJVghAlUEME3RA",
+        "name": "ItsAlireza#6969",
+        "url": null
+      },
+      "spotify": {
+        "id": "jeylm0h1tu2amxniwxqslzpwf",
+        "name": "ItsAlireza",
+        "url": "https://open.spotify.com/user/jeylm0h1tu2amxniwxqslzpwf"
+      },
+      "steam": {
+        "id": "76561199072825207",
+        "name": "Alireza",
+        "url": "https://steamcommunity.com/profiles/76561199072825207"
+      },
+      "xbox": {
+        "id": "3067096159922667",
+        "name": "Alireza5128",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Alireza5128"
+      }
+    },
+    "legacy_username": "\u039bLIR\u039eZ\u039b#5121"
   }
 }
