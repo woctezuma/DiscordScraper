@@ -124302,5 +124302,85 @@
       }
     },
     "legacy_username": "Flugelmann#4977"
+  },
+  "343130824335687691": {
+    "id": 343130824335687691,
+    "name": "galsaxx",
+    "nick": null,
+    "display_name": "GalsaxX_FR",
+    "global_name": "GalsaxX_FR",
+    "pronouns": "Turbomoteur \u00e0 r\u00e9action",
+    "guild_pronouns": null,
+    "bio": "\n     __*Pokemon fan Forever *__  \n\n     Isabelle smash player \n",
+    "guild_bio": null,
+    "display_bio": "\n     __*Pokemon fan Forever *__  \n\n     Isabelle smash player \n",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198302800134",
+        "name": "GalsaxX_FR",
+        "url": "https://steamcommunity.com/profiles/76561198302800134"
+      },
+      "twitch": {
+        "id": "180248010",
+        "name": "galsaxx",
+        "url": "https://www.twitch.tv/galsaxx"
+      }
+    },
+    "legacy_username": "GalsaxX#4351"
+  },
+  "539768045204144128": {
+    "id": 539768045204144128,
+    "name": "htegg",
+    "nick": null,
+    "display_name": "HT Egg",
+    "global_name": "HT Egg",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "312gh2bdboorcbc25xobcrz3x3fi",
+        "name": "HT Egg",
+        "url": "https://open.spotify.com/user/312gh2bdboorcbc25xobcrz3x3fi"
+      },
+      "steam": {
+        "id": "76561198928713954",
+        "name": "HT\u541b",
+        "url": "https://steamcommunity.com/profiles/76561198928713954"
+      },
+      "twitch": {
+        "id": "625033811",
+        "name": "ht_egg",
+        "url": "https://www.twitch.tv/ht_egg"
+      },
+      "xbox": {
+        "id": "Y2IxZjk2OGZjNmU2MjY0NzM1YWY4NjZjNzVlZDY2MjFkZDNhNzUyMWZmMjdjYWRiOTI0ZmEyMDc4Zjk1MWEwMQ",
+        "name": "HT Egg",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HT Egg"
+      },
+      "youtube": {
+        "id": "UC8J0KnZqqpytEWfkM9aabGQ",
+        "name": "HT Egg",
+        "url": "https://www.youtube.com/channel/UC8J0KnZqqpytEWfkM9aabGQ"
+      }
+    },
+    "legacy_username": "HT Egg#1157"
   }
 }
