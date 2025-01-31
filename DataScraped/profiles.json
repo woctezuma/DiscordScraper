@@ -124561,5 +124561,79 @@
     ],
     "connections": {},
     "legacy_username": "tacosalad000#4491"
+  },
+  "865895694047641610": {
+    "id": 865895694047641610,
+    "name": "diman0019",
+    "nick": null,
+    "display_name": "cahham",
+    "global_name": "cahham",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I love emilia\nMany games cc\nAnime Lootify owner \n\nHi/  \n<a:AiriKiraraNuzzle:815741670041714709> <a:AiriKiraraCheeKiss:815490256144302090>",
+    "guild_bio": null,
+    "display_bio": "I love emilia\nMany games cc\nAnime Lootify owner \n\nHi/  \n<a:AiriKiraraNuzzle:815741670041714709> <a:AiriKiraraCheeKiss:815490256144302090>",
+    "banner": "https://cdn.discordapp.com/banners/865895694047641610/621345d8d55673d710e0227fb4512e10.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/865895694047641610/621345d8d55673d710e0227fb4512e10.png?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "legacy_username",
+      "premium_tenure_24_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "664757095312838",
+        "name": "Cah Ham",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "2506738326",
+        "name": "diman0019",
+        "url": null
+      },
+      "youtube": {
+        "id": "UChWzrQNKjlk0E2Q2wSwEfjQ",
+        "name": "\u8def\u4eba",
+        "url": "https://www.youtube.com/channel/UChWzrQNKjlk0E2Q2wSwEfjQ"
+      }
+    },
+    "legacy_username": "plsunique#9038"
+  },
+  "236483484229697536": {
+    "id": 236483484229697536,
+    "name": "willie30f",
+    "nick": null,
+    "display_name": "Willie",
+    "global_name": "Willie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_24_month_v2"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "willie30f",
+        "name": "willie30f",
+        "url": "https://open.spotify.com/user/willie30f"
+      },
+      "steam": {
+        "id": "76561198188350565",
+        "name": "Willie",
+        "url": "https://steamcommunity.com/profiles/76561198188350565"
+      }
+    },
+    "legacy_username": "Willie#0112"
   }
 }
