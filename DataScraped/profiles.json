@@ -125852,5 +125852,36 @@
     ],
     "connections": {},
     "legacy_username": "beatriz#6478"
+  },
+  "435559094779379712": {
+    "id": 435559094779379712,
+    "name": "goliver19",
+    "nick": null,
+    "display_name": "goliver19",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "157162739",
+        "name": "gerardooliver1993",
+        "url": "https://www.twitch.tv/gerardooliver1993"
+      },
+      "xbox": {
+        "id": "3066220923061257",
+        "name": "sangreazulgera",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=sangreazulgera"
+      }
+    },
+    "legacy_username": "19#1501"
   }
 }
