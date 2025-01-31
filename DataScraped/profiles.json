@@ -123912,5 +123912,55 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "853158853009211442": {
+    "id": 853158853009211442,
+    "name": "lifeofdepression",
+    "nick": null,
+    "display_name": "espresso",
+    "global_name": "espresso",
+    "pronouns": "wee/woo",
+    "guild_pronouns": null,
+    "bio": "piss off and tidoh\n\n#19  \n\nhttps://matias.ma/nsfw/",
+    "guild_bio": null,
+    "display_bio": "piss off and tidoh\n\n#19  \n\nhttps://matias.ma/nsfw/",
+    "banner": "https://cdn.discordapp.com/banners/853158853009211442/a_89ca149d7d65d3765fe78396b9b8b33a.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/853158853009211442/a_89ca149d7d65d3765fe78396b9b8b33a.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium_tenure_1_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "b85c5b8ea1734907ac0de7af27ad4c7e",
+        "name": "lifeofdepresso",
+        "url": null
+      },
+      "reddit": {
+        "id": "i4tp04mv",
+        "name": "OCL_Depress",
+        "url": "https://www.reddit.com/u/OCL_Depress"
+      },
+      "unknown_roblox": {
+        "id": "3281405715",
+        "name": "NicTan13",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ikgsrhz4ilx2wetqrrtbfhaee4",
+        "name": "rubbish eater",
+        "url": "https://open.spotify.com/user/31ikgsrhz4ilx2wetqrrtbfhaee4"
+      },
+      "steam": {
+        "id": "76561199486799431",
+        "name": "espressobean",
+        "url": "https://steamcommunity.com/profiles/76561199486799431"
+      }
+    },
+    "legacy_username": "lifeofdepression#3387"
   }
 }
