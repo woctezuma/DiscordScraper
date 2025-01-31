@@ -125832,5 +125832,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "354327508230864906": {
+    "id": 354327508230864906,
+    "name": "imtriz",
+    "nick": null,
+    "display_name": "beatriz",
+    "global_name": "beatriz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "beatriz#6478"
   }
 }
