@@ -124483,5 +124483,25 @@
       }
     },
     "legacy_username": null
+  },
+  "436830801984880640": {
+    "id": 436830801984880640,
+    "name": "mrbigwall",
+    "nick": null,
+    "display_name": "mrbigwall",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Frtzr (new account),",
+    "guild_bio": null,
+    "display_bio": "Frtzr (new account),",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "mrbigwall#9757"
   }
 }
