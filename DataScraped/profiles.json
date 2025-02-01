@@ -127404,5 +127404,31 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "264807034510245890": {
+    "id": 264807034510245890,
+    "name": "dmitry_ustinov",
+    "nick": null,
+    "display_name": "dmitry",
+    "global_name": "dmitry",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "45610910",
+        "name": "jan1tor",
+        "url": "https://www.twitch.tv/jan1tor"
+      }
+    },
+    "legacy_username": "dmitry#7304"
   }
 }
