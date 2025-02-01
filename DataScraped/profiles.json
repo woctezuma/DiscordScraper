@@ -126025,5 +126025,89 @@
       }
     },
     "legacy_username": null
+  },
+  "987930129353277471": {
+    "id": 987930129353277471,
+    "name": "linkosaurus_rex",
+    "nick": null,
+    "display_name": "Linkosaurus_Rex",
+    "global_name": "Linkosaurus_Rex",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Linkosaurus_Rex#8174"
+  },
+  "285499234722119680": {
+    "id": 285499234722119680,
+    "name": "wickedsidhu",
+    "nick": null,
+    "display_name": "Wicked",
+    "global_name": "Wicked",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "WickedSidhu#4320"
+  },
+  "837992359765606461": {
+    "id": 837992359765606461,
+    "name": "ali272",
+    "nick": null,
+    "display_name": "ALI-A",
+    "global_name": "ALI-A",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Ali272#2659"
+  },
+  "770452928058097664": {
+    "id": 770452928058097664,
+    "name": "shu022shadow",
+    "nick": null,
+    "display_name": "ShadowedNest",
+    "global_name": "ShadowedNest",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "yes",
+    "guild_bio": null,
+    "display_bio": "yes",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "shu022 (Shadow)#0304"
   }
 }
