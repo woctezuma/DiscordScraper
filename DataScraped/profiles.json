@@ -127829,5 +127829,83 @@
       }
     },
     "legacy_username": "Kyockcho Enjoyer#0004"
+  },
+  "670005782678339596": {
+    "id": 670005782678339596,
+    "name": "xwtomaswx",
+    "nick": null,
+    "display_name": "Blitzy",
+    "global_name": "Blitzy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "xWTomasWx#1307",
+        "name": "xWTomasWx#1307",
+        "url": null
+      },
+      "epic_games": {
+        "id": "576962c25d5d452fad08576b4f984687",
+        "name": "xWTomasWx",
+        "url": null
+      },
+      "github": {
+        "id": "117607372",
+        "name": "xWTomasWx",
+        "url": "https://github.com/xWTomasWx"
+      },
+      "instagram": {
+        "id": "6516220675063743",
+        "name": "_lpb.blitzy_",
+        "url": "https://www.instagram.com/_lpb.blitzy_"
+      },
+      "league_of_legends": {
+        "id": "yDX1zgDAMIyLTcgHgrgoYgoWyNGoRY_b5M-tUdmc3-QXkT2793ecYrYZ8AJMAWr-j0ASRg2fLxchpg",
+        "name": "LPB Blitzy",
+        "url": null
+      },
+      "playstation": {
+        "id": "4392381631147310650",
+        "name": "LPB_Blitzy",
+        "url": null
+      },
+      "riot_games": {
+        "id": "yDX1zgDAMIyLTcgHgrgoYgoWyNGoRY_b5M-tUdmc3-QXkT2793ecYrYZ8AJMAWr-j0ASRg2fLxchpg",
+        "name": "LPB Blitzy#LAS",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "523721443",
+        "name": "xWtomasWx",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199110508082",
+        "name": "xWTomasWx",
+        "url": "https://steamcommunity.com/profiles/76561199110508082"
+      },
+      "twitch": {
+        "id": "212353660",
+        "name": "xwtomaswx",
+        "url": "https://www.twitch.tv/xwtomaswx"
+      },
+      "xbox": {
+        "id": "YTY5MWM4NTUxNzY4ZTIzYzI5MzEzMGQ5ODE1Yjc0MGY1NDQyNTNjN2UyZGE3YjIzMDEyMGEyNmE0ZDhlZjY2Yg",
+        "name": "xWtomasWx",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=xWtomasWx"
+      }
+    },
+    "legacy_username": "xWTomasWx#2048"
   }
 }
