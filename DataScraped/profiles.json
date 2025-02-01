@@ -126596,5 +126596,23 @@
       }
     },
     "legacy_username": null
+  },
+  "777917878317088768": {
+    "id": 777917878317088768,
+    "name": "slc_the_10th",
+    "nick": null,
+    "display_name": "SLCthe10th",
+    "global_name": "SLCthe10th",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
