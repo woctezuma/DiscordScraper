@@ -127003,5 +127003,46 @@
       }
     },
     "legacy_username": "Finger puppets#7159"
+  },
+  "594426858918117379": {
+    "id": 594426858918117379,
+    "name": "anishgupta675",
+    "nick": null,
+    "display_name": "ACOG",
+    "global_name": "ACOG",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "76613066",
+        "name": "anishgupta675",
+        "url": "https://github.com/anishgupta675"
+      },
+      "reddit": {
+        "id": "cnlkfqcv",
+        "name": "mrturtle4769",
+        "url": "https://www.reddit.com/u/mrturtle4769"
+      },
+      "steam": {
+        "id": "76561198320851600",
+        "name": "ACOG",
+        "url": "https://steamcommunity.com/profiles/76561198320851600"
+      },
+      "twitter": {
+        "id": "4910875766",
+        "name": "AnishGupta675",
+        "url": "https://twitter.com/AnishGupta675"
+      }
+    },
+    "legacy_username": "A.C.O.G#9730"
   }
 }
