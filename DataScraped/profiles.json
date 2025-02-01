@@ -127592,5 +127592,26 @@
     ],
     "connections": {},
     "legacy_username": "wb#3295"
+  },
+  "162316056252121088": {
+    "id": 162316056252121088,
+    "name": ".i8",
+    "nick": null,
+    "display_name": "bank",
+    "global_name": "bank",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " ",
+    "guild_bio": null,
+    "display_bio": " ",
+    "banner": "https://cdn.discordapp.com/banners/162316056252121088/a_52ff77156ecabf2d7d82eec4c24de967.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/162316056252121088/a_52ff77156ecabf2d7d82eec4c24de967.gif?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "premium_tenure_1_month_v2"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
