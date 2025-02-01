@@ -126356,5 +126356,38 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "428309631899533324": {
+    "id": 428309631899533324,
+    "name": "luigiboi69",
+    "nick": null,
+    "display_name": "Luigiboi",
+    "global_name": "Luigiboi",
+    "pronouns": "they/them she/her",
+    "guild_pronouns": null,
+    "bio": "Instagram:https://www.instagram.com/blue_wind_1991/\n\nTwitch:https://www.twitch.tv/weggeboi69\n\nTwitter:https://x.com/Weggeboi?t=ipx4w8WEuVocyYX_kR4ZZQ&s=09",
+    "guild_bio": null,
+    "display_bio": "Instagram:https://www.instagram.com/blue_wind_1991/\n\nTwitch:https://www.twitch.tv/weggeboi69\n\nTwitter:https://x.com/Weggeboi?t=ipx4w8WEuVocyYX_kR4ZZQ&s=09",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31325pvcxg477f5ixzol2kchfixy",
+        "name": "Blue Blur",
+        "url": "https://open.spotify.com/user/31325pvcxg477f5ixzol2kchfixy"
+      },
+      "twitter": {
+        "id": "1872775677474123776",
+        "name": "theRealWeggeboi",
+        "url": "https://twitter.com/theRealWeggeboi"
+      }
+    },
+    "legacy_username": "Luigiboi#4086"
   }
 }
