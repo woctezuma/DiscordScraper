@@ -126915,5 +126915,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "858607813528780810": {
+    "id": 858607813528780810,
+    "name": "mrgambler1",
+    "nick": null,
+    "display_name": "BlueCowEater",
+    "global_name": "BlueCowEater",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I gamble.",
+    "guild_bio": null,
+    "display_bio": "I gamble.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
