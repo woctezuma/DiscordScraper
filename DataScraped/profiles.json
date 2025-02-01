@@ -127639,5 +127639,85 @@
       }
     },
     "legacy_username": "ForeverMercy4#7614"
+  },
+  "1173384886787252244": {
+    "id": 1173384886787252244,
+    "name": "neffex360_04653",
+    "nick": null,
+    "display_name": "neffex360",
+    "global_name": "neffex360",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "977208964582359140": {
+    "id": 977208964582359140,
+    "name": "jaiming.",
+    "nick": null,
+    "display_name": "m0nkey",
+    "global_name": "m0nkey",
+    "pronouns": "ty/shi",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "926878352126644234": {
+    "id": 926878352126644234,
+    "name": "scarywolf02",
+    "nick": null,
+    "display_name": "Scarywolf02",
+    "global_name": "Scarywolf02",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Scarywolf02#9757"
+  },
+  "602696081716805642": {
+    "id": 602696081716805642,
+    "name": "illogicalintellectual",
+    "nick": null,
+    "display_name": "Illogical Intellectual",
+    "global_name": "Illogical Intellectual",
+    "pronouns": "Top/1",
+    "guild_pronouns": null,
+    "bio": "The Nightmare.",
+    "guild_bio": null,
+    "display_bio": "The Nightmare.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Illogical Intellectual#2171"
   }
 }
