@@ -126799,5 +126799,83 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "818035085931446343": {
+    "id": 818035085931446343,
+    "name": "ku_ri_suuu",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Uh...hi.",
+    "guild_bio": null,
+    "display_bio": "Uh...hi.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "717892227153788992": {
+    "id": 717892227153788992,
+    "name": "eduardo._77",
+    "nick": null,
+    "display_name": "Eduardo77",
+    "global_name": "Eduardo77",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e511990e4d094b0d9cb94171f850a73c",
+        "name": "Eduardo20yt",
+        "url": null
+      },
+      "spotify": {
+        "id": "tu7zfo6ocu3ve06ole38igjj6",
+        "name": "LaloXD",
+        "url": "https://open.spotify.com/user/tu7zfo6ocu3ve06ole38igjj6"
+      },
+      "steam": {
+        "id": "76561199336084581",
+        "name": "Eduardo77",
+        "url": "https://steamcommunity.com/profiles/76561199336084581"
+      },
+      "xbox": {
+        "id": "3076595976312187",
+        "name": "EduardoAlV1",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=EduardoAlV1"
+      }
+    },
+    "legacy_username": "Lalo#4099"
+  },
+  "600642401173897216": {
+    "id": 600642401173897216,
+    "name": "ikamashki",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Software Developer",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
