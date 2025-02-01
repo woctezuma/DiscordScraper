@@ -126634,5 +126634,61 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "622239772932440084": {
+    "id": 622239772932440084,
+    "name": "krazeworld450",
+    "nick": null,
+    "display_name": "d-_-b",
+    "global_name": "d-_-b",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f0d4654ccdb04e138d52e66d05ffe7e1",
+        "name": "Kraze514",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199755424211",
+        "name": "KraZe514",
+        "url": "https://steamcommunity.com/profiles/76561199755424211"
+      },
+      "xbox": {
+        "id": "3078539280927128",
+        "name": "KraZe450",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=KraZe450"
+      }
+    },
+    "legacy_username": "d-_-b#4350"
+  },
+  "814884884673069056": {
+    "id": 814884884673069056,
+    "name": "bayonetta3302",
+    "nick": null,
+    "display_name": "bayonetta3302",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Bayonetta#3302"
   }
 }
