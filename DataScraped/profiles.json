@@ -127719,5 +127719,69 @@
     ],
     "connections": {},
     "legacy_username": "Illogical Intellectual#2171"
+  },
+  "685311395071262722": {
+    "id": 685311395071262722,
+    "name": "jackiestuff",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": "\u2639\ufe0e\u2730 \u0623\u0646\u0627 \u0645\u0635\u0646\u0648\u0639 \u0628\u0627\u0644\u0643\u0627\u0645\u0644 \u0645\u0646 \u0627\u0644\u062c\u0628\u0646 \u2730\u2639\ufe0e",
+    "guild_pronouns": null,
+    "bio": " (Music Is True Reality)  \n\n()  2004 Child  ()   2015 am I right?? () Age (20)  \n\n\n***Lol Fake News***     \n\nMary Jane  \n\n Music Enjoyer  ",
+    "guild_bio": null,
+    "display_bio": " (Music Is True Reality)  \n\n()  2004 Child  ()   2015 am I right?? () Age (20)  \n\n\n***Lol Fake News***     \n\nMary Jane  \n\n Music Enjoyer  ",
+    "banner": "https://cdn.discordapp.com/banners/685311395071262722/a_daadc760d511a19beff57acba68c0748.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/685311395071262722/a_daadc760d511a19beff57acba68c0748.gif?size=512",
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "0ef07fecb9f54e9f861932536c3ce92b",
+        "name": "JackieStuff",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "119914099",
+        "name": "RealBobTEM122",
+        "url": null
+      },
+      "spotify": {
+        "id": "8qhtri23v4xhjhvt63shrw74u",
+        "name": "John F. Kennedy",
+        "url": "https://open.spotify.com/user/8qhtri23v4xhjhvt63shrw74u"
+      },
+      "steam": {
+        "id": "76561198979292267",
+        "name": "JackieStuff",
+        "url": "https://steamcommunity.com/profiles/76561198979292267"
+      },
+      "twitch": {
+        "id": "227472776",
+        "name": "jackiestuff",
+        "url": "https://www.twitch.tv/jackiestuff"
+      },
+      "twitter": {
+        "id": "1011490766953168897",
+        "name": "JackieStuff18",
+        "url": "https://twitter.com/JackieStuff18"
+      },
+      "xbox": {
+        "id": "3064010254073609",
+        "name": "JackieStuff",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JackieStuff"
+      },
+      "youtube": {
+        "id": "UCEhGggXMcwUN57JHTW7lcZg",
+        "name": "JackieStuff",
+        "url": "https://www.youtube.com/channel/UCEhGggXMcwUN57JHTW7lcZg"
+      }
+    },
+    "legacy_username": "JackieStuff#3472"
   }
 }
