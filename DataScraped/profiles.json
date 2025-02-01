@@ -126955,5 +126955,53 @@
     ],
     "connections": {},
     "legacy_username": "Piseth#5724"
+  },
+  "1278905112844304446": {
+    "id": 1278905112844304446,
+    "name": "valejasm",
+    "nick": null,
+    "display_name": ">>>vale jasmine",
+    "global_name": ">>>vale jasmine",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "<3 Scarlet March 4th 2024 <3\n:transcheckgang: \n\nhttps://en.pronouns.page/@JasmineVale",
+    "guild_bio": null,
+    "display_bio": "<3 Scarlet March 4th 2024 <3\n:transcheckgang: \n\nhttps://en.pronouns.page/@JasmineVale",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1001192856364523622": {
+    "id": 1001192856364523622,
+    "name": "finger_puppets",
+    "nick": null,
+    "display_name": "Mooniter",
+    "global_name": "Mooniter",
+    "pronouns": "\ud83c\udf15/\ud83c\udf11",
+    "guild_pronouns": null,
+    "bio": "subsriber to me ples (youtube)",
+    "guild_bio": null,
+    "display_bio": "subsriber to me ples (youtube)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCoi0r3h4qrbenjBWcUdIPUg",
+        "name": "Mooniter",
+        "url": "https://www.youtube.com/channel/UCoi0r3h4qrbenjBWcUdIPUg"
+      }
+    },
+    "legacy_username": "Finger puppets#7159"
   }
 }
