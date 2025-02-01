@@ -127783,5 +127783,51 @@
       }
     },
     "legacy_username": "JackieStuff#3472"
+  },
+  "331909737694363658": {
+    "id": 331909737694363658,
+    "name": "mizukyum",
+    "nick": null,
+    "display_name": "Kyockcho Enthusiast",
+    "global_name": "Kyockcho Enthusiast",
+    "pronouns": "[He/Him]",
+    "guild_pronouns": null,
+    "bio": "**``French | English``**\n\n**``Emoji/Stickers Collector``**\n\n**``Open to DMs``** <a:DGstarSpin:839737829512052767>\n\n**``Yuri Enjoyer``**\n\n**``Arknights/GFL2 Player``**",
+    "guild_bio": null,
+    "display_bio": "**``French | English``**\n\n**``Emoji/Stickers Collector``**\n\n**``Open to DMs``** <a:DGstarSpin:839737829512052767>\n\n**``Yuri Enjoyer``**\n\n**``Arknights/GFL2 Player``**",
+    "banner": "https://cdn.discordapp.com/banners/331909737694363658/2cd2289cfc18cd741dcd37ca30b2a371.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/331909737694363658/2cd2289cfc18cd741dcd37ca30b2a371.png?size=512",
+    "badges": [
+      "early_supporter",
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_36_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "oW685_Zm_hlAVZSOC2qc6NAfz5F4e3VNa1VcMY6T_UspzjGIK95YqmD_af_Nj342CgZfbHAxI4W6Zg",
+        "name": "Mommy\u02c6s Good Boy#Mood",
+        "url": null
+      },
+      "riot_games": {
+        "id": "oW685_Zm_hlAVZSOC2qc6NAfz5F4e3VNa1VcMY6T_UspzjGIK95YqmD_af_Nj342CgZfbHAxI4W6Zg",
+        "name": "Mommy\u02c6s Good Boy#Mood",
+        "url": null
+      },
+      "spotify": {
+        "id": "11177757660",
+        "name": "Mizukyum",
+        "url": "https://open.spotify.com/user/11177757660"
+      },
+      "steam": {
+        "id": "76561198856527255",
+        "name": "Sister Complex \u30b7\u30b9\u30b3\u30f3",
+        "url": "https://steamcommunity.com/profiles/76561198856527255"
+      }
+    },
+    "legacy_username": "Kyockcho Enjoyer#0004"
   }
 }
