@@ -126109,5 +126109,43 @@
     ],
     "connections": {},
     "legacy_username": "shu022 (Shadow)#0304"
+  },
+  "576503635299794976": {
+    "id": 576503635299794976,
+    "name": "serkvn",
+    "nick": null,
+    "display_name": "serkan",
+    "global_name": "serkan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl9",
+      "premium_tenure_36_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "paypal": {
+        "id": "wyJrLtTCELTzLr5L2nUXvEX5WdChCbbLUXXCLkmBjfY",
+        "name": "valeheus alves",
+        "url": null
+      },
+      "riot_games": {
+        "id": "SMFbGVPFFJorPsD9JSiD6PYZQYaOWONmqkB5IgmNlAa5IpflDaRPV__GMt-yqI3GDc3T64bs3jvlZA",
+        "name": "serkxn#1903",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199756192669",
+        "name": "valeheus",
+        "url": "https://steamcommunity.com/profiles/76561199756192669"
+      }
+    },
+    "legacy_username": null
   }
 }
