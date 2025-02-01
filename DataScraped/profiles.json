@@ -127386,5 +127386,23 @@
       }
     },
     "legacy_username": "daanboots#9372"
+  },
+  "1200847996833767534": {
+    "id": 1200847996833767534,
+    "name": "fitnessfungus",
+    "nick": null,
+    "display_name": "Fungus",
+    "global_name": "Fungus",
+    "pronouns": "fun/gus",
+    "guild_pronouns": null,
+    "bio": "wsg",
+    "guild_bio": null,
+    "display_bio": "wsg",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
