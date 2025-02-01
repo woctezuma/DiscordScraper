@@ -127613,5 +127613,31 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "853254909439901716": {
+    "id": 853254909439901716,
+    "name": "forevermercy4",
+    "nick": null,
+    "display_name": "Doroo",
+    "global_name": "Doroo",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "also you can check more from here\nhttps://dorooneedscodevein.carrd.co/\n(bad carrd fr)",
+    "guild_bio": null,
+    "display_bio": "also you can check more from here\nhttps://dorooneedscodevein.carrd.co/\n(bad carrd fr)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31sr3j4k5zvg4rml5utqvosehng4",
+        "name": "ForeverMercy4",
+        "url": "https://open.spotify.com/user/31sr3j4k5zvg4rml5utqvosehng4"
+      }
+    },
+    "legacy_username": "ForeverMercy4#7614"
   }
 }
