@@ -126221,5 +126221,38 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "943141405235216425": {
+    "id": 943141405235216425,
+    "name": "nikowiththesun",
+    "nick": null,
+    "display_name": "soy",
+    "global_name": "soy",
+    "pronouns": "keep/yourself/safe",
+    "guild_pronouns": null,
+    "bio": "niko from oneshot\nmy beloved :nikoshininglove:",
+    "guild_bio": null,
+    "display_bio": "niko from oneshot\nmy beloved :nikoshininglove:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "1500941343",
+        "name": "soyr_s1",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199485667295",
+        "name": "soy_sauce",
+        "url": "https://steamcommunity.com/profiles/76561199485667295"
+      }
+    },
+    "legacy_username": "soy#9884"
   }
 }
