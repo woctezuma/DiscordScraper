@@ -126526,5 +126526,75 @@
       }
     },
     "legacy_username": "RED \ud83d\udea8#4735"
+  },
+  "550277540028219403": {
+    "id": 550277540028219403,
+    "name": "redclawsbd",
+    "nick": null,
+    "display_name": "RED CLAWS",
+    "global_name": "RED CLAWS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Old-school gangstar :emoji_11:",
+    "guild_bio": null,
+    "display_bio": "Old-school gangstar :emoji_11:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "4262153960575002",
+        "name": "eleyasrahman",
+        "url": "https://www.instagram.com/eleyasrahman"
+      },
+      "spotify": {
+        "id": "3w60trzhjp26lewysbzrnjy5t",
+        "name": "Eleyas Rahman",
+        "url": "https://open.spotify.com/user/3w60trzhjp26lewysbzrnjy5t"
+      },
+      "steam": {
+        "id": "76561199052645559",
+        "name": "RED CLAWS",
+        "url": "https://steamcommunity.com/profiles/76561199052645559"
+      }
+    },
+    "legacy_username": "RED CLAWS#0058"
+  },
+  "520912220192768001": {
+    "id": 520912220192768001,
+    "name": "kingoffireu",
+    "nick": null,
+    "display_name": "Kingoffire U",
+    "global_name": "Kingoffire U",
+    "pronouns": "Sonny/Jim",
+    "guild_pronouns": null,
+    "bio": "Property Magnet,\nFridge Magnet,\nThe biggest cheese in Lego City!",
+    "guild_bio": null,
+    "display_bio": "Property Magnet,\nFridge Magnet,\nThe biggest cheese in Lego City!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199042489745",
+        "name": "Kingoffire U",
+        "url": "https://steamcommunity.com/profiles/76561199042489745"
+      },
+      "xbox": {
+        "id": "3069441716789446",
+        "name": "Kingoffire U",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Kingoffire U"
+      }
+    },
+    "legacy_username": null
   }
 }
