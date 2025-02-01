@@ -126475,5 +126475,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "727204126173298770": {
+    "id": 727204126173298770,
+    "name": "darking273",
+    "nick": null,
+    "display_name": "DARKING ",
+    "global_name": "DARKING ",
+    "pronouns": "\u2615.",
+    "guild_pronouns": null,
+    "bio": "<:steam:586252755513901056> <:verified:476873413093490711>\n\n.  <a:JJKGetoShrug1:830197256946319360> <a:JJKGetoShrug2:830197273212092426>",
+    "guild_bio": null,
+    "display_bio": "<:steam:586252755513901056> <:verified:476873413093490711>\n\n.  <a:JJKGetoShrug1:830197256946319360> <a:JJKGetoShrug2:830197273212092426>",
+    "banner": "https://cdn.discordapp.com/banners/727204126173298770/a_6ef773d6ab01a86b69659127a52ad751.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/727204126173298770/a_6ef773d6ab01a86b69659127a52ad751.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl3",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_3_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "DARKING#21737",
+        "name": "DARKING#21737",
+        "url": null
+      },
+      "epic_games": {
+        "id": "61f072069da74b098ca0ff62580e14de",
+        "name": "DARKING \u30c0\u30fc\u30af\u30ad\u30f3\u30b0",
+        "url": null
+      },
+      "playstation": {
+        "id": "2864950791507030417",
+        "name": "DARKING037",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198412031581",
+        "name": "DARKING \u30c0\u30fc\u30af\u30ad\u30f3\u30b0",
+        "url": "https://steamcommunity.com/profiles/76561198412031581"
+      },
+      "xbox": {
+        "id": "3078190021421600",
+        "name": "DARKING037",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DARKING037"
+      }
+    },
+    "legacy_username": "RED \ud83d\udea8#4735"
   }
 }
