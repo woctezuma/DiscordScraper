@@ -126761,5 +126761,25 @@
       }
     },
     "legacy_username": null
+  },
+  "551839345372299400": {
+    "id": 551839345372299400,
+    "name": "jnskater02",
+    "nick": null,
+    "display_name": "jnskater02",
+    "global_name": "jnskater02",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "jnskater02#6981"
   }
 }
