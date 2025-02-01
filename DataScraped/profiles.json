@@ -126318,5 +126318,43 @@
       }
     },
     "legacy_username": "inhaler41ch#8599"
+  },
+  "487611311606464515": {
+    "id": 487611311606464515,
+    "name": "osskes",
+    "nick": null,
+    "display_name": "Osskes",
+    "global_name": "Osskes",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Osskes#6134"
+  },
+  "1325910662538330254": {
+    "id": 1325910662538330254,
+    "name": "akosborcsok2025",
+    "nick": null,
+    "display_name": "akosborcsok",
+    "global_name": "akosborcsok",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
