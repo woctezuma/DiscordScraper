@@ -127246,5 +127246,83 @@
       }
     },
     "legacy_username": "Axell107#5689"
+  },
+  "229811196004401153": {
+    "id": 229811196004401153,
+    "name": "cowlor",
+    "nick": null,
+    "display_name": "Cowlor",
+    "global_name": "Cowlor",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "20 Years old. Mexican. \n\n:IG: : CowlorCS\n:XT: : @Cowlorrr\n:TK: : Cowlorr\n:TW: : Cowlorrxd",
+    "guild_bio": null,
+    "display_bio": "20 Years old. Mexican. \n\n:IG: : CowlorCS\n:XT: : @Cowlorrr\n:TK: : Cowlorr\n:TW: : Cowlorrxd",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "CowlorMX#1630",
+        "name": "CowlorMX#1630",
+        "url": null
+      },
+      "epic_games": {
+        "id": "27fa35c5197842b6bd3fbf59989ecbb7",
+        "name": "Cowlorr",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "qKDtSiasNQ1Ht__isnXVrvOl4WpUD5J3nFy8Lj6hZEWUuQ04nSdt62-qRkL1NM2VhRxRtWsr8krtAQ",
+        "name": "Cowlor#LANPC",
+        "url": null
+      },
+      "playstation": {
+        "id": "6534442444648293941",
+        "name": "Cowlorr",
+        "url": null
+      },
+      "riot_games": {
+        "id": "qKDtSiasNQ1Ht__isnXVrvOl4WpUD5J3nFy8Lj6hZEWUuQ04nSdt62-qRkL1NM2VhRxRtWsr8krtAQ",
+        "name": "Cowlor#LANPC",
+        "url": null
+      },
+      "spotify": {
+        "id": "acpte9kh2gigcui0r1z8tsyx6",
+        "name": "Oscar",
+        "url": "https://open.spotify.com/user/acpte9kh2gigcui0r1z8tsyx6"
+      },
+      "steam": {
+        "id": "76561198329901491",
+        "name": "Cowlor",
+        "url": "https://steamcommunity.com/profiles/76561198329901491"
+      },
+      "twitch": {
+        "id": "232507100",
+        "name": "cowlorrxd",
+        "url": "https://www.twitch.tv/cowlorrxd"
+      },
+      "twitter": {
+        "id": "1339533232614862850",
+        "name": "Cowlorrr",
+        "url": "https://twitter.com/Cowlorrr"
+      },
+      "xbox": {
+        "id": "3068437700141701",
+        "name": "Cowlorr",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Cowlorr"
+      },
+      "youtube": {
+        "id": "UCnGPdRsprD-37x-qL6Pw77Q",
+        "name": "Cowlor",
+        "url": "https://www.youtube.com/channel/UCnGPdRsprD-37x-qL6Pw77Q"
+      }
+    },
+    "legacy_username": "Cowlor#6565"
   }
 }
