@@ -127430,5 +127430,107 @@
       }
     },
     "legacy_username": "dmitry#7304"
+  },
+  "151168266285350912": {
+    "id": 151168266285350912,
+    "name": "critachi",
+    "nick": null,
+    "display_name": "Critachi",
+    "global_name": "Critachi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/151168266285350912/a_f619334d4a9fea0cc022e89f42ea131c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/151168266285350912/a_f619334d4a9fea0cc022e89f42ea131c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_36_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "critachi#1190",
+        "name": "critachi#1190",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "1c32528b-1254-5266-9ec3-f00b878c9ee7",
+        "name": "critachi",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "qsxeLBEmJrl6l52GqjV308m_N6Agr_BDcwHF3fcn57FW6KuRT6oX4dwaORoDxxVZQHsYAefeuMNlug",
+        "name": "critachi",
+        "url": null
+      },
+      "riot_games": {
+        "id": "qsxeLBEmJrl6l52GqjV308m_N6Agr_BDcwHF3fcn57FW6KuRT6oX4dwaORoDxxVZQHsYAefeuMNlug",
+        "name": "critachi#LAN",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198069309086",
+        "name": "Critachi",
+        "url": "https://steamcommunity.com/profiles/76561198069309086"
+      },
+      "twitch": {
+        "id": "32863674",
+        "name": "critachi",
+        "url": "https://www.twitch.tv/critachi"
+      },
+      "youtube": {
+        "id": "UCLUOMZNZs6hEFhx7wHt9kGQ",
+        "name": "Critachi",
+        "url": "https://www.youtube.com/channel/UCLUOMZNZs6hEFhx7wHt9kGQ"
+      }
+    },
+    "legacy_username": "critachi#1700"
+  },
+  "1239302897003397242": {
+    "id": 1239302897003397242,
+    "name": "20dean08",
+    "nick": null,
+    "display_name": "Zeix",
+    "global_name": "Zeix",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "DerZeix159#2646",
+        "name": "DerZeix159#2646",
+        "url": null
+      },
+      "epic_games": {
+        "id": "700d6f4115414355bfe0810cd8abb078",
+        "name": "DerZeix159",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199687464376",
+        "name": "Zeix",
+        "url": "https://steamcommunity.com/profiles/76561199687464376"
+      },
+      "xbox": {
+        "id": "3077575822538132",
+        "name": "DerZeix159",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DerZeix159"
+      }
+    },
+    "legacy_username": null
   }
 }
