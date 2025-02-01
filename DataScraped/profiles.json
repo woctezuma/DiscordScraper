@@ -126389,5 +126389,73 @@
       }
     },
     "legacy_username": "Luigiboi#4086"
+  },
+  "691390730161225759": {
+    "id": 691390730161225759,
+    "name": "cvtrs_",
+    "nick": null,
+    "display_name": "cvtrs ",
+    "global_name": "cvtrs ",
+    "pronouns": "\u2323\u2323\u2323\u2323\u2323\u2323\u2323",
+    "guild_pronouns": null,
+    "bio": "                                 **** \n                          //",
+    "guild_bio": null,
+    "display_bio": "                                 **** \n                          //",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31o6dopgbfvjodxmccaxubfn6yam",
+        "name": "Mara",
+        "url": "https://open.spotify.com/user/31o6dopgbfvjodxmccaxubfn6yam"
+      },
+      "steam": {
+        "id": "76561199382771827",
+        "name": "cvtrs_",
+        "url": "https://steamcommunity.com/profiles/76561199382771827"
+      }
+    },
+    "legacy_username": "cvtrs_#4854"
+  },
+  "1159846396527128576": {
+    "id": 1159846396527128576,
+    "name": "illo_salchicha",
+    "nick": null,
+    "display_name": "illo_salchicha",
+    "global_name": "illo_salchicha",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "74be71a63a034f5dbdbfaf45e276cd9d",
+        "name": "Angel_tor2",
+        "url": null
+      },
+      "playstation": {
+        "id": "6567701885681784797",
+        "name": "Angel_Tor",
+        "url": null
+      },
+      "spotify": {
+        "id": "31cg5db6bkmab7l4i5nyqavqfrdu",
+        "name": "Angelitodedios",
+        "url": "https://open.spotify.com/user/31cg5db6bkmab7l4i5nyqavqfrdu"
+      }
+    },
+    "legacy_username": null
   }
 }
