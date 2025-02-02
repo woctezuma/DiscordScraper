@@ -129559,5 +129559,43 @@
       }
     },
     "legacy_username": "\u1843\u2602#1039"
+  },
+  "415919037977985027": {
+    "id": 415919037977985027,
+    "name": ".shweepy05",
+    "nick": null,
+    "display_name": "Jager",
+    "global_name": "Jager",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"The inner machinations of my mind are an enigma\" -Patrick Star",
+    "guild_bio": null,
+    "display_bio": "\"The inner machinations of my mind are an enigma\" -Patrick Star",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AFPFCQVJBG4QFJXQV65NCWFPUMOQ",
+        "name": "Hunter",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198377249604",
+        "name": "SleepySnorlax05",
+        "url": "https://steamcommunity.com/profiles/76561198377249604"
+      },
+      "twitch": {
+        "id": "592557542",
+        "name": "sleepysnorlax16",
+        "url": "https://www.twitch.tv/sleepysnorlax16"
+      }
+    },
+    "legacy_username": "Shweepy#3575"
   }
 }
