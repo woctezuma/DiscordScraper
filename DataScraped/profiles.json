@@ -128195,5 +128195,67 @@
       }
     },
     "legacy_username": "Ndang#0882"
+  },
+  "564329575757250560": {
+    "id": 564329575757250560,
+    "name": "_xixie_",
+    "nick": null,
+    "display_name": "-_Xixie_-",
+    "global_name": "-_Xixie_-",
+    "pronouns": "All hail King",
+    "guild_pronouns": null,
+    "bio": "Just an NPC, In the World Full of MC",
+    "guild_bio": null,
+    "display_bio": "Just an NPC, In the World Full of MC",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "40592487ec6449de8f1c30c0ec414c10",
+        "name": "Koiwai_Cute",
+        "url": null
+      },
+      "riot_games": {
+        "id": "VxOQJ-NYHMSESL4axkgNfp-hOcc5RHmbiQkKIfz_DYi6wOOSsr2nhkoHDC2oLX0XURR4X42m_NxV7g",
+        "name": "Koiwai#0007",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199101374559",
+        "name": "Koiwai",
+        "url": "https://steamcommunity.com/profiles/76561199101374559"
+      },
+      "xbox": {
+        "id": "3077017208789265",
+        "name": "Koiwai7211",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Koiwai7211"
+      }
+    },
+    "legacy_username": null
+  },
+  "244809054684315648": {
+    "id": 244809054684315648,
+    "name": "mlg3220",
+    "nick": null,
+    "display_name": "M L G",
+    "global_name": "M L G",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I am me, yes.",
+    "guild_bio": null,
+    "display_bio": "I am me, yes.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "M L G#3220"
   }
 }
