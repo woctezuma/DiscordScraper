@@ -128284,5 +128284,46 @@
       }
     },
     "legacy_username": "bongohead101#4091"
+  },
+  "849555582361010208": {
+    "id": 849555582361010208,
+    "name": "lettuceer",
+    "nick": null,
+    "display_name": "Lettuce",
+    "global_name": "Lettuce",
+    "pronouns": "[Charisma 100]",
+    "guild_pronouns": null,
+    "bio": "Anyone down for sum project zomboid",
+    "guild_bio": null,
+    "display_bio": "Anyone down for sum project zomboid",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Lettuce#0622"
+  },
+  "791082657316470825": {
+    "id": 791082657316470825,
+    "name": "bigdaddyone.",
+    "nick": null,
+    "display_name": "bigdaddyone.",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "bigdaddyone#7443"
   }
 }
