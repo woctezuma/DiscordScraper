@@ -129647,5 +129647,115 @@
       }
     },
     "legacy_username": "\u2122 biglula \ud83d\udc19\u00a9\u00ae#2339"
+  },
+  "1139534963281248297": {
+    "id": 1139534963281248297,
+    "name": "001974",
+    "nick": null,
+    "display_name": "saad",
+    "global_name": "saad",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "339547879553236994": {
+    "id": 339547879553236994,
+    "name": "_bluenexus",
+    "nick": null,
+    "display_name": "BlueNexsus",
+    "global_name": "BlueNexsus",
+    "pronouns": "Dead/Alive",
+    "guild_pronouns": null,
+    "bio": "Before the Big Bang\nthere was no up\nthere was no down\nthere was no side to side\n\nthere was no light\nthere was no dark\nnor shape of any kind\nthere were no stars\nor protons to collide",
+    "guild_bio": null,
+    "display_bio": "Before the Big Bang\nthere was no up\nthere was no down\nthere was no side to side\n\nthere was no light\nthere was no dark\nnor shape of any kind\nthere were no stars\nor protons to collide",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c644635ddea14363bf171dc66412028b",
+        "name": "InsanE7",
+        "url": null
+      },
+      "facebook": {
+        "id": "1466778086703758",
+        "name": "\u0415\u043c\u0438\u043b\u0438\u044f\u043d \u0421\u043f\u0430\u0441\u043e\u0432",
+        "url": null
+      },
+      "instagram": {
+        "id": "6846018895432297",
+        "name": "e.spasov77",
+        "url": "https://www.instagram.com/e.spasov77"
+      },
+      "reddit": {
+        "id": "grt7hf12j",
+        "name": "BluuNexus",
+        "url": "https://www.reddit.com/u/BluuNexus"
+      },
+      "spotify": {
+        "id": "1190600079",
+        "name": "\u0415\u043c\u0438\u043b\u0438\u044f\u043d \u0421\u043f\u0430\u0441\u043e\u0432",
+        "url": "https://open.spotify.com/user/1190600079"
+      },
+      "steam": {
+        "id": "76561198092292446",
+        "name": "p0rtal",
+        "url": "https://steamcommunity.com/profiles/76561198092292446"
+      },
+      "tiktok": {
+        "id": "ff419c13-1466-57d5-a851-956055318115",
+        "name": "nexsus7",
+        "url": "https://tiktok.com/@nexsus7"
+      },
+      "twitter": {
+        "id": "851149960615796738",
+        "name": "EmiliqnSpasov",
+        "url": "https://twitter.com/EmiliqnSpasov"
+      },
+      "xbox": {
+        "id": "3078015544699248",
+        "name": "Glado5s",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Glado5s"
+      },
+      "youtube": {
+        "id": "UConIxn1KKf9zJmQztT1Jofg",
+        "name": "InsaneEmo7",
+        "url": "https://www.youtube.com/channel/UConIxn1KKf9zJmQztT1Jofg"
+      }
+    },
+    "legacy_username": "BlueNexus#1093"
+  },
+  "1335697366883500042": {
+    "id": 1335697366883500042,
+    "name": "chicken_nuggets_01_01",
+    "nick": null,
+    "display_name": "Hydro",
+    "global_name": "Hydro",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
