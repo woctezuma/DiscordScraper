@@ -128571,5 +128571,98 @@
       }
     },
     "legacy_username": null
+  },
+  "792217604520542228": {
+    "id": 792217604520542228,
+    "name": "richard20397",
+    "nick": null,
+    "display_name": "Richard",
+    "global_name": "Richard",
+    "pronouns": "\ud83e\udef6",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "eqwcpfg0tv86vlgj3bxj67238",
+        "name": "Richardkurnia",
+        "url": "https://open.spotify.com/user/eqwcpfg0tv86vlgj3bxj67238"
+      }
+    },
+    "legacy_username": null
+  },
+  "1006925630832656505": {
+    "id": 1006925630832656505,
+    "name": "heitorpecent_e",
+    "nick": null,
+    "display_name": "heitorpecente",
+    "global_name": "heitorpecente",
+    "pronouns": "gos/toso",
+    "guild_pronouns": null,
+    "bio": "lindo",
+    "guild_bio": null,
+    "display_bio": "lindo",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199445323861",
+        "name": "heitorpecente",
+        "url": "https://steamcommunity.com/profiles/76561199445323861"
+      }
+    },
+    "legacy_username": "heitorpecente#4254"
+  },
+  "441196112221569035": {
+    "id": 441196112221569035,
+    "name": "onesimpleg",
+    "nick": null,
+    "display_name": "OSG",
+    "global_name": "OSG",
+    "pronouns": "Crazy / I was crazy once",
+    "guild_pronouns": null,
+    "bio": "They locked me in a room, A rubber room, A rubber room with rats, And rats make me crazy.",
+    "guild_bio": null,
+    "display_bio": "They locked me in a room, A rubber room, A rubber room with rats, And rats make me crazy.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "11171600386",
+        "name": "Grantas Adomaitis",
+        "url": "https://open.spotify.com/user/11171600386"
+      },
+      "steam": {
+        "id": "76561198371662909",
+        "name": "OneSimpleG",
+        "url": "https://steamcommunity.com/profiles/76561198371662909"
+      },
+      "twitch": {
+        "id": "238569762",
+        "name": "onesimpleg",
+        "url": "https://www.twitch.tv/onesimpleg"
+      },
+      "youtube": {
+        "id": "UC08Yq-IT8fI1wM0WGiI60LQ",
+        "name": "OneSimpleG",
+        "url": "https://www.youtube.com/channel/UC08Yq-IT8fI1wM0WGiI60LQ"
+      }
+    },
+    "legacy_username": "OSG#8660"
   }
 }
