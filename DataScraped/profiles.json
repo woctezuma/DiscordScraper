@@ -128664,5 +128664,27 @@
       }
     },
     "legacy_username": "OSG#8660"
+  },
+  "629989951542394910": {
+    "id": 629989951542394910,
+    "name": "cchiliz",
+    "nick": null,
+    "display_name": "cchiliz",
+    "global_name": "cchiliz",
+    "pronouns": "\ud83c\uddea\ud83c\uddea / \ud83c\uddeb\ud83c\uddee / \ud83c\uddec\ud83c\udde7",
+    "guild_pronouns": null,
+    "bio": "** Workhours:**\n> **<t:1728132000:t> **-** <t:1728153000:t>**\n>  \n ** https://cchiliz.carrd.co/**\n>  \n> *People ignore design that ignores people.*\n Frank Chimero",
+    "guild_bio": null,
+    "display_bio": "** Workhours:**\n> **<t:1728132000:t> **-** <t:1728153000:t>**\n>  \n ** https://cchiliz.carrd.co/**\n>  \n> *People ignore design that ignores people.*\n Frank Chimero",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "big brain#4913"
   }
 }
