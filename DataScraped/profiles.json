@@ -127907,5 +127907,67 @@
       }
     },
     "legacy_username": "xWTomasWx#2048"
+  },
+  "496746980979114004": {
+    "id": 496746980979114004,
+    "name": "libberibby",
+    "nick": null,
+    "display_name": "libby",
+    "global_name": "libby",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "a24ac886ec6a474fa58eabb2e7c6e181",
+        "name": "ScaryFrenchToast",
+        "url": null
+      },
+      "spotify": {
+        "id": "31mth4xckfz6lhdy54x43sgarzs4",
+        "name": "libby :D",
+        "url": "https://open.spotify.com/user/31mth4xckfz6lhdy54x43sgarzs4"
+      },
+      "steam": {
+        "id": "76561199115991837",
+        "name": "libberibby",
+        "url": "https://steamcommunity.com/profiles/76561199115991837"
+      }
+    },
+    "legacy_username": "libby#0202"
+  },
+  "804111766526492713": {
+    "id": 804111766526492713,
+    "name": "soren37479",
+    "nick": null,
+    "display_name": "soren37479",
+    "global_name": "soren37479",
+    "pronouns": "idiot/born stupidity",
+    "guild_pronouns": null,
+    "bio": "https://youtu.be/dQw4w9WgXcQ",
+    "guild_bio": null,
+    "display_bio": "https://youtu.be/dQw4w9WgXcQ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199103589962",
+        "name": "soren37479",
+        "url": "https://steamcommunity.com/profiles/76561199103589962"
+      }
+    },
+    "legacy_username": "soren37479#0439"
   }
 }
