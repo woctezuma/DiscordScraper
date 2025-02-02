@@ -128821,5 +128821,93 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "100281109752844288": {
+    "id": 100281109752844288,
+    "name": "nonybor",
+    "nick": null,
+    "display_name": "Nonybor",
+    "global_name": "Nonybor",
+    "pronouns": "\u0d9e sussybAkA \u0d9e",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nonybor#6893"
+  },
+  "587534623735808001": {
+    "id": 587534623735808001,
+    "name": "picklemercury",
+    "nick": null,
+    "display_name": "Pickle",
+    "global_name": "Pickle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31tjupahoqvbcms3hnnx72c7nnga",
+        "name": "Pickle",
+        "url": "https://open.spotify.com/user/31tjupahoqvbcms3hnnx72c7nnga"
+      }
+    },
+    "legacy_username": "Pickle#6590"
+  },
+  "1171116994012131401": {
+    "id": 1171116994012131401,
+    "name": "untoldlegend13_47813",
+    "nick": null,
+    "display_name": "UntoldLegend13",
+    "global_name": "UntoldLegend13",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "dd57a42bc91549c99c92a97245a6def1",
+        "name": "UntoldLegend13",
+        "url": null
+      },
+      "playstation": {
+        "id": "6767724308439865920",
+        "name": "UntoldLegend13",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198063942140",
+        "name": "UntoldLegend13",
+        "url": "https://steamcommunity.com/profiles/76561198063942140"
+      },
+      "xbox": {
+        "id": "3077746124021746",
+        "name": "UntoldLegend13",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=UntoldLegend13"
+      }
+    },
+    "legacy_username": null
   }
 }
