@@ -128779,5 +128779,26 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "917000138046726205": {
+    "id": 917000138046726205,
+    "name": "jukl02",
+    "nick": null,
+    "display_name": "JuKl",
+    "global_name": "JuKl",
+    "pronouns": "Main Character/Geile Katze/Mutterficker",
+    "guild_pronouns": null,
+    "bio": "Wenn du das gerade liest, kraule ich mir wahrscheinlich gerade die Eier :D",
+    "guild_bio": null,
+    "display_bio": "Wenn du das gerade liest, kraule ich mir wahrscheinlich gerade die Eier :D",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "JuKl#6578"
   }
 }
