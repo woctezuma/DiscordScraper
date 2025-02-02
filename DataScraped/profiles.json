@@ -129784,5 +129784,38 @@
       }
     },
     "legacy_username": null
+  },
+  "858750420595245057": {
+    "id": 858750420595245057,
+    "name": "hihabob",
+    "nick": null,
+    "display_name": "Hi! Ha! Bob",
+    "global_name": "Hi! Ha! Bob",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "(Syg31(bob))\nI have two rule \nrule:\n1# have a vision\n2#Don't listen to the nay-sayers\n\n-Keep it the SUPER",
+    "guild_bio": null,
+    "display_bio": "(Syg31(bob))\nI have two rule \nrule:\n1# have a vision\n2#Don't listen to the nay-sayers\n\n-Keep it the SUPER",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "1070030440",
+        "name": "syg31_",
+        "url": "https://www.twitch.tv/syg31_"
+      },
+      "youtube": {
+        "id": "UC1hqB31ZMCqZb9uQBaKQ-_A",
+        "name": "Syg31",
+        "url": "https://www.youtube.com/channel/UC1hqB31ZMCqZb9uQBaKQ-_A"
+      }
+    },
+    "legacy_username": "Hi ! Ha ! Bob#1446"
   }
 }
