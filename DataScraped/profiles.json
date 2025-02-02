@@ -128909,5 +128909,31 @@
       }
     },
     "legacy_username": null
+  },
+  "390503320646844416": {
+    "id": 390503320646844416,
+    "name": "voloshkin",
+    "nick": null,
+    "display_name": "Voloshkin",
+    "global_name": "Voloshkin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198021045018",
+        "name": "Voloshkin | FASTMM",
+        "url": "https://steamcommunity.com/profiles/76561198021045018"
+      }
+    },
+    "legacy_username": "Voloshkin#3774"
   }
 }
