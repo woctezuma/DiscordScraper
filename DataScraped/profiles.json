@@ -128361,5 +128361,59 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "118515163736309766": {
+    "id": 118515163736309766,
+    "name": "rivet",
+    "nick": null,
+    "display_name": "Rivet",
+    "global_name": "Rivet",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/118515163736309766/a_d556edd0540e5aca245fd12f50be944b.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/118515163736309766/a_d556edd0540e5aca245fd12f50be944b.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "legacy_username",
+      "premium_tenure_24_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "63502699",
+        "name": "masterd118",
+        "url": "https://www.twitch.tv/masterd118"
+      },
+      "xbox": {
+        "id": "3062333822333350",
+        "name": "GreenLotion",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=GreenLotion"
+      }
+    },
+    "legacy_username": "Rivet#4671"
+  },
+  "589819931785429022": {
+    "id": 589819931785429022,
+    "name": "retroste001",
+    "nick": null,
+    "display_name": "retroste",
+    "global_name": "retroste",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ste#6458"
   }
 }
