@@ -129087,5 +129087,36 @@
     ],
     "connections": {},
     "legacy_username": "xAxEPr0#4468"
+  },
+  "1152235918229508107": {
+    "id": 1152235918229508107,
+    "name": "dei_insane",
+    "nick": null,
+    "display_name": "Insane",
+    "global_name": "Insane",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "  :D",
+    "guild_bio": null,
+    "display_bio": "  :D",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ipq4fywbfn6xwy3ogwcxjei5wq",
+        "name": "NRG Berkay",
+        "url": "https://open.spotify.com/user/31ipq4fywbfn6xwy3ogwcxjei5wq"
+      },
+      "steam": {
+        "id": "76561199487823303",
+        "name": "BeRealMan",
+        "url": "https://steamcommunity.com/profiles/76561199487823303"
+      }
+    },
+    "legacy_username": null
   }
 }
