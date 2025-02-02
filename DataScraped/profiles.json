@@ -129118,5 +129118,59 @@
       }
     },
     "legacy_username": null
+  },
+  "244471708180938762": {
+    "id": 244471708180938762,
+    "name": "jakala.",
+    "nick": null,
+    "display_name": "Jakala",
+    "global_name": "Jakala",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1jakala",
+        "name": "1jakala",
+        "url": "https://open.spotify.com/user/1jakala"
+      }
+    },
+    "legacy_username": "Jakala#1545"
+  },
+  "648789319020052480": {
+    "id": 648789319020052480,
+    "name": "whiteboards",
+    "nick": null,
+    "display_name": "whiteboards",
+    "global_name": "whiteboards",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Sometimes when I close my eyes, I can't see",
+    "guild_bio": null,
+    "display_bio": "Sometimes when I close my eyes, I can't see",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199407734698",
+        "name": "NotBennett",
+        "url": "https://steamcommunity.com/profiles/76561199407734698"
+      }
+    },
+    "legacy_username": "whiteboards#1649"
   }
 }
