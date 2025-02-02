@@ -129450,5 +129450,26 @@
       }
     },
     "legacy_username": "TheGreatWizby#1767"
+  },
+  "143743116434866176": {
+    "id": 143743116434866176,
+    "name": "nigelkervane",
+    "nick": null,
+    "display_name": "Nigel Kervane",
+    "global_name": "Nigel Kervane",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": "Nigel Kervane#4386"
   }
 }
