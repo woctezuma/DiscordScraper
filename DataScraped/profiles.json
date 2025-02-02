@@ -129866,5 +129866,31 @@
       }
     },
     "legacy_username": "tahador#4060"
+  },
+  "678023548979118111": {
+    "id": 678023548979118111,
+    "name": "7sanxrs3",
+    "nick": null,
+    "display_name": "7sanxrs3",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3072152466422876",
+        "name": "hasan xy",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=hasan xy"
+      }
+    },
+    "legacy_username": "7san-xrs3#2734"
   }
 }
