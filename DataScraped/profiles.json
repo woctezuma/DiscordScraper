@@ -129597,5 +129597,55 @@
       }
     },
     "legacy_username": "Shweepy#3575"
+  },
+  "91193197715271680": {
+    "id": 91193197715271680,
+    "name": "biglula",
+    "nick": null,
+    "display_name": " biglula ",
+    "global_name": " biglula ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "early_supporter",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "biglula#2767",
+        "name": "biglula#2767",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "EUW1_21861477",
+        "name": "biglula",
+        "url": null
+      },
+      "spotify": {
+        "id": "biglula3",
+        "name": "Luis Maria",
+        "url": "https://open.spotify.com/user/biglula3"
+      },
+      "steam": {
+        "id": "76561198033766997",
+        "name": "biglula36",
+        "url": "https://steamcommunity.com/profiles/76561198033766997"
+      },
+      "twitch": {
+        "id": "30785957",
+        "name": "biglula",
+        "url": "https://www.twitch.tv/biglula"
+      }
+    },
+    "legacy_username": "\u2122 biglula \ud83d\udc19\u00a9\u00ae#2339"
   }
 }
