@@ -127969,5 +127969,65 @@
       }
     },
     "legacy_username": "soren37479#0439"
+  },
+  "717128593834115092": {
+    "id": 717128593834115092,
+    "name": "mesuviolet",
+    "nick": null,
+    "display_name": "Mesuviolet",
+    "global_name": "Mesuviolet",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "she/her, 20 y.o.",
+    "guild_bio": null,
+    "display_bio": "she/her, 20 y.o.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198842389802",
+        "name": "Mesuviolet",
+        "url": "https://steamcommunity.com/profiles/76561198842389802"
+      }
+    },
+    "legacy_username": null
+  },
+  "143191844061315072": {
+    "id": 143191844061315072,
+    "name": "erain01",
+    "nick": null,
+    "display_name": "Erain",
+    "global_name": "Erain",
+    "pronouns": "Robot",
+    "guild_pronouns": null,
+    "bio": "**Personality           Interest      Dislike**\nCalm                          Horror      Social Media\nQuiet                         Games      Seafood\nIntrovert                   Anime",
+    "guild_bio": null,
+    "display_bio": "**Personality           Interest      Dislike**\nCalm                          Horror      Social Media\nQuiet                         Games      Seafood\nIntrovert                   Anime",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198322786155",
+        "name": "ttv Erain01",
+        "url": "https://steamcommunity.com/profiles/76561198322786155"
+      },
+      "twitch": {
+        "id": "237655548",
+        "name": "erain01",
+        "url": "https://www.twitch.tv/erain01"
+      },
+      "youtube": {
+        "id": "UCW0sT6Kf6u8bzX8VmrxKXEg",
+        "name": "Erain01",
+        "url": "https://www.youtube.com/channel/UCW0sT6Kf6u8bzX8VmrxKXEg"
+      }
+    },
+    "legacy_username": null
   }
 }
