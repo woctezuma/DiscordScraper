@@ -128029,5 +128029,26 @@
       }
     },
     "legacy_username": null
+  },
+  "442733007103852596": {
+    "id": 442733007103852596,
+    "name": "reflectivebisio",
+    "nick": null,
+    "display_name": "Bisio",
+    "global_name": "Bisio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "   \"Nerfed\"! (   !)",
+    "guild_bio": null,
+    "display_bio": "   \"Nerfed\"! (   !)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Bisio#4463"
   }
 }
