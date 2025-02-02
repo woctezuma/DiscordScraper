@@ -128479,5 +128479,70 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "765444129157021698": {
+    "id": 765444129157021698,
+    "name": ".andrew3",
+    "nick": null,
+    "display_name": "roxasqtiee",
+    "global_name": "roxasqtiee",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "okay.",
+    "guild_bio": null,
+    "display_bio": "okay.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Andrew<3#2325"
+  },
+  "264952230946406402": {
+    "id": 264952230946406402,
+    "name": "nartthawat",
+    "nick": null,
+    "display_name": "earth",
+    "global_name": "earth",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " \n  ABOUT ME\n\n NART\n AI/ML\n INTER. COM.ENG. KMUTT\n     FFA500",
+    "guild_bio": null,
+    "display_bio": " \n  ABOUT ME\n\n NART\n AI/ML\n INTER. COM.ENG. KMUTT\n     FFA500",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "117584069",
+        "name": "Nartthawat",
+        "url": "https://github.com/Nartthawat"
+      },
+      "spotify": {
+        "id": "31i6pwx2s5pr6mbctapkz45rsiny",
+        "name": "earth",
+        "url": "https://open.spotify.com/user/31i6pwx2s5pr6mbctapkz45rsiny"
+      },
+      "steam": {
+        "id": "76561199810809291",
+        "name": "NART",
+        "url": "https://steamcommunity.com/profiles/76561199810809291"
+      },
+      "youtube": {
+        "id": "UCsehY67J5lBtXQr4IBiQrAQ",
+        "name": "NART",
+        "url": "https://www.youtube.com/channel/UCsehY67J5lBtXQr4IBiQrAQ"
+      }
+    },
+    "legacy_username": "Nartthawat#4737"
   }
 }
