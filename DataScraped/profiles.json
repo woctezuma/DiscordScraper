@@ -133076,5 +133076,77 @@
     ],
     "connections": {},
     "legacy_username": "JellyBean#1144"
+  },
+  "310766150835240960": {
+    "id": 310766150835240960,
+    "name": "cesar1299",
+    "nick": null,
+    "display_name": "cesar1299",
+    "global_name": "cesar1299",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "cesar1299#11656",
+        "name": "cesar1299#11656",
+        "url": null
+      },
+      "epic_games": {
+        "id": "c1ab236a6bad4656899456cba29cad87",
+        "name": "cesar1277",
+        "url": null
+      },
+      "facebook": {
+        "id": "1733127026794630",
+        "name": "Cesar Salmeron",
+        "url": null
+      },
+      "instagram": {
+        "id": "5027763890682170",
+        "name": "cesars1299",
+        "url": "https://www.instagram.com/cesars1299"
+      },
+      "playstation": {
+        "id": "7355836110670730423",
+        "name": "cesar1299",
+        "url": null
+      },
+      "spotify": {
+        "id": "1233672352",
+        "name": "Cesar Salmeron",
+        "url": "https://open.spotify.com/user/1233672352"
+      },
+      "steam": {
+        "id": "76561198123028914",
+        "name": "Dirtylaundry",
+        "url": "https://steamcommunity.com/profiles/76561198123028914"
+      },
+      "twitch": {
+        "id": "153872642",
+        "name": "cesv1299",
+        "url": "https://www.twitch.tv/cesv1299"
+      },
+      "xbox": {
+        "id": "3074567189574684",
+        "name": "HailCesar07",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HailCesar07"
+      },
+      "youtube": {
+        "id": "UC7lETeUdpgGH3O_6iD6gWcw",
+        "name": "Cesar Salmeron",
+        "url": "https://www.youtube.com/channel/UC7lETeUdpgGH3O_6iD6gWcw"
+      }
+    },
+    "legacy_username": "cesar1299#0926"
   }
 }
