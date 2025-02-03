@@ -132162,5 +132162,77 @@
       }
     },
     "legacy_username": "Cowrod#4587"
+  },
+  "284166120091680779": {
+    "id": 284166120091680779,
+    "name": "noizros",
+    "nick": null,
+    "display_name": "noizros",
+    "global_name": null,
+    "pronouns": "noiz",
+    "guild_pronouns": null,
+    "bio": "fala baixo\n\nhttps://discord.gg/Z5AazjFmcw",
+    "guild_bio": null,
+    "display_bio": "fala baixo\n\nhttps://discord.gg/Z5AazjFmcw",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199084206493",
+        "name": "noizros",
+        "url": "https://steamcommunity.com/profiles/76561199084206493"
+      },
+      "twitch": {
+        "id": "205304111",
+        "name": "noizros",
+        "url": "https://www.twitch.tv/noizros"
+      },
+      "youtube": {
+        "id": "UCscZvMw0U3K3hCJplR9_crg",
+        "name": "NoizRos",
+        "url": "https://www.youtube.com/channel/UCscZvMw0U3K3hCJplR9_crg"
+      }
+    },
+    "legacy_username": "noizros#0001"
+  },
+  "964441830852821022": {
+    "id": 964441830852821022,
+    "name": "vin_1x",
+    "nick": null,
+    "display_name": "vin xaner",
+    "global_name": "vin xaner",
+    "pronouns": "#1311",
+    "guild_pronouns": null,
+    "bio": "**\"You are not your roots. You and I, we are the actions we decide to take ourselves!\"**",
+    "guild_bio": null,
+    "display_bio": "**\"You are not your roots. You and I, we are the actions we decide to take ourselves!\"**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31fgjk5hokivp37i7q3hz4d7dbyi",
+        "name": "vin_1x",
+        "url": "https://open.spotify.com/user/31fgjk5hokivp37i7q3hz4d7dbyi"
+      },
+      "steam": {
+        "id": "76561199385432695",
+        "name": "yoyo",
+        "url": "https://steamcommunity.com/profiles/76561199385432695"
+      }
+    },
+    "legacy_username": "Vin_1x#6609"
   }
 }
