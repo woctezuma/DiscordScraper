@@ -131087,5 +131087,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1315034254194905180": {
+    "id": 1315034254194905180,
+    "name": "ramomaw",
+    "nick": null,
+    "display_name": "ramo",
+    "global_name": "ramo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "538807014521045025": {
+    "id": 538807014521045025,
+    "name": "albertoalbaladejo",
+    "nick": null,
+    "display_name": "Alberto Albaladejo",
+    "global_name": "Alberto Albaladejo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Alberto Albaladejo#2010"
   }
 }
