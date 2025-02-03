@@ -132614,5 +132614,115 @@
       }
     },
     "legacy_username": "Cesar230108#8477"
+  },
+  "1296362318535327804": {
+    "id": 1296362318535327804,
+    "name": "lucy080197",
+    "nick": null,
+    "display_name": "ollie",
+    "global_name": "ollie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "342098680301617158": {
+    "id": 342098680301617158,
+    "name": "sarufiyyun",
+    "nick": null,
+    "display_name": "PotatoBoi",
+    "global_name": "PotatoBoi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "PotatoBoi#5507"
+  },
+  "614461680176332800": {
+    "id": 614461680176332800,
+    "name": "nikocf",
+    "nick": null,
+    "display_name": "Niko",
+    "global_name": "Niko",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Ryzen 9800X3D  PBO -20 / +200\n32 GB DDR5 6200 CL30\nRX 7900 XTX 24 GB\n2 TB SSD 7000MBPS  NVME M.2 X4.0 \n\n> From: Castelln, Spain  \n> Residence: Moscow, Russia ",
+    "guild_bio": null,
+    "display_bio": "Ryzen 9800X3D  PBO -20 / +200\n32 GB DDR5 6200 CL30\nRX 7900 XTX 24 GB\n2 TB SSD 7000MBPS  NVME M.2 X4.0 \n\n> From: Castelln, Spain  \n> Residence: Moscow, Russia ",
+    "banner": "https://cdn.discordapp.com/banners/614461680176332800/a_c47588a6c2f7375abc4713a79b9c4c08.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/614461680176332800/a_c47588a6c2f7375abc4713a79b9c4c08.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_6_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "LogiC#21871",
+        "name": "LogiC#21871",
+        "url": null
+      },
+      "twitch": {
+        "id": "574849506",
+        "name": "nico23_tv",
+        "url": "https://www.twitch.tv/nico23_tv"
+      }
+    },
+    "legacy_username": "Nik0#0653"
+  },
+  "112937159522025472": {
+    "id": 112937159522025472,
+    "name": "rustypredator",
+    "nick": null,
+    "display_name": "Rustypredator",
+    "global_name": "Rustypredator",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198033492188",
+        "name": "Rustypredator",
+        "url": "https://steamcommunity.com/profiles/76561198033492188"
+      },
+      "twitch": {
+        "id": "53469208",
+        "name": "rustypredator",
+        "url": "https://www.twitch.tv/rustypredator"
+      },
+      "twitter": {
+        "id": "616182978",
+        "name": "Rustypredator",
+        "url": "https://twitter.com/Rustypredator"
+      }
+    },
+    "legacy_username": "Rustypredator#3765"
   }
 }
