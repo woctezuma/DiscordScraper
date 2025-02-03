@@ -130643,5 +130643,64 @@
       }
     },
     "legacy_username": "SeregirDraike#5115"
+  },
+  "223129905309810688": {
+    "id": 223129905309810688,
+    "name": "igorfs",
+    "nick": null,
+    "display_name": "Igor",
+    "global_name": "Igor",
+    "pronouns": "ele/dele",
+    "guild_pronouns": null,
+    "bio": "lvl 25\n Backend software engineer\n Messing around in game development\n\nhttps://linktr.ee/igorfsant",
+    "guild_bio": null,
+    "display_bio": "lvl 25\n Backend software engineer\n Messing around in game development\n\nhttps://linktr.ee/igorfsant",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "15912141",
+        "name": "igorfersantos",
+        "url": "https://github.com/igorfersantos"
+      },
+      "spotify": {
+        "id": "12153301643",
+        "name": "Igor Fernandes",
+        "url": "https://open.spotify.com/user/12153301643"
+      },
+      "steam": {
+        "id": "76561198078554613",
+        "name": "Igor",
+        "url": "https://steamcommunity.com/profiles/76561198078554613"
+      }
+    },
+    "legacy_username": "Igorfer#0001"
+  },
+  "244595394397339648": {
+    "id": 244595394397339648,
+    "name": "rattabaqui",
+    "nick": null,
+    "display_name": "RatTabaqui",
+    "global_name": "RatTabaqui",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "RatTabaqui#9229"
   }
 }
