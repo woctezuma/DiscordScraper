@@ -130461,5 +130461,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "319397714460672010": {
+    "id": 319397714460672010,
+    "name": "raikooo910",
+    "nick": null,
+    "display_name": "Rai",
+    "global_name": "Rai",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Tough times create strong men\nStrong men create easy times\nEasy times create weak men\nWeak men create tough times",
+    "guild_bio": null,
+    "display_bio": "Tough times create strong men\nStrong men create easy times\nEasy times create weak men\nWeak men create tough times",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Rai#4016"
   }
 }
