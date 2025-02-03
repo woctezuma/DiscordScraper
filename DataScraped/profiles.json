@@ -132125,5 +132125,42 @@
     ],
     "connections": {},
     "legacy_username": "OatmealSavage#4908"
+  },
+  "780441003823726604": {
+    "id": 780441003823726604,
+    "name": "cowrod",
+    "nick": null,
+    "display_name": "Cowrod",
+    "global_name": "Cowrod",
+    "pronouns": "any/all",
+    "guild_pronouns": null,
+    "bio": "<sound:1>",
+    "guild_bio": null,
+    "display_bio": "<sound:1>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "cow.rip",
+        "name": "cow.rip",
+        "url": null
+      },
+      "github": {
+        "id": "79338270",
+        "name": "Cowrod",
+        "url": "https://github.com/Cowrod"
+      },
+      "youtube": {
+        "id": "UCUXx0DcF5YWArlQrsbre_iA",
+        "name": "Cowrod",
+        "url": "https://www.youtube.com/channel/UCUXx0DcF5YWArlQrsbre_iA"
+      }
+    },
+    "legacy_username": "Cowrod#4587"
   }
 }
