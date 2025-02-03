@@ -132724,5 +132724,48 @@
       }
     },
     "legacy_username": "Rustypredator#3765"
+  },
+  "760165798869336125": {
+    "id": 760165798869336125,
+    "name": "hapcle8367",
+    "nick": null,
+    "display_name": "Hap",
+    "global_name": "Hap",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "- cat shenanigans :P\n- nine sols gud \n- `Rather chill for the most part, unless your an asshole. (From my perspective)`\n- Alive 24/7 `(usually)`\n- I love having ADHD :)))) `(sarcasm)`",
+    "guild_bio": null,
+    "display_bio": "- cat shenanigans :P\n- nine sols gud \n- `Rather chill for the most part, unless your an asshole. (From my perspective)`\n- Alive 24/7 `(usually)`\n- I love having ADHD :)))) `(sarcasm)`",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31e5bjy7mx3zblf4xgxvqtbyj56e",
+        "name": "Hapcle",
+        "url": "https://open.spotify.com/user/31e5bjy7mx3zblf4xgxvqtbyj56e"
+      },
+      "steam": {
+        "id": "76561198031831661",
+        "name": "Hap",
+        "url": "https://steamcommunity.com/profiles/76561198031831661"
+      },
+      "xbox": {
+        "id": "ZGE2YTRkMmI0ZWNhMTdhMjMwY2VmM2RiYWM1Njg4Y2U3MzkyOWVlZWJhNDZlZjU4NjJjMjdhOGYyMzQxMTIxNg",
+        "name": "HAPCLE",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HAPCLE"
+      },
+      "youtube": {
+        "id": "UCO5p00zmGP3m9ifEKk2v4gg",
+        "name": "Hapcle",
+        "url": "https://www.youtube.com/channel/UCO5p00zmGP3m9ifEKk2v4gg"
+      }
+    },
+    "legacy_username": "Hap#8367"
   }
 }
