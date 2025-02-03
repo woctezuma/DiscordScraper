@@ -131145,5 +131145,37 @@
     ],
     "connections": {},
     "legacy_username": "Benjamin 2.0#0018"
+  },
+  "300264925673291776": {
+    "id": 300264925673291776,
+    "name": "nokocu",
+    "nick": null,
+    "display_name": "nokocu",
+    "global_name": "nokocu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198089368604",
+        "name": "nokocu",
+        "url": "https://steamcommunity.com/profiles/76561198089368604"
+      },
+      "twitter": {
+        "id": "848563533411495936",
+        "name": "nokocuVAL",
+        "url": "https://twitter.com/nokocuVAL"
+      }
+    },
+    "legacy_username": "nokocu#1996"
   }
 }
