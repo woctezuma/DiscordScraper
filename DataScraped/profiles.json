@@ -131810,5 +131810,172 @@
     ],
     "connections": {},
     "legacy_username": "MemeFarmer#5106"
+  },
+  "877591906899619960": {
+    "id": 877591906899619960,
+    "name": "magic_goddess",
+    "nick": null,
+    "display_name": "Lunar Sorceress",
+    "global_name": "Lunar Sorceress",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Moving away from Discord to Matrix/Element",
+    "guild_bio": null,
+    "display_bio": "Moving away from Discord to Matrix/Element",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1176314540779130923": {
+    "id": 1176314540779130923,
+    "name": "1fglgames",
+    "nick": null,
+    "display_name": "1fglgames",
+    "global_name": "1fglgames",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n+\n- I'm 17 years old\n+ All good?\n- \n+\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-**",
+    "guild_bio": null,
+    "display_bio": "**-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-\n+\n- I'm 17 years old\n+ All good?\n- \n+\n-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-**",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "fglgames#1179",
+        "name": "fglgames#1179",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "010a0890-87aa-5aea-9f96-ca08d113dd11",
+        "name": "fglgames",
+        "url": null
+      },
+      "epic_games": {
+        "id": "6aafe46b60304ab68f85e510d7d8b464",
+        "name": "1fglgames",
+        "url": null
+      },
+      "instagram": {
+        "id": "8675685532502960",
+        "name": "fglgames1",
+        "url": "https://www.instagram.com/fglgames1"
+      },
+      "playstation": {
+        "id": "4436874132577397631",
+        "name": "fglgames1",
+        "url": null
+      },
+      "reddit": {
+        "id": "6mimqyiy",
+        "name": "fglgamesYTOFC",
+        "url": "https://www.reddit.com/u/fglgamesYTOFC"
+      },
+      "spotify": {
+        "id": "31g3rkaigayul6bio4khw3kzxka4",
+        "name": "fglgames",
+        "url": "https://open.spotify.com/user/31g3rkaigayul6bio4khw3kzxka4"
+      },
+      "steam": {
+        "id": "76561199061551204",
+        "name": "fglgames",
+        "url": "https://steamcommunity.com/profiles/76561199061551204"
+      },
+      "twitch": {
+        "id": "949326079",
+        "name": "fglgames1",
+        "url": "https://www.twitch.tv/fglgames1"
+      },
+      "twitter": {
+        "id": "1251250600270069761",
+        "name": "fglgames",
+        "url": "https://twitter.com/fglgames"
+      },
+      "xbox": {
+        "id": "3061687409502139",
+        "name": "fglgamesYT7953",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=fglgamesYT7953"
+      }
+    },
+    "legacy_username": null
+  },
+  "1074023979305664643": {
+    "id": 1074023979305664643,
+    "name": "heldel",
+    "nick": null,
+    "display_name": "heldel",
+    "global_name": "heldel",
+    "pronouns": "he/his",
+    "guild_pronouns": null,
+    "bio": " 110-       ",
+    "guild_bio": null,
+    "display_bio": " 110-       ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199012573680",
+        "name": "heldel",
+        "url": "https://steamcommunity.com/profiles/76561199012573680"
+      },
+      "twitch": {
+        "id": "671346109",
+        "name": "heldelfirst",
+        "url": "https://www.twitch.tv/heldelfirst"
+      }
+    },
+    "legacy_username": "Heldel#8833"
+  },
+  "444782688432553984": {
+    "id": 444782688432553984,
+    "name": "bloxie00",
+    "nick": null,
+    "display_name": "Cbloxie89 ",
+    "global_name": "Cbloxie89 ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "ADMIN",
+    "guild_bio": null,
+    "display_bio": "ADMIN",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "kimbinglikem#2730"
+  },
+  "407547557288476672": {
+    "id": 407547557288476672,
+    "name": "daeontr",
+    "nick": null,
+    "display_name": "daeontr",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "DaeonTr#5779"
   }
 }
