@@ -131447,5 +131447,99 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "369890125259210772": {
+    "id": 369890125259210772,
+    "name": "coldfusion26",
+    "nick": null,
+    "display_name": "ColdFusion26",
+    "global_name": "ColdFusion26",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "ColdFusion26#1971",
+        "name": "ColdFusion26#1971",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198003868972",
+        "name": "ColdFusion26",
+        "url": "https://steamcommunity.com/profiles/76561198003868972"
+      },
+      "xbox": {
+        "id": "v_5p2tWjra-gC7VCr-aSe58_IHpNoz5iHnfEXSDwc6M",
+        "name": "ColdFusion26",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ColdFusion26"
+      }
+    },
+    "legacy_username": "ColdFusion26#9879"
+  },
+  "961724759127777280": {
+    "id": 961724759127777280,
+    "name": "muriloviski",
+    "nick": null,
+    "display_name": "muriloviski",
+    "global_name": "muriloviski",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "3152865125951687695",
+        "name": "igodPlayerBr",
+        "url": null
+      },
+      "spotify": {
+        "id": "murilopety",
+        "name": "murilopety",
+        "url": "https://open.spotify.com/user/murilopety"
+      },
+      "steam": {
+        "id": "76561199577744515",
+        "name": "AM",
+        "url": "https://steamcommunity.com/profiles/76561199577744515"
+      }
+    },
+    "legacy_username": "muriloviski#5881"
+  },
+  "736163522928443402": {
+    "id": 736163522928443402,
+    "name": "ll0yyd_",
+    "nick": null,
+    "display_name": "foscolo",
+    "global_name": "foscolo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Foscolo#4579"
   }
 }
