@@ -130702,5 +130702,44 @@
     ],
     "connections": {},
     "legacy_username": "RatTabaqui#9229"
+  },
+  "969776871321526302": {
+    "id": 969776871321526302,
+    "name": "teikin12",
+    "nick": null,
+    "display_name": "Teiking",
+    "global_name": "Teiking",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "hola",
+    "guild_bio": null,
+    "display_bio": "hola",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Teiking12#9290"
+  },
+  "1279830088820723785": {
+    "id": 1279830088820723785,
+    "name": "marta_antena",
+    "nick": null,
+    "display_name": "marta_antena",
+    "global_name": "marta_antena",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
