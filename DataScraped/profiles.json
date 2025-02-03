@@ -130602,5 +130602,46 @@
     ],
     "connections": {},
     "legacy_username": "Index#4126"
+  },
+  "227988482398748674": {
+    "id": 227988482398748674,
+    "name": "seregir_draike",
+    "nick": null,
+    "display_name": "SeregirDraike",
+    "global_name": "SeregirDraike",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Rawr",
+    "guild_bio": null,
+    "display_bio": "Rawr",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31i6ekwel4qaks74x2bh2kzzi2je",
+        "name": "Michael",
+        "url": "https://open.spotify.com/user/31i6ekwel4qaks74x2bh2kzzi2je"
+      },
+      "steam": {
+        "id": "76561198094902744",
+        "name": "Da Gundam Boy",
+        "url": "https://steamcommunity.com/profiles/76561198094902744"
+      },
+      "twitch": {
+        "id": "868955159",
+        "name": "seregir_draike",
+        "url": "https://www.twitch.tv/seregir_draike"
+      },
+      "xbox": {
+        "id": "mRhGkrjaGigg3LgbiZISF__QUM49eaTnRhwroQ8yRpM",
+        "name": "WarriorOfMechs",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=WarriorOfMechs"
+      }
+    },
+    "legacy_username": "SeregirDraike#5115"
   }
 }
