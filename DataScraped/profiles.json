@@ -132767,5 +132767,26 @@
       }
     },
     "legacy_username": "Hap#8367"
+  },
+  "1273132197846716540": {
+    "id": 1273132197846716540,
+    "name": "drunk_crow",
+    "nick": null,
+    "display_name": "drinking crow",
+    "global_name": "drinking crow",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "all that I can see is just another lemon tree I'm turnin' my head up and down I'm turnin, turnin', turnin', turnin, turnin' around And all that I can see is just a yellow lemon tree",
+    "guild_bio": null,
+    "display_bio": "all that I can see is just another lemon tree I'm turnin' my head up and down I'm turnin, turnin', turnin', turnin, turnin' around And all that I can see is just a yellow lemon tree",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl2",
+      "premium_tenure_1_month_v2"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
