@@ -131541,5 +131541,39 @@
     ],
     "connections": {},
     "legacy_username": "Foscolo#4579"
+  },
+  "1107904031839486073": {
+    "id": 1107904031839486073,
+    "name": "ndjukic009_",
+    "nick": null,
+    "display_name": "Theunrealtalk",
+    "global_name": "Theunrealtalk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I Use Arch BTW",
+    "guild_bio": null,
+    "display_bio": "I Use Arch BTW",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "8046915257841073926",
+        "name": "NDJUKIC009",
+        "url": null
+      },
+      "reddit": {
+        "id": "z6tqc313f",
+        "name": "Electrical_Pool_5308",
+        "url": "https://www.reddit.com/u/Electrical_Pool_5308"
+      },
+      "spotify": {
+        "id": "314lxaeb4bzus64ybzu7uiuqensm",
+        "name": "Nikola",
+        "url": "https://open.spotify.com/user/314lxaeb4bzus64ybzu7uiuqensm"
+      }
+    },
+    "legacy_username": null
   }
 }
