@@ -133056,5 +133056,25 @@
       }
     },
     "legacy_username": "paulow#2502"
+  },
+  "716425550981234690": {
+    "id": 716425550981234690,
+    "name": "jelly.b",
+    "nick": null,
+    "display_name": "JellyBean",
+    "global_name": "JellyBean",
+    "pronouns": "\u2727\ud835\ude85\ud835\ude92\ud835\ude8c\ud835\ude92\ud835\ude98\ud835\ude9e\ud835\ude9c/\ud835\ude7c\ud835\ude8e\ud835\ude97\ud835\ude8a\ud835\ude8c\ud835\ude8e\u2727",
+    "guild_pronouns": null,
+    "bio": "   ~\n( )\n     \n   & \n  ",
+    "guild_bio": null,
+    "display_bio": "   ~\n( )\n     \n   & \n  ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "JellyBean#1144"
   }
 }
