@@ -131242,5 +131242,68 @@
       }
     },
     "legacy_username": null
+  },
+  "770281403937062922": {
+    "id": 770281403937062922,
+    "name": "skellyfishes",
+    "nick": null,
+    "display_name": "jojo",
+    "global_name": "jojo",
+    "pronouns": "they/he/she",
+    "guild_pronouns": null,
+    "bio": "C6 Kaz main :)\nGenshin EU: 734849739\nIdentity V NA/EU: 17247596\n                ~pfp by milkkirie\n\n!16+ dms only. i will block you!",
+    "guild_bio": null,
+    "display_bio": "C6 Kaz main :)\nGenshin EU: 734849739\nIdentity V NA/EU: 17247596\n                ~pfp by milkkirie\n\n!16+ dms only. i will block you!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "42a922344a5b4aed901301ec110542ec",
+        "name": "skellyfishies",
+        "url": null
+      },
+      "spotify": {
+        "id": "p27ku0lkv0itex43ecjxkvsbi",
+        "name": "jojo",
+        "url": "https://open.spotify.com/user/p27ku0lkv0itex43ecjxkvsbi"
+      },
+      "steam": {
+        "id": "76561199102357449",
+        "name": "skellyfishes",
+        "url": "https://steamcommunity.com/profiles/76561199102357449"
+      },
+      "xbox": {
+        "id": "OTRmMjVkOGNmYmI2OTliMjk0MDBiMGU5YjdiODI4NmI5OTU1ODY5MjcyNWI5MjQ5ZTRiYzdhN2Y1NzQ5OTFmZQ",
+        "name": "menacingbee2679",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=menacingbee2679"
+      }
+    },
+    "legacy_username": "peanut#5607"
+  },
+  "1112656012269322281": {
+    "id": 1112656012269322281,
+    "name": "nyn91",
+    "nick": null,
+    "display_name": "nyn91",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nyn91#6175"
   }
 }
