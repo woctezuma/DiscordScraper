@@ -130954,5 +130954,61 @@
       }
     },
     "legacy_username": "0mega#7878"
+  },
+  "973114756670038016": {
+    "id": 973114756670038016,
+    "name": "unitypascal",
+    "nick": null,
+    "display_name": "Heiopei",
+    "global_name": "Heiopei",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Choice_Extreme_7493#1388"
+  },
+  "489439348924612608": {
+    "id": 489439348924612608,
+    "name": "duwutape",
+    "nick": null,
+    "display_name": "duwutape",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "https://pronouns.page/u/Duwutape",
+    "guild_bio": null,
+    "display_bio": "https://pronouns.page/u/Duwutape",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "dafamasa",
+        "name": "Duwu",
+        "url": "https://open.spotify.com/user/dafamasa"
+      },
+      "steam": {
+        "id": "76561198165086396",
+        "name": "Dafa",
+        "url": "https://steamcommunity.com/profiles/76561198165086396"
+      },
+      "twitch": {
+        "id": "195761338",
+        "name": "duwutape",
+        "url": "https://www.twitch.tv/duwutape"
+      }
+    },
+    "legacy_username": null
   }
 }
