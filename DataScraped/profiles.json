@@ -130763,5 +130763,35 @@
     ],
     "connections": {},
     "legacy_username": "logan#2811"
+  },
+  "188174829742981130": {
+    "id": 188174829742981130,
+    "name": "milkcocoa",
+    "nick": null,
+    "display_name": "*",
+    "global_name": "*",
+    "pronouns": "yuka [JP]",
+    "guild_pronouns": null,
+    "bio": "- Non-Student <:chick_coldsweat:811317439463161918> \n- Composer/AE/C4D-Animator\n> 2025\n> //ENGLISH",
+    "guild_bio": null,
+    "display_bio": "- Non-Student <:chick_coldsweat:811317439463161918> \n- Composer/AE/C4D-Animator\n> 2025\n> //ENGLISH",
+    "banner": "https://cdn.discordapp.com/banners/188174829742981130/c763b4fa2b3993448ba4c4aacfd9805c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/188174829742981130/c763b4fa2b3993448ba4c4aacfd9805c.png?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_6_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199663476865",
+        "name": "\u3053\u3053\u3086\u304b",
+        "url": "https://steamcommunity.com/profiles/76561199663476865"
+      }
+    },
+    "legacy_username": "milkcocoa#3333"
   }
 }
