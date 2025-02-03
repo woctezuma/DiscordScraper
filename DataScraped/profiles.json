@@ -132050,5 +132050,40 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "133734038966894592": {
+    "id": 133734038966894592,
+    "name": "nepushiro",
+    "nick": null,
+    "display_name": "NepuShiro",
+    "global_name": "NepuShiro",
+    "pronouns": "irm https://massgrave.dev/get | iex",
+    "guild_pronouns": null,
+    "bio": "      Funny Birb.\n        The Silliest Goose of all Silly Geese\n             12am for me is <t:21600:t> for you",
+    "guild_bio": null,
+    "display_bio": "      Funny Birb.\n        The Silliest Goose of all Silly Geese\n             12am for me is <t:21600:t> for you",
+    "banner": "https://cdn.discordapp.com/banners/133734038966894592/1cbf61516a9a72c2243c6bbeebf851b5.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/133734038966894592/1cbf61516a9a72c2243c6bbeebf851b5.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_36_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "nepu.men",
+        "name": "nepu.men",
+        "url": null
+      },
+      "github": {
+        "id": "147555953",
+        "name": "NepuShiro",
+        "url": "https://github.com/NepuShiro"
+      }
+    },
+    "legacy_username": "NepuShiro#3794"
   }
 }
