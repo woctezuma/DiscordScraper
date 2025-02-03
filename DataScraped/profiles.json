@@ -130371,5 +130371,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "209020350623645696": {
+    "id": 209020350623645696,
+    "name": "jmace",
+    "nick": null,
+    "display_name": "Mace",
+    "global_name": "Mace",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Mace#1288",
+        "name": "Mace#1288",
+        "url": null
+      },
+      "epic_games": {
+        "id": "7c2b75d6c5304ba798ff104cdea52662",
+        "name": "Mace0fSpades7",
+        "url": null
+      },
+      "steam": {
+        "id": "76561197961406578",
+        "name": "mace0fspades",
+        "url": "https://steamcommunity.com/profiles/76561197961406578"
+      },
+      "twitch": {
+        "id": "58695821",
+        "name": "mace0fspades",
+        "url": "https://www.twitch.tv/mace0fspades"
+      },
+      "twitter": {
+        "id": "16092355",
+        "name": "John_Mace",
+        "url": "https://twitter.com/John_Mace"
+      },
+      "xbox": {
+        "id": "3072945890115300",
+        "name": "Loderunner",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Loderunner"
+      }
+    },
+    "legacy_username": "Mace#9082"
   }
 }
