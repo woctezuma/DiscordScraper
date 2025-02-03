@@ -130422,5 +130422,44 @@
       }
     },
     "legacy_username": "Mace#9082"
+  },
+  "418409055871172619": {
+    "id": 418409055871172619,
+    "name": "b4kuretsu",
+    "nick": null,
+    "display_name": "Retsu",
+    "global_name": "Retsu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Retsu#8352"
+  },
+  "1260242489382666284": {
+    "id": 1260242489382666284,
+    "name": "ernestt1984",
+    "nick": null,
+    "display_name": "ErnestT1984",
+    "global_name": "ErnestT1984",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
