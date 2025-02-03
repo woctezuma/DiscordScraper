@@ -130296,5 +130296,80 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "271265759185993729": {
+    "id": 271265759185993729,
+    "name": "ahirun",
+    "nick": null,
+    "display_name": "ahirun",
+    "global_name": "ahirun",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Diablo\n\n__****__\n\nhttps://beerbrick.com\nDiablo\nhttps://beerbrickd.com/",
+    "guild_bio": null,
+    "display_bio": "Diablo\n\n__****__\n\nhttps://beerbrick.com\nDiablo\nhttps://beerbrickd.com/",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "184586316",
+        "name": "beerbrick",
+        "url": "https://www.twitch.tv/beerbrick"
+      }
+    },
+    "legacy_username": "ahirun#8898"
+  },
+  "543185060526817291": {
+    "id": 543185060526817291,
+    "name": "elitesnip3r019",
+    "nick": null,
+    "display_name": "Elit3Snip3r019",
+    "global_name": "Elit3Snip3r019",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2544878033042381682",
+        "name": "Elit3Snip3r019",
+        "url": null
+      },
+      "xbox": {
+        "id": "ZjUyODBkOWRjNGFiMjNhY2VjODIxMmU4YWU2NjBkYzUyNzRjZWE2YTUyMDU4YzhkZTYxOWVjNWQwYWViY2I3Ng",
+        "name": "Elit3Snip3r019",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Elit3Snip3r019"
+      }
+    },
+    "legacy_username": "EliteSnip3r#1146"
+  },
+  "1335812000852348961": {
+    "id": 1335812000852348961,
+    "name": "solostreem_49713",
+    "nick": null,
+    "display_name": "Solostreem",
+    "global_name": "Solostreem",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
