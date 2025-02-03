@@ -131345,5 +131345,33 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "757057836655050894": {
+    "id": 757057836655050894,
+    "name": "minqan5822",
+    "nick": null,
+    "display_name": "MinQan",
+    "global_name": "MinQan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3061297034472747",
+        "name": "MinhQuan58",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MinhQuan58"
+      }
+    },
+    "legacy_username": "MinQan#8995"
   }
 }
