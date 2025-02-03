@@ -131732,5 +131732,25 @@
       }
     },
     "legacy_username": null
+  },
+  "814856826905821227": {
+    "id": 814856826905821227,
+    "name": "soloz3510",
+    "nick": null,
+    "display_name": "Soloz",
+    "global_name": "Soloz",
+    "pronouns": "Male",
+    "guild_pronouns": null,
+    "bio": "Allah itu maha penyayang",
+    "guild_bio": null,
+    "display_bio": "Allah itu maha penyayang",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Soloz#3510"
   }
 }
