@@ -132490,5 +132490,53 @@
       }
     },
     "legacy_username": "~Bottom Moment\u2122~#3730"
+  },
+  "402530651825373186": {
+    "id": 402530651825373186,
+    "name": "anewlife24",
+    "nick": null,
+    "display_name": "anewlife24",
+    "global_name": "anewlife24",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "i drink sprite. and i'm a lucky mf",
+    "guild_bio": null,
+    "display_bio": "i drink sprite. and i'm a lucky mf",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "1jx1q0f7lv2y6w63aik5kzeot",
+        "name": "anewlife24",
+        "url": "https://open.spotify.com/user/1jx1q0f7lv2y6w63aik5kzeot"
+      },
+      "steam": {
+        "id": "76561198128018282",
+        "name": "Anewlife23",
+        "url": "https://steamcommunity.com/profiles/76561198128018282"
+      },
+      "twitter": {
+        "id": "1058933595325100032",
+        "name": "Anewlife24",
+        "url": "https://twitter.com/Anewlife24"
+      },
+      "xbox": {
+        "id": "3062270212460115",
+        "name": "Anewlife24",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Anewlife24"
+      },
+      "youtube": {
+        "id": "UC4jE0dNFOEQEJRgSbWJSSzw",
+        "name": "Anewlife24",
+        "url": "https://www.youtube.com/channel/UC4jE0dNFOEQEJRgSbWJSSzw"
+      }
+    },
+    "legacy_username": "anewlife24#8299"
   }
 }
