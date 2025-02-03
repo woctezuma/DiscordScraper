@@ -133148,5 +133148,55 @@
       }
     },
     "legacy_username": "cesar1299#0926"
+  },
+  "451827919354855424": {
+    "id": 451827919354855424,
+    "name": ".tadeus",
+    "nick": null,
+    "display_name": "Tadeus",
+    "global_name": "Tadeus",
+    "pronouns": "tally/hall",
+    "guild_pronouns": null,
+    "bio": "pfp by schlimbo\n\n(no, I dont watch anime, I just like INABAKUMORI)",
+    "guild_bio": null,
+    "display_bio": "pfp by schlimbo\n\n(no, I dont watch anime, I just like INABAKUMORI)",
+    "banner": "https://cdn.discordapp.com/banners/451827919354855424/a_c06f95f4222b423bc189d0249b373b9e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/451827919354855424/a_c06f95f4222b423bc189d0249b373b9e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_24_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "4lp8u3nk",
+        "name": "TadeusTentakel2907",
+        "url": "https://www.reddit.com/u/TadeusTentakel2907"
+      },
+      "spotify": {
+        "id": "b2rhwzgveipf6xlrqo3p8tyjf",
+        "name": "TadeusSlovak",
+        "url": "https://open.spotify.com/user/b2rhwzgveipf6xlrqo3p8tyjf"
+      },
+      "steam": {
+        "id": "76561198128910705",
+        "name": "bush after seeing ground zero",
+        "url": "https://steamcommunity.com/profiles/76561198128910705"
+      },
+      "twitch": {
+        "id": "278231601",
+        "name": "tadeus2907",
+        "url": "https://www.twitch.tv/tadeus2907"
+      },
+      "twitter": {
+        "id": "913443773740453888",
+        "name": "TrainfanA",
+        "url": "https://twitter.com/TrainfanA"
+      }
+    },
+    "legacy_username": "Tadeus#6259"
   }
 }
