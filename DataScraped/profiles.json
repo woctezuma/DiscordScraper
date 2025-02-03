@@ -131391,5 +131391,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "466262583046045697": {
+    "id": 466262583046045697,
+    "name": "haroldo_777",
+    "nick": null,
+    "display_name": "HAROLDO",
+    "global_name": "HAROLDO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31fxg2md2ju3x34i3qdo4dozkrke",
+        "name": "Haroldo",
+        "url": "https://open.spotify.com/user/31fxg2md2ju3x34i3qdo4dozkrke"
+      },
+      "twitch": {
+        "id": "440792039",
+        "name": "haroldodioz",
+        "url": "https://www.twitch.tv/haroldodioz"
+      },
+      "xbox": {
+        "id": "YmQ2NDQwYjE0NWJjZmNkOTJjZDAzMTVkMDJhZmM5MzBkODBkMzlkNTUzNzlkOGVjNDIwMjY0NWZkYTE3MjI0Nw",
+        "name": "haroldo Games",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=haroldo Games"
+      }
+    },
+    "legacy_username": "HAROLDO GAMER#8543"
   }
 }
