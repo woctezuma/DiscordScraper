@@ -132561,5 +132561,58 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "745309042792071272": {
+    "id": 745309042792071272,
+    "name": "tradebug",
+    "nick": null,
+    "display_name": "tradebug",
+    "global_name": "tradebug",
+    "pronouns": "\u00f6/\u0151",
+    "guild_pronouns": null,
+    "bio": " \n\nkaptam nitro-t geci\nelmlt ",
+    "guild_bio": null,
+    "display_bio": " \n\nkaptam nitro-t geci\nelmlt ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "tradebug#8997"
+  },
+  "844305101732315137": {
+    "id": 844305101732315137,
+    "name": "cesar230108",
+    "nick": null,
+    "display_name": "Cesar230108",
+    "global_name": "Cesar230108",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199237721009",
+        "name": "cesar230108",
+        "url": "https://steamcommunity.com/profiles/76561199237721009"
+      },
+      "youtube": {
+        "id": "UC_RtsDg8WcEEsr76czXiQ8Q",
+        "name": "Cesar2318",
+        "url": "https://www.youtube.com/channel/UC_RtsDg8WcEEsr76czXiQ8Q"
+      }
+    },
+    "legacy_username": "Cesar230108#8477"
   }
 }
