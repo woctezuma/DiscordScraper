@@ -133020,5 +133020,41 @@
       }
     },
     "legacy_username": "AspenRose#8254"
+  },
+  "525732339712655374": {
+    "id": 525732339712655374,
+    "name": "cybermotocicleta",
+    "nick": null,
+    "display_name": "paulo",
+    "global_name": "paulo",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "9a858f1e73fb45ce866b9b2cf5262645",
+        "name": "paulow4235",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199101440105",
+        "name": "paulow",
+        "url": "https://steamcommunity.com/profiles/76561199101440105"
+      },
+      "xbox": {
+        "id": "3073395946189805",
+        "name": "paulow4235",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=paulow4235"
+      }
+    },
+    "legacy_username": "paulow#2502"
   }
 }
