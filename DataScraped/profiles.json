@@ -130218,5 +130218,83 @@
       }
     },
     "legacy_username": "Zyred#0711"
+  },
+  "147370327175987200": {
+    "id": 147370327175987200,
+    "name": "ltmiki",
+    "nick": null,
+    "display_name": "LtMiki",
+    "global_name": "LtMiki",
+    "pronouns": "He/Him/BleedingBlue",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/147370327175987200/ad540cb507d54703106a76370f83e123.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/147370327175987200/ad540cb507d54703106a76370f83e123.png?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "806f7b32-fe1f-539b-b00d-931bbb8830ff",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "eune_64564916",
+        "name": "FelWarlock",
+        "url": null
+      },
+      "playstation": {
+        "id": "6195001679611538370",
+        "name": "LtMedinic",
+        "url": null
+      },
+      "spotify": {
+        "id": "lkbgc9sknvgodnwx9pmsc7fl3",
+        "name": "Mirza",
+        "url": "https://open.spotify.com/user/lkbgc9sknvgodnwx9pmsc7fl3"
+      },
+      "steam": {
+        "id": "76561198059909181",
+        "name": "Lt.Miky",
+        "url": "https://steamcommunity.com/profiles/76561198059909181"
+      },
+      "twitch": {
+        "id": "95509071",
+        "name": "ltmedinic",
+        "url": "https://www.twitch.tv/ltmedinic"
+      },
+      "xbox": {
+        "id": "3061828985773813",
+        "name": "LtMiky",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LtMiky"
+      }
+    },
+    "legacy_username": "LtMiki#0771"
+  },
+  "1332834518742339705": {
+    "id": 1332834518742339705,
+    "name": "yousef002622",
+    "nick": null,
+    "display_name": "YOUSEF",
+    "global_name": "YOUSEF",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
