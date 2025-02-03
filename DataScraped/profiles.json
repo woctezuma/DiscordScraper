@@ -132085,5 +132085,45 @@
       }
     },
     "legacy_username": "NepuShiro#3794"
+  },
+  "876874779947307128": {
+    "id": 876874779947307128,
+    "name": "warfly26",
+    "nick": null,
+    "display_name": "warfly26",
+    "global_name": "warfly26",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "warfly26#1492"
+  },
+  "202442675587252224": {
+    "id": 202442675587252224,
+    "name": "oatmealsavage",
+    "nick": null,
+    "display_name": "OatmealSavage",
+    "global_name": "OatmealSavage",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "OatmealSavage#4908"
   }
 }
