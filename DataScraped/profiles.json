@@ -131177,5 +131177,70 @@
       }
     },
     "legacy_username": "nokocu#1996"
+  },
+  "146907732237221888": {
+    "id": 146907732237221888,
+    "name": "dimavesnin",
+    "nick": null,
+    "display_name": "dima",
+    "global_name": "dima",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "<:rebeltrophy:1268162944336658452> \n\nwishlist Tails Noir: Rebel Rush on steam\n\nhttps://store.steampowered.com/app/3001200/Tails_Noir_Rebel_Rush/",
+    "guild_bio": null,
+    "display_bio": "<:rebeltrophy:1268162944336658452> \n\nwishlist Tails Noir: Rebel Rush on steam\n\nhttps://store.steampowered.com/app/3001200/Tails_Noir_Rebel_Rush/",
+    "banner": "https://cdn.discordapp.com/banners/146907732237221888/a_3fe45518a3e13833079246f1f4e9f681.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/146907732237221888/a_3fe45518a3e13833079246f1f4e9f681.gif?size=512",
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_12_month_v2"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ptgplmffku2uw2uqxk6ajgs5au",
+        "name": "Dima",
+        "url": "https://open.spotify.com/user/31ptgplmffku2uw2uqxk6ajgs5au"
+      },
+      "steam": {
+        "id": "76561198045078584",
+        "name": "dimavesnin",
+        "url": "https://steamcommunity.com/profiles/76561198045078584"
+      }
+    },
+    "legacy_username": "dimavesnin#8718"
+  },
+  "754705084318875710": {
+    "id": 754705084318875710,
+    "name": "mrt23",
+    "nick": null,
+    "display_name": "Nabati Kaca",
+    "global_name": "Nabati Kaca",
+    "pronouns": "Eat ate eaten",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199263622889",
+        "name": "fiansyofianasetiadi",
+        "url": "https://steamcommunity.com/profiles/76561199263622889"
+      },
+      "youtube": {
+        "id": "UC6s9duzPgg3Ud93IqgCX99w",
+        "name": "ThunderZ",
+        "url": "https://www.youtube.com/channel/UC6s9duzPgg3Ud93IqgCX99w"
+      }
+    },
+    "legacy_username": null
   }
 }
