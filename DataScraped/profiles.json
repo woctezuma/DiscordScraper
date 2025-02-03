@@ -131010,5 +131010,23 @@
       }
     },
     "legacy_username": null
+  },
+  "1317874837020217366": {
+    "id": 1317874837020217366,
+    "name": "2001icedoutuzi",
+    "nick": null,
+    "display_name": "icedoutuzi",
+    "global_name": "icedoutuzi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Im not new to discord, i just deleted my old account",
+    "guild_bio": null,
+    "display_bio": "Im not new to discord, i just deleted my old account",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
