@@ -131125,5 +131125,25 @@
     ],
     "connections": {},
     "legacy_username": "Alberto Albaladejo#2010"
+  },
+  "1061648555036651540": {
+    "id": 1061648555036651540,
+    "name": ".benjamin2.0",
+    "nick": null,
+    "display_name": "Benni",
+    "global_name": "Benni",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Benjamin 2.0#0018"
   }
 }
