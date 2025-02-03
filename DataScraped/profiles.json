@@ -130519,5 +130519,47 @@
       }
     },
     "legacy_username": "Ameyzingly Based and Redpilled#2308"
+  },
+  "1281820140786286646": {
+    "id": 1281820140786286646,
+    "name": "atom.2626",
+    "nick": null,
+    "display_name": "Dante.Kagenou",
+    "global_name": "Dante.Kagenou",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1088802198407884878": {
+    "id": 1088802198407884878,
+    "name": "di3rlik6",
+    "nick": null,
+    "display_name": "DanMod228",
+    "global_name": "DanMod228",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199570048257",
+        "name": "[D3XD9 | L4D2]",
+        "url": "https://steamcommunity.com/profiles/76561199570048257"
+      }
+    },
+    "legacy_username": null
   }
 }
