@@ -130481,5 +130481,43 @@
     ],
     "connections": {},
     "legacy_username": "Rai#4016"
+  },
+  "634531947322015745": {
+    "id": 634531947322015745,
+    "name": "yourlord69",
+    "nick": null,
+    "display_name": "YourLord",
+    "global_name": "YourLord",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "jeevitaraj04",
+        "name": "jeevitaraj04",
+        "url": "https://open.spotify.com/user/jeevitaraj04"
+      },
+      "steam": {
+        "id": "76561199036710861",
+        "name": "oztralian69",
+        "url": "https://steamcommunity.com/profiles/76561199036710861"
+      },
+      "xbox": {
+        "id": "NjU0NWNiYWY4YTkyZTU4MWJkMmRmNjQ4ZmQxYTM2YjNmMWI3NDg2ODQwMTRjYTE0ZTBmNjY1NDMyZTAyZGU2Mg",
+        "name": "MEGAKING544",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=MEGAKING544"
+      }
+    },
+    "legacy_username": "Ameyzingly Based and Redpilled#2308"
   }
 }
