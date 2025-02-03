@@ -132788,5 +132788,90 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "1322347483514273902": {
+    "id": 1322347483514273902,
+    "name": "thiago034195",
+    "nick": null,
+    "display_name": "Thiago",
+    "global_name": "Thiago",
+    "pronouns": "juego pixelmon",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1313939169554464780": {
+    "id": 1313939169554464780,
+    "name": "a14n96",
+    "nick": null,
+    "display_name": "19AMN96",
+    "global_name": "19AMN96",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "847932588701253673": {
+    "id": 847932588701253673,
+    "name": "starlightspin",
+    "nick": null,
+    "display_name": "- Kal -",
+    "global_name": "- Kal -",
+    "pronouns": "they/voi/ve/ae",
+    "guild_pronouns": null,
+    "bio": "-Pokmon & oc enthusiast\n-Queer, Demi, & Agender\n-CST\n-Silly goofy guy lover\n\npfp by DandyLionz on th\nhttps://en.pronouns.page/@starlightspin",
+    "guild_bio": null,
+    "display_bio": "-Pokmon & oc enthusiast\n-Queer, Demi, & Agender\n-CST\n-Silly goofy guy lover\n\npfp by DandyLionz on th\nhttps://en.pronouns.page/@starlightspin",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31qhdt4ff2paldzlsbrb2it4czlm",
+        "name": "starlightspin",
+        "url": "https://open.spotify.com/user/31qhdt4ff2paldzlsbrb2it4czlm"
+      },
+      "steam": {
+        "id": "76561199732305816",
+        "name": "therearetwowolvesinsideme",
+        "url": "https://steamcommunity.com/profiles/76561199732305816"
+      }
+    },
+    "legacy_username": null
+  },
+  "993735941636243537": {
+    "id": 993735941636243537,
+    "name": "saltedsword",
+    "nick": null,
+    "display_name": "Valarie (flowers)",
+    "global_name": "Valarie (flowers)",
+    "pronouns": "she/it",
+    "guild_pronouns": null,
+    "bio": "The axe forgets, the tree remembers. \n\n\nAvid roguelike and fighting game girlfailure.\nTrans, ace and, pan (Don't ask how im both its odd.)\n-Sharks \n-Science\n-I know what you are ",
+    "guild_bio": null,
+    "display_bio": "The axe forgets, the tree remembers. \n\n\nAvid roguelike and fighting game girlfailure.\nTrans, ace and, pan (Don't ask how im both its odd.)\n-Sharks \n-Science\n-I know what you are ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "SaltedSword#6284"
   }
 }
