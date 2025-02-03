@@ -130908,5 +130908,51 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "970785168291926086": {
+    "id": 970785168291926086,
+    "name": "0mega.png",
+    "nick": null,
+    "display_name": "0mega",
+    "global_name": "0mega",
+    "pronouns": "peeranswer.com",
+    "guild_pronouns": null,
+    "bio": "Professional People Hater :ddoubt:",
+    "guild_bio": null,
+    "display_bio": "Professional People Hater :ddoubt:",
+    "banner": "https://cdn.discordapp.com/banners/970785168291926086/3733a6ad6e75bc45b25b78d29d0f0816.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/970785168291926086/3733a6ad6e75bc45b25b78d29d0f0816.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl5",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "76fe66610c50426d92bfeb8c61d85cc4",
+        "name": "OM3G8",
+        "url": null
+      },
+      "playstation": {
+        "id": "9065916091039233461",
+        "name": "McVisitor",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "98105717",
+        "name": "McVisit0r",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198280367717",
+        "name": "0mega",
+        "url": "https://steamcommunity.com/profiles/76561198280367717"
+      }
+    },
+    "legacy_username": "0mega#7878"
   }
 }
