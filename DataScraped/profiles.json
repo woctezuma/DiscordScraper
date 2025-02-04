@@ -133829,5 +133829,25 @@
       }
     },
     "legacy_username": "K\u0336\u00da\u531a\u3093\uff89#8338"
+  },
+  "403917431736893441": {
+    "id": 403917431736893441,
+    "name": "rekumi",
+    "nick": null,
+    "display_name": "Rekumi",
+    "global_name": "Rekumi",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Rekumi#6529"
   }
 }
