@@ -133198,5 +133198,47 @@
       }
     },
     "legacy_username": "Tadeus#6259"
+  },
+  "911111404998783026": {
+    "id": 911111404998783026,
+    "name": "dennypainter",
+    "nick": null,
+    "display_name": "Denny",
+    "global_name": "Denny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "DarkPain#3378"
+  },
+  "350012566224896000": {
+    "id": 350012566224896000,
+    "name": "wagnercalmon",
+    "nick": null,
+    "display_name": "Papa Mike",
+    "global_name": "Papa Mike",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium_tenure_3_month_v2"
+    ],
+    "connections": {},
+    "legacy_username": "Swagger#5790"
   }
 }
