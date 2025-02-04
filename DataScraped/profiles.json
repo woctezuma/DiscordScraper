@@ -139501,5 +139501,42 @@
     ],
     "connections": {},
     "legacy_username": "Muamuic#8599"
+  },
+  "404524183868014592": {
+    "id": 404524183868014592,
+    "name": "darylsun",
+    "nick": null,
+    "display_name": "Daryl",
+    "global_name": "Daryl",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": "25+ | Philippines | 12:00 AM for me is <t:1728489600:t> for you | https://darylsun.page/ | I play with software and videogames. Sometimes I write things.",
+    "guild_bio": null,
+    "display_bio": "25+ | Philippines | 12:00 AM for me is <t:1728489600:t> for you | https://darylsun.page/ | I play with software and videogames. Sometimes I write things.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "unknown_domain": {
+        "id": "darylsun.page",
+        "name": "darylsun.page",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199223228397",
+        "name": "Daryl Sun",
+        "url": "https://steamcommunity.com/profiles/76561199223228397"
+      },
+      "xbox": {
+        "id": "3066518274071886",
+        "name": "DarylSun4274",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DarylSun4274"
+      }
+    },
+    "legacy_username": "DarylSun#1106"
   }
 }
