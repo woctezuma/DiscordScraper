@@ -133702,5 +133702,42 @@
       }
     },
     "legacy_username": "xxx0401#5147"
+  },
+  "258945218991095818": {
+    "id": 258945218991095818,
+    "name": "kyrie1397",
+    "nick": null,
+    "display_name": "Kyrie",
+    "global_name": "Kyrie",
+    "pronouns": "they/them",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "1712373432108968",
+        "name": "Tammie Tan",
+        "url": null
+      },
+      "spotify": {
+        "id": "21jsk2qcsr3xhab2l3hpuz23q",
+        "name": "Tammie Tan",
+        "url": "https://open.spotify.com/user/21jsk2qcsr3xhab2l3hpuz23q"
+      },
+      "steam": {
+        "id": "76561198349610901",
+        "name": "Kyrie",
+        "url": "https://steamcommunity.com/profiles/76561198349610901"
+      }
+    },
+    "legacy_username": "Kyrie#1397"
   }
 }
