@@ -140843,5 +140843,87 @@
       }
     },
     "legacy_username": "Lion#3933"
+  },
+  "844940749576601630": {
+    "id": 844940749576601630,
+    "name": "sabrialbaghdadi",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "    \n    |    \nMy Discord : https://discord.gg/ghVbgWybdK\n    ",
+    "guild_bio": null,
+    "display_bio": "    \n    |    \nMy Discord : https://discord.gg/ghVbgWybdK\n    ",
+    "banner": "https://cdn.discordapp.com/banners/844940749576601630/a_39beb3ad29f5ae9974b351cec4f07e1e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/844940749576601630/a_39beb3ad29f5ae9974b351cec4f07e1e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium_tenure_1_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UCRsJK54x3G5KWmaVF_ioUWA",
+        "name": "BlackEvill GAMING",
+        "url": "https://www.youtube.com/channel/UCRsJK54x3G5KWmaVF_ioUWA"
+      }
+    },
+    "legacy_username": "\ud835\udd4a\ud835\udd38\ud835\udd39\u211d\ud835\udd40 \ud835\udd38\ud835\udd43\ud835\udd39\ud835\udd38\ud835\udd3e\u210d\ud835\udd3b\ud835\udd38\ud835\udd3b\ud835\udd40#4453"
+  },
+  "248455607416258560": {
+    "id": 248455607416258560,
+    "name": "trymelymlym",
+    "nick": null,
+    "display_name": "Trymmelym",
+    "global_name": "Trymmelym",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Trym#1108"
+  },
+  "691620711118143569": {
+    "id": 691620711118143569,
+    "name": "nil_moreno",
+    "nick": null,
+    "display_name": "Nil Moreno",
+    "global_name": "Nil Moreno",
+    "pronouns": "Fastro",
+    "guild_pronouns": null,
+    "bio": "Hola, soy Fastro",
+    "guild_bio": null,
+    "display_bio": "Hola, soy Fastro",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "88193842",
+        "name": "nilmoreno128",
+        "url": "https://github.com/nilmoreno128"
+      },
+      "steam": {
+        "id": "76561198894586735",
+        "name": "Fastro",
+        "url": "https://steamcommunity.com/profiles/76561198894586735"
+      }
+    },
+    "legacy_username": null
   }
 }
