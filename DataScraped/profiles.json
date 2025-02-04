@@ -133906,5 +133906,29 @@
       }
     },
     "legacy_username": "\u043d\u0438\u043a\u0442\u043e#2680"
+  },
+  "431724250831781908": {
+    "id": 431724250831781908,
+    "name": "kidipapy",
+    "nick": null,
+    "display_name": "Kidipapy",
+    "global_name": "Kidipapy",
+    "pronouns": "Tut tut fils de pute",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/431724250831781908/a_73b20bf43a9c0a6476b3e25e784430fa.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/431724250831781908/a_73b20bf43a9c0a6476b3e25e784430fa.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Kidipapy#8743"
   }
 }
