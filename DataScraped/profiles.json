@@ -140152,5 +140152,49 @@
       }
     },
     "legacy_username": "Alexifeu#8721"
+  },
+  "830860654104674314": {
+    "id": 830860654104674314,
+    "name": "ppppppppppkim",
+    "nick": null,
+    "display_name": "ppppppppppkim",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"I am thou, thou art I... Thou hast birthed a bond clad in the heart's strength.\n\nThis union, born and embraced by will unyielding, shall become the balefire that lights thy path.\"",
+    "guild_bio": null,
+    "display_bio": "\"I am thou, thou art I... Thou hast birthed a bond clad in the heart's strength.\n\nThis union, born and embraced by will unyielding, shall become the balefire that lights thy path.\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199180949908",
+        "name": "ppppppppppkim",
+        "url": "https://steamcommunity.com/profiles/76561199180949908"
+      }
+    },
+    "legacy_username": null
+  },
+  "774651509128036373": {
+    "id": 774651509128036373,
+    "name": "avjj",
+    "nick": null,
+    "display_name": "New",
+    "global_name": "New",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
