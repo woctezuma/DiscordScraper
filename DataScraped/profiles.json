@@ -140548,5 +140548,66 @@
       }
     },
     "legacy_username": "birdie#9632"
+  },
+  "472008220659941376": {
+    "id": 472008220659941376,
+    "name": "nuvav13",
+    "nick": null,
+    "display_name": "NuvAv13",
+    "global_name": "NuvAv13",
+    "pronouns": "Sonder Kraftfahrzeug 234/4 - PaK Puma 40",
+    "guild_pronouns": null,
+    "bio": "MAL: https://myanimelist.net/animelist/NuvAv13\n\n#ZZPTSU\n\n\n\nACCURASE NEMO SE DEBET\n\n\"Praca czyni wolnym, a wolno jest iluzj. Iluzja jest perspektyw, a perspektwa nie jest prawd.\"",
+    "guild_bio": null,
+    "display_bio": "MAL: https://myanimelist.net/animelist/NuvAv13\n\n#ZZPTSU\n\n\n\nACCURASE NEMO SE DEBET\n\n\"Praca czyni wolnym, a wolno jest iluzj. Iluzja jest perspektyw, a perspektwa nie jest prawd.\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "15atflw30t",
+        "name": "NuvA_v13",
+        "url": "https://www.reddit.com/u/NuvA_v13"
+      },
+      "steam": {
+        "id": "76561198407039570",
+        "name": "NuvA v13",
+        "url": "https://steamcommunity.com/profiles/76561198407039570"
+      },
+      "twitch": {
+        "id": "508445838",
+        "name": "nuvav13",
+        "url": "https://www.twitch.tv/nuvav13"
+      },
+      "xbox": {
+        "id": "3062564663945331",
+        "name": "Agelgium",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Agelgium"
+      }
+    },
+    "legacy_username": "NuvA v13#6110"
+  },
+  "1205571351705034755": {
+    "id": 1205571351705034755,
+    "name": "mr_smile0510",
+    "nick": null,
+    "display_name": "Mr_smile0510",
+    "global_name": "Mr_smile0510",
+    "pronouns": "I AM A MAN \ud83d\udd25",
+    "guild_pronouns": null,
+    "bio": "Subscribe to Smiley0510 on YouTube\n(I never would even think about 10k subs, thank you soo much )\n\nGood charter, also making mods (you can see them on my channel)",
+    "guild_bio": null,
+    "display_bio": "Subscribe to Smiley0510 on YouTube\n(I never would even think about 10k subs, thank you soo much )\n\nGood charter, also making mods (you can see them on my channel)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
