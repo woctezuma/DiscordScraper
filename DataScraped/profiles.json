@@ -139943,5 +139943,81 @@
       }
     },
     "legacy_username": "Cariango#8008"
+  },
+  "974872637861941289": {
+    "id": 974872637861941289,
+    "name": "muynh",
+    "nick": null,
+    "display_name": "muynh",
+    "global_name": null,
+    "pronouns": "Vietnamese \uaa04  21",
+    "guild_pronouns": null,
+    "bio": "STEM nerd but i sing smtimes\n\nAlex's goddess <:uwu:797180660829126676>",
+    "guild_bio": null,
+    "display_bio": "STEM nerd but i sing smtimes\n\nAlex's goddess <:uwu:797180660829126676>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "muynh#1288"
+  },
+  "341022573578158082": {
+    "id": 341022573578158082,
+    "name": "bimomogi13",
+    "nick": null,
+    "display_name": "bimbim",
+    "global_name": "bimbim",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198423304745",
+        "name": "xoxo",
+        "url": "https://steamcommunity.com/profiles/76561198423304745"
+      },
+      "twitch": {
+        "id": "270671995",
+        "name": "morvelleus",
+        "url": "https://www.twitch.tv/morvelleus"
+      }
+    },
+    "legacy_username": null
+  },
+  "76178459809808384": {
+    "id": 76178459809808384,
+    "name": "texzetech",
+    "nick": null,
+    "display_name": "TexZeTech",
+    "global_name": "TexZeTech",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/76178459809808384/a_2faba4c4256827867e478d3ae5033140.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/76178459809808384/a_2faba4c4256827867e478d3ae5033140.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "legacy_username",
+      "premium_tenure_36_month_v2"
+    ],
+    "connections": {},
+    "legacy_username": "TexZeTech#9206"
   }
 }
