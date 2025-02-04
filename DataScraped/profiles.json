@@ -140404,5 +140404,25 @@
     ],
     "connections": {},
     "legacy_username": "Akibyo#0749"
+  },
+  "710095533934379008": {
+    "id": 710095533934379008,
+    "name": "kastrator_",
+    "nick": null,
+    "display_name": "Dado",
+    "global_name": "Dado",
+    "pronouns": "ga/nig",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Dado#6442"
   }
 }
