@@ -140424,5 +140424,25 @@
     ],
     "connections": {},
     "legacy_username": "Dado#6442"
+  },
+  "370374228215595009": {
+    "id": 370374228215595009,
+    "name": "daawesomep",
+    "nick": null,
+    "display_name": "DaAwesomeP",
+    "global_name": "DaAwesomeP",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "DaAwesomeP#0759"
   }
 }
