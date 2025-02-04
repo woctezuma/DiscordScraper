@@ -133432,5 +133432,89 @@
       }
     },
     "legacy_username": "Hellbilly91#9575"
+  },
+  "868897288758636564": {
+    "id": 868897288758636564,
+    "name": "jason823543",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\u7c43\u7403",
+    "guild_pronouns": null,
+    "bio": "~\n\n~\n~",
+    "guild_bio": null,
+    "display_bio": "~\n\n~\n~",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Jason823543#4596"
+  },
+  "516766258197299200": {
+    "id": 516766258197299200,
+    "name": "weegee30",
+    "nick": null,
+    "display_name": "Weegee",
+    "global_name": "Weegee",
+    "pronouns": "stupid/weeb",
+    "guild_pronouns": null,
+    "bio": "@weegee31 is my alt\n\nhttps://retroachievements.org/user/Weegee30\n\nIf you're reading this, I just wanna say have a wonderful day and God bless you.",
+    "guild_bio": null,
+    "display_bio": "@weegee31 is my alt\n\nhttps://retroachievements.org/user/Weegee30\n\nIf you're reading this, I just wanna say have a wonderful day and God bless you.",
+    "banner": "https://cdn.discordapp.com/banners/516766258197299200/30bf48ae45dcc07531d20b7fe5dd9dba.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/516766258197299200/30bf48ae45dcc07531d20b7fe5dd9dba.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "9bca4811-5875-5b42-a4ca-d395db40c486",
+        "name": "lexencur69",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ba22b8ddb81e4c1db7daad4de499406e",
+        "name": "Luigi0030",
+        "url": null
+      },
+      "playstation": {
+        "id": "6070200864554583871",
+        "name": "Delphina27g",
+        "url": null
+      },
+      "reddit": {
+        "id": "8tamb1vk",
+        "name": "Neck_Crafty",
+        "url": "https://www.reddit.com/u/Neck_Crafty"
+      },
+      "spotify": {
+        "id": "9c0ldcjmg6td5yvv5r5ov26qt",
+        "name": "Weegee",
+        "url": "https://open.spotify.com/user/9c0ldcjmg6td5yvv5r5ov26qt"
+      },
+      "steam": {
+        "id": "76561198876059904",
+        "name": "Weegee",
+        "url": "https://steamcommunity.com/profiles/76561198876059904"
+      },
+      "xbox": {
+        "id": "NTVlNzkwZTllN2I5YTA5OTEzY2ZmY2MwMzYyYzE1NzVmNWM2ZWNhZDk5M2ExNzdmZjU5YTdmNGE2YjBjZjc5Yw",
+        "name": "Luigi00030",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Luigi00030"
+      },
+      "youtube": {
+        "id": "UC_TQdJSy6up03cW38cy5Q1w",
+        "name": "Weegee",
+        "url": "https://www.youtube.com/channel/UC_TQdJSy6up03cW38cy5Q1w"
+      }
+    },
+    "legacy_username": "Weegee#5272"
   }
 }
