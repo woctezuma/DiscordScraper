@@ -140718,5 +140718,72 @@
       }
     },
     "legacy_username": "Kenny Rao#7737"
+  },
+  "1073186044788351047": {
+    "id": 1073186044788351047,
+    "name": "itsfrost143",
+    "nick": null,
+    "display_name": "Killer_Frost",
+    "global_name": "Killer_Frost",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/1073186044788351047/a_c1684987a2398f9f9356f4f3dd2c852c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1073186044788351047/a_c1684987a2398f9f9356f4f3dd2c852c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198981744931",
+        "name": "Killer Frost",
+        "url": "https://steamcommunity.com/profiles/76561198981744931"
+      }
+    },
+    "legacy_username": "ItsFrost#7947"
+  },
+  "1325933746318475345": {
+    "id": 1325933746318475345,
+    "name": "sophiayeyy",
+    "nick": null,
+    "display_name": " sofia",
+    "global_name": " sofia",
+    "pronouns": "who cares?",
+    "guild_pronouns": null,
+    "bio": " https://linktr.ee/sofiaayeyy *(my links)*\n ",
+    "guild_bio": null,
+    "display_bio": " https://linktr.ee/sofiaayeyy *(my links)*\n ",
+    "banner": "https://cdn.discordapp.com/banners/1325933746318475345/a_e9e8fc9972c8d3677ff7ccd10ef7a426.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1325933746318475345/a_e9e8fc9972c8d3677ff7ccd10ef7a426.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31sicgwgsl7nijvo2yems4uwpv4e",
+        "name": "sofiaa <3",
+        "url": "https://open.spotify.com/user/31sicgwgsl7nijvo2yems4uwpv4e"
+      },
+      "steam": {
+        "id": "76561199037842343",
+        "name": "sofia \u2661",
+        "url": "https://steamcommunity.com/profiles/76561199037842343"
+      },
+      "twitter": {
+        "id": "1886209954991820800",
+        "name": "sofiayeyy",
+        "url": "https://twitter.com/sofiayeyy"
+      }
+    },
+    "legacy_username": null
   }
 }
