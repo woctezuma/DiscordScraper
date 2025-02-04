@@ -140609,5 +140609,114 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "655554045699817515": {
+    "id": 655554045699817515,
+    "name": "oli_oli18",
+    "nick": null,
+    "display_name": "Oli",
+    "global_name": "Oli",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "JoeLlamma#1483",
+        "name": "JoeLlamma#1483",
+        "url": null
+      },
+      "spotify": {
+        "id": "rmh050jgtrm365howilupp33t",
+        "name": "Oli",
+        "url": "https://open.spotify.com/user/rmh050jgtrm365howilupp33t"
+      },
+      "steam": {
+        "id": "76561199088640284",
+        "name": "Oli",
+        "url": "https://steamcommunity.com/profiles/76561199088640284"
+      },
+      "twitch": {
+        "id": "481501212",
+        "name": "joelama",
+        "url": "https://www.twitch.tv/joelama"
+      },
+      "youtube": {
+        "id": "UCv23N40QWHJdUJxuptKoqAg",
+        "name": "JoeLlamagames",
+        "url": "https://www.youtube.com/channel/UCv23N40QWHJdUJxuptKoqAg"
+      }
+    },
+    "legacy_username": "ThenextArthurMorgan#9675"
+  },
+  "616026944026312778": {
+    "id": 616026944026312778,
+    "name": "kennyrao",
+    "nick": null,
+    "display_name": "Kenny Rao",
+    "global_name": "Kenny Rao",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "24edc6a084764944afa334bdb68f78e0",
+        "name": "Kenny Rao",
+        "url": null
+      },
+      "github": {
+        "id": "73259196",
+        "name": "KennyRao",
+        "url": "https://github.com/KennyRao"
+      },
+      "playstation": {
+        "id": "5437512141984992371",
+        "name": "KennyRao",
+        "url": null
+      },
+      "reddit": {
+        "id": "4fyffisf",
+        "name": "KennyRao",
+        "url": "https://www.reddit.com/u/KennyRao"
+      },
+      "steam": {
+        "id": "76561198212783617",
+        "name": "Kenny Rao",
+        "url": "https://steamcommunity.com/profiles/76561198212783617"
+      },
+      "twitch": {
+        "id": "464024987",
+        "name": "kennyrao",
+        "url": "https://www.twitch.tv/kennyrao"
+      },
+      "xbox": {
+        "id": "3072094053681326",
+        "name": "Kenny Rao",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Kenny Rao"
+      },
+      "youtube": {
+        "id": "UCVVk4VBNfOeuXy5iGVslLfQ",
+        "name": "Weikai Rao",
+        "url": "https://www.youtube.com/channel/UCVVk4VBNfOeuXy5iGVslLfQ"
+      }
+    },
+    "legacy_username": "Kenny Rao#7737"
   }
 }
