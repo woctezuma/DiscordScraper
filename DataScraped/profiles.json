@@ -133930,5 +133930,43 @@
     ],
     "connections": {},
     "legacy_username": "Kidipapy#8743"
+  },
+  "963892134937780264": {
+    "id": 963892134937780264,
+    "name": "noztk1",
+    "nick": null,
+    "display_name": "noztk1",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "please stalk my profile random person im so cool\n\nhttps://youtu.be/isab7TJ43fc?si=zNXCUNcAPa6QcbQb",
+    "guild_bio": null,
+    "display_bio": "please stalk my profile random person im so cool\n\nhttps://youtu.be/isab7TJ43fc?si=zNXCUNcAPa6QcbQb",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "2384237251",
+        "name": "noztk1",
+        "url": null
+      },
+      "spotify": {
+        "id": "31w635drnqcp2ph5w64hihyr5tii",
+        "name": "I\u2665\ufe0fJURIHAN&FAMI",
+        "url": "https://open.spotify.com/user/31w635drnqcp2ph5w64hihyr5tii"
+      },
+      "steam": {
+        "id": "76561199549153336",
+        "name": "DickSlinger1790",
+        "url": "https://steamcommunity.com/profiles/76561199549153336"
+      }
+    },
+    "legacy_username": "noztk#2974"
   }
 }
