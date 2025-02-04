@@ -140276,5 +140276,26 @@
     ],
     "connections": {},
     "legacy_username": "Reptylianka#2111"
+  },
+  "137625999629221888": {
+    "id": 137625999629221888,
+    "name": "brokenswiftie",
+    "nick": null,
+    "display_name": "brokenswiftie",
+    "global_name": "brokenswiftie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Do not DM me if we havent talked to each other in a server atleast once \nThanks",
+    "guild_bio": null,
+    "display_bio": "Do not DM me if we havent talked to each other in a server atleast once \nThanks",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "brokenswiftie#6478"
   }
 }
