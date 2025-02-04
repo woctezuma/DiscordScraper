@@ -133516,5 +133516,70 @@
       }
     },
     "legacy_username": "Weegee#5272"
+  },
+  "732678314820632577": {
+    "id": 732678314820632577,
+    "name": "mrtwinky007",
+    "nick": null,
+    "display_name": "mrtwinky007",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "||https://discord.gg/DbEvcWYGNC||\nChachi\nPosible portador de 10 pesos",
+    "guild_bio": null,
+    "display_bio": "||https://discord.gg/DbEvcWYGNC||\nChachi\nPosible portador de 10 pesos",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6308427389233115",
+        "name": "mrtwinky007",
+        "url": "https://www.instagram.com/mrtwinky007"
+      },
+      "reddit": {
+        "id": "b98cd12f",
+        "name": "ComprehensiveCut7414",
+        "url": "https://www.reddit.com/u/ComprehensiveCut7414"
+      },
+      "spotify": {
+        "id": "smy9y2pi9odn2tnjqh1q0yeem",
+        "name": "MrTwinky007",
+        "url": "https://open.spotify.com/user/smy9y2pi9odn2tnjqh1q0yeem"
+      },
+      "steam": {
+        "id": "76561199158372971",
+        "name": "MrTwinkyTaco024",
+        "url": "https://steamcommunity.com/profiles/76561199158372971"
+      },
+      "youtube": {
+        "id": "UCn3ri-HHznPtRUavVmj5qbw",
+        "name": "MrTwinky007",
+        "url": "https://www.youtube.com/channel/UCn3ri-HHznPtRUavVmj5qbw"
+      }
+    },
+    "legacy_username": "MrTwinky007\u2122\u0d9e#8615"
+  },
+  "1224106774257205292": {
+    "id": 1224106774257205292,
+    "name": "jpcoetzer_",
+    "nick": null,
+    "display_name": "Jadey_Sin",
+    "global_name": "Jadey_Sin",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
