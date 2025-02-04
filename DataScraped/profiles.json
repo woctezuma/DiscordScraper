@@ -135489,5 +135489,1208 @@
       }
     },
     "legacy_username": "NEWBOTx#7040"
+  },
+  "1335896439720640585": {
+    "id": 1335896439720640585,
+    "name": "reistus_46134",
+    "nick": null,
+    "display_name": "Reistus",
+    "global_name": "Reistus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "287574322359566337": {
+    "id": 287574322359566337,
+    "name": "dentrey",
+    "nick": null,
+    "display_name": "dentrey",
+    "global_name": "dentrey",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "ru_1431279",
+        "name": "dentrey",
+        "url": null
+      }
+    },
+    "legacy_username": "dentrey#7724"
+  },
+  "368306912011354123": {
+    "id": 368306912011354123,
+    "name": "dskdamian",
+    "nick": null,
+    "display_name": "dskdamian",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "2831653736406969044",
+        "name": "maaistrodsk",
+        "url": null
+      }
+    },
+    "legacy_username": "Damian#2835"
+  },
+  "539208425364652044": {
+    "id": 539208425364652044,
+    "name": "kalabanx",
+    "nick": null,
+    "display_name": "kalabanx",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1149727240570032289": {
+    "id": 1149727240570032289,
+    "name": "dazzling_beetle_73589",
+    "nick": null,
+    "display_name": "gun",
+    "global_name": "gun",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "550952700980887562": {
+    "id": 550952700980887562,
+    "name": "zenlessbankai",
+    "nick": null,
+    "display_name": "ZenlessBankai",
+    "global_name": "ZenlessBankai",
+    "pronouns": "Ban/kai",
+    "guild_pronouns": null,
+    "bio": "Even Those Who Can't Give You Reasons to Live Can Readily Provide Reasons for Not Wanting to Die",
+    "guild_bio": null,
+    "display_bio": "Even Those Who Can't Give You Reasons to Live Can Readily Provide Reasons for Not Wanting to Die",
+    "banner": "https://cdn.discordapp.com/banners/550952700980887562/a_a4e916c0d8ced84d31a18e90eb34cddb.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/550952700980887562/a_a4e916c0d8ced84d31a18e90eb34cddb.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "premium_tenure_1_month_v2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1335384894989402205": {
+    "id": 1335384894989402205,
+    "name": "confident_moose_83306",
+    "nick": null,
+    "display_name": "hjg",
+    "global_name": "hjg",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "833043840843120670": {
+    "id": 833043840843120670,
+    "name": "razvangs",
+    "nick": null,
+    "display_name": "RazvanGS",
+    "global_name": "RazvanGS",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I play games",
+    "guild_bio": null,
+    "display_bio": "I play games",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "RazvanGS#7433"
+  },
+  "563451460663246947": {
+    "id": 563451460663246947,
+    "name": "dinojaw",
+    "nick": null,
+    "display_name": "DinoJaw",
+    "global_name": "DinoJaw",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "all prices are negotiable  \nhttps://discord.gg/hTssEfpNmf",
+    "guild_bio": null,
+    "display_bio": "all prices are negotiable  \nhttps://discord.gg/hTssEfpNmf",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "DarksidE#7166"
+  },
+  "344440478097211394": {
+    "id": 344440478097211394,
+    "name": "squidle3656",
+    "nick": null,
+    "display_name": "Wasn los?",
+    "global_name": "Wasn los?",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Squidle#3656"
+  },
+  "347726284421464074": {
+    "id": 347726284421464074,
+    "name": "bonifaziobastilla",
+    "nick": null,
+    "display_name": "delend",
+    "global_name": "delend",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Bonifazio Bastilla#8788"
+  },
+  "1252234569382625303": {
+    "id": 1252234569382625303,
+    "name": "tim_reijnaars",
+    "nick": null,
+    "display_name": "tim_reijnaars",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "xbox": {
+        "id": "3076843730222981",
+        "name": "ForestalTable3",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=ForestalTable3"
+      }
+    },
+    "legacy_username": null
+  },
+  "619461906935054336": {
+    "id": 619461906935054336,
+    "name": "angele3406",
+    "nick": null,
+    "display_name": "Angle",
+    "global_name": "Angle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ang\u00e8le#3406"
+  },
+  "654035738035355686": {
+    "id": 654035738035355686,
+    "name": "eslam1233",
+    "nick": null,
+    "display_name": "eslam",
+    "global_name": "eslam",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "119847",
+        "name": "Eslam_arida",
+        "url": "https://www.reddit.com/u/Eslam_arida"
+      },
+      "steam": {
+        "id": "76561199011390944",
+        "name": "eslam_aboarida",
+        "url": "https://steamcommunity.com/profiles/76561199011390944"
+      },
+      "xbox": {
+        "id": "3061385856927118",
+        "name": "Eslam arida",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Eslam arida"
+      }
+    },
+    "legacy_username": "eslam#1233"
+  },
+  "1251226502679232603": {
+    "id": 1251226502679232603,
+    "name": "iroslavic",
+    "nick": null,
+    "display_name": "Iroslav",
+    "global_name": "Iroslav",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "529207330827534357": {
+    "id": 529207330827534357,
+    "name": "aeophics",
+    "nick": null,
+    "display_name": "AeoPhics",
+    "global_name": "AeoPhics",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "github": {
+        "id": "139110085",
+        "name": "harshcsrivastava",
+        "url": "https://github.com/harshcsrivastava"
+      },
+      "steam": {
+        "id": "76561199238708446",
+        "name": "AeoPhics",
+        "url": "https://steamcommunity.com/profiles/76561199238708446"
+      }
+    },
+    "legacy_username": "AeoPhics#6389"
+  },
+  "345580067298213890": {
+    "id": 345580067298213890,
+    "name": "minty1556",
+    "nick": null,
+    "display_name": "Fragrant Mint",
+    "global_name": "Fragrant Mint",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Miru#1556"
+  },
+  "1334992623303266328": {
+    "id": 1334992623303266328,
+    "name": "c4sp3r_40214",
+    "nick": null,
+    "display_name": "c4sp3r",
+    "global_name": "c4sp3r",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1238871379013664878": {
+    "id": 1238871379013664878,
+    "name": "seemsyellow",
+    "nick": null,
+    "display_name": "BIRR :')",
+    "global_name": "BIRR :')",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "379512671281872898": {
+    "id": 379512671281872898,
+    "name": "askalangly",
+    "nick": null,
+    "display_name": "AskaLangly",
+    "global_name": "AskaLangly",
+    "pronouns": "38/M/USA ISFJ Gamer",
+    "guild_pronouns": null,
+    "bio": "Dunkaccino? Don't mind if I do!",
+    "guild_bio": null,
+    "display_bio": "Dunkaccino? Don't mind if I do!",
+    "banner": "https://cdn.discordapp.com/banners/379512671281872898/a_29dc0a6354fc2abb03069e8ecf13f5e9.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/379512671281872898/a_29dc0a6354fc2abb03069e8ecf13f5e9.gif?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_36_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "AskaLangly#1204",
+        "name": "AskaLangly#1204",
+        "url": null
+      },
+      "epic_games": {
+        "id": "6132b6d39c3c494bafe03939fca4b55c",
+        "name": "AskaLangly",
+        "url": null
+      },
+      "github": {
+        "id": "6183728",
+        "name": "AskaLangly",
+        "url": "https://github.com/AskaLangly"
+      },
+      "playstation": {
+        "id": "1505931457685917212",
+        "name": "AskaLangly",
+        "url": null
+      },
+      "reddit": {
+        "id": "rz23o",
+        "name": "AskaLangly",
+        "url": "https://www.reddit.com/u/AskaLangly"
+      },
+      "unknown_roblox": {
+        "id": "3851809010",
+        "name": "AskaLan_02",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198027299877",
+        "name": "AskaLangly",
+        "url": "https://steamcommunity.com/profiles/76561198027299877"
+      },
+      "xbox": {
+        "id": "3076595911823012",
+        "name": "AskaLangly",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=AskaLangly"
+      }
+    },
+    "legacy_username": "AskaLangly#1204"
+  },
+  "735220559650226287": {
+    "id": 735220559650226287,
+    "name": "coolmankyle",
+    "nick": null,
+    "display_name": "Coolmankyle",
+    "global_name": "Coolmankyle",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "I like playing and making video games",
+    "guild_bio": null,
+    "display_bio": "I like playing and making video games",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3063237070618255",
+        "name": "coolmankyle",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=coolmankyle"
+      },
+      "youtube": {
+        "id": "UCHWBrWU9TkykIbwPV8HpRTA",
+        "name": "Coolmankyle",
+        "url": "https://www.youtube.com/channel/UCHWBrWU9TkykIbwPV8HpRTA"
+      }
+    },
+    "legacy_username": "Coolmankyle#0012"
+  },
+  "882322772016123964": {
+    "id": 882322772016123964,
+    "name": "andrewawa",
+    "nick": null,
+    "display_name": "Andrew_",
+    "global_name": "Andrew_",
+    "pronouns": "He/him/npc",
+    "guild_pronouns": null,
+    "bio": "Hi",
+    "guild_bio": null,
+    "display_bio": "Hi",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "spotify": {
+        "id": "31zqb2nqum4tr5ord7n3s7rktzpa",
+        "name": "Adra.wendra",
+        "url": "https://open.spotify.com/user/31zqb2nqum4tr5ord7n3s7rktzpa"
+      },
+      "xbox": {
+        "id": "3067924195684750",
+        "name": "Wendra1kun",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Wendra1kun"
+      }
+    },
+    "legacy_username": null
+  },
+  "228551180572164096": {
+    "id": 228551180572164096,
+    "name": "marcohdg",
+    "nick": null,
+    "display_name": "MarcoHDG",
+    "global_name": "MarcoHDG",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "MarcoHDG#8901"
+  },
+  "1276514021356601365": {
+    "id": 1276514021356601365,
+    "name": "exotic12_75889",
+    "nick": null,
+    "display_name": "exotic12",
+    "global_name": "exotic12",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "789492657322983438": {
+    "id": 789492657322983438,
+    "name": "mrbingleson",
+    "nick": null,
+    "display_name": "boingus",
+    "global_name": "boingus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "yummers",
+    "guild_bio": null,
+    "display_bio": "yummers",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "boTa1UY3pJDNRCAZjFu41zwxi9Jss9M8mZHmVnigFCsGeg_EqBbJeHmeiK2Q3HrMN0RJV1oyBXDfFw",
+        "name": "boingus#1116",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199251434855",
+        "name": "boingus",
+        "url": "https://steamcommunity.com/profiles/76561199251434855"
+      }
+    },
+    "legacy_username": "MrBingleson#1419"
+  },
+  "734413515728879706": {
+    "id": 734413515728879706,
+    "name": "hush5238",
+    "nick": null,
+    "display_name": "Strawberry Milk",
+    "global_name": "Strawberry Milk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Hush#5238"
+  },
+  "1333158762948853906": {
+    "id": 1333158762948853906,
+    "name": "georgiaman_1",
+    "nick": null,
+    "display_name": "Georgiaman_1",
+    "global_name": "Georgiaman_1",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "697381916243918878": {
+    "id": 697381916243918878,
+    "name": "entitywebber",
+    "nick": null,
+    "display_name": "EntityWebber",
+    "global_name": "EntityWebber",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "niko",
+    "guild_bio": null,
+    "display_bio": "niko",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198820151237",
+        "name": "EntityWebber",
+        "url": "https://steamcommunity.com/profiles/76561198820151237"
+      },
+      "xbox": {
+        "id": "3061929402283452",
+        "name": "Highlander8802",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Highlander8802"
+      }
+    },
+    "legacy_username": "EntityWebber#5548"
+  },
+  "490136514307686401": {
+    "id": 490136514307686401,
+    "name": "afu0815",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "Rj0rd7uAvVs_RLZkcD7zB6C1SRWAb1BOrQ9hmbtkZog4C6DQ5tRvcrixQkwIOTAA1FVJuWqbVmcBOA",
+        "name": "\u9806\u98a8\u4e0d\u6d6a\u9006\u98a8\u4e0d\u641e#yaone",
+        "url": null
+      },
+      "riot_games": {
+        "id": "Rj0rd7uAvVs_RLZkcD7zB6C1SRWAb1BOrQ9hmbtkZog4C6DQ5tRvcrixQkwIOTAA1FVJuWqbVmcBOA",
+        "name": "\u9806\u98a8\u4e0d\u6d6a\u9006\u98a8\u4e0d\u641e#yaone",
+        "url": null
+      }
+    },
+    "legacy_username": "\u5fa1\u59d0\u5927\u597d\u304d#3380"
+  },
+  "194123194511261696": {
+    "id": 194123194511261696,
+    "name": "whaleberry",
+    "nick": null,
+    "display_name": "WhaleBerry",
+    "global_name": "WhaleBerry",
+    "pronouns": "She/Her",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "WhaleBerry#1184"
+  },
+  "371123211209015296": {
+    "id": 371123211209015296,
+    "name": "celeaf",
+    "nick": null,
+    "display_name": "celeaf",
+    "global_name": "celeaf",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hii",
+    "guild_bio": null,
+    "display_bio": "Hii",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "celeaf#3525"
+  },
+  "479110695020134406": {
+    "id": 479110695020134406,
+    "name": "rongcon4chan",
+    "nick": null,
+    "display_name": "rongcon4chan",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "R\u1ed3ng Con#3420"
+  },
+  "1335337438171762741": {
+    "id": 1335337438171762741,
+    "name": "aqil_92266",
+    "nick": null,
+    "display_name": "aqil",
+    "global_name": "aqil",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "501707741195141121": {
+    "id": 501707741195141121,
+    "name": "makhambet03",
+    "nick": null,
+    "display_name": "Makhambet 03",
+    "global_name": "Makhambet 03",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1330510233495277592": {
+    "id": 1330510233495277592,
+    "name": "cyano_66639",
+    "nick": null,
+    "display_name": "Cyano",
+    "global_name": "Cyano",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "677198737902141444": {
+    "id": 677198737902141444,
+    "name": "jejejusted",
+    "nick": null,
+    "display_name": "Jejejusted",
+    "global_name": "Jejejusted",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Jejejusted#1896"
+  },
+  "1220022138107461642": {
+    "id": 1220022138107461642,
+    "name": "excalibur3008",
+    "nick": null,
+    "display_name": "Shaggy",
+    "global_name": "Shaggy",
+    "pronouns": "Literally Ryan Gosling",
+    "guild_pronouns": null,
+    "bio": "No matter how tender, how exquisite\n\nA lie will remain a lie.\n\n ",
+    "guild_bio": null,
+    "display_bio": "No matter how tender, how exquisite\n\nA lie will remain a lie.\n\n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31g2rjbdtx3uwcy3teq4udldjzbu",
+        "name": "soft",
+        "url": "https://open.spotify.com/user/31g2rjbdtx3uwcy3teq4udldjzbu"
+      },
+      "steam": {
+        "id": "76561199084303324",
+        "name": "Excalibur",
+        "url": "https://steamcommunity.com/profiles/76561199084303324"
+      }
+    },
+    "legacy_username": null
+  },
+  "395441645660667904": {
+    "id": 395441645660667904,
+    "name": "nijoss",
+    "nick": null,
+    "display_name": "nijoss",
+    "global_name": "nijoss",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198799663547",
+        "name": "nija74735",
+        "url": "https://steamcommunity.com/profiles/76561198799663547"
+      },
+      "twitch": {
+        "id": "658045928",
+        "name": "nijoss",
+        "url": "https://www.twitch.tv/nijoss"
+      }
+    },
+    "legacy_username": "nijoss#6828"
+  },
+  "1056521233140818030": {
+    "id": 1056521233140818030,
+    "name": "goldorito",
+    "nick": null,
+    "display_name": "goldorito",
+    "global_name": "goldorito",
+    "pronouns": "gold/dorito",
+    "guild_pronouns": null,
+    "bio": "@Summer_natsu is the cat on my pfp",
+    "guild_bio": null,
+    "display_bio": "@Summer_natsu is the cat on my pfp",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "goldorito#4591"
+  },
+  "1334694087298908181": {
+    "id": 1334694087298908181,
+    "name": "shroastie",
+    "nick": null,
+    "display_name": "shroast",
+    "global_name": "shroast",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "HH!! o/\n(hulk hogan)",
+    "guild_bio": null,
+    "display_bio": "HH!! o/\n(hulk hogan)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "466380490732208130": {
+    "id": 466380490732208130,
+    "name": "navazhdeniee",
+    "nick": null,
+    "display_name": "?",
+    "global_name": "?",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " ,     ",
+    "guild_bio": null,
+    "display_bio": " ,     ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl7",
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "afghan syndrome\ud83d\udc97#6497"
+  },
+  "978344330995597382": {
+    "id": 978344330995597382,
+    "name": "umbrahouse",
+    "nick": null,
+    "display_name": "umbrahouse",
+    "global_name": "umbrahouse",
+    "pronouns": "They/ them",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "umbrahouse#9084"
+  },
+  "306428105340223492": {
+    "id": 306428105340223492,
+    "name": "neesssu",
+    "nick": null,
+    "display_name": "nessu",
+    "global_name": "nessu",
+    "pronouns": "calma",
+    "guild_pronouns": null,
+    "bio": "Coming Soon",
+    "guild_bio": null,
+    "display_bio": "Coming Soon",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "nestoorii#4548"
+  },
+  "695242330999095326": {
+    "id": 695242330999095326,
+    "name": "nachopichu",
+    "nick": null,
+    "display_name": "Nacho Pichu",
+    "global_name": "Nacho Pichu",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "FlameOtter#2904",
+        "name": "FlameOtter#2904",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "0f649610-ddd8-59b2-aa3e-0ed935d63473",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "epic_games": {
+        "id": "594a2e94afc34afbab3d09c6ce161d31",
+        "name": "Nacho-1512",
+        "url": null
+      },
+      "playstation": {
+        "id": "6272668538153907752",
+        "name": "nath_1512",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "333010776",
+        "name": "NathLeFou",
+        "url": null
+      },
+      "spotify": {
+        "id": "star-wars-2017",
+        "name": "Nacho",
+        "url": "https://open.spotify.com/user/star-wars-2017"
+      },
+      "steam": {
+        "id": "76561198224623836",
+        "name": "nacho_pichu",
+        "url": "https://steamcommunity.com/profiles/76561198224623836"
+      },
+      "xbox": {
+        "id": "3072391578994864",
+        "name": "NachoPichu",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=NachoPichu"
+      }
+    },
+    "legacy_username": "Nacho Pichu#4831"
+  },
+  "1160731890521747467": {
+    "id": 1160731890521747467,
+    "name": "max_critts.4620",
+    "nick": null,
+    "display_name": "ivan",
+    "global_name": "ivan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "buy high sell low <a:smart2:849600502253355018>",
+    "guild_bio": null,
+    "display_bio": "buy high sell low <a:smart2:849600502253355018>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1333835167399280671": {
+    "id": 1333835167399280671,
+    "name": "strong._47916",
+    "nick": null,
+    "display_name": "strong.",
+    "global_name": "strong.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "227146626353856514": {
+    "id": 227146626353856514,
+    "name": "joost33435",
+    "nick": null,
+    "display_name": "Thibaud Beirnaert",
+    "global_name": "Thibaud Beirnaert",
+    "pronouns": "h",
+    "guild_pronouns": null,
+    "bio": "freedom fighter",
+    "guild_bio": null,
+    "display_bio": "freedom fighter",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198102555141",
+        "name": "Thunder",
+        "url": "https://steamcommunity.com/profiles/76561198102555141"
+      }
+    },
+    "legacy_username": null
+  },
+  "1130515196159471687": {
+    "id": 1130515196159471687,
+    "name": "risan4430",
+    "nick": null,
+    "display_name": "risan",
+    "global_name": "risan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "475262961519427604": {
+    "id": 475262961519427604,
+    "name": "chuan1650",
+    "nick": null,
+    "display_name": "Chuan",
+    "global_name": "Chuan",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Chuan#1650"
+  },
+  "480270111584813075": {
+    "id": 480270111584813075,
+    "name": "manju4459",
+    "nick": null,
+    "display_name": "MaNju",
+    "global_name": "MaNju",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "MaNju#4459"
   }
 }
