@@ -133765,5 +133765,69 @@
       }
     },
     "legacy_username": "jobl#5818"
+  },
+  "1032886772876705823": {
+    "id": 1032886772876705823,
+    "name": "barbaross123456",
+    "nick": null,
+    "display_name": "Barbarossa",
+    "global_name": "Barbarossa",
+    "pronouns": "ad/hd",
+    "guild_pronouns": null,
+    "bio": "Eeem what the sigma?",
+    "guild_bio": null,
+    "display_bio": "Eeem what the sigma?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199486150897",
+        "name": "\u048ca\u0359\u027eb\u0359\u0105r\u0359\u0585s\u0359\u0282a\u0359\u0f12",
+        "url": "https://steamcommunity.com/profiles/76561199486150897"
+      }
+    },
+    "legacy_username": null
+  },
+  "322280037112086528": {
+    "id": 322280037112086528,
+    "name": "kuchinn",
+    "nick": null,
+    "display_name": "JarodL",
+    "global_name": "JarodL",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "ib7kG4h-UPOyaSaFXA1X1HBJRLm0tIV7AVS7U8DzJvGPjp36t8Fw2xfemSbsDZRCQculNIUSlbHa4w",
+        "name": "Kuchisabishii#4001",
+        "url": null
+      },
+      "riot_games": {
+        "id": "ib7kG4h-UPOyaSaFXA1X1HBJRLm0tIV7AVS7U8DzJvGPjp36t8Fw2xfemSbsDZRCQculNIUSlbHa4w",
+        "name": "Kuchisabishii#4001",
+        "url": null
+      },
+      "spotify": {
+        "id": "314mpviynvigs5llbz74ciopfbay",
+        "name": "Vert",
+        "url": "https://open.spotify.com/user/314mpviynvigs5llbz74ciopfbay"
+      }
+    },
+    "legacy_username": "K\u0336\u00da\u531a\u3093\uff89#8338"
   }
 }
