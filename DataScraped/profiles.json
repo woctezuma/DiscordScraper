@@ -140297,5 +140297,72 @@
     ],
     "connections": {},
     "legacy_username": "brokenswiftie#6478"
+  },
+  "698987088640475138": {
+    "id": 698987088640475138,
+    "name": "rikt0rss",
+    "nick": null,
+    "display_name": "Rikt0rss",
+    "global_name": "Rikt0rss",
+    "pronouns": "pozer",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Rikt0rss#1273"
+  },
+  "464953468759572481": {
+    "id": 464953468759572481,
+    "name": "dutch25",
+    "nick": null,
+    "display_name": "Dutch",
+    "global_name": "Dutch",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "xd",
+    "guild_bio": null,
+    "display_bio": "xd",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "165927307787428",
+        "name": "Minh \u0110\u1ee9c",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "iCpQq-7l3PgB-tQo71dlDhm17UKeJjxHmFMNOCPaM5hwllmDPx3YlTRyvB5_-w5d_q2iOQYCOoASww",
+        "name": "Dutch#2501",
+        "url": null
+      },
+      "riot_games": {
+        "id": "iCpQq-7l3PgB-tQo71dlDhm17UKeJjxHmFMNOCPaM5hwllmDPx3YlTRyvB5_-w5d_q2iOQYCOoASww",
+        "name": "Dutch#2501",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198449934803",
+        "name": "Dutch",
+        "url": "https://steamcommunity.com/profiles/76561198449934803"
+      },
+      "xbox": {
+        "id": "3067088709702831",
+        "name": "Duc00003499",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Duc00003499"
+      }
+    },
+    "legacy_username": "Dutch#2165"
   }
 }
