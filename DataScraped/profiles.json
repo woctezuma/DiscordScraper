@@ -139688,5 +139688,102 @@
     ],
     "connections": {},
     "legacy_username": "Cloudy#1043"
+  },
+  "835203445618507857": {
+    "id": 835203445618507857,
+    "name": "vediah",
+    "nick": null,
+    "display_name": "Vediah",
+    "global_name": "Vediah",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Short and sweet. Mama of 2 wonderful minions!",
+    "guild_bio": null,
+    "display_bio": "Short and sweet. Mama of 2 wonderful minions!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "879e7bb64c954178a5f20793dac20a13",
+        "name": "Vediah",
+        "url": null
+      },
+      "playstation": {
+        "id": "8732534556551374557",
+        "name": "LunaCerdiwan",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198021002000",
+        "name": "Vediah",
+        "url": "https://steamcommunity.com/profiles/76561198021002000"
+      }
+    },
+    "legacy_username": "Vediah#5659"
+  },
+  "1287509894240669838": {
+    "id": 1287509894240669838,
+    "name": "donk.wav",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "<-dot \u06deMelomaniac\u06de \u15dc\u02ec\u15dc",
+    "guild_pronouns": null,
+    "bio": "Donk///\\\\\\\\\\Phonk\n[/<:acid90s:1331785054640275498>\\\\]\n    <:hardbass2:672524215705927700>",
+    "guild_bio": null,
+    "display_bio": "Donk///\\\\\\\\\\Phonk\n[/<:acid90s:1331785054640275498>\\\\]\n    <:hardbass2:672524215705927700>",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "953029187927691339": {
+    "id": 953029187927691339,
+    "name": "abib5340",
+    "nick": null,
+    "display_name": "ABIB",
+    "global_name": "ABIB",
+    "pronouns": "je suis trop bg",
+    "guild_pronouns": null,
+    "bio": "Hier est derrire , demain je regarderai ton derrire",
+    "guild_bio": null,
+    "display_bio": "Hier est derrire , demain je regarderai ton derrire",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Abib#5340"
+  },
+  "940854051627737139": {
+    "id": 940854051627737139,
+    "name": "gawrykk",
+    "nick": null,
+    "display_name": "Gawryk",
+    "global_name": "Gawryk",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Nikviser#2062"
   }
 }
