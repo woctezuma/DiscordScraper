@@ -139846,5 +139846,102 @@
       }
     },
     "legacy_username": "jormungandr#9890"
+  },
+  "697949651646545950": {
+    "id": 697949651646545950,
+    "name": "tsxx511",
+    "nick": null,
+    "display_name": "TSX",
+    "global_name": "TSX",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<t:1689524520:R>",
+    "guild_bio": null,
+    "display_bio": "<t:1689524520:R>",
+    "banner": "https://cdn.discordapp.com/banners/697949651646545950/a_0ee37c9b15798176e28003dca4ac7b2e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/697949651646545950/a_0ee37c9b15798176e28003dca4ac7b2e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_1_month_v2"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "1cbc9af19f264fcda5064d38344f5d9d",
+        "name": "Tsxx511",
+        "url": null
+      },
+      "reddit": {
+        "id": "71udldy0",
+        "name": "tsxx511",
+        "url": "https://www.reddit.com/u/tsxx511"
+      },
+      "spotify": {
+        "id": "16936plpql8nphft39pt71mc0",
+        "name": "Tsxx511",
+        "url": "https://open.spotify.com/user/16936plpql8nphft39pt71mc0"
+      },
+      "steam": {
+        "id": "76561199116782229",
+        "name": "TSX",
+        "url": "https://steamcommunity.com/profiles/76561199116782229"
+      },
+      "twitch": {
+        "id": "514323272",
+        "name": "tsxx51",
+        "url": "https://www.twitch.tv/tsxx51"
+      },
+      "xbox": {
+        "id": "MGRhMTBjOWY2NWQwMDQwZTgwNWJlNTUzMzMwOGRmMDQzZjhiMGY1ODc5YmUwNGEyMTNiNjk5MjgxYWMxYWRlZA",
+        "name": "Tsxx511",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Tsxx511"
+      },
+      "youtube": {
+        "id": "UCaYf5RBxJd1efL1_JtuAOCw",
+        "name": "Tsxx511",
+        "url": "https://www.youtube.com/channel/UCaYf5RBxJd1efL1_JtuAOCw"
+      }
+    },
+    "legacy_username": "Tsxx511#6057"
+  },
+  "759412944252960797": {
+    "id": 759412944252960797,
+    "name": "cariango",
+    "nick": null,
+    "display_name": "Cariango",
+    "global_name": "Cariango",
+    "pronouns": "she/they",
+    "guild_pronouns": null,
+    "bio": "Carry-an-go :XingqiuWave_SUKYARU_: \n\nPfp by me :actshually: \n\nComms open :ganbatte_kaveh:",
+    "guild_bio": null,
+    "display_bio": "Carry-an-go :XingqiuWave_SUKYARU_: \n\nPfp by me :actshually: \n\nComms open :ganbatte_kaveh:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198828907349",
+        "name": "Cariango",
+        "url": "https://steamcommunity.com/profiles/76561198828907349"
+      },
+      "xbox": {
+        "id": "3070955832952842",
+        "name": "Cariango",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Cariango"
+      },
+      "youtube": {
+        "id": "UC11meT4Ls4xyHq7rt1Pt5nQ",
+        "name": "Cariango",
+        "url": "https://www.youtube.com/channel/UC11meT4Ls4xyHq7rt1Pt5nQ"
+      }
+    },
+    "legacy_username": "Cariango#8008"
   }
 }
