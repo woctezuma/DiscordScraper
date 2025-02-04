@@ -133849,5 +133849,62 @@
     ],
     "connections": {},
     "legacy_username": "Rekumi#6529"
+  },
+  "674618644281688076": {
+    "id": 674618644281688076,
+    "name": "retronost",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "sky/line",
+    "guild_pronouns": null,
+    "bio": "ce n'est pas vrai.",
+    "guild_bio": null,
+    "display_bio": "ce n'est pas vrai.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "reddit": {
+        "id": "r4lc48nn",
+        "name": "RetroNost",
+        "url": "https://www.reddit.com/u/RetroNost"
+      },
+      "spotify": {
+        "id": "icsb8z9pof0vioowmywbubula",
+        "name": "\u043d\u0438\u043a\u0442\u043e",
+        "url": "https://open.spotify.com/user/icsb8z9pof0vioowmywbubula"
+      },
+      "steam": {
+        "id": "76561199125330805",
+        "name": "RetroNost",
+        "url": "https://steamcommunity.com/profiles/76561199125330805"
+      },
+      "twitch": {
+        "id": "813963933",
+        "name": "retronost",
+        "url": "https://www.twitch.tv/retronost"
+      },
+      "twitter": {
+        "id": "1607079025746509825",
+        "name": "retr0nost",
+        "url": "https://twitter.com/retr0nost"
+      },
+      "xbox": {
+        "id": "3061367428472641",
+        "name": "RetroNost",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=RetroNost"
+      },
+      "youtube": {
+        "id": "UCvv5jn6USJ_fUNT09AX6IKQ",
+        "name": "RetroNost",
+        "url": "https://www.youtube.com/channel/UCvv5jn6USJ_fUNT09AX6IKQ"
+      }
+    },
+    "legacy_username": "\u043d\u0438\u043a\u0442\u043e#2680"
   }
 }
