@@ -133650,5 +133650,57 @@
       }
     },
     "legacy_username": "ven#9999"
+  },
+  "272195703743447047": {
+    "id": 272195703743447047,
+    "name": "nyavie",
+    "nick": null,
+    "display_name": "nyavie",
+    "global_name": "nyavie",
+    "pronouns": "still/alive",
+    "guild_pronouns": null,
+    "bio": "hewo! my name Vie!  \nthe pharmac-ish is in town \nprogrammed to work and not to feel.",
+    "guild_bio": null,
+    "display_bio": "hewo! my name Vie!  \nthe pharmac-ish is in town \nprogrammed to work and not to feel.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198317425726",
+        "name": "nyavie",
+        "url": "https://steamcommunity.com/profiles/76561198317425726"
+      }
+    },
+    "legacy_username": "nyavie#2564"
+  },
+  "549581370750402562": {
+    "id": 549581370750402562,
+    "name": "xxx0401",
+    "nick": null,
+    "display_name": "xxx0401",
+    "global_name": "xxx0401",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "136235913",
+        "name": "xxx0401",
+        "url": "https://www.twitch.tv/xxx0401"
+      }
+    },
+    "legacy_username": "xxx0401#5147"
   }
 }
