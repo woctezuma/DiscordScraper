@@ -139666,5 +139666,27 @@
       }
     },
     "legacy_username": "Crtomir#8561"
+  },
+  "374485686910320640": {
+    "id": 374485686910320640,
+    "name": ".cloudy6",
+    "nick": null,
+    "display_name": "Cloudy",
+    "global_name": "Cloudy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Cloudy#1043"
   }
 }
