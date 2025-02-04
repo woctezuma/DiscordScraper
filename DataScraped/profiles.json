@@ -140019,5 +140019,138 @@
     ],
     "connections": {},
     "legacy_username": "TexZeTech#9206"
+  },
+  "336873723095416832": {
+    "id": 336873723095416832,
+    "name": "alexifeu",
+    "nick": null,
+    "display_name": "alexifeu",
+    "global_name": "alexifeu",
+    "pronouns": "Amo/gus/SUS",
+    "guild_pronouns": null,
+    "bio": "Nanomachines Son. They harden in response to physical trauma.",
+    "guild_bio": null,
+    "display_bio": "Nanomachines Son. They harden in response to physical trauma.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AH5ORDYOXS6FWOGJE76DFVHEQUYQ",
+        "name": "Alexander Rankl",
+        "url": null
+      },
+      "battle_net": {
+        "id": "Alexifeu#2133",
+        "name": "Alexifeu#2133",
+        "url": null
+      },
+      "unknown_bluesky": {
+        "id": "did:plc:jp6gd5x6n77jesv7574pbk2j",
+        "name": "alexifeu.bsky.social",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018495438227",
+        "name": "Alexifeu",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "067e4fda-3245-568b-87a5-6556c6a9908c",
+        "name": "Alexifeu",
+        "url": null
+      },
+      "ebay": {
+        "id": "bpnchnanqvc",
+        "name": "alexifeu",
+        "url": "https://www.ebay.com/usr/alexifeu"
+      },
+      "epic_games": {
+        "id": "b0eb67de5145421bb40a820b6ca575e0",
+        "name": "Alexifeu",
+        "url": null
+      },
+      "facebook": {
+        "id": "1772304056405677",
+        "name": "Alexander Rankl",
+        "url": null
+      },
+      "github": {
+        "id": "54742509",
+        "name": "alexifeu",
+        "url": "https://github.com/alexifeu"
+      },
+      "instagram": {
+        "id": "6132842993472246",
+        "name": "alexifeu",
+        "url": "https://www.instagram.com/alexifeu"
+      },
+      "league_of_legends": {
+        "id": "A9e9pYPLFDKlJcCkeKI5uTgMqtQ-oRzJcFkLJxt6K-tbk4dHVZ_E_uXFp79DL2d5Wq83FyexVoMWNg",
+        "name": "Alexifeu",
+        "url": null
+      },
+      "paypal": {
+        "id": "NtbxrJQ1L9zQOc3tkIuIuxDbelBJ3caxL9BAjytdR4Y",
+        "name": "Alexander Rankl",
+        "url": null
+      },
+      "reddit": {
+        "id": "qkqca",
+        "name": "xxX_AleXifeu-pRo_Xxx",
+        "url": "https://www.reddit.com/u/xxX_AleXifeu-pRo_Xxx"
+      },
+      "riot_games": {
+        "id": "A9e9pYPLFDKlJcCkeKI5uTgMqtQ-oRzJcFkLJxt6K-tbk4dHVZ_E_uXFp79DL2d5Wq83FyexVoMWNg",
+        "name": "Alexifeu#EUW",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "351816012",
+        "name": "Alexifeu",
+        "url": null
+      },
+      "spotify": {
+        "id": "11174786301",
+        "name": "Alexander Rankl",
+        "url": "https://open.spotify.com/user/11174786301"
+      },
+      "steam": {
+        "id": "76561198210674131",
+        "name": "Alexifeu",
+        "url": "https://steamcommunity.com/profiles/76561198210674131"
+      },
+      "tiktok": {
+        "id": "6b00c91e-faa9-487b-952a-31f50de0ac61",
+        "name": "alexifeulp",
+        "url": "https://tiktok.com/@alexifeulp"
+      },
+      "twitch": {
+        "id": "142918393",
+        "name": "alexifeu",
+        "url": "https://www.twitch.tv/alexifeu"
+      },
+      "twitter": {
+        "id": "1359091173688823808",
+        "name": "RIPAmongUs",
+        "url": "https://twitter.com/RIPAmongUs"
+      },
+      "xbox": {
+        "id": "3065936765705893",
+        "name": "Alexander2908",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Alexander2908"
+      },
+      "youtube": {
+        "id": "UC9nA1EEBeJYtpITs80TrNhg",
+        "name": "AlexifeuLp",
+        "url": "https://www.youtube.com/channel/UC9nA1EEBeJYtpITs80TrNhg"
+      }
+    },
+    "legacy_username": "Alexifeu#8721"
   }
 }
