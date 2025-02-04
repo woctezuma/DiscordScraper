@@ -133968,5 +133968,48 @@
       }
     },
     "legacy_username": "noztk#2974"
+  },
+  "213955769605947393": {
+    "id": 213955769605947393,
+    "name": "jonatrollnimous",
+    "nick": null,
+    "display_name": "jonatrollnimous",
+    "global_name": "jonatrollnimous",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "znKpx8qQvvItyEdpWGZnCrnDN_5tAFykl15ynG62vdpaE0nY0tYsyAcUcY5Rs_IA1nu1Ydc-ZuucaQ",
+        "name": "jonatrollnimous",
+        "url": null
+      },
+      "riot_games": {
+        "id": "znKpx8qQvvItyEdpWGZnCrnDN_5tAFykl15ynG62vdpaE0nY0tYsyAcUcY5Rs_IA1nu1Ydc-ZuucaQ",
+        "name": "jonatrollnimous#EUW",
+        "url": null
+      },
+      "twitch": {
+        "id": "72257570",
+        "name": "jonatroll",
+        "url": "https://www.twitch.tv/jonatroll"
+      },
+      "xbox": {
+        "id": "3071922693463507",
+        "name": "jonatrollni",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=jonatrollni"
+      }
+    },
+    "legacy_username": "jonatrollnimous#8550"
   }
 }
