@@ -134213,5 +134213,138 @@
       }
     },
     "legacy_username": "1\u0410\u043d\u0434\u0440\u0435\u0439YT#2966"
+  },
+  "749997466467958875": {
+    "id": 749997466467958875,
+    "name": ".d0ecao",
+    "nick": null,
+    "display_name": "DECAO ",
+    "global_name": "DECAO ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "decao#11218",
+        "name": "decao#11218",
+        "url": null
+      },
+      "github": {
+        "id": "70527847",
+        "name": "decao102",
+        "url": "https://github.com/decao102"
+      },
+      "reddit": {
+        "id": "7x5ydp0g",
+        "name": "Several-Ad3118",
+        "url": "https://www.reddit.com/u/Several-Ad3118"
+      },
+      "steam": {
+        "id": "76561199084914070",
+        "name": "Decao",
+        "url": "https://steamcommunity.com/profiles/76561199084914070"
+      },
+      "twitter": {
+        "id": "1456593799300345858",
+        "name": "DeCao102",
+        "url": "https://twitter.com/DeCao102"
+      }
+    },
+    "legacy_username": "DECAO#5480"
+  },
+  "640489353134473218": {
+    "id": 640489353134473218,
+    "name": "rikipi",
+    "nick": null,
+    "display_name": "RIkIPI",
+    "global_name": "RIkIPI",
+    "pronouns": "he/troller",
+    "guild_pronouns": null,
+    "bio": "The surreal artist:gallery_grey: , studying design:study_grey:\n16 y.o:question_grey:  C.:heart_xmas:",
+    "guild_bio": null,
+    "display_bio": "The surreal artist:gallery_grey: , studying design:study_grey:\n16 y.o:question_grey:  C.:heart_xmas:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "60bf0a3169ef457c9d30a072aa460c3e",
+        "name": "itzRIkIPI",
+        "url": null
+      },
+      "spotify": {
+        "id": "31alzbppf5ilye57tnx2srn6qtzi",
+        "name": "RIkIPI",
+        "url": "https://open.spotify.com/user/31alzbppf5ilye57tnx2srn6qtzi"
+      },
+      "steam": {
+        "id": "76561199388523386",
+        "name": "\u043f\u0440\u0430\u043f\u043e\u0440",
+        "url": "https://steamcommunity.com/profiles/76561199388523386"
+      },
+      "twitch": {
+        "id": "488255870",
+        "name": "itzrikipi",
+        "url": "https://www.twitch.tv/itzrikipi"
+      },
+      "youtube": {
+        "id": "UCGXlxUdPA8EK96bR0NV-Y1w",
+        "name": "RIkIPI [GD ver.]",
+        "url": "https://www.youtube.com/channel/UCGXlxUdPA8EK96bR0NV-Y1w"
+      }
+    },
+    "legacy_username": null
+  },
+  "1273862658709258371": {
+    "id": 1273862658709258371,
+    "name": "solaxis_",
+    "nick": null,
+    "display_name": "Sol",
+    "global_name": "Sol",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Person on the internet.",
+    "guild_bio": null,
+    "display_bio": "Person on the internet.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "253207656636874753": {
+    "id": 253207656636874753,
+    "name": "sapph.re",
+    "nick": null,
+    "display_name": "Sapphire",
+    "global_name": "Sapphire",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "aliv de navidad\nlevane",
+    "guild_bio": null,
+    "display_bio": "aliv de navidad\nlevane",
+    "banner": "https://cdn.discordapp.com/banners/253207656636874753/d058cdd6475dc3db5427d795325632b6.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/253207656636874753/d058cdd6475dc3db5427d795325632b6.png?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
