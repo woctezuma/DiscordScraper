@@ -134185,5 +134185,33 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "411597368220450816": {
+    "id": 411597368220450816,
+    "name": "10o00o10",
+    "nick": null,
+    "display_name": "1Andrey",
+    "global_name": "1Andrey",
+    "pronouns": "\ud835\udcd0\ud835\udcf7\ud835\udced\ud835\udcfb\ud835\udcee\ud835\udd02",
+    "guild_pronouns": null,
+    "bio": "** :**\nhttps://discord.gg/hMxtcVxVEN\n**Immortal Kings:**\nhttps://discord.gg/4Bx2x77qFy",
+    "guild_bio": null,
+    "display_bio": "** :**\nhttps://discord.gg/hMxtcVxVEN\n**Immortal Kings:**\nhttps://discord.gg/4Bx2x77qFy",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199138507180",
+        "name": "1Andrey",
+        "url": "https://steamcommunity.com/profiles/76561199138507180"
+      }
+    },
+    "legacy_username": "1\u0410\u043d\u0434\u0440\u0435\u0439YT#2966"
   }
 }
