@@ -134346,5 +134346,47 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "660095888974282754": {
+    "id": 660095888974282754,
+    "name": "chowder_589",
+    "nick": null,
+    "display_name": "Chowder",
+    "global_name": "Chowder",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "6117880671271569206",
+        "name": "Ti99j",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199676316637",
+        "name": "PurpleNerbles",
+        "url": "https://steamcommunity.com/profiles/76561199676316637"
+      },
+      "twitch": {
+        "id": "466134559",
+        "name": "chowder958",
+        "url": "https://www.twitch.tv/chowder958"
+      },
+      "youtube": {
+        "id": "UC4mmRBEFySS_YxCCs8llBXA",
+        "name": "Chowder",
+        "url": "https://www.youtube.com/channel/UC4mmRBEFySS_YxCCs8llBXA"
+      }
+    },
+    "legacy_username": "Cloudy_tin990#5502"
   }
 }
