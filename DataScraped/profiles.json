@@ -139571,5 +139571,100 @@
       }
     },
     "legacy_username": "zee#1790"
+  },
+  "791343514897743872": {
+    "id": 791343514897743872,
+    "name": "isuarehavestupid",
+    "nick": null,
+    "display_name": "O.J. Simpson",
+    "global_name": "O.J. Simpson",
+    "pronouns": "fred",
+    "guild_pronouns": null,
+    "bio": "can frog jump higher than house\nno house can't jump\n<:yellowpedophile:1293964752443281541>",
+    "guild_bio": null,
+    "display_bio": "can frog jump higher than house\nno house can't jump\n<:yellowpedophile:1293964752443281541>",
+    "banner": "https://cdn.discordapp.com/banners/791343514897743872/9adc6aef8cc9b804c230e911077e021f.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/791343514897743872/9adc6aef8cc9b804c230e911077e021f.png?size=512",
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium_tenure_6_month_v2",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "IsUAreHaveStupid#1639"
+  },
+  "713125644820807701": {
+    "id": 713125644820807701,
+    "name": "ferhles",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "Lost in space and time",
+    "guild_pronouns": null,
+    "bio": "I might as well log off the party. \n\nhttps://fferhles.wixsite.com/how-to-become-better/post/how-to-become-better",
+    "guild_bio": null,
+    "display_bio": "I might as well log off the party. \n\nhttps://fferhles.wixsite.com/how-to-become-better/post/how-to-become-better",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "139765495403379",
+        "name": "Whey Protein Abuser",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199220812417",
+        "name": "fferhles",
+        "url": "https://steamcommunity.com/profiles/76561199220812417"
+      },
+      "tiktok": {
+        "id": "ef2c1b17-e182-59cc-b855-b7d3b8123833",
+        "name": "tautvydas538",
+        "url": "https://tiktok.com/@tautvydas538"
+      },
+      "youtube": {
+        "id": "UC5kl-4bP-PmTAmPLvyFsWFg",
+        "name": "Top Mindset",
+        "url": "https://www.youtube.com/channel/UC5kl-4bP-PmTAmPLvyFsWFg"
+      }
+    },
+    "legacy_username": "Ferhles#9855"
+  },
+  "507560783593340936": {
+    "id": 507560783593340936,
+    "name": "extremelyuseless",
+    "nick": null,
+    "display_name": "Crtomir",
+    "global_name": "Crtomir",
+    "pronouns": "Brez/veze",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "kv5fe17r9jbya0fgpb55wr3wm",
+        "name": "ExtremelyUseless",
+        "url": "https://open.spotify.com/user/kv5fe17r9jbya0fgpb55wr3wm"
+      }
+    },
+    "legacy_username": "Crtomir#8561"
   }
 }
