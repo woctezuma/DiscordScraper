@@ -139785,5 +139785,66 @@
     ],
     "connections": {},
     "legacy_username": "Nikviser#2062"
+  },
+  "276092112972414977": {
+    "id": 276092112972414977,
+    "name": "jormungandr9890",
+    "nick": null,
+    "display_name": "jormungandr",
+    "global_name": "jormungandr",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "d1 gojira fan\nvideo gaming\ntoo many hyperfixations",
+    "guild_bio": null,
+    "display_bio": "d1 gojira fan\nvideo gaming\ntoo many hyperfixations",
+    "banner": "https://cdn.discordapp.com/banners/276092112972414977/a_03dfcc8a83f2984c5f055e11ce93e92c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/276092112972414977/a_03dfcc8a83f2984c5f055e11ce93e92c.gif?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_36_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "jormungandr#11232",
+        "name": "jormungandr#11232",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018490461673",
+        "name": "jormungandr",
+        "url": null
+      },
+      "crunchyroll": {
+        "id": "db54b5bb-c7d0-5bff-b3be-a808718a724c",
+        "name": "s3344n",
+        "url": null
+      },
+      "epic_games": {
+        "id": "f7feac9d58ae4317838ed3066c9d3d7f",
+        "name": "j_ormungandr",
+        "url": null
+      },
+      "spotify": {
+        "id": "aurytf2",
+        "name": "sean",
+        "url": "https://open.spotify.com/user/aurytf2"
+      },
+      "steam": {
+        "id": "76561198204387929",
+        "name": "jormungandr",
+        "url": "https://steamcommunity.com/profiles/76561198204387929"
+      },
+      "youtube": {
+        "id": "UCUhVfevLVy7SQ9C78eSKcvw",
+        "name": "jormungandr",
+        "url": "https://www.youtube.com/channel/UCUhVfevLVy7SQ9C78eSKcvw"
+      }
+    },
+    "legacy_username": "jormungandr#9890"
   }
 }
