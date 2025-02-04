@@ -140785,5 +140785,63 @@
       }
     },
     "legacy_username": null
+  },
+  "108315971218862080": {
+    "id": 108315971218862080,
+    "name": "american_healthcare",
+    "nick": null,
+    "display_name": "American Healthcare",
+    "global_name": "American Healthcare",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Live, Laugh, Leave Me Alone",
+    "guild_bio": null,
+    "display_bio": "Live, Laugh, Leave Me Alone",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "jhohlt88",
+        "name": "Jared Hohlt",
+        "url": "https://open.spotify.com/user/jhohlt88"
+      },
+      "steam": {
+        "id": "76561198088875836",
+        "name": "Viking",
+        "url": "https://steamcommunity.com/profiles/76561198088875836"
+      }
+    },
+    "legacy_username": "ChunkyMilk#1759"
+  },
+  "553411512803524618": {
+    "id": 553411512803524618,
+    "name": "liondadev",
+    "nick": null,
+    "display_name": "Lion",
+    "global_name": "Lion",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "425236746",
+        "name": "phixmeplease",
+        "url": "https://www.twitch.tv/phixmeplease"
+      }
+    },
+    "legacy_username": "Lion#3933"
   }
 }
