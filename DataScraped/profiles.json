@@ -140444,5 +140444,109 @@
     ],
     "connections": {},
     "legacy_username": "DaAwesomeP#0759"
+  },
+  "1224008781550194698": {
+    "id": 1224008781550194698,
+    "name": "bartkk7",
+    "nick": null,
+    "display_name": "bartkk7",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "274175645611851777": {
+    "id": 274175645611851777,
+    "name": "lordbrittish",
+    "nick": null,
+    "display_name": "lordbrittish",
+    "global_name": null,
+    "pronouns": "lordbrittish",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "playstation": {
+        "id": "69792962144013915",
+        "name": "TRACEMYROOTS",
+        "url": null
+      },
+      "spotify": {
+        "id": "lordbrittish",
+        "name": "lordbrittish",
+        "url": "https://open.spotify.com/user/lordbrittish"
+      },
+      "twitch": {
+        "id": "137861094",
+        "name": "lordbrittish",
+        "url": "https://www.twitch.tv/lordbrittish"
+      },
+      "xbox": {
+        "id": "3069452656643897",
+        "name": "LORDBRITTISH",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=LORDBRITTISH"
+      }
+    },
+    "legacy_username": null
+  },
+  "646366224636313607": {
+    "id": 646366224636313607,
+    "name": "birdie.my",
+    "nick": null,
+    "display_name": "birdie",
+    "global_name": "birdie",
+    "pronouns": "beep beep",
+    "guild_pronouns": null,
+    "bio": "MY BABY CAME BACK I AM HAPPY AMBITIOUS AND DOING AMAZING!!",
+    "guild_bio": null,
+    "display_bio": "MY BABY CAME BACK I AM HAPPY AMBITIOUS AND DOING AMAZING!!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "723776666",
+        "name": "JaxqBird",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ptu773sjj547yxckyyh2mp7bc4",
+        "name": "Jack",
+        "url": "https://open.spotify.com/user/31ptu773sjj547yxckyyh2mp7bc4"
+      },
+      "steam": {
+        "id": "76561199135123664",
+        "name": "birdie",
+        "url": "https://steamcommunity.com/profiles/76561199135123664"
+      },
+      "tiktok": {
+        "id": "eecbdfef-fcd6-5dfa-8320-8d16bc764d18",
+        "name": "yjack04",
+        "url": "https://tiktok.com/@yjack04"
+      }
+    },
+    "legacy_username": "birdie#9632"
   }
 }
