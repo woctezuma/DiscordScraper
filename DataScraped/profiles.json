@@ -133739,5 +133739,31 @@
       }
     },
     "legacy_username": "Kyrie#1397"
+  },
+  "305165500466331650": {
+    "id": 305165500466331650,
+    "name": "jobl.snider",
+    "nick": null,
+    "display_name": "jobl",
+    "global_name": "jobl",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "YjBjMjk2MTY5YzA2Njc2NGNlNzFmZjEwY2QxODA5NDBjODI0MDQ1NGE4YjBmYWM1Y2I5MjY2YzZjZDcyZTczYg",
+        "name": "Jobl 117",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Jobl 117"
+      }
+    },
+    "legacy_username": "jobl#5818"
   }
 }
