@@ -140364,5 +140364,45 @@
       }
     },
     "legacy_username": "Dutch#2165"
+  },
+  "575068926745116672": {
+    "id": 575068926745116672,
+    "name": "turtleorwhatever2674",
+    "nick": null,
+    "display_name": "TurtleOrWhatever",
+    "global_name": "TurtleOrWhatever",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "[Kris]\n\nrip project diva, you will be missed",
+    "guild_bio": null,
+    "display_bio": "[Kris]\n\nrip project diva, you will be missed",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "TurtleOrWhatever#2674"
+  },
+  "404387836125773841": {
+    "id": 404387836125773841,
+    "name": "akibyo",
+    "nick": null,
+    "display_name": "Akibyo",
+    "global_name": "Akibyo",
+    "pronouns": "derjenige",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Akibyo#0749"
   }
 }
