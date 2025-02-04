@@ -139538,5 +139538,38 @@
       }
     },
     "legacy_username": "DarylSun#1106"
+  },
+  "652126843750711316": {
+    "id": 652126843750711316,
+    "name": "sigmagenz",
+    "nick": null,
+    "display_name": "zen",
+    "global_name": "zen",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "```everyone can be anyone on the internet. stay safe.```",
+    "guild_bio": null,
+    "display_bio": "```everyone can be anyone on the internet. stay safe.```",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "57295126",
+        "name": "sigmagenz",
+        "url": "https://github.com/sigmagenz"
+      },
+      "spotify": {
+        "id": "31pesgirzuy2hmhcyqcjgljeiyja",
+        "name": "zen",
+        "url": "https://open.spotify.com/user/31pesgirzuy2hmhcyqcjgljeiyja"
+      }
+    },
+    "legacy_username": "zee#1790"
   }
 }
