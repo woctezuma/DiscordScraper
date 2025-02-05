@@ -143744,5 +143744,80 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "370624865511800832": {
+    "id": 370624865511800832,
+    "name": "edsonlp1",
+    "nick": null,
+    "display_name": "edsonlp1",
+    "global_name": "edsonlp1",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "2566515",
+        "name": "edsonlp1",
+        "url": "https://www.twitch.tv/edsonlp1"
+      },
+      "xbox": {
+        "id": "3065849130773000",
+        "name": "edsonlp",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=edsonlp"
+      }
+    },
+    "legacy_username": "edsonlp1#1895"
+  },
+  "1199376926641504411": {
+    "id": 1199376926641504411,
+    "name": "strabon.eth_",
+    "nick": null,
+    "display_name": "!-Strabn_",
+    "global_name": "!-Strabn_",
+    "pronouns": "404 ERROR!",
+    "guild_pronouns": null,
+    "bio": "-Tanmadnz nsalara Karmayn Herkes Babalk Tasladnz 2007 li ocuklara Benzemez\n\n-https://guns.lol/zyphos17_\n\n-Bu kullancnn bir terr rgtnn paras olduundan pheleniliyor",
+    "guild_bio": null,
+    "display_bio": "-Tanmadnz nsalara Karmayn Herkes Babalk Tasladnz 2007 li ocuklara Benzemez\n\n-https://guns.lol/zyphos17_\n\n-Bu kullancnn bir terr rgtnn paras olduundan pheleniliyor",
+    "banner": "https://cdn.discordapp.com/banners/1199376926641504411/a_175b4f9f5e76fcf8b8260d7b32f3c699.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1199376926641504411/a_175b4f9f5e76fcf8b8260d7b32f3c699.gif?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "premium_tenure_3_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "Qx8uqE5F3qepLQGTQ-vNR1h7Fk06-wVxqJf8d_cbKr2YDnj0NP3Q9d43YV8y6Isj1-UPrsMJvjLciw",
+        "name": "RedKiller#03131",
+        "url": null
+      },
+      "playstation": {
+        "id": "7286619313443050594",
+        "name": "kapali-kogus",
+        "url": null
+      },
+      "riot_games": {
+        "id": "Qx8uqE5F3qepLQGTQ-vNR1h7Fk06-wVxqJf8d_cbKr2YDnj0NP3Q9d43YV8y6Isj1-UPrsMJvjLciw",
+        "name": "RedKiller#03131",
+        "url": null
+      },
+      "youtube": {
+        "id": "UCQHHljm0_zTeX2wt7ZvQz9A",
+        "name": "\ud835\ude72\ud835\ude92\ud835\ude98",
+        "url": "https://www.youtube.com/channel/UCQHHljm0_zTeX2wt7ZvQz9A"
+      }
+    },
+    "legacy_username": null
   }
 }
