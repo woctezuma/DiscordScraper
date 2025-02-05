@@ -143470,5 +143470,64 @@
       }
     },
     "legacy_username": "trustme#4846"
+  },
+  "1072187886419591269": {
+    "id": 1072187886419591269,
+    "name": "loupgold",
+    "nick": null,
+    "display_name": "Loup ",
+    "global_name": "Loup ",
+    "pronouns": "Ils/they/them",
+    "guild_pronouns": null,
+    "bio": "J'accepte ta demande Akai fait de moi ton mari et j'en ai rien a foutre de l'avis des autres... Je t'aime mon homme.\nMerci a Ma ch'tite lio ma chur de cur.\nL_X_A  \n1 Fvrier 2025",
+    "guild_bio": null,
+    "display_bio": "J'accepte ta demande Akai fait de moi ton mari et j'en ai rien a foutre de l'avis des autres... Je t'aime mon homme.\nMerci a Ma ch'tite lio ma chur de cur.\nL_X_A  \n1 Fvrier 2025",
+    "banner": "https://cdn.discordapp.com/banners/1072187886419591269/7e72af72eb3e601c97f910573474ff1c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1072187886419591269/7e72af72eb3e601c97f910573474ff1c.png?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium_tenure_3_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "f9393289-5a93-5c97-9dc5-11f87d0999ed",
+        "name": "Crunchyroll user",
+        "url": null
+      },
+      "unknown_roblox": {
+        "id": "1033354150",
+        "name": "loupgold",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199242996363",
+        "name": "loupgold",
+        "url": "https://steamcommunity.com/profiles/76561199242996363"
+      },
+      "tiktok": {
+        "id": "22214647-6117-5a5f-98ac-9272f6191834",
+        "name": "loupgoldyt03",
+        "url": "https://tiktok.com/@loupgoldyt03"
+      },
+      "twitch": {
+        "id": "681954419",
+        "name": "loupgold1yt",
+        "url": "https://www.twitch.tv/loupgold1yt"
+      },
+      "xbox": {
+        "id": "3069515955506336",
+        "name": "Loupgold",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Loupgold"
+      },
+      "youtube": {
+        "id": "UC5pqFmTfeo964CX6EE9aJZg",
+        "name": "Loupgold",
+        "url": "https://www.youtube.com/channel/UC5pqFmTfeo964CX6EE9aJZg"
+      }
+    },
+    "legacy_username": "loupgoldyt#7790"
   }
 }
