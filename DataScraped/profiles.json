@@ -141920,5 +141920,31 @@
       }
     },
     "legacy_username": "Stromey#4420"
+  },
+  "538405480096333829": {
+    "id": 538405480096333829,
+    "name": "washedtyler",
+    "nick": null,
+    "display_name": "washedtyler",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3075108669889593",
+        "name": "TeeZy129",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TeeZy129"
+      }
+    },
+    "legacy_username": "Washed Tyler#1082"
   }
 }
