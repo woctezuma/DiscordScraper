@@ -143329,5 +143329,50 @@
     ],
     "connections": {},
     "legacy_username": "Taaamas#6093"
+  },
+  "1168270578415833202": {
+    "id": 1168270578415833202,
+    "name": "midnight_pho",
+    "nick": null,
+    "display_name": "Mr_pho",
+    "global_name": "Mr_pho",
+    "pronouns": "Male",
+    "guild_pronouns": null,
+    "bio": "What came first, Egg or the chicken?\n\nYes, I know pho in Vietnamese means noodle soup.",
+    "guild_bio": null,
+    "display_bio": "What came first, Egg or the chicken?\n\nYes, I know pho in Vietnamese means noodle soup.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "258939008317390858": {
+    "id": 258939008317390858,
+    "name": "kit4499",
+    "nick": null,
+    "display_name": "Kit",
+    "global_name": "Kit",
+    "pronouns": "Kit/ten",
+    "guild_pronouns": null,
+    "bio": ":)",
+    "guild_bio": null,
+    "display_bio": ":)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Kitten#22294",
+        "name": "Kitten#22294",
+        "url": null
+      }
+    },
+    "legacy_username": "Kit#4499"
   }
 }
