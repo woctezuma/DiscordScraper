@@ -141873,5 +141873,52 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "537174936834277377": {
+    "id": 537174936834277377,
+    "name": "stromeyd",
+    "nick": null,
+    "display_name": "Stromey",
+    "global_name": "Stromey",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "751760258546616",
+        "name": "Dinul Sooriyapatabedhi",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "16yeKsM4I63N8dKv69yDLuwcKMNpCkIWxiWhk45_rMRk_u0mbA6Xpcc144MsGZ_-VZHjO2mZQ-x6dA",
+        "name": "StromeyD",
+        "url": null
+      },
+      "riot_games": {
+        "id": "16yeKsM4I63N8dKv69yDLuwcKMNpCkIWxiWhk45_rMRk_u0mbA6Xpcc144MsGZ_-VZHjO2mZQ-x6dA",
+        "name": "Stromey#6969",
+        "url": null
+      },
+      "spotify": {
+        "id": "31ip6maqugyh5enj36xt2o3dqqmu",
+        "name": "Dinul Sooriyapatabedhi",
+        "url": "https://open.spotify.com/user/31ip6maqugyh5enj36xt2o3dqqmu"
+      },
+      "steam": {
+        "id": "76561198801597971",
+        "name": "Stromey",
+        "url": "https://steamcommunity.com/profiles/76561198801597971"
+      }
+    },
+    "legacy_username": "Stromey#4420"
   }
 }
