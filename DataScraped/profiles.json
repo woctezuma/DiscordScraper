@@ -142263,5 +142263,36 @@
     ],
     "connections": {},
     "legacy_username": "Awolfsz#3867"
+  },
+  "310963301620252673": {
+    "id": 310963301620252673,
+    "name": "goreerebus",
+    "nick": null,
+    "display_name": "GoRE_Erebus",
+    "global_name": "GoRE_Erebus",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199095540203",
+        "name": "fcphobos",
+        "url": "https://steamcommunity.com/profiles/76561199095540203"
+      },
+      "xbox": {
+        "id": "TkE6eGa9tacbqJpG0HD1oFRKsktkFWq1HA01c_wyTvs",
+        "name": "FC PHOBOS",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=FC PHOBOS"
+      }
+    },
+    "legacy_username": "GoRE Erebus#0770"
   }
 }
