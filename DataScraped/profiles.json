@@ -144034,5 +144034,138 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "796555107101442070": {
+    "id": 796555107101442070,
+    "name": "bobismadude",
+    "nick": null,
+    "display_name": "bobismadude",
+    "global_name": null,
+    "pronouns": "Slim shady",
+    "guild_pronouns": null,
+    "bio": "My likings\nDeath note\nRoblox pillar chase 2\nDanganronpa\nSCP\nVR Chat\nHalf-Life\nKonosuba\nDark Deception\nSpookys jumpscare mansion\nGorilla tag\nHouse\nHave a Nice Death\nParanoia agent",
+    "guild_bio": null,
+    "display_bio": "My likings\nDeath note\nRoblox pillar chase 2\nDanganronpa\nSCP\nVR Chat\nHalf-Life\nKonosuba\nDark Deception\nSpookys jumpscare mansion\nGorilla tag\nHouse\nHave a Nice Death\nParanoia agent",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "LittleChaos#11353",
+        "name": "LittleChaos#11353",
+        "url": null
+      },
+      "epic_games": {
+        "id": "ab2b6964fba645c5a07f6d79661f972e",
+        "name": "LittleChaos1119",
+        "url": null
+      },
+      "playstation": {
+        "id": "1929747835462598197",
+        "name": "Chaoslayer19",
+        "url": null
+      },
+      "reddit": {
+        "id": "jbdpqhogx",
+        "name": "bobismadude",
+        "url": "https://www.reddit.com/u/bobismadude"
+      },
+      "unknown_roblox": {
+        "id": "464826993",
+        "name": "AlekSmells",
+        "url": null
+      },
+      "spotify": {
+        "id": "alekmummert",
+        "name": "Alek",
+        "url": "https://open.spotify.com/user/alekmummert"
+      },
+      "steam": {
+        "id": "76561199015405197",
+        "name": "Bobismadude",
+        "url": "https://steamcommunity.com/profiles/76561199015405197"
+      },
+      "tiktok": {
+        "id": "d9096974-11a5-5f1d-9332-a6f7d814987e",
+        "name": "bobismadude",
+        "url": "https://tiktok.com/@bobismadude"
+      },
+      "twitch": {
+        "id": "917612863",
+        "name": "bobismadude",
+        "url": "https://www.twitch.tv/bobismadude"
+      },
+      "twitter": {
+        "id": "810556769269415937",
+        "name": "butters1119",
+        "url": "https://twitter.com/butters1119"
+      }
+    },
+    "legacy_username": "ALEKTHECOOLSCP#3008"
+  },
+  "1068606748761530478": {
+    "id": 1068606748761530478,
+    "name": "lamarcruz",
+    "nick": null,
+    "display_name": "Chobani",
+    "global_name": "Chobani",
+    "pronouns": "friendly/playful",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "youtube": {
+        "id": "UCnsohtd81cXYyIt2BlamJaQ",
+        "name": "Chobani Anderson",
+        "url": "https://www.youtube.com/channel/UCnsohtd81cXYyIt2BlamJaQ"
+      }
+    },
+    "legacy_username": null
+  },
+  "255911886887976961": {
+    "id": 255911886887976961,
+    "name": "major3rd",
+    "nick": null,
+    "display_name": "Jaye",
+    "global_name": "Jaye",
+    "pronouns": "They/Them",
+    "guild_pronouns": null,
+    "bio": "the musical equivalent of a horse girl\nhttps://youtu.be/yPLADsB3jz0?si=ikD-2s02AWOj6BPO",
+    "guild_bio": null,
+    "display_bio": "the musical equivalent of a horse girl\nhttps://youtu.be/yPLADsB3jz0?si=ikD-2s02AWOj6BPO",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "league_of_legends": {
+        "id": "na_41193709",
+        "name": "M 8",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198057735406",
+        "name": "Toki",
+        "url": "https://steamcommunity.com/profiles/76561198057735406"
+      },
+      "twitch": {
+        "id": "160900113",
+        "name": "comradetoki",
+        "url": "https://www.twitch.tv/comradetoki"
+      }
+    },
+    "legacy_username": "Toki#1000"
   }
 }
