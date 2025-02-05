@@ -142294,5 +142294,50 @@
       }
     },
     "legacy_username": "GoRE Erebus#0770"
+  },
+  "771212473088868384": {
+    "id": 771212473088868384,
+    "name": "gamermom706",
+    "nick": null,
+    "display_name": "GamerMom706",
+    "global_name": "GamerMom706",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "787274319",
+        "name": "gamermom706",
+        "url": "https://www.twitch.tv/gamermom706"
+      }
+    },
+    "legacy_username": "GamerMom706#8177"
+  },
+  "1336692083444158566": {
+    "id": 1336692083444158566,
+    "name": "cloudst2",
+    "nick": null,
+    "display_name": "Cloudst22",
+    "global_name": "Cloudst22",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
