@@ -142222,5 +142222,46 @@
       }
     },
     "legacy_username": "Kaukazu#0027"
+  },
+  "989831435479298061": {
+    "id": 989831435479298061,
+    "name": "nusaplays",
+    "nick": null,
+    "display_name": "Nusa",
+    "global_name": "Nusa",
+    "pronouns": "God did \u271e",
+    "guild_pronouns": null,
+    "bio": "Overthinking killed my happiness.",
+    "guild_bio": null,
+    "display_bio": "Overthinking killed my happiness.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "526035120696590353": {
+    "id": 526035120696590353,
+    "name": "awolfsz",
+    "nick": null,
+    "display_name": "Awolfsz",
+    "global_name": "Awolfsz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Awolfsz#3867"
   }
 }
