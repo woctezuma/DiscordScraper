@@ -141754,5 +141754,37 @@
       }
     },
     "legacy_username": "Tank Grunt#9130"
+  },
+  "1058548883107610695": {
+    "id": 1058548883107610695,
+    "name": "baguette_men",
+    "nick": null,
+    "display_name": "Baguette Man",
+    "global_name": "Baguette Man",
+    "pronouns": "mango/on/a/fork",
+    "guild_pronouns": null,
+    "bio": "I borrow bread permanently\n\nI'm getting Celiac disease",
+    "guild_bio": null,
+    "display_bio": "I borrow bread permanently\n\nI'm getting Celiac disease",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199438489131",
+        "name": "friendly f2p",
+        "url": "https://steamcommunity.com/profiles/76561199438489131"
+      },
+      "twitch": {
+        "id": "780819350",
+        "name": "131313135131351",
+        "url": "https://www.twitch.tv/131313135131351"
+      }
+    },
+    "legacy_username": "Baguette Man#5759"
   }
 }
