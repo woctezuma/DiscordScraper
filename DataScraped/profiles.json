@@ -141807,5 +141807,53 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "315517497459605504": {
+    "id": 315517497459605504,
+    "name": "emircvr",
+    "nick": null,
+    "display_name": "emircvr",
+    "global_name": "emircvr",
+    "pronouns": "I'm Batman",
+    "guild_pronouns": null,
+    "bio": ":COPIUM:",
+    "guild_bio": null,
+    "display_bio": ":COPIUM:",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "8884644024908864",
+        "name": "emircvr",
+        "url": "https://www.instagram.com/emircvr"
+      },
+      "spotify": {
+        "id": "luj5gsb09t1rs214p4c0nzudw",
+        "name": "emircvr",
+        "url": "https://open.spotify.com/user/luj5gsb09t1rs214p4c0nzudw"
+      },
+      "steam": {
+        "id": "76561198306602741",
+        "name": "emircvr",
+        "url": "https://steamcommunity.com/profiles/76561198306602741"
+      },
+      "twitch": {
+        "id": "170275282",
+        "name": "emircvr26",
+        "url": "https://www.twitch.tv/emircvr26"
+      },
+      "xbox": {
+        "id": "3062462285106695",
+        "name": "emircvr",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=emircvr"
+      }
+    },
+    "legacy_username": "emircvr#7508"
   }
 }
