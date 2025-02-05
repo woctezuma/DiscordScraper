@@ -142712,5 +142712,29 @@
       }
     },
     "legacy_username": "Fat Bea Bea#3333"
+  },
+  "258618476262850600": {
+    "id": 258618476262850600,
+    "name": "valdikss",
+    "nick": null,
+    "display_name": "valdikss",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561198353400366",
+        "name": "valdikss",
+        "url": "https://steamcommunity.com/profiles/76561198353400366"
+      }
+    },
+    "legacy_username": null
   }
 }
