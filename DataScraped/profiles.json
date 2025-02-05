@@ -143047,5 +143047,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "132686765814317056": {
+    "id": 132686765814317056,
+    "name": "massara64",
+    "nick": null,
+    "display_name": "massara64",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Clyde#9027"
   }
 }
