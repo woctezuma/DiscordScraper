@@ -142814,5 +142814,52 @@
     ],
     "connections": {},
     "legacy_username": "\u029e\u0254\u1d09S#6743"
+  },
+  "1218113793599737990": {
+    "id": 1218113793599737990,
+    "name": "blackguard0244",
+    "nick": null,
+    "display_name": "G.U.A.R.D",
+    "global_name": "G.U.A.R.D",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "What is happening here?",
+    "guild_bio": null,
+    "display_bio": "What is happening here?",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "reddit": {
+        "id": "q80192o8w",
+        "name": "Life_Mushroom6432",
+        "url": "https://www.reddit.com/u/Life_Mushroom6432"
+      },
+      "twitch": {
+        "id": "665462996",
+        "name": "blacckguard_",
+        "url": "https://www.twitch.tv/blacckguard_"
+      }
+    },
+    "legacy_username": null
+  },
+  "1336649207968301080": {
+    "id": 1336649207968301080,
+    "name": "nicholas099055",
+    "nick": null,
+    "display_name": "Nicholas",
+    "global_name": "Nicholas",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
