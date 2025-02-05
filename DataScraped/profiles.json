@@ -142861,5 +142861,75 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "254731126382264320": {
+    "id": 254731126382264320,
+    "name": "egamer45",
+    "nick": null,
+    "display_name": "egamer54",
+    "global_name": "egamer54",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "egamer45#5129"
+  },
+  "652533619973160961": {
+    "id": 652533619973160961,
+    "name": "rands11",
+    "nick": null,
+    "display_name": "Rands",
+    "global_name": "Rands",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": "https://cdn.discordapp.com/banners/652533619973160961/a_c4fe1b654b1fc2e8b3c6824e2fda5b32.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/652533619973160961/a_c4fe1b654b1fc2e8b3c6824e2fda5b32.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Rands#11661",
+        "name": "Rands#11661",
+        "url": null
+      },
+      "epic_games": {
+        "id": "a78cc87be63f47bc964d4a08add15028",
+        "name": "Rands11",
+        "url": null
+      },
+      "playstation": {
+        "id": "1384568806706771284",
+        "name": "TypicalRookie11",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198024043746",
+        "name": "Rands",
+        "url": "https://steamcommunity.com/profiles/76561198024043746"
+      },
+      "xbox": {
+        "id": "3072190302992381",
+        "name": "TypicalRookie",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TypicalRookie"
+      }
+    },
+    "legacy_username": "Rands#0001"
   }
 }
