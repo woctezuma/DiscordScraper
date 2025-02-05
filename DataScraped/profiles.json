@@ -141562,5 +141562,197 @@
     ],
     "connections": {},
     "legacy_username": "flo3004#7894"
+  },
+  "822491391166513154": {
+    "id": 822491391166513154,
+    "name": "mana_the_player",
+    "nick": null,
+    "display_name": "om0r",
+    "global_name": "om0r",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hey, if I'm not responding its surely because I'm eating rocks or trashtalking a mirror so try later (Or call the hospital, I dunno)",
+    "guild_bio": null,
+    "display_bio": "Hey, if I'm not responding its surely because I'm eating rocks or trashtalking a mirror so try later (Or call the hospital, I dunno)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31tsoatrvywuxhkepl6pimmvxhfa",
+        "name": "Mana",
+        "url": "https://open.spotify.com/user/31tsoatrvywuxhkepl6pimmvxhfa"
+      },
+      "twitch": {
+        "id": "737629609",
+        "name": "mana_the_player",
+        "url": "https://www.twitch.tv/mana_the_player"
+      }
+    },
+    "legacy_username": null
+  },
+  "666945597546430465": {
+    "id": 666945597546430465,
+    "name": "ta2en",
+    "nick": null,
+    "display_name": "TA2ENING",
+    "global_name": "TA2ENING",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "#Begginers of HTML :[\n#Rookie of Technology:[\n#I'm rubbishing on Tech / Coding",
+    "guild_bio": null,
+    "display_bio": "#Begginers of HTML :[\n#Rookie of Technology:[\n#I'm rubbishing on Tech / Coding",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ewt64t6lxaxcy3745q2rng52oe",
+        "name": "TA2EN",
+        "url": "https://open.spotify.com/user/31ewt64t6lxaxcy3745q2rng52oe"
+      },
+      "steam": {
+        "id": "76561199159797043",
+        "name": "TA2ENING",
+        "url": "https://steamcommunity.com/profiles/76561199159797043"
+      },
+      "xbox": {
+        "id": "3078124106844335",
+        "name": "TA2EN",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TA2EN"
+      }
+    },
+    "legacy_username": "TA2EN#6759"
+  },
+  "345534921923624971": {
+    "id": 345534921923624971,
+    "name": "craters",
+    "nick": null,
+    "display_name": "craters",
+    "global_name": "craters",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "CraTerS#2298",
+        "name": "CraTerS#2298",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "VxE6EKDfPJO9E6TjN4FddZmE_xvKD1UnzSMJ0dTruefXUkrBhMWKYcRAi0hPrTEmU3vsqQ9Rn8ZIbg",
+        "name": "craters47",
+        "url": null
+      },
+      "reddit": {
+        "id": "kn5llidm",
+        "name": "Mental_Control_8719",
+        "url": "https://www.reddit.com/u/Mental_Control_8719"
+      },
+      "riot_games": {
+        "id": "VxE6EKDfPJO9E6TjN4FddZmE_xvKD1UnzSMJ0dTruefXUkrBhMWKYcRAi0hPrTEmU3vsqQ9Rn8ZIbg",
+        "name": "craters#cts",
+        "url": null
+      },
+      "skype": {
+        "id": "wolkonmun",
+        "name": "wolkonmun",
+        "url": "skype:wolkonmun?userinfo"
+      },
+      "steam": {
+        "id": "76561199041126852",
+        "name": "craters",
+        "url": "https://steamcommunity.com/profiles/76561199041126852"
+      },
+      "tiktok": {
+        "id": "553aa917-839e-5bd0-b3bb-d61423d7bd63",
+        "name": "craters47",
+        "url": "https://tiktok.com/@craters47"
+      },
+      "twitch": {
+        "id": "103474002",
+        "name": "craters47",
+        "url": "https://www.twitch.tv/craters47"
+      },
+      "xbox": {
+        "id": "3076019197092412",
+        "name": "craters3881",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=craters3881"
+      },
+      "youtube": {
+        "id": "UCXTs295tj_x0y5RCAIv-UCg",
+        "name": "craters",
+        "url": "https://www.youtube.com/channel/UCXTs295tj_x0y5RCAIv-UCg"
+      }
+    },
+    "legacy_username": "craters#1046"
+  },
+  "335498237001859074": {
+    "id": 335498237001859074,
+    "name": "dant33",
+    "nick": null,
+    "display_name": "Dant3",
+    "global_name": "Dant3",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "KingPrince#8219"
+  },
+  "254825065114370048": {
+    "id": 254825065114370048,
+    "name": "tankgrunt",
+    "nick": null,
+    "display_name": "Tank Grunt",
+    "global_name": "Tank Grunt",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "26\n\npoo poo and also pee pee",
+    "guild_bio": null,
+    "display_bio": "26\n\npoo poo and also pee pee",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198183930919",
+        "name": "Tank Grunt",
+        "url": "https://steamcommunity.com/profiles/76561198183930919"
+      },
+      "twitch": {
+        "id": "143743342",
+        "name": "tankgrunt",
+        "url": "https://www.twitch.tv/tankgrunt"
+      }
+    },
+    "legacy_username": "Tank Grunt#9130"
   }
 }
