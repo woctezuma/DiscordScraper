@@ -142532,5 +142532,103 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "423783460881170432": {
+    "id": 423783460881170432,
+    "name": "masterindian",
+    "nick": null,
+    "display_name": "MasterINDIAN",
+    "global_name": "MasterINDIAN",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "A game a day, keeps the demons away! ",
+    "guild_bio": null,
+    "display_bio": "A game a day, keeps the demons away! ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "5vnkoIGGBph-9BhJahb-r6QeSTPBD_Ub2RVfR2JhVqz-_vQNB3AqwhvTpLgKrqvcD4oBoaOvSBWnJg",
+        "name": "SC MasterINDIAN#Only1",
+        "url": null
+      },
+      "spotify": {
+        "id": "ctnl64p2fw960utndd25xhy96",
+        "name": "Master",
+        "url": "https://open.spotify.com/user/ctnl64p2fw960utndd25xhy96"
+      },
+      "steam": {
+        "id": "76561198402136376",
+        "name": "Master",
+        "url": "https://steamcommunity.com/profiles/76561198402136376"
+      },
+      "twitch": {
+        "id": "271588955",
+        "name": "masterind1an",
+        "url": "https://www.twitch.tv/masterind1an"
+      }
+    },
+    "legacy_username": "MasterINDIAN#7695"
+  },
+  "606476325397463050": {
+    "id": 606476325397463050,
+    "name": "menaaxx_07",
+    "nick": null,
+    "display_name": "Menachooo",
+    "global_name": "Menachooo",
+    "pronouns": "ARRIBA ESPA\u00d1A",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "529d3594645449958b29b076f4762355",
+        "name": "\u029f\u1d00\u0274\u1d00 \u0280\u029c\u1d0f\u1d00\u1d05\u1d07\ua731 \u30c4",
+        "url": null
+      },
+      "spotify": {
+        "id": "tc5p3x51k0668g3ntdydghi4r",
+        "name": "menaxoo07",
+        "url": "https://open.spotify.com/user/tc5p3x51k0668g3ntdydghi4r"
+      },
+      "twitch": {
+        "id": "551775674",
+        "name": "menaaxx_07",
+        "url": "https://www.twitch.tv/menaaxx_07"
+      }
+    },
+    "legacy_username": null
+  },
+  "968010364811902986": {
+    "id": 968010364811902986,
+    "name": "kevinrio6970",
+    "nick": null,
+    "display_name": "rio",
+    "global_name": "rio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "brian#6970"
   }
 }
