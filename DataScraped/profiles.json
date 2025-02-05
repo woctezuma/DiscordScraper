@@ -142931,5 +142931,103 @@
       }
     },
     "legacy_username": "Rands#0001"
+  },
+  "897045392909299712": {
+    "id": 897045392909299712,
+    "name": "regalduck",
+    "nick": null,
+    "display_name": "Regalduck",
+    "global_name": "Regalduck",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Regalduck#7593"
+  },
+  "369105720672649218": {
+    "id": 369105720672649218,
+    "name": "mattgones_69",
+    "nick": null,
+    "display_name": "MattGones_69",
+    "global_name": "MattGones_69",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "1087600750428962858": {
+    "id": 1087600750428962858,
+    "name": "gdaidantahanyt",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": " GD AidanTahan YT \n 15, Male, Bi and very silly :3\nHello Kitty and Sanrio Fan/Local 3DS & Wii Homebrewer and iPhone Jailbreaker/Cracked at Arsenal and TF2/PC Player/Dumbass/PS2 Owner",
+    "guild_bio": null,
+    "display_bio": " GD AidanTahan YT \n 15, Male, Bi and very silly :3\nHello Kitty and Sanrio Fan/Local 3DS & Wii Homebrewer and iPhone Jailbreaker/Cracked at Arsenal and TF2/PC Player/Dumbass/PS2 Owner",
+    "banner": "https://cdn.discordapp.com/banners/1087600750428962858/0d516c3b93f74c1ea1b2b8c908ad1b8c.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1087600750428962858/0d516c3b93f74c1ea1b2b8c908ad1b8c.png?size=512",
+    "badges": [
+      "guild_booster_lvl2",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_1_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "ebay": {
+        "id": "cmewgu0rrjo",
+        "name": "spongysquareboy6969",
+        "url": "https://www.ebay.com/usr/spongysquareboy6969"
+      },
+      "epic_games": {
+        "id": "b9548b24fd7348eca81045908156902a",
+        "name": "GD-AidanTahan-YT",
+        "url": null
+      },
+      "github": {
+        "id": "147906409",
+        "name": "HelloKittyFan64",
+        "url": "https://github.com/HelloKittyFan64"
+      },
+      "unknown_roblox": {
+        "id": "1372734389",
+        "name": "GD_AidanTahan",
+        "url": null
+      },
+      "spotify": {
+        "id": "heka2gyn07zmri5ize03h735o",
+        "name": "GD AidanTahan",
+        "url": "https://open.spotify.com/user/heka2gyn07zmri5ize03h735o"
+      },
+      "steam": {
+        "id": "76561198892217304",
+        "name": "stupid femboy",
+        "url": "https://steamcommunity.com/profiles/76561198892217304"
+      },
+      "xbox": {
+        "id": "3064131323951472",
+        "name": "GD Aidan69",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=GD Aidan69"
+      }
+    },
+    "legacy_username": "GD AidanTahan YT#8653"
   }
 }
