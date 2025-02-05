@@ -144167,5 +144167,49 @@
       }
     },
     "legacy_username": "Toki#1000"
+  },
+  "646404293569544205": {
+    "id": 646404293569544205,
+    "name": "_teo_._.",
+    "nick": null,
+    "display_name": "Teo",
+    "global_name": "Teo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "219028175",
+        "name": "teobarza",
+        "url": "https://www.twitch.tv/teobarza"
+      }
+    },
+    "legacy_username": "Teo#7563"
+  },
+  "482083104463257600": {
+    "id": 482083104463257600,
+    "name": "lala073315",
+    "nick": null,
+    "display_name": "lala",
+    "global_name": "lala",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
