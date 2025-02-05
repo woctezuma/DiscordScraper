@@ -142105,5 +142105,43 @@
       }
     },
     "legacy_username": null
+  },
+  "186545708982206465": {
+    "id": 186545708982206465,
+    "name": "henkdewasbeer",
+    "nick": null,
+    "display_name": "HenkDeWasbeer",
+    "global_name": "HenkDeWasbeer",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Wasbeer#2326",
+        "name": "Wasbeer#2326",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198095253097",
+        "name": "HenkdeWasbeer",
+        "url": "https://steamcommunity.com/profiles/76561198095253097"
+      },
+      "xbox": {
+        "id": "MDk0ZWExNjkyZGJhMWMzZjU2ZjUwZGIzOWZkNjQ5MGUwZDY5ZmE4NjY0ODZhYzFkNjQxNzUzMWMzODhhNzgxMw",
+        "name": "HenkDeWasbeer69",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HenkDeWasbeer69"
+      }
+    },
+    "legacy_username": "HenkDeWasbeer#7947"
   }
 }
