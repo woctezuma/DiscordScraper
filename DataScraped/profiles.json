@@ -142143,5 +142143,84 @@
       }
     },
     "legacy_username": "HenkDeWasbeer#7947"
+  },
+  "686158911316820007": {
+    "id": 686158911316820007,
+    "name": "ramenudles.yum",
+    "nick": null,
+    "display_name": "Ramenudles",
+    "global_name": "Ramenudles",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Ramenudles#9973"
+  },
+  "849695469642973245": {
+    "id": 849695469642973245,
+    "name": "mctea1",
+    "nick": null,
+    "display_name": "Mctea",
+    "global_name": "Mctea",
+    "pronouns": "He/him",
+    "guild_pronouns": null,
+    "bio": "Ngi Achilles v i ",
+    "guild_bio": null,
+    "display_bio": "Ngi Achilles v i ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "151962023288860",
+        "name": "MP EA",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "OqfH9H7589pjqdGPQosdA5ASpovpfQXxO8I9WUq8uUW8Pa8FFwNAhPQJFMfwLbbCoYegWS1042bZRQ",
+        "name": "MCTEA#8076",
+        "url": null
+      },
+      "riot_games": {
+        "id": "OqfH9H7589pjqdGPQosdA5ASpovpfQXxO8I9WUq8uUW8Pa8FFwNAhPQJFMfwLbbCoYegWS1042bZRQ",
+        "name": "MCTEA#8076",
+        "url": null
+      },
+      "spotify": {
+        "id": "31qxqbgtn6wznus7yahystn5ge54",
+        "name": "Mcpie",
+        "url": "https://open.spotify.com/user/31qxqbgtn6wznus7yahystn5ge54"
+      },
+      "steam": {
+        "id": "76561199115420053",
+        "name": "mctea",
+        "url": "https://steamcommunity.com/profiles/76561199115420053"
+      },
+      "xbox": {
+        "id": "3074040471728722",
+        "name": "mctea1296",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=mctea1296"
+      },
+      "youtube": {
+        "id": "UCDim5avHnuPvrsi6rIPB-vQ",
+        "name": "MC TEA \u30c5",
+        "url": "https://www.youtube.com/channel/UCDim5avHnuPvrsi6rIPB-vQ"
+      }
+    },
+    "legacy_username": "Kaukazu#0027"
   }
 }
