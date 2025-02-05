@@ -142465,5 +142465,72 @@
     ],
     "connections": {},
     "legacy_username": "Marox#7590"
+  },
+  "141211145028501504": {
+    "id": 141211145028501504,
+    "name": "abangsyber",
+    "nick": null,
+    "display_name": "AbangSyber",
+    "global_name": "AbangSyber",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "e3d716fcbdba4ec289ff8836831d3244",
+        "name": "Sabri Bin Salim",
+        "url": null
+      },
+      "facebook": {
+        "id": "10156085187848421",
+        "name": "Sabri Bin Salim",
+        "url": null
+      },
+      "skype": {
+        "id": "sabri.bin.salim",
+        "name": "sabri.bin.salim",
+        "url": "skype:sabri.bin.salim?userinfo"
+      },
+      "spotify": {
+        "id": "11172247532",
+        "name": "Sabri Bin Salim",
+        "url": "https://open.spotify.com/user/11172247532"
+      },
+      "steam": {
+        "id": "76561197989088350",
+        "name": "AbangSyber (Sabri)",
+        "url": "https://steamcommunity.com/profiles/76561197989088350"
+      }
+    },
+    "legacy_username": "AbangSyber#8717"
+  },
+  "264464628430536704": {
+    "id": 264464628430536704,
+    "name": "aalqurashigg",
+    "nick": null,
+    "display_name": "AbdullahGaming",
+    "global_name": "AbdullahGaming",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
