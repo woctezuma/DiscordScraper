@@ -141786,5 +141786,26 @@
       }
     },
     "legacy_username": "Baguette Man#5759"
+  },
+  "997321350458904667": {
+    "id": 997321350458904667,
+    "name": "c.7900",
+    "nick": null,
+    "display_name": "c.",
+    "global_name": "c.",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
