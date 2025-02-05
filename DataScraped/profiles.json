@@ -143106,5 +143106,163 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "416309885219766275": {
+    "id": 416309885219766275,
+    "name": "zero_sb.",
+    "nick": null,
+    "display_name": "Zero_SB",
+    "global_name": "Zero_SB",
+    "pronouns": "OG",
+    "guild_pronouns": null,
+    "bio": "OG",
+    "guild_bio": null,
+    "display_bio": "OG",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198401661665",
+        "name": "Diegossb",
+        "url": "https://steamcommunity.com/profiles/76561198401661665"
+      },
+      "youtube": {
+        "id": "UCpzXFYO7ulWvCAt_8vUOE_A",
+        "name": "Diegoss_sb",
+        "url": "https://www.youtube.com/channel/UCpzXFYO7ulWvCAt_8vUOE_A"
+      }
+    },
+    "legacy_username": "Zero_SB#8973"
+  },
+  "334027208786051073": {
+    "id": 334027208786051073,
+    "name": ".black_bird.",
+    "nick": null,
+    "display_name": "Black Bird",
+    "global_name": "Black Bird",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "tournament winner:  challenge cup, fast cup, 2v2 tournament, BetBoom Valorant League,WePlay! Invitational. Peak Radiant eps me tg: @l_Black_Bird_l",
+    "guild_bio": null,
+    "display_bio": "tournament winner:  challenge cup, fast cup, 2v2 tournament, BetBoom Valorant League,WePlay! Invitational. Peak Radiant eps me tg: @l_Black_Bird_l",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Black Bird#4320"
+  },
+  "176613007374286848": {
+    "id": 176613007374286848,
+    "name": "leorgrium",
+    "nick": null,
+    "display_name": " Leorgrium  ",
+    "global_name": " Leorgrium  ",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Im Alex, I work as Web developer and I love playing videogames.",
+    "guild_bio": null,
+    "display_bio": "Im Alex, I work as Web developer and I love playing videogames.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Leorgrium#2914",
+        "name": "Leorgrium#2914",
+        "url": null
+      },
+      "unknown_bluesky": {
+        "id": "did:plc:juss7w6ji2skuzkxz47bh2qp",
+        "name": "leorgrium.bsky.social",
+        "url": null
+      },
+      "unknown_bungie": {
+        "id": "4611686018467315964",
+        "name": "\u25af Leorgrium \u25af \u25af\u25af",
+        "url": null
+      },
+      "epic_games": {
+        "id": "9489b186fb8b4d8faf94714edf20b31b",
+        "name": "Leorgrium",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "pAVU3CeqR5ttWw1yu-uWun3OawGX9uLpOnKSp2_GdcCqCu6yJWOYYcDD4AJTz0RSkxELiaWK8aZyFA",
+        "name": "Leorgrium",
+        "url": null
+      },
+      "reddit": {
+        "id": "7mcwe",
+        "name": "Leorgrium",
+        "url": "https://www.reddit.com/u/Leorgrium"
+      },
+      "riot_games": {
+        "id": "pAVU3CeqR5ttWw1yu-uWun3OawGX9uLpOnKSp2_GdcCqCu6yJWOYYcDD4AJTz0RSkxELiaWK8aZyFA",
+        "name": "Leorgrium#3180",
+        "url": null
+      },
+      "spotify": {
+        "id": "leorgrium",
+        "name": "Leorgrium",
+        "url": "https://open.spotify.com/user/leorgrium"
+      },
+      "steam": {
+        "id": "76561197965128167",
+        "name": "\u271e Leorgrium \u271e \ud83d\udc80",
+        "url": "https://steamcommunity.com/profiles/76561197965128167"
+      },
+      "twitch": {
+        "id": "7603468",
+        "name": "leorgrium",
+        "url": "https://www.twitch.tv/leorgrium"
+      },
+      "twitter": {
+        "id": "27823771",
+        "name": "Leorgrium",
+        "url": "https://twitter.com/Leorgrium"
+      },
+      "xbox": {
+        "id": "3069851044276502",
+        "name": "Leorgrium",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Leorgrium"
+      },
+      "youtube": {
+        "id": "UCalZdI5upKDPNNcS3tJH0_Q",
+        "name": "Leorgrium",
+        "url": "https://www.youtube.com/channel/UCalZdI5upKDPNNcS3tJH0_Q"
+      }
+    },
+    "legacy_username": "\u271e Leorgrium \u271e \ud83d\udc80#2184"
+  },
+  "190777803195547648": {
+    "id": 190777803195547648,
+    "name": "jatomie",
+    "nick": null,
+    "display_name": "Jatomie",
+    "global_name": "Jatomie",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
