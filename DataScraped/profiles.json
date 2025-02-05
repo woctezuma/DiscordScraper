@@ -143067,5 +143067,26 @@
     ],
     "connections": {},
     "legacy_username": "Clyde#9027"
+  },
+  "871734028238196746": {
+    "id": 871734028238196746,
+    "name": "purpleguy_666",
+    "nick": null,
+    "display_name": "Purple Guy",
+    "global_name": "Purple Guy",
+    "pronouns": "A/Monster",
+    "guild_pronouns": null,
+    "bio": "If you see this person, please contact the local authorities before interacting or contacting this individual",
+    "guild_bio": null,
+    "display_bio": "If you see this person, please contact the local authorities before interacting or contacting this individual",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Purple Guy#6111"
   }
 }
