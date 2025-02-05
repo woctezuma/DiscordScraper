@@ -142444,5 +142444,26 @@
       }
     },
     "legacy_username": "DinoRoar#4748"
+  },
+  "343147239570407428": {
+    "id": 343147239570407428,
+    "name": "marox27",
+    "nick": null,
+    "display_name": "Marox",
+    "global_name": "Marox",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "Marox#7590"
   }
 }
