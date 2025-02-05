@@ -142339,5 +142339,110 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "1334129882455871560": {
+    "id": 1334129882455871560,
+    "name": "aviv0278_03651",
+    "nick": null,
+    "display_name": "aviv",
+    "global_name": "aviv",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "533614456513757185": {
+    "id": 533614456513757185,
+    "name": "ju.deus",
+    "nick": null,
+    "display_name": "joelmmm",
+    "global_name": "joelmmm",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199062311170",
+        "name": "jbsnvch",
+        "url": "https://steamcommunity.com/profiles/76561199062311170"
+      },
+      "xbox": {
+        "id": "3063542263803361",
+        "name": "Bsnvchj",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Bsnvchj"
+      }
+    },
+    "legacy_username": null
+  },
+  "1041256203164061787": {
+    "id": 1041256203164061787,
+    "name": ".dinoroar.",
+    "nick": null,
+    "display_name": "DinoRoar",
+    "global_name": "DinoRoar",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "\"This is going to hurt a lot, but on the bright side, youll be dead soon.\"",
+    "guild_bio": null,
+    "display_bio": "\"This is going to hurt a lot, but on the bright side, youll be dead soon.\"",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "unknown_amazon-music": {
+        "id": "amzn1.account.AFDXZPISBSLTJVJZU6CD7CJ4SVFQ",
+        "name": "Akashee Singh",
+        "url": null
+      },
+      "epic_games": {
+        "id": "f4d2df71f02145abbbbdf5c32fb2e570",
+        "name": "DinoRoar_",
+        "url": null
+      },
+      "spotify": {
+        "id": "31pj5gs3kvpumqb4354klyzfv5zi",
+        "name": "Mystica",
+        "url": "https://open.spotify.com/user/31pj5gs3kvpumqb4354klyzfv5zi"
+      },
+      "steam": {
+        "id": "76561199309831460",
+        "name": "Lilith",
+        "url": "https://steamcommunity.com/profiles/76561199309831460"
+      },
+      "twitch": {
+        "id": "1238257459",
+        "name": "dinoroar2006",
+        "url": "https://www.twitch.tv/dinoroar2006"
+      },
+      "xbox": {
+        "id": "3073018887358112",
+        "name": "DinoRoar6217",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DinoRoar6217"
+      },
+      "youtube": {
+        "id": "UCenhhVxvCMwEF_w9S9bAilw",
+        "name": "Akashee",
+        "url": "https://www.youtube.com/channel/UCenhhVxvCMwEF_w9S9bAilw"
+      }
+    },
+    "legacy_username": "DinoRoar#4748"
   }
 }
