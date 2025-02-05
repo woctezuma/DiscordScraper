@@ -143374,5 +143374,101 @@
       }
     },
     "legacy_username": "Kit#4499"
+  },
+  "1059463532833411133": {
+    "id": 1059463532833411133,
+    "name": "abdo_pro151",
+    "nick": null,
+    "display_name": "Jack_pro151",
+    "global_name": "Jack_pro151",
+    "pronouns": "normal male pronouns",
+    "guild_pronouns": null,
+    "bio": "Worldwide Criminal  \n\nRandom dude that does random stuff\n\nalso https://bsky.app/profile/abdo-pro151.bsky.social",
+    "guild_bio": null,
+    "display_bio": "Worldwide Criminal  \n\nRandom dude that does random stuff\n\nalso https://bsky.app/profile/abdo-pro151.bsky.social",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199469047954",
+        "name": "abdo_pro155",
+        "url": "https://steamcommunity.com/profiles/76561199469047954"
+      },
+      "youtube": {
+        "id": "UCm3RiJtp7QeAks_M70Ex0yg",
+        "name": "abdo_pro151",
+        "url": "https://www.youtube.com/channel/UCm3RiJtp7QeAks_M70Ex0yg"
+      }
+    },
+    "legacy_username": "abdo_pro151#7172"
+  },
+  "446333338874281994": {
+    "id": 446333338874281994,
+    "name": "lucas_the_fox05",
+    "nick": null,
+    "display_name": "Lucas",
+    "global_name": "Lucas",
+    "pronouns": "Why be normal when one can be weird",
+    "guild_pronouns": null,
+    "bio": "I have ADHD(spectrume 1) and Autism(ASD) I am 19 and a 0/10 I am too emotionall Not relationship material lmao.  I will never understand how people like me",
+    "guild_bio": null,
+    "display_bio": "I have ADHD(spectrume 1) and Autism(ASD) I am 19 and a 0/10 I am too emotionall Not relationship material lmao.  I will never understand how people like me",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198294221776",
+        "name": "Lucas The Fox#Saveafox",
+        "url": "https://steamcommunity.com/profiles/76561198294221776"
+      },
+      "twitch": {
+        "id": "444856132",
+        "name": "matskalle3",
+        "url": "https://www.twitch.tv/matskalle3"
+      },
+      "youtube": {
+        "id": "UCHhHOYIAq5qm72aGIrR6qRQ",
+        "name": "Lucas the fox",
+        "url": "https://www.youtube.com/channel/UCHhHOYIAq5qm72aGIrR6qRQ"
+      }
+    },
+    "legacy_username": "Lucas The Fox#7134"
+  },
+  "975733143854264421": {
+    "id": 975733143854264421,
+    "name": "trustmee0",
+    "nick": null,
+    "display_name": "trustmeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "global_name": "trustmeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "pronouns": ">.<",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "youtube": {
+        "id": "UC3o7wxIfz2pUoi5hvXHjySg",
+        "name": "darkside?",
+        "url": "https://www.youtube.com/channel/UC3o7wxIfz2pUoi5hvXHjySg"
+      }
+    },
+    "legacy_username": "trustme#4846"
   }
 }
