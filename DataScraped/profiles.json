@@ -143529,5 +143529,111 @@
       }
     },
     "legacy_username": "loupgoldyt#7790"
+  },
+  "655475156570996776": {
+    "id": 655475156570996776,
+    "name": "usualxoxo",
+    "nick": null,
+    "display_name": "usualxoxo",
+    "global_name": "usualxoxo",
+    "pronouns": "she/her",
+    "guild_pronouns": null,
+    "bio": "@badaluuta.maria\nhttps://stats.fm/usual",
+    "guild_bio": null,
+    "display_bio": "@badaluuta.maria\nhttps://stats.fm/usual",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f723d697d02b4926b8766e0e5fb9696e",
+        "name": "usualxoxo",
+        "url": null
+      },
+      "spotify": {
+        "id": "sok7yfg4ig580rahufqqkmkqg",
+        "name": "maria",
+        "url": "https://open.spotify.com/user/sok7yfg4ig580rahufqqkmkqg"
+      },
+      "steam": {
+        "id": "76561198802095043",
+        "name": "Usual",
+        "url": "https://steamcommunity.com/profiles/76561198802095043"
+      }
+    },
+    "legacy_username": "usualxoxo#0770"
+  },
+  "235195217291116544": {
+    "id": 235195217291116544,
+    "name": "sneauxpy",
+    "nick": null,
+    "display_name": "Sneauxpy",
+    "global_name": "Sneauxpy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "586993026216230914": {
+    "id": 586993026216230914,
+    "name": "oo1129",
+    "nick": null,
+    "display_name": "skeeos",
+    "global_name": "skeeos",
+    "pronouns": "residentially evil",
+    "guild_pronouns": null,
+    "bio": "midnight club\n\nMazda RX-7 SA22/FB",
+    "guild_bio": null,
+    "display_bio": "midnight club\n\nMazda RX-7 SA22/FB",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "63874539",
+        "name": "speednox15",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198863934107",
+        "name": "6_ia",
+        "url": "https://steamcommunity.com/profiles/76561198863934107"
+      }
+    },
+    "legacy_username": null
+  },
+  "1336771582403547227": {
+    "id": 1336771582403547227,
+    "name": "ellistf2",
+    "nick": null,
+    "display_name": "EllisTF2",
+    "global_name": "EllisTF2",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
