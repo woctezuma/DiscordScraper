@@ -141458,5 +141458,48 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "871019203992371210": {
+    "id": 871019203992371210,
+    "name": "weeta3089",
+    "nick": null,
+    "display_name": "weeta",
+    "global_name": "weeta",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "\u0e27\u0e34\u0e14#3089"
+  },
+  "302165662678384641": {
+    "id": 302165662678384641,
+    "name": "gabriel.apolonio",
+    "nick": null,
+    "display_name": "Apolonio",
+    "global_name": "Apolonio",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl4",
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Apolonio#4455"
   }
 }
