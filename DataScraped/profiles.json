@@ -142071,5 +142071,39 @@
       }
     },
     "legacy_username": "Archer#5052"
+  },
+  "1336627050177495074": {
+    "id": 1336627050177495074,
+    "name": "qqwertyy4",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "github": {
+        "id": "170106226",
+        "name": "MrDog999",
+        "url": "https://github.com/MrDog999"
+      },
+      "spotify": {
+        "id": "31njgwwovg5hh6tqn6cllo52qrqq",
+        "name": "shadowbladed",
+        "url": "https://open.spotify.com/user/31njgwwovg5hh6tqn6cllo52qrqq"
+      },
+      "steam": {
+        "id": "76561199057984739",
+        "name": "shadowbladed",
+        "url": "https://steamcommunity.com/profiles/76561199057984739"
+      }
+    },
+    "legacy_username": null
   }
 }
