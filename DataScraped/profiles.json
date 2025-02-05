@@ -142018,5 +142018,58 @@
     ],
     "connections": {},
     "legacy_username": "korpi#5327"
+  },
+  "629619025298587648": {
+    "id": 629619025298587648,
+    "name": "azuho",
+    "nick": null,
+    "display_name": "Artmoth",
+    "global_name": "Artmoth",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "139014103049043968": {
+    "id": 139014103049043968,
+    "name": "archerguild",
+    "nick": null,
+    "display_name": "Archer",
+    "global_name": "Archer",
+    "pronouns": "Zeta Kirby Who Needs No Pronouns.",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/139014103049043968/a_d64bf1cafb7dc1a3f89c1f87f8646dc9.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/139014103049043968/a_d64bf1cafb7dc1a3f89c1f87f8646dc9.gif?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Archer#13336",
+        "name": "Archer#13336",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198019612375",
+        "name": "Arch-er <H>Crates <W> Items/Key",
+        "url": "https://steamcommunity.com/profiles/76561198019612375"
+      }
+    },
+    "legacy_username": "Archer#5052"
   }
 }
