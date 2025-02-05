@@ -141375,5 +141375,70 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "558986475497324555": {
+    "id": 558986475497324555,
+    "name": "sir_yells_alot",
+    "nick": null,
+    "display_name": "sir_yells_alot",
+    "global_name": "sir_yells_alot",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "|| gochya bitch ||",
+    "guild_bio": null,
+    "display_bio": "|| gochya bitch ||",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "sir_yells_alot#5667"
+  },
+  "702549442083160075": {
+    "id": 702549442083160075,
+    "name": "kingofblunders",
+    "nick": null,
+    "display_name": "  ",
+    "global_name": "  ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": " Wannabe skater\n Drummer, multinstrumentalist\n Working on self-improvement\n\nGalatians 1:10",
+    "guild_bio": null,
+    "display_bio": " Wannabe skater\n Drummer, multinstrumentalist\n Working on self-improvement\n\nGalatians 1:10",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199372262128",
+        "name": "KingofBlunders",
+        "url": "https://steamcommunity.com/profiles/76561199372262128"
+      }
+    },
+    "legacy_username": null
+  },
+  "1234726593960742942": {
+    "id": 1234726593960742942,
+    "name": "rizxy03_41721",
+    "nick": null,
+    "display_name": "k",
+    "global_name": "k",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Your phone linging",
+    "guild_bio": null,
+    "display_bio": "Your phone linging",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
