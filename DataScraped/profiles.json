@@ -141266,5 +141266,96 @@
       }
     },
     "legacy_username": "ElGuapetonDeGanondorf#7856"
+  },
+  "422469943942971393": {
+    "id": 422469943942971393,
+    "name": "byrdeword",
+    "nick": null,
+    "display_name": "byrde",
+    "global_name": "byrde",
+    "pronouns": "hard/core + awe/some",
+    "guild_pronouns": null,
+    "bio": "\n(Don't mind the pfp, I just really like Najimi lmao)",
+    "guild_bio": null,
+    "display_bio": "\n(Don't mind the pfp, I just really like Najimi lmao)",
+    "banner": "https://cdn.discordapp.com/banners/422469943942971393/427be86086764bf53deda19de221fab9.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/422469943942971393/427be86086764bf53deda19de221fab9.png?size=512",
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31azclluq7wzkeiqw3izwbjvbf44",
+        "name": "tinbang",
+        "url": "https://open.spotify.com/user/31azclluq7wzkeiqw3izwbjvbf44"
+      },
+      "steam": {
+        "id": "76561199103676841",
+        "name": "tinbang",
+        "url": "https://steamcommunity.com/profiles/76561199103676841"
+      },
+      "youtube": {
+        "id": "UCzapa3CcjE8juD46k4346TQ",
+        "name": "tinbang",
+        "url": "https://www.youtube.com/channel/UCzapa3CcjE8juD46k4346TQ"
+      }
+    },
+    "legacy_username": "tinbang#5822"
+  },
+  "809287581488644107": {
+    "id": 809287581488644107,
+    "name": ".vrnd",
+    "nick": null,
+    "display_name": "vrnd",
+    "global_name": "vrnd",
+    "pronouns": "sudo/su",
+    "guild_pronouns": null,
+    "bio": "Linux newcomer ",
+    "guild_bio": null,
+    "display_bio": "Linux newcomer ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "c51ac0ac77214daf886000461793dcd9",
+        "name": "RadeonAja",
+        "url": null
+      },
+      "github": {
+        "id": "49758975",
+        "name": "tdnphantom",
+        "url": "https://github.com/tdnphantom"
+      },
+      "spotify": {
+        "id": "32q8xydjaqma3x1ozln7xz4u3",
+        "name": "Admiral Seven",
+        "url": "https://open.spotify.com/user/32q8xydjaqma3x1ozln7xz4u3"
+      },
+      "steam": {
+        "id": "76561198335968406",
+        "name": "SevenSkiesiD",
+        "url": "https://steamcommunity.com/profiles/76561198335968406"
+      },
+      "xbox": {
+        "id": "NDI2N2E3NDg4ZTI2OWY1OTdkMWM2MjJjYmEyMWY1ZTNiMTlmNDllYjQzZjc0ZWQ4OTljY2Y1OGVmZWFmNGJlZA",
+        "name": "Pufminids",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Pufminids"
+      },
+      "youtube": {
+        "id": "UCHBrsq5KHuqO7CCHXENSIbg",
+        "name": "Illyasviel von Einzbern",
+        "url": "https://www.youtube.com/channel/UCHBrsq5KHuqO7CCHXENSIbg"
+      }
+    },
+    "legacy_username": "vrnd#8098"
   }
 }
