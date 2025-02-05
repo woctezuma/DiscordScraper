@@ -143892,5 +143892,60 @@
       }
     },
     "legacy_username": null
+  },
+  "192502449955667970": {
+    "id": 192502449955667970,
+    "name": "shesnarrating",
+    "nick": null,
+    "display_name": "shesnarrating",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Erin\n42 and tired as shit\nPlatonic soulmates with @celebrimbor",
+    "guild_bio": null,
+    "display_bio": "Erin\n42 and tired as shit\nPlatonic soulmates with @celebrimbor",
+    "banner": "https://cdn.discordapp.com/banners/192502449955667970/a_76e434a57dc927e5d36cf5f6f908df16.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/192502449955667970/a_76e434a57dc927e5d36cf5f6f908df16.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_6_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_bungie": {
+        "id": "4611686018510711954",
+        "name": "purloinedkitten",
+        "url": null
+      },
+      "epic_games": {
+        "id": "a23167a2fd0242ba8faffcfe63993df3",
+        "name": "CodenameIkol",
+        "url": null
+      },
+      "playstation": {
+        "id": "8872026055273521522",
+        "name": "purloinedkitten",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198042546876",
+        "name": "ShesNarrating",
+        "url": "https://steamcommunity.com/profiles/76561198042546876"
+      },
+      "twitch": {
+        "id": "52586116",
+        "name": "codenameikol",
+        "url": "https://www.twitch.tv/codenameikol"
+      },
+      "xbox": {
+        "id": "3071286371374827",
+        "name": "PurloinedKitten",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=PurloinedKitten"
+      }
+    },
+    "legacy_username": "Shesnarrating#7238"
   }
 }
