@@ -142736,5 +142736,83 @@
       }
     },
     "legacy_username": null
+  },
+  "710184180549681152": {
+    "id": 710184180549681152,
+    "name": "sooner2k8",
+    "nick": null,
+    "display_name": "sooner",
+    "global_name": "sooner",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Human. Fan of bees. ",
+    "guild_bio": null,
+    "display_bio": "Human. Fan of bees. ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "sooner2k8#3938"
+  },
+  "690466982251986964": {
+    "id": 690466982251986964,
+    "name": "amaboys",
+    "nick": null,
+    "display_name": "Amaboys",
+    "global_name": "Amaboys",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "f67484a32e1445c6bd26a4f2dae2789d",
+        "name": "Amaboys123",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199491409424",
+        "name": "Amaboys123",
+        "url": "https://steamcommunity.com/profiles/76561199491409424"
+      },
+      "xbox": {
+        "id": "3066401549041813",
+        "name": "Amaboys",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Amaboys"
+      }
+    },
+    "legacy_username": "amaboys#1877"
+  },
+  "173651815471120384": {
+    "id": 173651815471120384,
+    "name": "asickmind",
+    "nick": null,
+    "display_name": "S",
+    "global_name": "S",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Tranquility in all things macabre.",
+    "guild_bio": null,
+    "display_bio": "Tranquility in all things macabre.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "\u029e\u0254\u1d09S#6743"
   }
 }
