@@ -141501,5 +141501,46 @@
     ],
     "connections": {},
     "legacy_username": "Apolonio#4455"
+  },
+  "806198543857221673": {
+    "id": 806198543857221673,
+    "name": "nyoenyo",
+    "nick": null,
+    "display_name": "Enyo",
+    "global_name": "Enyo",
+    "pronouns": "Babe",
+    "guild_pronouns": null,
+    "bio": "meow ",
+    "guild_bio": null,
+    "display_bio": "meow ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "2eu46ongmtvk2j757bxk6pbb2",
+        "name": "anissadiahrachmania",
+        "url": "https://open.spotify.com/user/2eu46ongmtvk2j757bxk6pbb2"
+      },
+      "steam": {
+        "id": "76561198295679744",
+        "name": "Enyo",
+        "url": "https://steamcommunity.com/profiles/76561198295679744"
+      },
+      "tiktok": {
+        "id": "bce95ffa-f7b9-5527-977c-7aac59f8d10a",
+        "name": "hey.enyo",
+        "url": "https://tiktok.com/@hey.enyo"
+      },
+      "xbox": {
+        "id": "3072026692876718",
+        "name": "Enyo0402",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Enyo0402"
+      }
+    },
+    "legacy_username": "Enyoooo#2729"
   }
 }
