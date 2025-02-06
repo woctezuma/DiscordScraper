@@ -145229,5 +145229,62 @@
       }
     },
     "legacy_username": "Jaymtel#9606"
+  },
+  "837475478646161420": {
+    "id": 837475478646161420,
+    "name": "novafpsss",
+    "nick": null,
+    "display_name": "NovaFPS",
+    "global_name": "NovaFPS",
+    "pronouns": "Retard",
+    "guild_pronouns": null,
+    "bio": "    \n ",
+    "guild_bio": null,
+    "display_bio": "    \n ",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31xmypxijvem5dhxrarwkxrpf7ga",
+        "name": "SpongeBob",
+        "url": "https://open.spotify.com/user/31xmypxijvem5dhxrarwkxrpf7ga"
+      },
+      "steam": {
+        "id": "76561199488318153",
+        "name": "SirCrapBags",
+        "url": "https://steamcommunity.com/profiles/76561199488318153"
+      }
+    },
+    "legacy_username": null
+  },
+  "260108045172867082": {
+    "id": 260108045172867082,
+    "name": "typdertyp",
+    "nick": null,
+    "display_name": "typdertyp",
+    "global_name": "typdertyp",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "81bhqeqlq197u9eh2eqpagyx0",
+        "name": "typ",
+        "url": "https://open.spotify.com/user/81bhqeqlq197u9eh2eqpagyx0"
+      }
+    },
+    "legacy_username": "typdertyp#4800"
   }
 }
