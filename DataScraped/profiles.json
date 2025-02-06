@@ -145286,5 +145286,37 @@
       }
     },
     "legacy_username": "typdertyp#4800"
+  },
+  "786567461013159936": {
+    "id": 786567461013159936,
+    "name": "mr.hideyoursister",
+    "nick": null,
+    "display_name": "Dora The Exploiter",
+    "global_name": "Dora The Exploiter",
+    "pronouns": "apache",
+    "guild_pronouns": null,
+    "bio": "U Know What They Say If It Aint Broken Dont Break It",
+    "guild_bio": null,
+    "display_bio": "U Know What They Say If It Aint Broken Dont Break It",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199117479906",
+        "name": "nekomusume",
+        "url": "https://steamcommunity.com/profiles/76561199117479906"
+      },
+      "youtube": {
+        "id": "UCBCJcX9wCv2PJuc-cDMOTiw",
+        "name": "hi",
+        "url": "https://www.youtube.com/channel/UCBCJcX9wCv2PJuc-cDMOTiw"
+      }
+    },
+    "legacy_username": "Mr.Hide your sister#4560"
   }
 }
