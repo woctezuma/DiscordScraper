@@ -144663,5 +144663,38 @@
     ],
     "connections": {},
     "legacy_username": "tongxingwy#4144"
+  },
+  "332155328902725642": {
+    "id": 332155328902725642,
+    "name": "forestet.",
+    "nick": null,
+    "display_name": "Forestet",
+    "global_name": "Forestet",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "",
+    "guild_bio": null,
+    "display_bio": "",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_3_month_v2"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Forestet#21296",
+        "name": "Forestet#21296",
+        "url": null
+      },
+      "twitch": {
+        "id": "182042635",
+        "name": "forestet_",
+        "url": "https://www.twitch.tv/forestet_"
+      }
+    },
+    "legacy_username": "Forestet#0505"
   }
 }
