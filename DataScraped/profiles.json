@@ -145558,5 +145558,85 @@
       }
     },
     "legacy_username": null
+  },
+  "536638497470283777": {
+    "id": 536638497470283777,
+    "name": "yura_85",
+    "nick": null,
+    "display_name": "Yura",
+    "global_name": "Yura",
+    "pronouns": "N.N.",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "28536557",
+        "name": "KorokinYura",
+        "url": "https://github.com/KorokinYura"
+      },
+      "steam": {
+        "id": "76561198118927601",
+        "name": "Titan",
+        "url": "https://steamcommunity.com/profiles/76561198118927601"
+      }
+    },
+    "legacy_username": "Yura#8600"
+  },
+  "1080966478154698883": {
+    "id": 1080966478154698883,
+    "name": "mrsxakbari",
+    "nick": null,
+    "display_name": "black fox",
+    "global_name": "black fox",
+    "pronouns": "MRSX.AKBARI",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "Aventurier#233422118",
+        "name": "Aventurier#233422118",
+        "url": null
+      },
+      "epic_games": {
+        "id": "2ec0adef14924d28abdb46c807a4b058",
+        "name": "MRSX_Akbari",
+        "url": null
+      },
+      "github": {
+        "id": "157909938",
+        "name": "MRSXakbari",
+        "url": "https://github.com/MRSXakbari"
+      },
+      "steam": {
+        "id": "76561199038082667",
+        "name": "black fox",
+        "url": "https://steamcommunity.com/profiles/76561199038082667"
+      },
+      "xbox": {
+        "id": "3066035336503790",
+        "name": "HopedSugar85467",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=HopedSugar85467"
+      }
+    },
+    "legacy_username": "MRSXAKBARI#6618"
   }
 }
