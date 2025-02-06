@@ -146484,5 +146484,64 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "417606019896705034": {
+    "id": 417606019896705034,
+    "name": "average_plain_jane",
+    "nick": null,
+    "display_name": "average_plain_jane",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "plainJane#21409",
+        "name": "plainJane#21409",
+        "url": null
+      },
+      "epic_games": {
+        "id": "b2ac67e26e894086adfd9db212df99ca",
+        "name": "AverageplainJane",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198283186394",
+        "name": "Plain Jane",
+        "url": "https://steamcommunity.com/profiles/76561198283186394"
+      },
+      "twitch": {
+        "id": "1031979609",
+        "name": "average_plain_jane",
+        "url": "https://www.twitch.tv/average_plain_jane"
+      }
+    },
+    "legacy_username": null
+  },
+  "1337098330483982378": {
+    "id": 1337098330483982378,
+    "name": "patpelleti",
+    "nick": null,
+    "display_name": "patpelleti",
+    "global_name": "patpelleti",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
