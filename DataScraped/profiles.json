@@ -145123,5 +145123,111 @@
       }
     },
     "legacy_username": null
+  },
+  "279955182345912320": {
+    "id": 279955182345912320,
+    "name": "wit1",
+    "nick": null,
+    "display_name": "Witness",
+    "global_name": "Witness",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Witness#6597"
+  },
+  "444843601781063680": {
+    "id": 444843601781063680,
+    "name": "vendezap",
+    "nick": null,
+    "display_name": "vende zap",
+    "global_name": "vende zap",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "vende zap#0865"
+  },
+  "523718756829233162": {
+    "id": 523718756829233162,
+    "name": "jaymtel",
+    "nick": null,
+    "display_name": "Jay",
+    "global_name": "Jay",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "<a:loading:884586853636923454>",
+    "guild_bio": null,
+    "display_bio": "<a:loading:884586853636923454>",
+    "banner": "https://cdn.discordapp.com/banners/523718756829233162/a_cdd8ea02ab96db266d6b4b6f20465545.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/523718756829233162/a_cdd8ea02ab96db266d6b4b6f20465545.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium_tenure_3_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "3cd8f98a-5548-514e-b5cd-34249dab5bca",
+        "name": "Jaymtel",
+        "url": null
+      },
+      "epic_games": {
+        "id": "23139622beb94c74bb0f3ba0e5355ca5",
+        "name": "Jaymtel",
+        "url": null
+      },
+      "playstation": {
+        "id": "3101334130560203233",
+        "name": "Jayymtel",
+        "url": null
+      },
+      "spotify": {
+        "id": "jrsavala1515",
+        "name": "Jay",
+        "url": "https://open.spotify.com/user/jrsavala1515"
+      },
+      "steam": {
+        "id": "76561199517188858",
+        "name": "jaymtel",
+        "url": "https://steamcommunity.com/profiles/76561199517188858"
+      },
+      "twitch": {
+        "id": "260599552",
+        "name": "jaymtel",
+        "url": "https://www.twitch.tv/jaymtel"
+      },
+      "twitter": {
+        "id": "1069074728579608582",
+        "name": "Jaymtel",
+        "url": "https://twitter.com/Jaymtel"
+      },
+      "xbox": {
+        "id": "3062139328412043",
+        "name": "Jaymtel",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Jaymtel"
+      }
+    },
+    "legacy_username": "Jaymtel#9606"
   }
 }
