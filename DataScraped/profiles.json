@@ -146115,5 +146115,23 @@
       }
     },
     "legacy_username": "Jinzy#8774"
+  },
+  "1147860757355180062": {
+    "id": 1147860757355180062,
+    "name": "newyorkusa",
+    "nick": null,
+    "display_name": "Newyorkusa",
+    "global_name": "Newyorkusa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
