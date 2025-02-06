@@ -144891,5 +144891,31 @@
       }
     },
     "legacy_username": "1124532#0181"
+  },
+  "1290069959749275780": {
+    "id": 1290069959749275780,
+    "name": "jr_ruffy",
+    "nick": null,
+    "display_name": "Jr_ruffy",
+    "global_name": "Jr_ruffy",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "feathers mcgraw",
+    "guild_bio": null,
+    "display_bio": "feathers mcgraw",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199385387401",
+        "name": "Jr_scruffy",
+        "url": "https://steamcommunity.com/profiles/76561199385387401"
+      }
+    },
+    "legacy_username": null
   }
 }
