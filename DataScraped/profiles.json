@@ -147196,5 +147196,69 @@
       }
     },
     "legacy_username": "Freez#3704"
+  },
+  "918255474762195005": {
+    "id": 918255474762195005,
+    "name": "etheryx",
+    "nick": null,
+    "display_name": "Etherix",
+    "global_name": "Etherix",
+    "pronouns": "Hehehehehehehehehehehehehehehehehehehehe",
+    "guild_pronouns": null,
+    "bio": "Heh\n\nWhy when it is late into the avo and ur heading home do you have the most comprehensive thoughts\n\nN: 3:42 19/04/23\nSC: 05/09/23\nDL: 11/11/23\nV: 25/11/23",
+    "guild_bio": null,
+    "display_bio": "Heh\n\nWhy when it is late into the avo and ur heading home do you have the most comprehensive thoughts\n\nN: 3:42 19/04/23\nSC: 05/09/23\nDL: 11/11/23\nV: 25/11/23",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "540102640",
+        "name": "snowcrystalethan456",
+        "url": null
+      },
+      "spotify": {
+        "id": "31fx77neid72lr43sbdoyzia3xym",
+        "name": "Ethan Luu",
+        "url": "https://open.spotify.com/user/31fx77neid72lr43sbdoyzia3xym"
+      }
+    },
+    "legacy_username": "Etherix#8706"
+  },
+  "1103521775406551072": {
+    "id": 1103521775406551072,
+    "name": "theorphanmaker",
+    "nick": null,
+    "display_name": "the orphan maker",
+    "global_name": "the orphan maker",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "xbox": {
+        "id": "3068523624494301",
+        "name": "latemocha1",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=latemocha1"
+      },
+      "youtube": {
+        "id": "UCjMTitzyUfdSRQLIqoLWzzg",
+        "name": "Secreteye",
+        "url": "https://www.youtube.com/channel/UCjMTitzyUfdSRQLIqoLWzzg"
+      }
+    },
+    "legacy_username": null
   }
 }
