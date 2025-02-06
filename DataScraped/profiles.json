@@ -146670,5 +146670,78 @@
     ],
     "connections": {},
     "legacy_username": "Yoshimasa#8202"
+  },
+  "1097187728136863887": {
+    "id": 1097187728136863887,
+    "name": "goldencash",
+    "nick": null,
+    "display_name": "GoldenCash",
+    "global_name": "GoldenCash",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": "Philippians 4 13; I can do all things through him who strengthens me, for I can do everything through Christ, who gives me strength. READ YOUR BIBLE!  \nhttps://guns.lol/goldencash",
+    "guild_bio": null,
+    "display_bio": "Philippians 4 13; I can do all things through him who strengthens me, for I can do everything through Christ, who gives me strength. READ YOUR BIBLE!  \nhttps://guns.lol/goldencash",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "unknown_roblox": {
+        "id": "2735060361",
+        "name": "GoldenCash_745786",
+        "url": null
+      },
+      "spotify": {
+        "id": "31cpzcio7n4sdt5spggnurl6eaoq",
+        "name": "Golden",
+        "url": "https://open.spotify.com/user/31cpzcio7n4sdt5spggnurl6eaoq"
+      },
+      "steam": {
+        "id": "76561199430477511",
+        "name": "goldencash745786",
+        "url": "https://steamcommunity.com/profiles/76561199430477511"
+      },
+      "tiktok": {
+        "id": "548068aa-19ae-5bcd-870e-dbd3a741a5d0",
+        "name": "goldencash745",
+        "url": "https://tiktok.com/@goldencash745"
+      },
+      "twitch": {
+        "id": "844849417",
+        "name": "goldencash_745786",
+        "url": "https://www.twitch.tv/goldencash_745786"
+      },
+      "twitter": {
+        "id": "1573760362163453958",
+        "name": "goldens_vvault",
+        "url": "https://twitter.com/goldens_vvault"
+      }
+    },
+    "legacy_username": "GoldenCash#5869"
+  },
+  "1329969843620937854": {
+    "id": 1329969843620937854,
+    "name": "boolean.__",
+    "nick": null,
+    "display_name": "Bool",
+    "global_name": "Bool",
+    "pronouns": "she/her (preferred)",
+    "guild_pronouns": null,
+    "bio": "pfp by pospo150 on twitter!\n\ni mostly play dandy's world and forsaken",
+    "guild_bio": null,
+    "display_bio": "pfp by pospo150 on twitter!\n\ni mostly play dandy's world and forsaken",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
