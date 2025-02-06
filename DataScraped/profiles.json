@@ -147084,5 +147084,34 @@
       }
     },
     "legacy_username": "Lemon\u17b5#1337"
+  },
+  "505691102330880010": {
+    "id": 505691102330880010,
+    "name": "tiermaster",
+    "nick": null,
+    "display_name": "TierMaster",
+    "global_name": "TierMaster",
+    "pronouns": "He/Him",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl3",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium_tenure_3_month_v2"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "642159981",
+        "name": "tier_master",
+        "url": "https://www.twitch.tv/tier_master"
+      }
+    },
+    "legacy_username": "TierMaster#0339"
   }
 }
