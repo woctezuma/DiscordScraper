@@ -144859,5 +144859,37 @@
       }
     },
     "legacy_username": null
+  },
+  "984014264845094912": {
+    "id": 984014264845094912,
+    "name": "1124532",
+    "nick": null,
+    "display_name": "1124532",
+    "global_name": "1124532",
+    "pronouns": "ikun",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31k2h5jeopkmagmjcz2geemgblua",
+        "name": "1124530",
+        "url": "https://open.spotify.com/user/31k2h5jeopkmagmjcz2geemgblua"
+      },
+      "xbox": {
+        "id": "3068208936383543",
+        "name": "QAQ1124532",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=QAQ1124532"
+      }
+    },
+    "legacy_username": "1124532#0181"
   }
 }
