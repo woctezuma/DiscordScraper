@@ -146763,5 +146763,74 @@
     ],
     "connections": {},
     "legacy_username": "Gansolini#4596"
+  },
+  "979028804825653250": {
+    "id": 979028804825653250,
+    "name": "jaani6t9",
+    "nick": null,
+    "display_name": "Jaani",
+    "global_name": "Jaani",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "solution of 99% problems - ipconfig /flushdns",
+    "guild_bio": null,
+    "display_bio": "solution of 99% problems - ipconfig /flushdns",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31qzhxront32x6c43yve3j5ix5ha",
+        "name": "Jaani6t9",
+        "url": "https://open.spotify.com/user/31qzhxront32x6c43yve3j5ix5ha"
+      },
+      "steam": {
+        "id": "76561198387640835",
+        "name": "Jaani",
+        "url": "https://steamcommunity.com/profiles/76561198387640835"
+      }
+    },
+    "legacy_username": "Jaani#4334"
+  },
+  "186653373943119872": {
+    "id": 186653373943119872,
+    "name": "buffpixels",
+    "nick": null,
+    "display_name": "eric : )",
+    "global_name": "eric : )",
+    "pronouns": "he/him",
+    "guild_pronouns": null,
+    "bio": "FARTIN ON MY POO PEE",
+    "guild_bio": null,
+    "display_bio": "FARTIN ON MY POO PEE",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198041739719",
+        "name": "eric : )",
+        "url": "https://steamcommunity.com/profiles/76561198041739719"
+      },
+      "twitter": {
+        "id": "532636206",
+        "name": "BuffPixels",
+        "url": "https://twitter.com/BuffPixels"
+      },
+      "youtube": {
+        "id": "UC7BR52Y_0cKxzTkJpYEt33Q",
+        "name": "BuffPixels",
+        "url": "https://www.youtube.com/channel/UC7BR52Y_0cKxzTkJpYEt33Q"
+      }
+    },
+    "legacy_username": "Ericmani#5616"
   }
 }
