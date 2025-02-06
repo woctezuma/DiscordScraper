@@ -145339,5 +145339,98 @@
     ],
     "connections": {},
     "legacy_username": "ctspawn#3881"
+  },
+  "1152686701718802564": {
+    "id": 1152686701718802564,
+    "name": "ted_cool63",
+    "nick": null,
+    "display_name": "Ted",
+    "global_name": "Ted",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Born to shit\nForced to wipe",
+    "guild_bio": null,
+    "display_bio": "Born to shit\nForced to wipe",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199349394022",
+        "name": "Cool Guy",
+        "url": "https://steamcommunity.com/profiles/76561199349394022"
+      }
+    },
+    "legacy_username": null
+  },
+  "387792565673656331": {
+    "id": 387792565673656331,
+    "name": "deathhound.",
+    "nick": null,
+    "display_name": "deathhound/chris hound",
+    "global_name": "deathhound/chris hound",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "deathbringer#11576",
+        "name": "deathbringer#11576",
+        "url": null
+      },
+      "epic_games": {
+        "id": "1be08fd91c8e4ec2a35c51d85cb5b4e7",
+        "name": "Death_hound44",
+        "url": null
+      },
+      "spotify": {
+        "id": "31esi546tkf7njswr2kj2cgrcux4",
+        "name": "Patrick Singleton",
+        "url": "https://open.spotify.com/user/31esi546tkf7njswr2kj2cgrcux4"
+      },
+      "steam": {
+        "id": "76561199325782755",
+        "name": "deathound441",
+        "url": "https://steamcommunity.com/profiles/76561199325782755"
+      },
+      "twitch": {
+        "id": "195494061",
+        "name": "deathhound44",
+        "url": "https://www.twitch.tv/deathhound44"
+      },
+      "youtube": {
+        "id": "UCmieVJcA2qIM1MgKr_U3kxg",
+        "name": "death hound",
+        "url": "https://www.youtube.com/channel/UCmieVJcA2qIM1MgKr_U3kxg"
+      }
+    },
+    "legacy_username": "deathhound#1612"
+  },
+  "691360790875209728": {
+    "id": 691360790875209728,
+    "name": "ichiwillseeyouinyourdream",
+    "nick": null,
+    "display_name": "Ichi",
+    "global_name": "Ichi",
+    "pronouns": "walmart bag",
+    "guild_pronouns": null,
+    "bio": "I'm trying improve my communication skills",
+    "guild_bio": null,
+    "display_bio": "I'm trying improve my communication skills",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
