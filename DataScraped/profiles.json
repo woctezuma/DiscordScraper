@@ -147597,5 +147597,86 @@
       }
     },
     "legacy_username": "D\u0e25\u0438\u2020\u0e40\u0438\u0452az#5621"
+  },
+  "543190958095728642": {
+    "id": 543190958095728642,
+    "name": "princmikey",
+    "nick": null,
+    "display_name": "Ken Kaneki",
+    "global_name": "Ken Kaneki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Mikey GARGIULO DARIO Non superato\nRuocco Giovanni Non superato",
+    "guild_bio": null,
+    "display_bio": "Mikey GARGIULO DARIO Non superato\nRuocco Giovanni Non superato",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "GoblinGanzo#22791",
+        "name": "GoblinGanzo#22791",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "TsB_U3PJRc1ewviu70VJb_K50V7xPkv5eRHm3uXhL6Yno7qeEzqHlK68lozwpIT3_wN6dJrRjzjZyQ",
+        "name": "Aleprinc",
+        "url": null
+      },
+      "riot_games": {
+        "id": "TsB_U3PJRc1ewviu70VJb_K50V7xPkv5eRHm3uXhL6Yno7qeEzqHlK68lozwpIT3_wN6dJrRjzjZyQ",
+        "name": "VLF KingMikey#ITA",
+        "url": null
+      },
+      "spotify": {
+        "id": "7sjaeornl8305n10mgp5kxpcj",
+        "name": "Alessandrosantarpia",
+        "url": "https://open.spotify.com/user/7sjaeornl8305n10mgp5kxpcj"
+      },
+      "steam": {
+        "id": "76561198989781821",
+        "name": "aleprincking",
+        "url": "https://steamcommunity.com/profiles/76561198989781821"
+      },
+      "twitch": {
+        "id": "403258433",
+        "name": "alessandprinc",
+        "url": "https://www.twitch.tv/alessandprinc"
+      }
+    },
+    "legacy_username": "Princ Mikey#7269"
+  },
+  "990679230905983026": {
+    "id": 990679230905983026,
+    "name": "localizedstreetartist",
+    "nick": null,
+    "display_name": "Ur local dude in the street?",
+    "global_name": "Ur local dude in the street?",
+    "pronouns": "Stupid",
+    "guild_pronouns": null,
+    "bio": "Stssy beats\n\nKing shit",
+    "guild_bio": null,
+    "display_bio": "Stssy beats\n\nKing shit",
+    "banner": "https://cdn.discordapp.com/banners/990679230905983026/27825b6fdd35b5b6b78c756f2b285231.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/990679230905983026/27825b6fdd35b5b6b78c756f2b285231.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium_tenure_1_month_v2"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199397206948",
+        "name": "Potato",
+        "url": "https://steamcommunity.com/profiles/76561199397206948"
+      }
+    },
+    "legacy_username": "Ur local dude in the street??#8222"
   }
 }
