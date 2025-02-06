@@ -145967,5 +145967,97 @@
       }
     },
     "legacy_username": "Drakon#5898"
+  },
+  "1068404764003541082": {
+    "id": 1068404764003541082,
+    "name": "gri_z",
+    "nick": null,
+    "display_name": "grizz",
+    "global_name": "grizz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "**Support a creator: GRIZZ04** *in Fortnite*\n\n\n\n\n\n\n\n",
+    "guild_bio": null,
+    "display_bio": "**Support a creator: GRIZZ04** *in Fortnite*\n\n\n\n\n\n\n\n",
+    "banner": "https://cdn.discordapp.com/banners/1068404764003541082/863e50839942b237c26470cc8c4c7a0b.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/1068404764003541082/863e50839942b237c26470cc8c4c7a0b.png?size=512",
+    "badges": [
+      "guild_booster_lvl9",
+      "hypesquad_house_1",
+      "legacy_username",
+      "premium_tenure_24_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "871a866f290a43b0b224c88e873967c1",
+        "name": "gri_z04",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199404266424",
+        "name": "Grizz",
+        "url": "https://steamcommunity.com/profiles/76561199404266424"
+      },
+      "twitch": {
+        "id": "775753885",
+        "name": "griz2kk",
+        "url": "https://www.twitch.tv/griz2kk"
+      },
+      "xbox": {
+        "id": "3062605297802701",
+        "name": "Griz0004",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Griz0004"
+      },
+      "youtube": {
+        "id": "UCSFS_N7ebxzWL3GxMux3Yxw",
+        "name": "Grizz",
+        "url": "https://www.youtube.com/channel/UCSFS_N7ebxzWL3GxMux3Yxw"
+      }
+    },
+    "legacy_username": "grizz#0004"
+  },
+  "787929831073120326": {
+    "id": 787929831073120326,
+    "name": "bvlqaz",
+    "nick": null,
+    "display_name": "Ulti",
+    "global_name": "Ulti",
+    "pronouns": "Sigma/Alpha",
+    "guild_pronouns": null,
+    "bio": "KYS\n(keep yourself safe)",
+    "guild_bio": null,
+    "display_bio": "KYS\n(keep yourself safe)",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31iutpm24jiecqjar6kuujbssgia",
+        "name": "Bvlqaz",
+        "url": "https://open.spotify.com/user/31iutpm24jiecqjar6kuujbssgia"
+      },
+      "steam": {
+        "id": "76561199157646730",
+        "name": "Ultilumi2tu",
+        "url": "https://steamcommunity.com/profiles/76561199157646730"
+      },
+      "tiktok": {
+        "id": "d5215176-4419-4195-b3a3-e1d9b43498e2",
+        "name": "ultilumi2tu",
+        "url": "https://tiktok.com/@ultilumi2tu"
+      },
+      "youtube": {
+        "id": "UCQ3AsXqqqZFw7TwGhqOt3RQ",
+        "name": "Bvlqaz",
+        "url": "https://www.youtube.com/channel/UCQ3AsXqqqZFw7TwGhqOt3RQ"
+      }
+    },
+    "legacy_username": "Ulti#6047"
   }
 }
