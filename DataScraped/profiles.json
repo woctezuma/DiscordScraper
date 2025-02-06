@@ -145638,5 +145638,74 @@
       }
     },
     "legacy_username": "MRSXAKBARI#6618"
+  },
+  "1196538993026801745": {
+    "id": 1196538993026801745,
+    "name": "darlince",
+    "nick": null,
+    "display_name": "Darlince",
+    "global_name": "Darlince",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "()",
+    "guild_bio": null,
+    "display_bio": "()",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199481188905",
+        "name": "Darlince",
+        "url": "https://steamcommunity.com/profiles/76561199481188905"
+      },
+      "twitter": {
+        "id": "1621471611336691712",
+        "name": "Darlince_",
+        "url": "https://twitter.com/Darlince_"
+      },
+      "xbox": {
+        "id": "3075644522856064",
+        "name": "Latoil9064",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Latoil9064"
+      }
+    },
+    "legacy_username": null
+  },
+  "527736264242495533": {
+    "id": 527736264242495533,
+    "name": "tamagomaki",
+    "nick": null,
+    "display_name": "templaar",
+    "global_name": "templaar",
+    "pronouns": "amer/ica",
+    "guild_pronouns": null,
+    "bio": "I play PoE 1&2 now\ni guess\nbig warframe fan\nburger\n\ngam was here in a past life (fly high #rip)",
+    "guild_bio": null,
+    "display_bio": "I play PoE 1&2 now\ni guess\nbig warframe fan\nburger\n\ngam was here in a past life (fly high #rip)",
+    "banner": "https://cdn.discordapp.com/banners/527736264242495533/a_8aba394c893d2e66e9ddb0310095ff91.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/527736264242495533/a_8aba394c893d2e66e9ddb0310095ff91.gif?size=512",
+    "badges": [
+      "guild_booster_lvl6",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "21u7kcf2ck5ym42opz2i2t7dq",
+        "name": "Aiko",
+        "url": "https://open.spotify.com/user/21u7kcf2ck5ym42opz2i2t7dq"
+      },
+      "steam": {
+        "id": "76561198287889702",
+        "name": "templaar",
+        "url": "https://steamcommunity.com/profiles/76561198287889702"
+      }
+    },
+    "legacy_username": "Tama#7117"
   }
 }
