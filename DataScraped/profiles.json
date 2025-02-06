@@ -147413,5 +147413,27 @@
       }
     },
     "legacy_username": "iiAmino#9705"
+  },
+  "192260098473721867": {
+    "id": 192260098473721867,
+    "name": "skurilink",
+    "nick": null,
+    "display_name": "skurilink",
+    "global_name": null,
+    "pronouns": "https://youtu.be/qB0LCX-JHd4",
+    "guild_pronouns": null,
+    "bio": "     :  ,  ,   .       ,    ,  .      .",
+    "guild_bio": null,
+    "display_bio": "     :  ,  ,   .       ,    ,  .      .",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "skurilink#4392"
   }
 }
