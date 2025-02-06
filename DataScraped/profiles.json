@@ -144765,5 +144765,73 @@
     ],
     "connections": {},
     "legacy_username": "Domfuron#0789"
+  },
+  "722098815485870151": {
+    "id": 722098815485870151,
+    "name": "kazama9o",
+    "nick": null,
+    "display_name": "Kazama",
+    "global_name": "Kazama",
+    "pronouns": "Him",
+    "guild_pronouns": null,
+    "bio": "The kindest hearts face the hardest battles.\nPls read Boarding School Juliet <3.\nhttps://anilist.co/user/Kazama/\nHonkai Star Rail-800490908",
+    "guild_bio": null,
+    "display_bio": "The kindest hearts face the hardest battles.\nPls read Boarding School Juliet <3.\nhttps://anilist.co/user/Kazama/\nHonkai Star Rail-800490908",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "MeNmAuZuMaKi#11716",
+        "name": "MeNmAuZuMaKi#11716",
+        "url": null
+      },
+      "epic_games": {
+        "id": "69392805b0f54090a2bad7fd7b49d7aa",
+        "name": "kazama9o",
+        "url": null
+      },
+      "reddit": {
+        "id": "7e7e90o7",
+        "name": "Psychological_Loss46",
+        "url": "https://www.reddit.com/u/Psychological_Loss46"
+      },
+      "riot_games": {
+        "id": "WDi9CUfamKLrYttn-Y9GPUExdK8fp3aUDOpgyCOhgsvBjoxDK6wfi_C5Fqng7XFM2RthkVilBM2LKQ",
+        "name": "Kazama#6969",
+        "url": null
+      },
+      "spotify": {
+        "id": "31dhv4jz6iqxnvro473hos2klloq",
+        "name": "Kazama",
+        "url": "https://open.spotify.com/user/31dhv4jz6iqxnvro473hos2klloq"
+      },
+      "steam": {
+        "id": "76561199009116822",
+        "name": "Kazama-kun",
+        "url": "https://steamcommunity.com/profiles/76561199009116822"
+      },
+      "twitch": {
+        "id": "515600437",
+        "name": "kazama696",
+        "url": "https://www.twitch.tv/kazama696"
+      },
+      "twitter": {
+        "id": "1266569111271694337",
+        "name": "kazama9o",
+        "url": "https://twitter.com/kazama9o"
+      },
+      "xbox": {
+        "id": "3076811662286637",
+        "name": "Kraken8599",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Kraken8599"
+      }
+    },
+    "legacy_username": "Kazama#9102"
   }
 }
