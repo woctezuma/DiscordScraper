@@ -144917,5 +144917,123 @@
       }
     },
     "legacy_username": null
+  },
+  "591454913784053765": {
+    "id": 591454913784053765,
+    "name": "rituals616",
+    "nick": null,
+    "display_name": "rituals",
+    "global_name": "rituals",
+    "pronouns": "Matching with rei!",
+    "guild_pronouns": null,
+    "bio": "I love my gf Rei!!",
+    "guild_bio": null,
+    "display_bio": "I love my gf Rei!!",
+    "banner": "https://cdn.discordapp.com/banners/591454913784053765/a_64c7377c03c1650cdfa02c32bde5095c.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/591454913784053765/a_64c7377c03c1650cdfa02c32bde5095c.gif?size=512",
+    "badges": [
+      "guild_booster_lvl3",
+      "legacy_username",
+      "premium_tenure_3_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "353c49966b934615ad855f5707e93049",
+        "name": "RITUALS616",
+        "url": null
+      },
+      "spotify": {
+        "id": "qa62387tu9ue2gblwas56proh",
+        "name": "Grave",
+        "url": "https://open.spotify.com/user/qa62387tu9ue2gblwas56proh"
+      },
+      "steam": {
+        "id": "76561199788364778",
+        "name": "look at this photograph",
+        "url": "https://steamcommunity.com/profiles/76561199788364778"
+      },
+      "xbox": {
+        "id": "3067740675081743",
+        "name": "DapperkingO5mlg",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DapperkingO5mlg"
+      },
+      "youtube": {
+        "id": "UCtBEs_hvcVl5jOqRTgu7K1Q",
+        "name": "Stalin the Gopnik",
+        "url": "https://www.youtube.com/channel/UCtBEs_hvcVl5jOqRTgu7K1Q"
+      }
+    },
+    "legacy_username": "rituals#3951"
+  },
+  "994472204936937604": {
+    "id": 994472204936937604,
+    "name": ".unknown.m",
+    "nick": null,
+    "display_name": "unknown.m",
+    "global_name": "unknown.m",
+    "pronouns": "Nothing is true, Everything is permitted",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "twitch": {
+        "id": "921287002",
+        "name": "mohammadrezarng",
+        "url": "https://www.twitch.tv/mohammadrezarng"
+      }
+    },
+    "legacy_username": "unknown.m#2675"
+  },
+  "644500749761511426": {
+    "id": 644500749761511426,
+    "name": "yasuhan_",
+    "nick": null,
+    "display_name": "Yasu",
+    "global_name": "Yasu",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium_tenure_12_month_v2"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "yasu#21767",
+        "name": "yasu#21767",
+        "url": null
+      },
+      "spotify": {
+        "id": "31gerjugs4sn4nzh3yw5i62vtv6i",
+        "name": "Yasuuuhan",
+        "url": "https://open.spotify.com/user/31gerjugs4sn4nzh3yw5i62vtv6i"
+      },
+      "steam": {
+        "id": "76561197981640189",
+        "name": "Yasu",
+        "url": "https://steamcommunity.com/profiles/76561197981640189"
+      },
+      "xbox": {
+        "id": "3075669569620175",
+        "name": "Yasu1309",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=Yasu1309"
+      }
+    },
+    "legacy_username": "yasu#4005"
   }
 }
