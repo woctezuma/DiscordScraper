@@ -147260,5 +147260,130 @@
       }
     },
     "legacy_username": null
+  },
+  "1335147117001310320": {
+    "id": 1335147117001310320,
+    "name": "frogdock",
+    "nick": null,
+    "display_name": "frogdock",
+    "global_name": "frogdock",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "398431490972844032": {
+    "id": 398431490972844032,
+    "name": "lolipopkaass",
+    "nick": null,
+    "display_name": "lolipopka",
+    "global_name": "lolipopka",
+    "pronouns": "\u5350 \u5350 \u5350 \u5350 \u5350 \u5350",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "riot_games": {
+        "id": "WaX4MkeDIh33Mz3O2q5_---ls7mGwdUyFPbJ7kN4Zs_Czd73VU09X_T1ZRLAr2BoJ6Ub53XBxvxh0g",
+        "name": "L0LLip0pka#CHLEN",
+        "url": null
+      },
+      "spotify": {
+        "id": "1ood7a2rx7jhky9wj8xmni0qq",
+        "name": "timurlolipop",
+        "url": "https://open.spotify.com/user/1ood7a2rx7jhky9wj8xmni0qq"
+      },
+      "steam": {
+        "id": "76561198818972414",
+        "name": "lolipopiksss",
+        "url": "https://steamcommunity.com/profiles/76561198818972414"
+      },
+      "xbox": {
+        "id": "3074528714046023",
+        "name": "lolipopik2",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=lolipopik2"
+      }
+    },
+    "legacy_username": "lolipopka#0431"
+  },
+  "621547545008668672": {
+    "id": 621547545008668672,
+    "name": "elin230",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "\ud558\ub0d0\ub0d0\ud6c4\uc640",
+    "guild_pronouns": null,
+    "bio": "<a:Twingkle:1335089384583856128> 24  \n\n\n~~** https://youtu.be/0q9Jj86x4Es?si=G8IhrwOm-mQCfUQa **~~\n\n||https://asked.kr/Damhoya||\n|| **<a:00_white_butterflies:1274209022333026355>**  ||",
+    "guild_bio": null,
+    "display_bio": "<a:Twingkle:1335089384583856128> 24  \n\n\n~~** https://youtu.be/0q9Jj86x4Es?si=G8IhrwOm-mQCfUQa **~~\n\n||https://asked.kr/Damhoya||\n|| **<a:00_white_butterflies:1274209022333026355>**  ||",
+    "banner": "https://cdn.discordapp.com/banners/621547545008668672/1ffc656f5d8690b27b9d390d16374f09.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/621547545008668672/1ffc656f5d8690b27b9d390d16374f09.png?size=512",
+    "badges": [
+      "guild_booster_lvl1",
+      "legacy_username",
+      "premium",
+      "quest_completed"
+    ],
+    "connections": {
+      "battle_net": {
+        "id": "\ub2f4\ud638\uc57c#3755",
+        "name": "\ub2f4\ud638\uc57c#3755",
+        "url": null
+      },
+      "league_of_legends": {
+        "id": "CUCt5bhKTXZXpJH6l7gmRuuUNSwyLBzxnOl_vIplQRZMkj5aed-yg9pGAywPcpdXf6FTXscM7lyBrg",
+        "name": "I Love Me#\ub09c\ub098\ub9cc\ubd10",
+        "url": null
+      },
+      "riot_games": {
+        "id": "CUCt5bhKTXZXpJH6l7gmRuuUNSwyLBzxnOl_vIplQRZMkj5aed-yg9pGAywPcpdXf6FTXscM7lyBrg",
+        "name": "I Love Me#\ub09c\ub098\ub9cc\ubd10",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199259918760",
+        "name": "\uac15\ud558\ub098",
+        "url": "https://steamcommunity.com/profiles/76561199259918760"
+      }
+    },
+    "legacy_username": "\uc138 \ub098#1127"
+  },
+  "338377902020231170": {
+    "id": 338377902020231170,
+    "name": "cauriciomalgaro",
+    "nick": null,
+    "display_name": "Cauricio Malgaro",
+    "global_name": "Cauricio Malgaro",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "cauriciomalgaro#5496"
   }
 }
