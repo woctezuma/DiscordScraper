@@ -147744,5 +147744,37 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "262190963726876672": {
+    "id": 262190963726876672,
+    "name": "loquillo1337",
+    "nick": null,
+    "display_name": "loquillo",
+    "global_name": "loquillo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ysio1h6w98a5mjc6j71vu25eq",
+        "name": "Loquillo",
+        "url": "https://open.spotify.com/user/ysio1h6w98a5mjc6j71vu25eq"
+      },
+      "steam": {
+        "id": "76561198253291721",
+        "name": "?",
+        "url": "https://steamcommunity.com/profiles/76561198253291721"
+      }
+    },
+    "legacy_username": "Loquillo#3294"
   }
 }
