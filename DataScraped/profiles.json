@@ -144833,5 +144833,31 @@
       }
     },
     "legacy_username": "Kazama#9102"
+  },
+  "530961580414861313": {
+    "id": 530961580414861313,
+    "name": "astras_world4life",
+    "nick": null,
+    "display_name": "ASTRA !",
+    "global_name": "ASTRA !",
+    "pronouns": "She / Her / They",
+    "guild_pronouns": null,
+    "bio": "  ASTRA\n# SHE/HER/THEY !!\n 21\nEXTRA Black/African American! Bicurious!  Artist + Graphic Designer!",
+    "guild_bio": null,
+    "display_bio": "  ASTRA\n# SHE/HER/THEY !!\n 21\nEXTRA Black/African American! Bicurious!  Artist + Graphic Designer!",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "gabbyosberry",
+        "name": "living icon \u30c4",
+        "url": "https://open.spotify.com/user/gabbyosberry"
+      }
+    },
+    "legacy_username": null
   }
 }
