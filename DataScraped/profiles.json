@@ -147044,5 +147044,45 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "151744176575348736": {
+    "id": 151744176575348736,
+    "name": "antracitrom",
+    "nick": null,
+    "display_name": "Lemon",
+    "global_name": "Lemon",
+    "pronouns": "\ud83d\udfe2 Available / \u26d4 Work / \ud83c\udf19 Sleep",
+    "guild_pronouns": null,
+    "bio": " Producer/Artist/DJ/Developer\n Your 4 PM is my <t:1692972000:t> UTC+2\n\nThe worst part about hell is not the flames, it's the hopelessness",
+    "guild_bio": null,
+    "display_bio": " Producer/Artist/DJ/Developer\n Your 4 PM is my <t:1692972000:t> UTC+2\n\nThe worst part about hell is not the flames, it's the hopelessness",
+    "banner": "https://cdn.discordapp.com/banners/151744176575348736/a_e0f94847ee0021ccc0388f1ffed9ad12.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/151744176575348736/a_e0f94847ee0021ccc0388f1ffed9ad12.gif?size=512",
+    "badges": [
+      "guild_booster_lvl8",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_24_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "github": {
+        "id": "50300348",
+        "name": "0xAndrewBlack",
+        "url": "https://github.com/0xAndrewBlack"
+      },
+      "steam": {
+        "id": "76561198136228319",
+        "name": "Weed William",
+        "url": "https://steamcommunity.com/profiles/76561198136228319"
+      },
+      "twitch": {
+        "id": "435179338",
+        "name": "lemonandrew",
+        "url": "https://www.twitch.tv/lemonandrew"
+      }
+    },
+    "legacy_username": "Lemon\u17b5#1337"
   }
 }
