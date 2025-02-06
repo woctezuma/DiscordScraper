@@ -145707,5 +145707,133 @@
       }
     },
     "legacy_username": "Tama#7117"
+  },
+  "1005924645192601652": {
+    "id": 1005924645192601652,
+    "name": "hydroxical",
+    "nick": null,
+    "display_name": "Hydroxical",
+    "global_name": "Hydroxical",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I'm a digger driver",
+    "guild_bio": null,
+    "display_bio": "I'm a digger driver",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "epic_games": {
+        "id": "061ed6330ba043cb90a5ea803b312b78",
+        "name": "snipertyp110",
+        "url": null
+      }
+    },
+    "legacy_username": null
+  },
+  "292875399254245376": {
+    "id": 292875399254245376,
+    "name": "thebrutalskull",
+    "nick": null,
+    "display_name": "B r u t a l",
+    "global_name": "B r u t a l",
+    "pronouns": "depressive",
+    "guild_pronouns": null,
+    "bio": "\n\nMy noon is your <t:1680451200:t>\n\nI try codding stuff...\ntModLoader LuiAFK Reborn co-author\nMod author on Valheim aswell\nI do Discord bots",
+    "guild_bio": null,
+    "display_bio": "\n\nMy noon is your <t:1680451200:t>\n\nI try codding stuff...\ntModLoader LuiAFK Reborn co-author\nMod author on Valheim aswell\nI do Discord bots",
+    "banner": "https://cdn.discordapp.com/banners/292875399254245376/3f3f0bea358d5d79f2f2fe0a508c1862.png?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/292875399254245376/3f3f0bea358d5d79f2f2fe0a508c1862.png?size=512",
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl9",
+      "hypesquad_house_3",
+      "legacy_username",
+      "premium_tenure_60_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "crunchyroll": {
+        "id": "a03bedb3-d403-590f-a711-4ed43bbbefa2",
+        "name": "TheBrutalSkull",
+        "url": null
+      },
+      "github": {
+        "id": "30577683",
+        "name": "TheBrutalSkull",
+        "url": "https://github.com/TheBrutalSkull"
+      },
+      "steam": {
+        "id": "76561198272675144",
+        "name": "TheBrutalSkull ^-^",
+        "url": "https://steamcommunity.com/profiles/76561198272675144"
+      },
+      "twitch": {
+        "id": "108778117",
+        "name": "thebrutalskull_",
+        "url": "https://www.twitch.tv/thebrutalskull_"
+      },
+      "twitter": {
+        "id": "2722551608",
+        "name": "TheBrutalSkull",
+        "url": "https://twitter.com/TheBrutalSkull"
+      }
+    },
+    "legacy_username": "B r u \u0167 a \u0140#0001"
+  },
+  "1336936191840358451": {
+    "id": 1336936191840358451,
+    "name": "mohammed_tv7",
+    "nick": null,
+    "display_name": "Moaath",
+    "global_name": "Moaath",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "890192600995360809": {
+    "id": 890192600995360809,
+    "name": "jadexgoo",
+    "nick": null,
+    "display_name": "JADExGOO",
+    "global_name": "JADExGOO",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "active_developer",
+      "guild_booster_lvl3",
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199127530632",
+        "name": "ZeroTwo02",
+        "url": "https://steamcommunity.com/profiles/76561199127530632"
+      },
+      "xbox": {
+        "id": "3076300240747994",
+        "name": "JADExGOO",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JADExGOO"
+      }
+    },
+    "legacy_username": "JADExGOO#2644"
   }
 }
