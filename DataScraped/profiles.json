@@ -146832,5 +146832,106 @@
       }
     },
     "legacy_username": "Ericmani#5616"
+  },
+  "663061762207383593": {
+    "id": 663061762207383593,
+    "name": "wmb5",
+    "nick": null,
+    "display_name": "Abu Khaled",
+    "global_name": "Abu Khaled",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": "WmB5-#2280"
+  },
+  "838508792559173642": {
+    "id": 838508792559173642,
+    "name": "dreatdao.",
+    "nick": null,
+    "display_name": "DreatDao",
+    "global_name": "DreatDao",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
+  },
+  "183776126441750528": {
+    "id": 183776126441750528,
+    "name": "borre",
+    "nick": null,
+    "display_name": "Borre",
+    "global_name": "Borre",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Borre#9141"
+  },
+  "668500883381813248": {
+    "id": 668500883381813248,
+    "name": "tescouwu_",
+    "nick": null,
+    "display_name": "Sen",
+    "global_name": "Sen",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "ekrbpdbaebbcswi6e5lviyreb",
+        "name": "TescoOnSpotify",
+        "url": "https://open.spotify.com/user/ekrbpdbaebbcswi6e5lviyreb"
+      },
+      "steam": {
+        "id": "76561198396608112",
+        "name": "NotTheShopTesco",
+        "url": "https://steamcommunity.com/profiles/76561198396608112"
+      },
+      "twitch": {
+        "id": "632254483",
+        "name": "tesco_uwu",
+        "url": "https://www.twitch.tv/tesco_uwu"
+      },
+      "xbox": {
+        "id": "3065098585707238",
+        "name": "TescoUwU",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=TescoUwU"
+      }
+    },
+    "legacy_username": "TescoUwU_#2979"
   }
 }
