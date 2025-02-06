@@ -147385,5 +147385,33 @@
     ],
     "connections": {},
     "legacy_username": "cauriciomalgaro#5496"
+  },
+  "756289396847804416": {
+    "id": 756289396847804416,
+    "name": "26xz",
+    "nick": null,
+    "display_name": "Ameen.",
+    "global_name": "Ameen.",
+    "pronouns": "\u30de",
+    "guild_pronouns": null,
+    "bio": "`Im not done yet ..`\n_ _ _ _ _ _   :z_RL_line2: \n_ _\n_ _ _ _ _ _...",
+    "guild_bio": null,
+    "display_bio": "`Im not done yet ..`\n_ _ _ _ _ _   :z_RL_line2: \n_ _\n_ _ _ _ _ _...",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199193248491",
+        "name": "_26xz",
+        "url": "https://steamcommunity.com/profiles/76561199193248491"
+      }
+    },
+    "legacy_username": "iiAmino#9705"
   }
 }
