@@ -145063,5 +145063,39 @@
       }
     },
     "legacy_username": "HBOMB09#6552"
+  },
+  "485921949327949826": {
+    "id": 485921949327949826,
+    "name": "originalwayback",
+    "nick": null,
+    "display_name": "Wayback",
+    "global_name": "Wayback",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Hi, I'm Wayback. Nuff said.\n\nPFP by: *allisaanotherdevice*\nDo I change PFPs every now and then? = **Yes**\nAm I a die-hard NIN & UNKLE fan? = **Yes**\nBirthday:<t:1100163600:d>\n\n**CST**",
+    "guild_bio": null,
+    "display_bio": "Hi, I'm Wayback. Nuff said.\n\nPFP by: *allisaanotherdevice*\nDo I change PFPs every now and then? = **Yes**\nAm I a die-hard NIN & UNKLE fan? = **Yes**\nBirthday:<t:1100163600:d>\n\n**CST**",
+    "banner": "https://cdn.discordapp.com/banners/485921949327949826/a_e282d964df43eb42b4c169b495e0945e.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/485921949327949826/a_e282d964df43eb42b4c169b495e0945e.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium_tenure_12_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198047473616",
+        "name": "OriginalWaybackMate",
+        "url": "https://steamcommunity.com/profiles/76561198047473616"
+      },
+      "youtube": {
+        "id": "UCrUuyZ_zLmTxBPRuq3aIuLQ",
+        "name": "OriginalWaybackMate",
+        "url": "https://www.youtube.com/channel/UCrUuyZ_zLmTxBPRuq3aIuLQ"
+      }
+    },
+    "legacy_username": "OWM#5803"
   }
 }
