@@ -145432,5 +145432,25 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "136618575967420416": {
+    "id": 136618575967420416,
+    "name": "s8shock",
+    "nick": null,
+    "display_name": "Lambo",
+    "global_name": "Lambo",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Lamberts#5937"
   }
 }
