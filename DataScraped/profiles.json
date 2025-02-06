@@ -145097,5 +145097,31 @@
       }
     },
     "legacy_username": "OWM#5803"
+  },
+  "1184193155709542437": {
+    "id": 1184193155709542437,
+    "name": "bernie_crazy",
+    "nick": null,
+    "display_name": "Bernie",
+    "global_name": "Bernie",
+    "pronouns": "Him",
+    "guild_pronouns": null,
+    "bio": "Senior Software Engineer with 14 yrs of experience.\nLove music and cats. Crazy at basketball.",
+    "guild_bio": null,
+    "display_bio": "Senior Software Engineer with 14 yrs of experience.\nLove music and cats. Crazy at basketball.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1"
+    ],
+    "connections": {
+      "github": {
+        "id": "130264564",
+        "name": "micwonder",
+        "url": "https://github.com/micwonder"
+      }
+    },
+    "legacy_username": null
   }
 }
