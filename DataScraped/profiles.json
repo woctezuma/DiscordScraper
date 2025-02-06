@@ -146619,5 +146619,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "739852289199702036": {
+    "id": 739852289199702036,
+    "name": "nedsterjr",
+    "nick": null,
+    "display_name": "NedsterJR",
+    "global_name": "NedsterJR",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561198032346972",
+        "name": "NedsterJR",
+        "url": "https://steamcommunity.com/profiles/76561198032346972"
+      },
+      "youtube": {
+        "id": "UCUL3z_rIbCAbmKyGQSlCKbg",
+        "name": "TheEdylebest",
+        "url": "https://www.youtube.com/channel/UCUL3z_rIbCAbmKyGQSlCKbg"
+      }
+    },
+    "legacy_username": "NedsterJR#9510"
+  },
+  "949656894484668437": {
+    "id": 949656894484668437,
+    "name": "yoshimasa8202",
+    "nick": null,
+    "display_name": "Yoshimasa",
+    "global_name": "Yoshimasa",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Yoshimasa#8202"
   }
 }
