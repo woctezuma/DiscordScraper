@@ -147696,5 +147696,53 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "460777034612998154": {
+    "id": 460777034612998154,
+    "name": "swqqy",
+    "nick": null,
+    "display_name": "Sway",
+    "global_name": "Sway",
+    "pronouns": "idi/nahui",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199218724103",
+        "name": "Sway",
+        "url": "https://steamcommunity.com/profiles/76561199218724103"
+      }
+    },
+    "legacy_username": "Sway#2721"
+  },
+  "1303849400992534581": {
+    "id": 1303849400992534581,
+    "name": "sigmamaster0",
+    "nick": null,
+    "display_name": "SigmaMaster",
+    "global_name": "SigmaMaster",
+    "pronouns": "He/Cat",
+    "guild_pronouns": null,
+    "bio": "Hi i'm a sigma developer",
+    "guild_bio": null,
+    "display_bio": "Hi i'm a sigma developer",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
   }
 }
