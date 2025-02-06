@@ -145866,5 +145866,106 @@
       }
     },
     "legacy_username": "awesomezoo101#6295"
+  },
+  "837190701041188864": {
+    "id": 837190701041188864,
+    "name": "nevrmnd_",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": "el",
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "guild_booster_lvl5",
+      "hypesquad_house_2",
+      "legacy_username",
+      "premium_tenure_6_month_v2",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31ggq4fxfixae3ueixdsjnno6dfm",
+        "name": "c",
+        "url": "https://open.spotify.com/user/31ggq4fxfixae3ueixdsjnno6dfm"
+      }
+    },
+    "legacy_username": "Viii#7304"
+  },
+  "516698328977768468": {
+    "id": 516698328977768468,
+    "name": "fulgur8136",
+    "nick": null,
+    "display_name": "",
+    "global_name": "",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": "https://cdn.discordapp.com/banners/516698328977768468/a_878a930c1d4c608c9b78d5a952b8c90b.gif?size=512",
+    "guild_banner": null,
+    "display_banner": "https://cdn.discordapp.com/banners/516698328977768468/a_878a930c1d4c608c9b78d5a952b8c90b.gif?size=512",
+    "badges": [
+      "guild_booster_lvl7",
+      "legacy_username",
+      "premium_tenure_12_month_v2"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "lm9mtm0ns2hmsdfvncvyh634s",
+        "name": "Charlyma66",
+        "url": "https://open.spotify.com/user/lm9mtm0ns2hmsdfvncvyh634s"
+      },
+      "twitch": {
+        "id": "496682552",
+        "name": "owfulgur",
+        "url": "https://www.twitch.tv/owfulgur"
+      }
+    },
+    "legacy_username": "\ud835\udd3d\ud835\udd66\ud835\udd5d\ud835\udd58\ud835\udd66\ud835\udd63#8136"
+  },
+  "538822766988886018": {
+    "id": 538822766988886018,
+    "name": "drakonx1",
+    "nick": null,
+    "display_name": "Drakon",
+    "global_name": "Drakon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "etqwi0w9mfg6y74bht89nsst2",
+        "name": "Drakon",
+        "url": "https://open.spotify.com/user/etqwi0w9mfg6y74bht89nsst2"
+      },
+      "steam": {
+        "id": "76561199560345384",
+        "name": "Drakon",
+        "url": "https://steamcommunity.com/profiles/76561199560345384"
+      },
+      "xbox": {
+        "id": "3063512633160371",
+        "name": "DrakonX1",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=DrakonX1"
+      }
+    },
+    "legacy_username": "Drakon#5898"
   }
 }
