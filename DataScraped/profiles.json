@@ -144714,5 +144714,56 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "523483165877207040": {
+    "id": 523483165877207040,
+    "name": "andreakbar",
+    "nick": null,
+    "display_name": "andreakbar",
+    "global_name": "andreakbar",
+    "pronouns": "Emperor",
+    "guild_pronouns": null,
+    "bio": "No Survivors? Then Where Do The Stories Come From, I Wonder.",
+    "guild_bio": null,
+    "display_bio": "No Survivors? Then Where Do The Stories Come From, I Wonder.",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "facebook": {
+        "id": "10216064422236397",
+        "name": "Andre Yusuf Akbar",
+        "url": null
+      },
+      "twitter": {
+        "id": "2437541",
+        "name": "andreakbar",
+        "url": "https://twitter.com/andreakbar"
+      }
+    },
+    "legacy_username": "andreakbar#4336"
+  },
+  "287974042089160714": {
+    "id": 287974042089160714,
+    "name": "domfuron",
+    "nick": null,
+    "display_name": "Ninja de Acero",
+    "global_name": "Ninja de Acero",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Domfuron#0789"
   }
 }
