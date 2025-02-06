@@ -146077,5 +146077,43 @@
     "badges": [],
     "connections": {},
     "legacy_username": null
+  },
+  "526973166900346886": {
+    "id": 526973166900346886,
+    "name": "aldiomw11",
+    "nick": null,
+    "display_name": "jinz",
+    "global_name": "jinz",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "066b7dd49c8943d8a08b8368341b915d",
+        "name": "Aldio88888",
+        "url": null
+      },
+      "steam": {
+        "id": "76561199378585755",
+        "name": "Jinzyy",
+        "url": "https://steamcommunity.com/profiles/76561199378585755"
+      },
+      "xbox": {
+        "id": "3069303499654328",
+        "name": "JinzyXz20100",
+        "url": "https://account.xbox.com/en-US/Profile?Gamertag=JinzyXz20100"
+      }
+    },
+    "legacy_username": "Jinzy#8774"
   }
 }
