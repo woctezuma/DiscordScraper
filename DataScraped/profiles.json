@@ -145318,5 +145318,26 @@
       }
     },
     "legacy_username": "Mr.Hide your sister#4560"
+  },
+  "260487628992806913": {
+    "id": 260487628992806913,
+    "name": "ceeteespawn",
+    "nick": null,
+    "display_name": "ceeteespawn",
+    "global_name": "ceeteespawn",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "respawning",
+    "guild_bio": null,
+    "display_bio": "respawning",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "ctspawn#3881"
   }
 }
