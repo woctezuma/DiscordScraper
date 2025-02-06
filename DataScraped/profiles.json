@@ -147776,5 +147776,45 @@
       }
     },
     "legacy_username": "Loquillo#3294"
+  },
+  "842407987154124861": {
+    "id": 842407987154124861,
+    "name": "midnightqueen1974",
+    "nick": null,
+    "display_name": "MidnightQueen",
+    "global_name": "MidnightQueen",
+    "pronouns": "Gos-tosa",
+    "guild_pronouns": null,
+    "bio": ";-;",
+    "guild_bio": null,
+    "display_bio": ";-;",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "MidnightQueen#0339"
+  },
+  "1012864921953898537": {
+    "id": 1012864921953898537,
+    "name": "cebrail01",
+    "nick": null,
+    "display_name": "cebrail0166",
+    "global_name": "cebrail0166",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "chibre#2937"
   }
 }
