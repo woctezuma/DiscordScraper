@@ -145488,5 +145488,75 @@
       }
     },
     "legacy_username": "Eli827#4052"
+  },
+  "753604391684145291": {
+    "id": 753604391684145291,
+    "name": "cr.money7",
+    "nick": null,
+    "display_name": ".",
+    "global_name": ".",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Tropa da russia",
+    "guild_bio": null,
+    "display_bio": "Tropa da russia",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "playstation": {
+        "id": "1113031306840932850",
+        "name": "Megapas1259J",
+        "url": null
+      }
+    },
+    "legacy_username": "Crisrian#9048"
+  },
+  "531780483454074910": {
+    "id": 531780483454074910,
+    "name": "cand35439",
+    "nick": null,
+    "display_name": "cand0000",
+    "global_name": "cand0000",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "cand<3#5439"
+  },
+  "1336978444424052791": {
+    "id": 1336978444424052791,
+    "name": "thakci_52285",
+    "nick": null,
+    "display_name": "Thakc1",
+    "global_name": "Thakc1",
+    "pronouns": "CS PLAYER",
+    "guild_pronouns": null,
+    "bio": "cs SIlver player",
+    "guild_bio": null,
+    "display_bio": "cs SIlver player",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "steam": {
+        "id": "76561199616240251",
+        "name": "Thakci",
+        "url": "https://steamcommunity.com/profiles/76561199616240251"
+      }
+    },
+    "legacy_username": null
   }
 }
