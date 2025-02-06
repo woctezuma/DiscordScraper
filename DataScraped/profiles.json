@@ -146365,5 +146365,124 @@
     ],
     "connections": {},
     "legacy_username": "mraunte#7958"
+  },
+  "864733308566634496": {
+    "id": 864733308566634496,
+    "name": "nerissalg11",
+    "nick": null,
+    "display_name": "nerissa ^^",
+    "global_name": "nerissa ^^",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "instagram": {
+        "id": "6536174609797616",
+        "name": "nerissa.lg",
+        "url": "https://www.instagram.com/nerissa.lg"
+      },
+      "spotify": {
+        "id": "3147xt64wn5sygrzfccshkuijb54",
+        "name": "Nerissa Luong",
+        "url": "https://open.spotify.com/user/3147xt64wn5sygrzfccshkuijb54"
+      },
+      "tiktok": {
+        "id": "af668b96-b603-5458-ac70-827fb97d3394",
+        "name": "nerissalg11",
+        "url": "https://tiktok.com/@nerissalg11"
+      }
+    },
+    "legacy_username": "nerissalg11#8424"
+  },
+  "435017691984822282": {
+    "id": 435017691984822282,
+    "name": "griksy",
+    "nick": null,
+    "display_name": "Griks",
+    "global_name": "Griks",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "`In the heart of every man lies a kingdom; our quest, then, is not conquest, but the unveiling of our own majesty` - Maestro Benedetto",
+    "guild_bio": null,
+    "display_bio": "`In the heart of every man lies a kingdom; our quest, then, is not conquest, but the unveiling of our own majesty` - Maestro Benedetto",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {
+      "github": {
+        "id": "171074713",
+        "name": "Griksy",
+        "url": "https://github.com/Griksy"
+      }
+    },
+    "legacy_username": null
+  },
+  "297052902395084802": {
+    "id": 297052902395084802,
+    "name": "eleagle",
+    "nick": null,
+    "display_name": "Eleagle",
+    "global_name": "Eleagle",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "I'm on a virtual rollercoaster of adventures with unexpected allies",
+    "guild_bio": null,
+    "display_bio": "I'm on a virtual rollercoaster of adventures with unexpected allies",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_3"
+    ],
+    "connections": {
+      "epic_games": {
+        "id": "19b6d208344d489b900ca44aef8a3653",
+        "name": "Eleagle9",
+        "url": null
+      },
+      "steam": {
+        "id": "76561198313389362",
+        "name": "Eleagle",
+        "url": "https://steamcommunity.com/profiles/76561198313389362"
+      },
+      "twitch": {
+        "id": "135994472",
+        "name": "eleagle7",
+        "url": "https://www.twitch.tv/eleagle7"
+      },
+      "twitter": {
+        "id": "793133738158882816",
+        "name": "Eleagle291",
+        "url": "https://twitter.com/Eleagle291"
+      }
+    },
+    "legacy_username": null
+  },
+  "954527508227817492": {
+    "id": 954527508227817492,
+    "name": "mgsfan696",
+    "nick": null,
+    "display_name": "White Mastodon",
+    "global_name": "White Mastodon",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
