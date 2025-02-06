@@ -146743,5 +146743,25 @@
     ],
     "connections": {},
     "legacy_username": null
+  },
+  "571951608775180293": {
+    "id": 571951608775180293,
+    "name": "gansolini",
+    "nick": null,
+    "display_name": " ",
+    "global_name": " ",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "Gansolini#4596"
   }
 }
