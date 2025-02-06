@@ -146933,5 +146933,116 @@
       }
     },
     "legacy_username": "TescoUwU_#2979"
+  },
+  "766724692663992320": {
+    "id": 766724692663992320,
+    "name": "frytkizpieca",
+    "nick": null,
+    "display_name": "frytki",
+    "global_name": "frytki",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "crush me. literally",
+    "guild_bio": null,
+    "display_bio": "crush me. literally",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_1",
+      "quest_completed"
+    ],
+    "connections": {},
+    "legacy_username": null
+  },
+  "912760691499352115": {
+    "id": 912760691499352115,
+    "name": "bobertm",
+    "nick": null,
+    "display_name": "robertM",
+    "global_name": "robertM",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": "Always, no sometimes, think it's me\nBut you know, I know when it's a dream\nI think I know, I mean a yes\nBut it's all wrong\nThat is, I think I disagree",
+    "guild_bio": null,
+    "display_bio": "Always, no sometimes, think it's me\nBut you know, I know when it's a dream\nI think I know, I mean a yes\nBut it's all wrong\nThat is, I think I disagree",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "vs6t3pe09k06cttjyxvcf42p5",
+        "name": "Bobert",
+        "url": "https://open.spotify.com/user/vs6t3pe09k06cttjyxvcf42p5"
+      }
+    },
+    "legacy_username": "robertM#7264"
+  },
+  "642037662324359168": {
+    "id": 642037662324359168,
+    "name": "veko0ny",
+    "nick": null,
+    "display_name": "Veko0ny",
+    "global_name": "Veko0ny",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "t51pttwzlsok4rrolc0nlzh0h",
+        "name": "Veko0ny",
+        "url": "https://open.spotify.com/user/t51pttwzlsok4rrolc0nlzh0h"
+      }
+    },
+    "legacy_username": "Veko0ny#6342"
+  },
+  "246692054569189377": {
+    "id": 246692054569189377,
+    "name": "dolbotron",
+    "nick": null,
+    "display_name": "dolbotron",
+    "global_name": null,
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {},
+    "legacy_username": "dolbotron#8779"
+  },
+  "1337144166542737489": {
+    "id": 1337144166542737489,
+    "name": "eljordanmastergod_90307",
+    "nick": null,
+    "display_name": "ELJORDANMASTERGOD",
+    "global_name": "ELJORDANMASTERGOD",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [],
+    "connections": {},
+    "legacy_username": null
   }
 }
