@@ -145035,5 +145035,33 @@
       }
     },
     "legacy_username": "yasu#4005"
+  },
+  "749675023395979275": {
+    "id": 749675023395979275,
+    "name": "supertrooper483",
+    "nick": null,
+    "display_name": "SuperTrooper",
+    "global_name": "SuperTrooper",
+    "pronouns": "EASY",
+    "guild_pronouns": null,
+    "bio": " \n16\nStaff for EASY",
+    "guild_bio": null,
+    "display_bio": " \n16\nStaff for EASY",
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "hypesquad_house_2",
+      "legacy_username",
+      "quest_completed"
+    ],
+    "connections": {
+      "steam": {
+        "id": "76561199053787724",
+        "name": "SuperTrooper",
+        "url": "https://steamcommunity.com/profiles/76561199053787724"
+      }
+    },
+    "legacy_username": "HBOMB09#6552"
   }
 }
