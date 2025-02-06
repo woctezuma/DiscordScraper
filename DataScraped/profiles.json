@@ -145452,5 +145452,41 @@
     ],
     "connections": {},
     "legacy_username": "Lamberts#5937"
+  },
+  "1053569115647905804": {
+    "id": 1053569115647905804,
+    "name": "goo_90",
+    "nick": null,
+    "display_name": "Goo :/",
+    "global_name": "Goo :/",
+    "pronouns": null,
+    "guild_pronouns": null,
+    "bio": null,
+    "guild_bio": null,
+    "display_bio": null,
+    "banner": null,
+    "guild_banner": null,
+    "display_banner": null,
+    "badges": [
+      "legacy_username"
+    ],
+    "connections": {
+      "spotify": {
+        "id": "31lftkocyncuv26qkka44di76764",
+        "name": "Eli Candy",
+        "url": "https://open.spotify.com/user/31lftkocyncuv26qkka44di76764"
+      },
+      "steam": {
+        "id": "76561199249613122",
+        "name": "Goo-90",
+        "url": "https://steamcommunity.com/profiles/76561199249613122"
+      },
+      "youtube": {
+        "id": "UCC9x0kw_V5qyI7RahNlNR7w",
+        "name": "Eli Candy",
+        "url": "https://www.youtube.com/channel/UCC9x0kw_V5qyI7RahNlNR7w"
+      }
+    },
+    "legacy_username": "Eli827#4052"
   }
 }
