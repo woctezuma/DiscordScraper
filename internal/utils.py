@@ -237,7 +237,6 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
         "guild_pronouns": profile.guild_metadata.pronouns,
         "bio": clean_string(profile.bio),
         "guild_bio": clean_string(profile.guild_bio),
-        "display_bio": clean_string(profile.display_bio),
         "banner": profile.banner.url if profile.banner else None,
         "guild_banner": profile.guild_banner.url if profile.guild_banner else None,
         "display_banner": profile.display_banner.url
