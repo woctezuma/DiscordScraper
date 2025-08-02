@@ -146,11 +146,11 @@ def get_members_dict(members: list[Member]) -> dict:
         d[e.id] = {
             "id": e.id,
             "name": e.name,
+            "global_name": e.global_name,
             "nick": e.nick,
             "created_at": e.created_at.timestamp(),
             "joined_at": e.joined_at.timestamp(),
             "premium_since": e.premium_since.timestamp() if e.premium_since else None,
-            "global_name": e.global_name,
             "avatar": strip_parameters(e.avatar.url) if e.avatar else None,
             "avatar_decoration": strip_parameters(e.avatar_decoration.url)
             if e.avatar_decoration
@@ -228,8 +228,8 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
         "id": member.id,
         "legacy_username": profile.legacy_username,
         "name": clean_string(profile.name),
-        "nick": clean_string(profile.nick),
         "global_name": clean_string(profile.global_name),
+        "nick": clean_string(profile.nick),
         "pronouns": profile.metadata.pronouns,
         "guild_pronouns": profile.guild_metadata.pronouns,
         "bio": clean_string(profile.bio),

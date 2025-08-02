@@ -2,7 +2,7 @@ from src.check_altered_text_utils import check_altered_word
 from src.check_raw_text_utils import check_word
 from src.load_aggregate_from_disk import load_monitored_content
 
-NAME_FIELDS = ["legacy_username", "name", "nick", "global_name"]
+NAME_FIELDS = ["legacy_username", "name", "global_name", "nick"]
 BIO_FIELDS = ["bio", "guild_bio"]
 PRONOUNS_FIELDS = ["pronouns", "guild_pronouns"]
 PRONOUN_SEPARATOR = "/"
