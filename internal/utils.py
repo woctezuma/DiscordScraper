@@ -239,9 +239,6 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
         "guild_bio": clean_string(profile.guild_bio),
         "banner": profile.banner.url if profile.banner else None,
         "guild_banner": profile.guild_banner.url if profile.guild_banner else None,
-        "display_banner": profile.display_banner.url
-        if profile.display_banner
-        else None,
         "badges": sorted([c.id for c in profile.badges]),
         "connections": {
             c.type.name: {"id": c.id, "name": c.name, "url": c.url}
