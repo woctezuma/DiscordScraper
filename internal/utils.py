@@ -152,11 +152,11 @@ def get_members_dict(members: list[Member]) -> dict:
             "joined_at": e.joined_at.timestamp(),
             "premium_since": e.premium_since.timestamp() if e.premium_since else None,
             "avatar": strip_parameters(e.avatar.url) if e.avatar else None,
-            "avatar_decoration": strip_parameters(e.avatar_decoration.url)
-            if e.avatar_decoration
-            else None,
             "guild_avatar": strip_parameters(e.guild_avatar.url)
             if e.guild_avatar
+            else None,
+            "avatar_decoration": strip_parameters(e.avatar_decoration.url)
+            if e.avatar_decoration
             else None,
             "top_role": e.top_role.name if e.top_role.name != DUMMY_ROLE else None,
             "roles": [f.name for f in e.roles if f.name != DUMMY_ROLE],
