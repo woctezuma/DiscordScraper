@@ -226,6 +226,7 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
 
     profile_summary = {
         "id": member.id,
+        "legacy_username": profile.legacy_username,
         "name": clean_string(profile.name),
         "nick": clean_string(profile.nick),
         "global_name": clean_string(profile.global_name),
@@ -240,7 +241,6 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
             c.type.name: {"id": c.id, "name": c.name, "url": c.url}
             for c in profile.connections
         },
-        "legacy_username": profile.legacy_username,
     }
 
     if save_to_disk:
