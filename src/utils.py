@@ -6,7 +6,7 @@ def get_dict_values(d: dict, dict_key: str) -> list:
 
 
 def list_possible_dict_keys(keyword: str) -> list[str]:
-    return [keyword, f"display_{keyword}", f"guild_{keyword}"]
+    return [keyword, f"guild_{keyword}"]
 
 
 def get_unique_dict_values(d: dict, keyword: str) -> list[str | None]:
