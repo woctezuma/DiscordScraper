@@ -155,9 +155,6 @@ def get_members_dict(members: list[Member]) -> dict:
             "avatar_decoration": strip_parameters(e.avatar_decoration.url)
             if e.avatar_decoration
             else None,
-            "display_avatar": strip_parameters(e.display_avatar.url)
-            if e.display_avatar
-            else None,
             "guild_avatar": strip_parameters(e.guild_avatar.url)
             if e.guild_avatar
             else None,
