@@ -16,7 +16,7 @@ def save_aggregate_to_disk(
         "w",
         encoding="utf8",
     ) as f:
-        json.dump(aggregate, f, indent=2)
+        json.dump(aggregate, f, indent=2, ensure_ascii=False)
 
 
 def aggregate_profiles(output_fname: str = "") -> dict:
