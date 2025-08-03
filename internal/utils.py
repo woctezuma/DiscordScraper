@@ -250,6 +250,6 @@ async def create_member_file(member: Member, *, save_to_disk: bool = True) -> di
 
     if save_to_disk:
         with Path(get_bio_fname(member)).open("w", encoding="utf8") as f:
-            json.dump(profile_summary, f, indent=2, sort_keys=True)
+            json.dump(profile_summary, f, indent=2, sort_keys=True, ensure_ascii=False)
 
     return profile_summary
