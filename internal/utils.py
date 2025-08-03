@@ -155,9 +155,6 @@ def get_members_dict(members: list[Member]) -> dict:
             "guild_avatar": strip_parameters(e.guild_avatar.url)
             if e.guild_avatar
             else None,
-            "avatar_decoration": strip_parameters(e.avatar_decoration.url)
-            if e.avatar_decoration
-            else None,
             "top_role": e.top_role.name if e.top_role.name != DUMMY_ROLE else None,
             "roles": [f.name for f in e.roles if f.name != DUMMY_ROLE],
             "spammer": e.public_flags.spammer,
