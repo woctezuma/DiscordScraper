@@ -148,6 +148,8 @@ def get_members_dict(members: list[Member]) -> dict:
             "name": e.name,
             "global_name": e.global_name,
             "nick": e.nick,
+            "tag_name": e.primary_guild.tag if e.primary_guild else None,
+            "tag_guild_id": e.primary_guild.id if e.primary_guild else None,
             "created_at": e.created_at.timestamp(),
             "joined_at": e.joined_at.timestamp(),
             "premium_since": e.premium_since.timestamp() if e.premium_since else None,
