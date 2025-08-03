@@ -186,7 +186,13 @@ def load_skipped_member_ids_from_disk() -> list[int]:
 
 def save_members_dict(members: list[Member], fname: str) -> None:
     with Path(fname).open("w", encoding="utf8") as f:
-        json.dump(get_members_dict(members), f, indent=2, sort_keys=True)
+        json.dump(
+            get_members_dict(members),
+            f,
+            indent=2,
+            sort_keys=True,
+            ensure_ascii=False,
+        )
 
 
 @cache
