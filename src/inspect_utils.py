@@ -36,11 +36,12 @@ def find_trigger_warning(
     member_profile: dict,
 ) -> str:
     member_id = member_profile["id"]
+    formatted_id = f"[{member_id}]"
     for trigger_word in load_monitored_content():
         if has_problematic_name(trigger_word, member_profile):
-            return f"[{member_id}] {trigger_word} in name"
+            return f"{formatted_id} {trigger_word} in name"
         if has_problematic_bio(trigger_word, member_profile):
-            return f"[{member_id}] {trigger_word} in bio"
+            return f"{formatted_id} {trigger_word} in bio"
         if has_problematic_pronouns(trigger_word, member_profile):
-            return f"[{member_id}] {trigger_word} in pronouns"
+            return f"{formatted_id} {trigger_word} in pronouns"
     return ""
