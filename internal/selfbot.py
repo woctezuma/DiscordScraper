@@ -55,7 +55,7 @@ async def on_ready() -> None:
     create_guild_directory(guild)
 
     if members:
-        print(f"{len(members)} guild members.")
+        print(f"{len(members)} guild members are online.")
         save_members_dict(members, get_guild_members_fname(guild))
 
     member_ids = set(load_member_ids_from_disk())
@@ -104,7 +104,7 @@ async def on_ready() -> None:
                 print(f"Stop after {counter} requests were made.")
                 break
 
-    print(f"{len(data)} scraped profiles.")
+    print(f"{len(data)} scraped profiles in total.")
     save_aggregate_to_disk(data)
 
     logger.success("Finished scraping members profiles and data.\n")
