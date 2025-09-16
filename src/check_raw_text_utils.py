@@ -14,3 +14,11 @@ def check_word(
         data[f] and standardized_word in standardize_text(data[f], removed_characters)
         for f in fields
     )
+
+
+def check_perfect_match(
+    word: str,
+    data: dict,
+    fields: list[str],
+) -> bool:
+    return any(data[f] and word == data[f] for f in fields)
