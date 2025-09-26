@@ -20,5 +20,11 @@ def check_perfect_match(
     word: str,
     data: dict,
     fields: list[str],
+    removed_characters: str = "",
 ) -> bool:
-    return any(data[f] and word == data[f] for f in fields)
+    # Specified characters are removed from both the word and the text.
+    standardized_word = standardize_text(word, removed_characters)
+    return any(
+        data[f] and standardized_word == standardize_text(data[f], removed_characters)
+        for f in fields
+    )
