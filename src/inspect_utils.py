@@ -6,6 +6,7 @@ NAME_FIELDS = ["legacy_username", "name", "global_name", "nick"]
 BIO_FIELDS = ["bio", "guild_bio"]
 PRONOUNS_FIELDS = ["pronouns", "guild_pronouns"]
 PRONOUN_SEPARATOR = "/"
+SPAMBOT_BIO = ["she/her", "her/she"]
 SPAMBOT_PRONOUNS = ["she"]
 
 
@@ -33,6 +34,10 @@ def has_problematic_pronouns(word: str, member_data: dict) -> bool:
     )
 
 
+def has_spambot_bio(word: str, member_data: dict) -> bool:
+    return check_perfect_match(word, member_data, BIO_FIELDS)
+
+
 def has_spambot_pronouns(word: str, member_data: dict) -> bool:
     return check_perfect_match(word, member_data, PRONOUNS_FIELDS)
 
@@ -49,6 +54,9 @@ def find_trigger_warning(
             return f"{formatted_id} {trigger_word} in bio"
         if has_problematic_pronouns(trigger_word, member_profile):
             return f"{formatted_id} {trigger_word} in pronouns"
+    for trigger_word in SPAMBOT_BIO:
+        if has_spambot_bio(trigger_word, member_profile):
+            return f"{formatted_id} {trigger_word} in bio (exact match)"
     for trigger_word in SPAMBOT_PRONOUNS:
         if has_spambot_pronouns(trigger_word, member_profile):
             return f"{formatted_id} {trigger_word} in pronouns (exact match)"
