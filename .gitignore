@@ -5,3 +5,4 @@ config.json
 DataScraped/*/members.json
 DataScraped/avatars.txt
 DataScraped/banners.txt
+DataScraped/name_changes.json
